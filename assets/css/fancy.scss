@@ -6,7 +6,12 @@ $tablet-width: 1000px;
       padding-right: 8rem;
       padding-left: 8rem;
     }
+
   }
+}
+
+.has-text-shadow {
+  text-shadow: 1px 1px 4px black;
 }
 
 .has-bg-fixed {

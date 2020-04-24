@@ -1,12 +1,12 @@
 {{ define "nav" }}
 
   {{ $params := partialCached "page-params.html" .Page .RelPermalink }}
-  {{ $navImage := .Param "nav-image" }}
+  {{ $navImage := .Param "image" }}
 
   {{ $imgOpt := dict "filename" $navImage "width" 1200 "height" 900 }}
   {{ $imgurl := partial "imgproxy.html" $imgOpt }}
   <section
-    class="hero has-bg-image has-bg-fixed is-on-gradient is-fullheight"
+    class="hero has-bg-image has-bg-fixed is-on-gradient is-fullheight has-text-shadow"
     style="
       background-image: url('{{ $imgurl }}');
       background-position: 80%;
@@ -18,7 +18,7 @@
       <nav class="navbar">
         <div class="container">
           <div class="navbar-brand">
-            <a class="navbar-item" href="/">
+            <a class="navbar-item has-text-warning" href="/">
               <svg viewBox="0 0 1024 190">
                 <desc>Spotlight PA logo</desc>
                 <use xlink:href="#logo-svg"></use>
