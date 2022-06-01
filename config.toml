@@ -6,7 +6,7 @@ enableGitInfo = true
 rssLimit = 50
 Paginate = 50
 
-googleAnalytics = "UA-141126362-1"
+googleAnalytics = "UA-"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
