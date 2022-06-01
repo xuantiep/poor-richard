@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Pennsylvania will open COVID-19 vaccine eligibility to anyone 16 or older starting April 19, joining dozens of other states by greatly accelerating its rollout after Gov. Tom Wolf’s administration came under fire for its haphazard start.
 
@@ -38,7 +38,7 @@ The state Department of Health on Wednesday also added four targeted groups to t
 
 The department also announced that people in Phase 1B — which includes those who work in manufacturing, veterinarians, postal service workers, clergy, and public transit workers — will be eligible April 5, and those in Phase 1C will be eligible April 12.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 President Joe Biden issued a statement Monday applauding 31 states that had vowed to open eligibility to all adults by the same date, ahead of the White House’s imposed deadline of May 1.
 
@@ -56,7 +56,7 @@ Dunn said Fayette started encouraging those in Phase 1B on Wednesday to sign up 
 
 “Once we get the vaccine, we can make that happen,” Dunn said.
 
-<b>» READ MORE: </b><a href="https://www.spotlightpa.org/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/"><b>See a map and county-by-county listing of vaccine providers, as well as the full description of each phase.</b></a>
+<b>» READ MORE: </b><a href="https://lesspage.com/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/"><b>See a map and county-by-county listing of vaccine providers, as well as the full description of each phase.</b></a>
 
 Chester County officials are developing similar plans for reaching the more than 600 homebound residents who live in the county, Commissioner Marian Moskowitz said.
 
@@ -70,7 +70,7 @@ Of the 179,276 people who were on the county’s Phase 1A waitlist, 41,800 appoi
 
 The announcement Wednesday came as the state prepares to loosen some coronavirus restrictions Sunday, and as cases throughout Pennsylvania and the country have started to rise again.
 
-As of March 31, 35 counties in Pennsylvania were showing a rise in new cases over the past two weeks, a <a href="https://www.spotlightpa.org/news/2020/03/pa-coronavirus-updates-cases-map-live-tracker/">Spotlight PA analysis</a> shows. New cases statewide have averaged 4,034 per day in the past week — a 67% increase over the seven-day moving average from March 8, which recorded the lowest moving average since Nov. 3.
+As of March 31, 35 counties in Pennsylvania were showing a rise in new cases over the past two weeks, a <a href="https://lesspage.com/news/2020/03/pa-coronavirus-updates-cases-map-live-tracker/">Spotlight PA analysis</a> shows. New cases statewide have averaged 4,034 per day in the past week — a 67% increase over the seven-day moving average from March 8, which recorded the lowest moving average since Nov. 3.
 
 Beginning April 4, restaurants can loosen <a href="https://www.governor.pa.gov/newsroom/gov-wolf-effective-april-4-more-options-for-restaurants-and-other-businesses-mass-gathering-maximums-increase/">restrictions</a> related to alcohol service, and capacity limits in restaurants, gyms, casinos, theaters, and malls will be increased to 75%, Wolf announced earlier this month.
 
@@ -114,7 +114,7 @@ Some are homebound, while others don’t have transportation to get to a vaccina
 
 According to data last updated March 31, about 35% of residents in Allegheny County -- where Williams’ district is located — have been vaccinated. Other counties are seeing much lower vaccination rates, including in nearby Beaver County, where only about 18% of residents have been vaccinated.
 
-Some small, rural counties, like Potter and Fulton, have only vaccinated about 14% of residents. Others, like Cameron, Elk, and <a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-coronavirus-rural-older-people-phase-1a-vaccinations-cvs-riteaid/">Sullivan</a>, have vaccinated more than 35% of residents.
+Some small, rural counties, like Potter and Fulton, have only vaccinated about 14% of residents. Others, like Cameron, Elk, and <a href="https://lesspage.com/news/2021/02/pennsylvania-coronavirus-rural-older-people-phase-1a-vaccinations-cvs-riteaid/">Sullivan</a>, have vaccinated more than 35% of residents.
 
 <div id="vis-map-pa-vax-providers--container"></div>
 <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
@@ -122,4 +122,4 @@ Some small, rural counties, like Potter and Fulton, have only vaccinated about 1
 
 <i>Correction: A previous version of this story misspelled the first name of Sen. Lindsey Williams (D., Allegheny).</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

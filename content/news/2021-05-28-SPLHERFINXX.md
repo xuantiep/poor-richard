@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<i>This </i><a href="https://www.spotlightpa.org" target="_blank"><i>Spotlight PA</i></a><i> article was produced in partnership with ProPublica and </i><a href="https://www.inquirer.com/"><i>The Philadelphia Inquirer</i></a><i>, which is a member of the </i><a href="https://www.propublica.org/local-reporting-network/"><i>ProPublica Local Reporting Network</i></a><i>. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for Spotlight PA’s free newsletters</i></a><i>.</i>
+<i>This </i><a href="https://lesspage.com" target="_blank"><i>Spotlight PA</i></a><i> article was produced in partnership with ProPublica and </i><a href="https://www.inquirer.com/"><i>The Philadelphia Inquirer</i></a><i>, which is a member of the </i><a href="https://www.propublica.org/local-reporting-network/"><i>ProPublica Local Reporting Network</i></a><i>. </i><a href="https://lesspage.com/newsletters"><i>Sign up for Spotlight PA’s free newsletters</i></a><i>.</i>
 
 Long ago, and to great fanfare, business tycoon Milton Hershey revealed that he had given away his world-famous chocolate company, a gift to the school for poor orphans that he had founded with his wife.
 
@@ -58,7 +58,7 @@ Even with that constraint, however, the school hasn’t been as generous as it c
 
 The Inquirer, Spotlight PA, and ProPublica have spent the past year examining the Hershey Trust and Milton Hershey School — their structure, their spending, and the education the school provides. The news organizations found that in most years since its founding, the Hershey fortune has generated more income than the school has spent. As early as 1934, Fortune magazine noted the “embarrassingly large surplus piling up in the school’s coffers.” By 2020, the unspent income had grown to more than $1 billion, even as the school spends roughly $90,000 per student a year.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The Hersheys gave the school’s board of directors the power to admit more students as more income poured in. (As the deed put it: “From time to time, as there may be vacancies, or increased ability from income may warrant, others shall be admitted.”)
 
@@ -78,7 +78,7 @@ As a charity, the Milton Hershey School doesn’t pay federal or state income ta
 
 “We are constantly growing our program and seeking ways to support more children from poverty and do it better everyday,” Milton Hershey school spokesperson Lisa Scullin said in a statement. “The deed also requires the school to be funded forever,” she said, adding that “prudent management is what ensures that will happen.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA's%20investigative%20reporting%20like%20this%20story%20on%20The%20Milton%20Hershey%20School%20depends%20on%20your%20support.%20Make%20a%20contribution%20today%20so%20Spotlight%20PA%20can%20continue%20this%20vital%20work.&eyebrow_text=WANT%20MORE%20OF%20THIS%3F"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA's%20investigative%20reporting%20like%20this%20story%20on%20The%20Milton%20Hershey%20School%20depends%20on%20your%20support.%20Make%20a%20contribution%20today%20so%20Spotlight%20PA%20can%20continue%20this%20vital%20work.&eyebrow_text=WANT%20MORE%20OF%20THIS%3F"></div>
 
 Hershey board members say that, when it comes to spending more, their hands are tied by the restrictions in the original deed, particularly the requirement that they spend only the income from Milton Hershey’s fortune — rents, interest, and stock dividends — not the estate itself.
 
@@ -138,4 +138,4 @@ Brady says he’s grateful the school rescued him and gave him a future — that
 
 He believes Hershey would have wanted the school to serve as many children as possible. “Seventeen billion dollars? You should have thousands and thousands of kids.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

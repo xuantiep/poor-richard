@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 With Pennsylvania poised to play a starring role in the upcoming 2020 election, Spotlight PA wants to hear from voters throughout the state on any problems or concerns they encounter while trying to vote.
 
@@ -42,4 +42,4 @@ To cover the integrity of the 2020 election, Spotlight PA has partnered with <a 
 
 <del>To submit report voting problems in Pennsylvania, use the form below. (<a href="https://web.archive.org/web/20201130132132/https://propublica.forms.fm/electionland-2020-tips/forms/8254">Can’t see the form? Click here.</a>)</del> <b>Update Dec. 2, 2020: We are no longer collecting tips.</b>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

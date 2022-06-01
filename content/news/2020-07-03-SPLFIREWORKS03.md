@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — In July 1939, Pennsylvania Gov. Arthur James declared victory in the war on fireworks.
 
@@ -43,7 +43,7 @@ That was the impetus for making them legal in the first place, when, in 2017, la
 
 Now, lawmakers are considering <a href="https://www.legis.state.pa.us/cfdocs/billInfo/BillInfo.cfm?syear=2019&sind=0&body=S&type=B&bn=932">a proposal</a> that would allow certain municipalities to prohibit residents from setting off fireworks. But with the state’s finances still reeling from coronavirus-caused shutdowns and closures, a return to prohibition seems unlikely.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 “All of us know that something needs to be done, but we realize that because of the revenue, that is going to be an uphill battle,” Rep. Mike Schlossberg (D., Lehigh) said.
@@ -66,7 +66,7 @@ Sen. Judy Schwank (D., Berks) plans to introduce legislation to repeal the 2017 
 
 The original push to ban fireworks in Pennsylvania more than 80 years ago came largely in response to injuries and deaths caused by crudely made devices. One newspaper at the time called the ban a “powerful instrument for the protection of Pennsylvania’s children from fireworks injuries on this and all Fourths of July to come.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 While rarer, the U.S. still sees some fireworks-related deaths each year. In 2019, at least a dozen people died either because they misused fireworks or because the device malfunctioned, according to a <a href="https://www.cpsc.gov/s3fs-public/2019-Fireworks-Annual-Report.pdf">report</a> by the U.S. Consumer Product Safety Commission.
@@ -77,4 +77,4 @@ Schlossberg said he understands that fireworks bring in much-needed revenue, but
 
 “My office has turned into an answering service for unemployment problems and fireworks complaints,” he said.
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In 2019, The Caucus and Spotlight PA began filing requests for every legislative expense lawmakers covered with taxpayer money, salaries and benefits not included.
 
@@ -46,7 +46,7 @@ $20 million of that went into lawmakers’ pockets in the form of reimbursements
 
 That’s on top of salaries that are already among the highest of any legislature in the nation, dinners on the dime of lobbyists and industry groups, and access to campaign war chests that some have used for everything from a new pair of sneakers to a jaunt through Europe.
 
-<i>Read more: </i><a href="https://www.spotlightpa.org/news/2021/05/pa-legislative-expenses-investigation-how-we-did-it-spotlightpa-thecaucus/"><i>Inside the year-long fight to figure out how the Pa. legislature spends taxpayer money on itself</i></a>
+<i>Read more: </i><a href="https://lesspage.com/news/2021/05/pa-legislative-expenses-investigation-how-we-did-it-spotlightpa-thecaucus/"><i>Inside the year-long fight to figure out how the Pa. legislature spends taxpayer money on itself</i></a>
 
 ## Documents are hard to come by (and harder to parse)
 
@@ -54,7 +54,7 @@ Citizens who want to see what lawmakers are buying with their money face an arra
 
 When the records finally do arrive, they’re in PDF files that can run more than 1,000 pages, some of which aren’t text-searchable. Redactions are also routine.
 
-<i>Read more: </i><a href="https://www.spotlightpa.org/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/"><i>Taxpayers foot huge bill to run Pa.’s full-time legislature, but are blocked from many details</i></a>
+<i>Read more: </i><a href="https://lesspage.com/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/"><i>Taxpayers foot huge bill to run Pa.’s full-time legislature, but are blocked from many details</i></a>
 
 ## Transparency in name only
 
@@ -68,7 +68,7 @@ Corman, in an interview, did not explain why his website had become so outdated 
 
 “We are trying to update that so that it’s much more readily available to be seen,” he said. (Update: Since the original story was published, a Corman spokesperson reached out to say the website has been updated to ensure all expenses are current.)
 
-<i>Read more: </i><a href="https://www.spotlightpa.org/news/2021/05/pa-lawmaker-expenses-transparency-websites/"><i>Some Pa. lawmakers tout expense transparency. Their websites tell a different story</i></a><i>.</i>
+<i>Read more: </i><a href="https://lesspage.com/news/2021/05/pa-lawmaker-expenses-transparency-websites/"><i>Some Pa. lawmakers tout expense transparency. Their websites tell a different story</i></a><i>.</i>
 
 ## And the biggest spender is ...
 
@@ -78,7 +78,7 @@ That works out to about $59,000 a year, $5,000 more than the median annual house
 
 Sainato did not respond to calls and emails from reporters.
 
-<i>Read more: </i><a href="https://www.spotlightpa.org/news/2021/05/pa-lawmakers-legislature-expenses-search-biggest-spenders-hidden-tab/"><i>See the Pa. lawmakers who spent the most on food, lodging, mileage and more</i></a>
+<i>Read more: </i><a href="https://lesspage.com/news/2021/05/pa-lawmakers-legislature-expenses-search-biggest-spenders-hidden-tab/"><i>See the Pa. lawmakers who spent the most on food, lodging, mileage and more</i></a>
 
 ## Vague disclosures hide detail
 
@@ -90,6 +90,6 @@ The actual receipt of the transaction, acquired through a follow-up request, rev
 
 Lawmakers’ statements of financial interest filed with the State Ethics Commission can be similarly opaque. They need only disclose gifts worth $250 or more, and transportation and hospitality worth $650 or more.
 
-<i>Read more: </i><a href="https://www.spotlightpa.org/news/2021/05/pa-legislature-lawmakers-gifts-disclosure-ban/"><i>Lawmakers report receiving fewer gifts during pandemic as push for ban continues</i></a>
+<i>Read more: </i><a href="https://lesspage.com/news/2021/05/pa-legislature-lawmakers-gifts-disclosure-ban/"><i>Lawmakers report receiving fewer gifts during pandemic as push for ban continues</i></a>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

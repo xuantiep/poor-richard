@@ -18,9 +18,9 @@ title = "WATCH: A free virtual panel on the future of Pennsylvania’s mail voti
 topics = ["Events", "Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-Act 77, Pennsylvania’s mail voting law, was <a href="https://www.spotlightpa.org/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">ruled unconstitutional</a> by a state court in January after a group of Republican lawmakers — many of whom voted for it — brought a challenge. In a 3-2 decision, Commonwealth Court ruled that allowing voting by mail without an excuse would require an amendment to the Pennsylvania Constitution, an extensive process that would culminate with the matter being sent to the ballot and decided by voters.
+Act 77, Pennsylvania’s mail voting law, was <a href="https://lesspage.com/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">ruled unconstitutional</a> by a state court in January after a group of Republican lawmakers — many of whom voted for it — brought a challenge. In a 3-2 decision, Commonwealth Court ruled that allowing voting by mail without an excuse would require an amendment to the Pennsylvania Constitution, an extensive process that would culminate with the matter being sent to the ballot and decided by voters.
 
 The law remains in place as the Wolf administration pursues an appeal to the Pennsylvania Supreme Court, which has agreed to hear arguments next month. Though Democrats dominate the state’s highest court, some experts say the case will be a “close legal question.”
 
@@ -40,4 +40,4 @@ Our panelists included:
 
 <i><b>» Spotlight PA’s events operate on a “pay-what-you-can” honor system.</b></i><i> If you value this public-service event, pay it forward and contribute any amount to Spotlight PA now so we can keep our programming free for everyone: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>

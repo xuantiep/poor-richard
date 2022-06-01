@@ -19,17 +19,17 @@ title = "Unemployment refunds going out to those Pa. overcharged five years afte
 topics = ["Economy"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Five years after discovering it had overcharged thousands of Pennsylvanians millions of dollars in interest, the state Department of Labor and Industry has started paying them back.
 
-Since the beginning of the month, the agency has mailed refunds totaling just under $1.4 million to nearly 22,000 people. In all, the agency estimates it <a href="https://www.spotlightpa.org/news/2021/09/pa-unemployment-interest-overcharged-refund-website/">owes $19.4 million</a> to 109,554 people who were erroneously charged an inflated interest rate between 2006 and 2016.
+Since the beginning of the month, the agency has mailed refunds totaling just under $1.4 million to nearly 22,000 people. In all, the agency estimates it <a href="https://lesspage.com/news/2021/09/pa-unemployment-interest-overcharged-refund-website/">owes $19.4 million</a> to 109,554 people who were erroneously charged an inflated interest rate between 2006 and 2016.
 
 All were people who had received unemployment benefits for which they did not qualify, and who were required to repay the department for those benefits, plus interest.
 
-The agency first identified the mistake in 2016 but only told the public hours before <a href="https://www.spotlightpa.org/news/2021/07/pa-department-of-labor-unemployment-claims-overpayment-interest/">Spotlight PA was preparing to publish a story about the problem this summer</a>.
+The agency first identified the mistake in 2016 but only told the public hours before <a href="https://lesspage.com/news/2021/07/pa-department-of-labor-unemployment-claims-overpayment-interest/">Spotlight PA was preparing to publish a story about the problem this summer</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 As of mid-week, labor and industry officials said that 32,566 people had applied for a refund. The agency had processed and authorized refunds to 21,975 of them.
 
@@ -39,10 +39,10 @@ As of the close of business Monday, Garrity’s office said it had mailed out $1
 
 For months now, Labor and Industry officials have refused to address why it took them so long to inform the public of the error, despite repeated requests for an explanation.
 
-Department head Jennifer Berrier has said the delay in informing the public was not a “<a href="https://www.spotlightpa.org/news/2021/07/pa-unemployment-error-no-coverup-officials-say/">cover-up</a>,” but instead reflected the amount of time it took to identify a solution. Former Labor and Industry employees who were tasked with addressing the problem once it was discovered told Spotlight PA they were directed to keep it secret, an assertion officials have denied.
+Department head Jennifer Berrier has said the delay in informing the public was not a “<a href="https://lesspage.com/news/2021/07/pa-unemployment-error-no-coverup-officials-say/">cover-up</a>,” but instead reflected the amount of time it took to identify a solution. Former Labor and Industry employees who were tasked with addressing the problem once it was discovered told Spotlight PA they were directed to keep it secret, an assertion officials have denied.
 
-An independent state agency that investigated the matter determined the mistake was <a href="https://www.spotlightpa.org/news/2021/07/pa-unemployment-depart-of-labor-and-industry-overpayment-mistake-claims/">the result of “human error” and lack of oversight</a>.
+An independent state agency that investigated the matter determined the mistake was <a href="https://lesspage.com/news/2021/07/pa-unemployment-depart-of-labor-and-industry-overpayment-mistake-claims/">the result of “human error” and lack of oversight</a>.
 
 In late August, department officials mailed notices to people impacted by the error and instructed them to apply for a refund either through a <a href="https://www.interestrefund.uc.pa.gov/">newly created website</a> or by calling the agency at 1-888-313-7284 on weekdays from 8 a.m. to 4:30 p.m.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

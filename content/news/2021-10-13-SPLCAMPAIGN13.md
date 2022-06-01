@@ -19,7 +19,7 @@ title = "Pa. lawmakers hand out millions in public contracts to law firms that f
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A host of politically connected law firms are pouring millions of dollars into the campaigns of Pennsylvania legislators, who in turn hire those firms for all types of legal matters on the taxpayer’s dime — and it happens with very little public scrutiny.
 
@@ -27,7 +27,7 @@ Law firms and lawyers who have worked for the Pennsylvania House and Senate have
 
 In all, they gave at least $24 million to local and state-level campaigns across Pennsylvania during that time period, in a state that allows unlimited donations with few disclosure rules.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 That money — which includes donations from individual lawyers as well as their firms — has gone to candidates for various political offices in all three branches of government. But legislative leaders, who hand-select the firms they pay with tax dollars, are among the top recipients.
 
@@ -61,13 +61,13 @@ Spokespeople for K&amp;L Gates and Stradley Ronon declined to comment. Dilworth 
 
 Not all high-paid law firms donated money. Washington-based Holtzman Vogel Baran Torchinsky &amp; Josefiak, hired last year by Senate Republicans to handle legal challenges in the months before and after the presidential election, has not donated to Pennsylvania campaigns, as of the latest data available. A handful of other lawyers and firms that received smaller contracts also have not donated — at least, not by naming their firm on campaign reports.
 
-Pennsylvania lawmakers operate under some of the country’s weakest campaign-finance laws. The state is the only one with neither contribution limits nor an explicit ban on spending campaign cash for personal use. Lawmakers have spent campaign money on everything from sporting tickets and lavish dinners to trips to Europe, as The Caucus and Spotlight PA documented in a 2019 investigation, “<a href="https://www.spotlightpa.org/series/campaign-finance-2019/">Big Spending, Little Accountability.</a>”
+Pennsylvania lawmakers operate under some of the country’s weakest campaign-finance laws. The state is the only one with neither contribution limits nor an explicit ban on spending campaign cash for personal use. Lawmakers have spent campaign money on everything from sporting tickets and lavish dinners to trips to Europe, as The Caucus and Spotlight PA documented in a 2019 investigation, “<a href="https://lesspage.com/series/campaign-finance-2019/">Big Spending, Little Accountability.</a>”
 
 Though corporations cannot generally give direct donations to candidates in Pennsylvania, law firms are an exception depending on how they’re incorporated for tax purposes, according to the Department of State, which oversees election-related matters.
 
 As a result, many of the more than three dozen firms the legislature hired for legal work in recent years gave to lawmakers’ campaigns directly, The Caucus and Spotlight PA found.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 K&amp;L Gates, for example, directly donated nearly $900,000 to Pennsylvania campaigns in the last decade. Lawyers and other K&amp;L Gates employees gave at least an additional $282,000 during that time, according to campaign-finance reports in which donors list their employers.
@@ -84,4 +84,4 @@ A spokesperson for the firm did not reply to a request for comment.
 
 <i>Coming Thursday: The Caucus and Spotlight PA obtained 4,100 pages of invoices, receipts, and other documents related to contract work with private law firms. Here’s what they showed.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

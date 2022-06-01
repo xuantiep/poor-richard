@@ -18,7 +18,7 @@ title = "2021 Pa. election: A last-minute guide to everything you need to know t
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 The 2021 election in Pennsylvania is Tuesday, Nov. 2 — and there’s a lot on the ballot.
 
@@ -26,7 +26,7 @@ Races for mayor in <a href="https://www.witf.org/2021/10/26/harrisburg-voters-to
 
 There also are noteworthy school board races with <a href="https://lancasteronline.com/news/local/how-a-mount-joy-twp-couple-who-attended-trumps-jan-6-stop-the-steal-rally/article_b0a16164-a46a-11eb-91ba-ef6dc2636894.html">culture war</a> and <a href="https://dianeravitch.net/2021/10/27/scranton-teachers-will-go-on-strike/#:~:text=boland%20expressed%20optimism%20that%20new%20members%20will%20be%20elected%20to%20the%20scranton%20school%20board%20on%20nov.%202%20and%20that%20the%20needs%20of%20students%20and%20educators%20finally%20will%20be%20prioritized.">labor strife </a>implications, and high-stakes statewide contests for key judiciary posts higher up the ballot. More on both in a moment.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 First, the basics:
 
@@ -38,32 +38,32 @@ First, the basics:
 
 - Take a photo ID to vote in person only if you’re at a polling place for <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/First-Time-Voters.aspx">the first time</a>.
 
-- Read Spotlight PA’s handy guide to polling places, voting by mail, and more <a href="https://www.spotlightpa.org/news/2021/10/pa-election-2021-november-ballot-candidates/">here</a>.
+- Read Spotlight PA’s handy guide to polling places, voting by mail, and more <a href="https://lesspage.com/news/2021/10/pa-election-2021-november-ballot-candidates/">here</a>.
 
 Before voting, pull up <a href="https://www.vote411.org/ballot">your sample ballot</a> to get a preview of the candidates and questions you’ll be asked to weigh in on.
 
-Spotlight PA compiled <a href="https://www.spotlightpa.org/news/2021/10/pennsylvania-school-board-meetings-elections-2021-critical-race-theory/">a guide for vetting candidates — and their donors</a> — that focuses on the school board contests that are drawing inordinate amounts of attention and money amid fights over school mask rules and teachings on ethnicity and race.
+Spotlight PA compiled <a href="https://lesspage.com/news/2021/10/pennsylvania-school-board-meetings-elections-2021-critical-race-theory/">a guide for vetting candidates — and their donors</a> — that focuses on the school board contests that are drawing inordinate amounts of attention and money amid fights over school mask rules and teachings on ethnicity and race.
 
 In short, a good deal of candidate research can be performed via the internet. Donor research for local races, however, might require physically traveling to your local seat of government.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
-Thanks to state-level campaign finance rules, the legwork is easier — relatively speaking — for vetting statewide candidates, such as those vying for an <a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-2021-biggest-donors/">opening on Pennsylvania’s incredibly influential Supreme Court</a>.
+Thanks to state-level campaign finance rules, the legwork is easier — relatively speaking — for vetting statewide candidates, such as those vying for an <a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-2021-biggest-donors/">opening on Pennsylvania’s incredibly influential Supreme Court</a>.
 
-The two-way race between Democrat Maria McLaughlin and Republican Kevin Brobson has attracted millions of dollars in donations. Read <a href="https://www.spotlightpa.org/news/2021/10/pa-2021-supreme-court-election-mclaughlin-brobson-top-donors/">Spotlight PA’s list of the candidates’ top donors</a>.
+The two-way race between Democrat Maria McLaughlin and Republican Kevin Brobson has attracted millions of dollars in donations. Read <a href="https://lesspage.com/news/2021/10/pa-2021-supreme-court-election-mclaughlin-brobson-top-donors/">Spotlight PA’s list of the candidates’ top donors</a>.
 
 The outcome of that race won’t change the high court’s balance of power, but the new justice will have a say in what cases the court accepts. They’ll also cast their vote in closely watched proceedings — some potentially overlapping with donor interests.
 
 Voters statewide — regardless of party affiliation — will also be naming judges to two other powerful appellate courts: Commonwealth and Superior.
 
-Spotlight PA took <a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-justices-cases-voter-guide/">a look at the candidates for all three judiciary contests</a>. Deborah Gross, president of the advocacy organization Pennsylvanians for Modern Courts, calls the races some of the most important imaginable.
+Spotlight PA took <a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-justices-cases-voter-guide/">a look at the candidates for all three judiciary contests</a>. Deborah Gross, president of the advocacy organization Pennsylvanians for Modern Courts, calls the races some of the most important imaginable.
 
 Gross said decisions handed down by these courts affect everyday Pennsylvanians “probably more so than a legislator,” adding, “The judges in these positions really rule on every aspect of a person’s or business’ life.”
 
-Not convinced? Watch <a href="https://www.spotlightpa.org/news/2021/10/pa-elections-2021-judicial-appellate/">Spotlight PA’s panel on why these elections matter</a>.
+Not convinced? Watch <a href="https://lesspage.com/news/2021/10/pa-elections-2021-judicial-appellate/">Spotlight PA’s panel on why these elections matter</a>.
 
 Happy voting.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/637887104?h=291b7d70c4&color=ffcb05&title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

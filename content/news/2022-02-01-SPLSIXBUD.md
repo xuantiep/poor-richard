@@ -18,7 +18,7 @@ title = "Gov. Tom Wolf’s final budget address will seek to cement his legacy"
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — This month, Democratic Gov. Tom Wolf will deliver his eighth and final budget address to a joint session of the legislature. Such speeches are usually a time for governors to lay out their vision for the future, and provide a wish list of all the policies and changes they want lawmakers to act on.
 
@@ -28,7 +28,7 @@ The speech will provide the roadmap for weeks of budget hearings and negotiation
 
 Here are six things to know before the governor delivers his budget address on Feb. 8. This year, it is scheduled to resume being an in-person event, although legislative staff said they will likely cut down on the number of people (including aides and visitors) who are allowed to attend.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Legacy will be as prominent as finances
 
@@ -58,7 +58,7 @@ Wolf has proposed funding increases for public schools every year of his tenure.
 
 The current fiscal year’s nearly $40 billion budget, for instance, includes a $400 million boost in education funding, including $200 million more for public schools and another $100 million to help struggling school districts.
 
-But Wolf has been insistent that all education dollars — not just the amount in annual increases — <a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-education-tom-wolf-budget-funding-formula-hold-harmless/">should be funneled through the state’s fair funding formula</a> to help poor and underfunded schools in urban and rural districts. If implemented, it would dramatically change the public education funding landscape.
+But Wolf has been insistent that all education dollars — not just the amount in annual increases — <a href="https://lesspage.com/news/2021/02/pennsylvania-education-tom-wolf-budget-funding-formula-hold-harmless/">should be funneled through the state’s fair funding formula</a> to help poor and underfunded schools in urban and rural districts. If implemented, it would dramatically change the public education funding landscape.
 
 Yet he doesn’t have complete buy-in from GOP lawmakers, and it is unlikely an expansion of the formula will be implemented in an election year, when public officials often shy away from making radical changes.
 
@@ -68,12 +68,12 @@ However, a lawsuit now in a state appellate court — <a href="https://www.inqui
 
 Wolf’s legacy will in large part be judged by his handling of the pandemic. Expect the Democratic governor to focus on his administration’s investments in health care — including an additional $225 million being fast-tracked for hospitals struggling with staffing shortages — rather than the myriad fights he had with legislative Republicans over his administration’s restrictions in the first year of the pandemic.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## Minimum wage hike, gas tax are still high on Wolf’s wish list
 
 There are a handful of policy changes that the Democratic governor pushes nearly every year despite legislative inaction. They include measures to fight gun violence, proposals to raise the minimum wage above $7.25 an hour, and plans for taxing natural gas production. The governor will likely return to those themes in this year’s speech, but the political landscape does not appear promising for action on those fronts.
 
-Wolf also might deliver a full-throated defense of his administration’s efforts to expand voting access in light of last week’s controversial <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-mail-voting-unconstitutional-supreme-court-appeal/">appellate court ruling</a> striking down the state’s mail voting law. The administration has appealed the decision to the state’s highest court, and Wolf has said the outcome will be pivotal to the strength of democracy in the commonwealth.
+Wolf also might deliver a full-throated defense of his administration’s efforts to expand voting access in light of last week’s controversial <a href="https://lesspage.com/news/2022/01/pennsylvania-mail-voting-unconstitutional-supreme-court-appeal/">appellate court ruling</a> striking down the state’s mail voting law. The administration has appealed the decision to the state’s highest court, and Wolf has said the outcome will be pivotal to the strength of democracy in the commonwealth.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

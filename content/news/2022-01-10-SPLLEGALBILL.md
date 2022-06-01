@@ -20,7 +20,7 @@ title = "Pa. legislature’s redacted legal bills flout court ruling, leave taxp
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In May, GOP lawmakers who control the state House and Senate hired the chair of the Republican Party of Pennsylvania to represent them in legal matters at $575 an hour.
 
@@ -28,7 +28,7 @@ Within three weeks, Lawrence Tabas — one of the state’s top election lawyers
 
 What Tabas did for the legislature, however, is a mystery.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Republican leaders redacted all details about his work from his contract and other public records, continuing into 2021 a stubborn pattern of secrecy surrounding the legislature’s agreements with private lawyers, an ongoing review by The Caucus and Spotlight PA shows.
 
@@ -80,7 +80,7 @@ Senate Democrats also redacted the purpose of cases handled by two law firms: My
 
 In the House, leaders redacted fewer cases. And in one case, they revealed details they had wholly obscured in years prior.
 
-A <a href="https://www.spotlightpa.org/news/2021/10/pennsylvania-legislature-legal-bills-private-lawyers/">previous Caucus and Spotlight PA investigation</a> into the legislature’s legal bills in 2019 and 2020 showed that the House blacked out 140 pages of bills they paid to Dilworth Paxson. Through other records, the news organizations found the firm was hired to represent the House GOP in the high-profile education funding case now being heard in Commonwealth Court.
+A <a href="https://lesspage.com/news/2021/10/pennsylvania-legislature-legal-bills-private-lawyers/">previous Caucus and Spotlight PA investigation</a> into the legislature’s legal bills in 2019 and 2020 showed that the House blacked out 140 pages of bills they paid to Dilworth Paxson. Through other records, the news organizations found the firm was hired to represent the House GOP in the high-profile education funding case now being heard in Commonwealth Court.
 
 The case, brought by several low-income and rural school districts that contend they have been underfunded by the state for decades, could have a monumental impact on future public school funding.
 
@@ -124,7 +124,7 @@ Separately, the two chambers spent at least $241,506 on legal advice and work re
 
 Redistricting is a hotly contested process — and in decades past has led to years-long legal fights — because it helps determine the balance of power in Harrisburg as well as in Pennsylvania’s congressional delegation for the next decade.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Lawmakers are also expected to spend hundreds of thousands of dollars on a controversial review of the 2020 election spurred by falsehoods that the presidential election was stolen from Donald Trump. Corman has said the review is necessary to restore public faith in the electoral process.
 
@@ -134,4 +134,4 @@ Democrats are paying $450 per hour to the firm Dentons, Cohen &amp; Grigsby, whi
 
 Invoices for that work are not yet available, so it is not known how much has been spent on lawyers. The legal expenses are separate from the cost of the review itself, which GOP leaders have pegged at $270,000. The spending comes despite numerous other audits confirming the results of the election and finding no widespread fraud.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

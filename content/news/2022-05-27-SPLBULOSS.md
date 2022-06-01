@@ -18,7 +18,7 @@ title = "High-profile GOP primary losses could make passing Pa.’s next budget 
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The primary defeat of one of Harrisburg’s top budget negotiators and the potential loss of another could embolden a contingent of conservative state House Republicans to derail the annual process.
 
@@ -26,11 +26,11 @@ At least four Republican House incumbents lost reelection on May 17, including S
 
 As the majority Appropriations Committee chairs, Browne and Saylor play a leading role in negotiations with Gov. Tom Wolf and top Democrats, hammering out an annual budget that directs tens of billions of state tax dollars to education, human services, and economic development.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Both lawmakers have served in the legislature for decades and were elevated to their prominent committee positions by their Republican colleagues during closed-door elections to assign leadership roles.
 
-But they found themselves targeted not only by a political action committee <a href="https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/">with millions of dollars at its disposal</a> during the May 17 primary, but by members of their own party who claimed they weren’t conservative enough.
+But they found themselves targeted not only by a political action committee <a href="https://lesspage.com/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/">with millions of dollars at its disposal</a> during the May 17 primary, but by members of their own party who claimed they weren’t conservative enough.
 
 Capitol insiders believe their poor primary performances could inspire frustrated Republicans to use the budget, which must be passed each year, as leverage to force Wolf to expand voter ID, end mail voting, or ban vaccine mandates.
 
@@ -46,7 +46,7 @@ Failure to pass an on-time budget can have far-reaching consequences, <a href="h
 
 Those first-term fights have been replaced by on-time negotiated budgets, partially due to higher-than-expected tax revenues, which have allowed Wolf and lawmakers to increase state spending on human services and public schools without a tax hike.
 
-Browne and Saylor played key roles in those deals. But the fact that state spending increased at all frustrated some, including Citizens Alliance of Pennsylvania, a political action committee that <a href="https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/">targeted Browne and Saylor</a> during the primary.
+Browne and Saylor played key roles in those deals. But the fact that state spending increased at all frustrated some, including Citizens Alliance of Pennsylvania, a political action committee that <a href="https://lesspage.com/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/">targeted Browne and Saylor</a> during the primary.
 
 Leo Knepper, political director of the PAC, said that he hoped the primary was a wake-up call to other Republicans to stop voting for Wolf’s deals and instead challenge the governor’s calls for more spending on education.
 
@@ -76,7 +76,7 @@ Pitt’s spending bill could be an easy target for insurgents. Under the state c
 
 That vote total could grow this year after a national conservative group challenged at least one sitting GOP lawmaker who voted for Pitt’s funding. The lawmaker, state Rep. John Hershey (R., Juniata), lost his primary.
 
-Some House Republicans are also directing their anger at Pitt because the university’s former chancellor, Mark Nordenberg, chaired the state redistricting commission this cycle, and approved maps that will <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">likely cut into the House Republican majority</a>.
+Some House Republicans are also directing their anger at Pitt because the university’s former chancellor, Mark Nordenberg, chaired the state redistricting commission this cycle, and approved maps that will <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">likely cut into the House Republican majority</a>.
 
 In April, the university even sent out an email to students, <a href="https://pittnews.com/article/173160/featured/exclusive-gallagher-says-pitt-must-take-state-funding-battle-seriously/">asking</a> them to contact their legislators over the yearly allocation.
 
@@ -104,9 +104,9 @@ The tensions <a href="https://www.penncapital-star.com/government-politics/as-ha
 
 For instance, Senate President Pro Tempore Jake Corman (R., Centre) openly feuded with state Sen. Doug Mastriano (R., Franklin) last summer over the direction and speed of an investigation into the 2020 election.
 
-Mastriano lost the battle in the state Senate — Corman stripped him of his role leading the investigation — but handily bested Corman and a big field of Republican luminaries in <a href="https://www.spotlightpa.org/news/2022/05/doug-mastriano-pa-governor-pennsylvania-shapiro/">the primary election to be the GOP’s 2022 gubernatorial nominee</a>.
+Mastriano lost the battle in the state Senate — Corman stripped him of his role leading the investigation — but handily bested Corman and a big field of Republican luminaries in <a href="https://lesspage.com/news/2022/05/doug-mastriano-pa-governor-pennsylvania-shapiro/">the primary election to be the GOP’s 2022 gubernatorial nominee</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
 
 In the upper chamber, Aument, who won his primary election, downplayed any divides or agenda shifts stemming from Browne’s potential loss.
 
@@ -126,4 +126,4 @@ Other Republicans viewed Benninghoff’s actions as a belated attempt to check t
 
 “I think this conversation should have been had years ago,” one lawmaker said. “The damage is done.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

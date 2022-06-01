@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — Republicans in the state legislature have subpoenaed the Wolf administration for documents related to its controversial coronavirus waiver process for businesses, a rarely used maneuver that could spark a legal battle with the Democratic governor.
 
@@ -45,13 +45,13 @@ Democrats on the committee opposed the subpoena, pointing to an announcement ear
 
 “Finding deficiencies merely to find fault does not serve the people of Pennsylvania," she said during the hearing. "Having the auditor general do his job and find deficiencies in the waiver program to improve it must be the goal here.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 But Republicans in the General Assembly have grown increasingly frustrated by the Wolf administration’s refusal to make public the waiver applications as well as a list of which were approved, which were denied, and which were approved and then revoked.
 
 The administration has also ignored a slew of formal requests for the documents from media organizations across the state, including Spotlight PA and The Philadelphia Inquirer, saying it is too busy addressing the pandemic.
 
-Regan and Sen. Tom Killion (R., Delaware) sent a letter to Wolf last week <a href="https://www.spotlightpa.org/news/2020/04/business-waiver-list-wolf-administration-pennsylvania-coronavirus/">requesting a trove of records </a>related to the waivers, which were administered in secret by the state Department of Community and Economic Development.
+Regan and Sen. Tom Killion (R., Delaware) sent a letter to Wolf last week <a href="https://lesspage.com/news/2020/04/business-waiver-list-wolf-administration-pennsylvania-coronavirus/">requesting a trove of records </a>related to the waivers, which were administered in secret by the state Department of Community and Economic Development.
 
 Sen. Lisa Baker (R., Luzerne), a member of the committee, said Wolf’s administration “cannot reasonably expect to set the rules for shutting down the state and for secretly handing out exceptions to those rules, and then dictating the rules for reopening, without a serious level of consultation and accountability."
 
@@ -69,7 +69,7 @@ But according to Wolf spokesperson Lyndsay Kensinger, the administration does no
 
 “It’s unfortunate this Senate committee took the counterproductive step of voting to issue a subpoena. The Wolf administration will review it and determine next steps,” she said. “The administration has committed to disclosing information about the business closure and exemption process, and recently provided testimony to the Senate regarding that forthcoming disclosure.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Wolf told reporters last week that his administration was working to “wrap up” the waiver process, which closed to new applications on April 3.
 
@@ -83,6 +83,6 @@ Sen. Lindsey Williams (D., Allegheny) painted Thursday’s hearing as “grandst
 
 “And I want absolutely nothing to do with it,” she said. "I’m a no vote.”
 
-<i><b>100% ESSENTIAL: </b></i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

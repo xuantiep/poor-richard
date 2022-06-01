@@ -27,7 +27,7 @@ subtitle = ""
 aliases = []
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — Twice in the last week, Pennsylvania’s official COVID-19 death count spiked.
 
@@ -41,12 +41,12 @@ But facing mounting questions about the accuracy of the count, officials on Thur
 
 “At times, there are things we need to review, and potentially revisit the way the data is being analyzed,” she said. “And this is one of those times.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 The coronavirus surge in Pennsylvania has posed major technical challenges for the Health Department, the clearinghouse for the data critical to make decisions about what policies to implement to keep people safe. In addition to inconsistencies around death counts, the department has struggled to attain complete and accurate demographic data for positive patients, as well as those who have been tested.
 
-At the same time, the state’s coroners — tasked with investigating suspicious deaths — have <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/">grown increasingly frustrated</a> by the Health Department’s reluctance to seek their help.
+At the same time, the state’s coroners — tasked with investigating suspicious deaths — have <a href="https://lesspage.com/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/">grown increasingly frustrated</a> by the Health Department’s reluctance to seek their help.
 
 Some have said the department’s numbers did not match what coroners were seeing. Those concerns caught the attention of State Sen. Judy Ward (R., Blair), who is <a href="https://www.legis.state.pa.us/cfdocs/Legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=31646">advocating</a> for a bill that would give coroners a bigger role in the crisis.
 
@@ -70,11 +70,11 @@ That same day, department spokesperson Nate Wardle told Spotlight PA some probab
 
 Then, on Wednesday, Wardle backtracked, saying that although probable deaths had been added to the reporting systems as of April 13, the day before federal guidance changed, they weren’t included in the state’s official count until Tuesday.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Wardle added that despite Levine’s public comments, none of the deaths reported Sunday were considered probable, meaning the first surge was due almost entirely to lags in reporting.
 
-The issues with the data go hand in hand with <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/">a month-long dispute</a> with the coroners association over how to handle suspected COVID-19 cases.
+The issues with the data go hand in hand with <a href="https://lesspage.com/news/2020/04/pennsylvania-coronavirus-coroners-testing-communication-health-department/">a month-long dispute</a> with the coroners association over how to handle suspected COVID-19 cases.
 
 For weeks, coroners have said their relationships with first responders, funeral directors, and county officials allow them to properly handle investigations where the presence of COVID-19 is unconfirmed — whether the death occurs at home or a care facility.
 
@@ -108,6 +108,6 @@ As of early Thursday, Kiessling, the association president, said that the depart
 
 <i>Angela Couloumbis of Spotlight PA contributed to this article. </i>
 
-<i><b>100% ESSENTIAL: </b></i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

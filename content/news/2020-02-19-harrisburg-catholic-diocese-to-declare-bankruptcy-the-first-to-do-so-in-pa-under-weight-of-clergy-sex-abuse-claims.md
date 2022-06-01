@@ -13,7 +13,7 @@ blurb = "Among its top 20 creditors, 19 were accusers with unresolved clergy sex
 kicker = "Religion"
 suppress-featured = false
 +++
-***[Spotlight PA](https://www.spotlightpa.org/)** is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter.](https://www.spotlightpa.org/newsletters/)*
+***[Spotlight PA](https://lesspage.com/)** is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter.](https://lesspage.com/newsletters/)*
 
 HARRISBURG — The Roman Catholic Diocese of Harrisburg filed for bankruptcy Wednesday, becoming the first diocese in the state to seek protection from financial claims in the aftermath of [a 2018 grand jury report that revealed decades of sexual abuse and cover-up](https://www.inquirer.com/philly/news/catholic-church-sex-abuse-clergy-pennsylvania-grand-jury-report-released-names-20180814.html "https\://www.inquirer.com/philly/news/catholic-church-sex-abuse-clergy-pennsylvania-grand-jury-report-released-names-20180814.html") by the church’s top leaders.
 
@@ -35,7 +35,7 @@ At an afternoon news conference, the bishop said he believed restructuring is th
 
 “Our current financial situation is unsustainable,” the bishop said at an afternoon news conference. “We have no other path forward to ensure the future of our dioceses.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The Harrisburg diocese serves roughly 245,000 Central Pennsylvania Catholics, covers an area of 7,660 square miles and includes 89 parishes with 98 diocesan priests.
 
@@ -83,4 +83,4 @@ Despite the setback, lawyer Richard Serbin, who represents five Harrisburg-area 
 
 *Inquirer staff writer Harold Brubaker contributed to this article.*
 
-*[Spotlight PA](https://www.spotlightpa.org/) receives[ funding from nonprofit institutions and readers like you](https://www.spotlightpa.org/support) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://www.spotlightpa.org/).*
+*[Spotlight PA](https://lesspage.com/) receives[ funding from nonprofit institutions and readers like you](https://lesspage.com/support) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://lesspage.com/).*

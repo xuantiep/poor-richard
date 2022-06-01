@@ -38,9 +38,9 @@ Because a mailing company sent 29,000 ballots to the wrong voters, Allegheny Cou
 
 That’s laid out in a court settlement between the Allegheny County Board of Elections and two Republican congressional candidates, who sued elections officials in October over their handling of the mailing error. Under a separate state Supreme Court ruling, counties can accept and count mail ballots that arrive by 5 p.m. Friday — making it the current return deadline.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-The mailing error affecting the nearly 29,000 voters <a href="https://www.spotlightpa.org/news/2020/11/pa-midwest-direct-allegheny-county-wrong-ballots/">stemmed from a clerical error by a mailing vendor called Midwest Direct</a>, as Spotlight PA and Votebeat previously reported. In a batch of mail sent to Allegheny County voters on Sept. 28, a ballot intended for one voter was accidentally sent to the address of the voter next on the mailing list, election officials said in October.
+The mailing error affecting the nearly 29,000 voters <a href="https://lesspage.com/news/2020/11/pa-midwest-direct-allegheny-county-wrong-ballots/">stemmed from a clerical error by a mailing vendor called Midwest Direct</a>, as Spotlight PA and Votebeat previously reported. In a batch of mail sent to Allegheny County voters on Sept. 28, a ballot intended for one voter was accidentally sent to the address of the voter next on the mailing list, election officials said in October.
 
 Election officials ordered corrected ballots to be mailed to each affected voter, and established an ad hoc system to identify and segregate any ballots from those voters when they arrived at the county’s facilities. The system is designed to ensure that only one ballot from each voter is counted, elections officials said.
 
@@ -52,7 +52,7 @@ A returns board, sworn in by the county Board of Elections, is required by state
 
 Late Wednesday night, county officials announced the elections division would not be canvassing any votes on Thursday but would be doing “administrative work.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
 
 “Today what our workers are doing is they’re preparing for tomorrow,” Fitzgerald said: organizing and setting up for the review process.
@@ -63,4 +63,4 @@ Fitzgerald noted county officials also have to process and count mail ballots re
 
 The county processed about 5,000 provisional ballots during the primary, Fitzgerald said. He estimated the county could see between 10,000 and 15,000 from Nov. 3.
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>

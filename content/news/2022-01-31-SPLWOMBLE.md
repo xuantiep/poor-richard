@@ -19,7 +19,7 @@ title = "Key consultant refused to cooperate with probe into Pa.’s $73 billion
 topics = ["Pensions"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A $484,000 probe of Pennsylvania’s biggest pension fund by a law firm hired by the retirement plan was undermined by the refusal of a key consultant to cooperate, people familiar with the inquiry said Monday.
 
@@ -27,7 +27,7 @@ Aon Consulting, a Chicago firm that played a crucial role in what turned out to 
 
 Lawyers with Womble Bond Dickinson, the firm hired by the PSERS board in March to conduct an internal investigation and compile a report, spent more than eight hours Monday briefing the board on its findings, cautioning that Aon’s refusal had denied investigators a big piece of the puzzle. All but one of the 15 fund board members attended the session, either in person or remotely.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 By 9 p.m., the board was still meeting behind closed doors and had not released the report.
 
@@ -55,7 +55,7 @@ At least three of the volunteer board’s 15 members — Nathan Mains, chief exe
 
 “It is unfortunate,” Mains wrote his board colleagues over the weekend, “that actions by a few have overly-complicated a process that should have been simple — conduct a thorough investigation, present the findings to the full board and permit the public to understand what has occurred through a transparent release of the report.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 “I urge my fellow trustees to act unanimously to direct that the findings of the internal investigation be made available to the public as comprehensively and quickly as is possible,” Mains added. “The annuitants and the public are entitled to nothing less than immediate and transparent disclosure following the Womble briefing.”
 
@@ -63,4 +63,4 @@ PSERS hired Womble in March to review “the circumstances that preceded and fol
 
 In April, that’s what happened when the board admitted the figure was wrong. It adopted a new, lower number that forced an increase in payments by working teachers and their colleagues.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -18,15 +18,15 @@ title = "Pennsylvania’s child care and staffing crisis, by the numbers"
 topics = ["Economy", "Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — As a roughly $2 trillion social spending plan moves through Congress, transformational change could be on the horizon for child care in Pennsylvania and across the country. But now, an industry pivotal to the state’s economic recovery is facing severe staffing shortages.
 
-Providers are <a href="https://www.spotlightpa.org/news/2021/11/pa-child-care-staffing-shortage-pandemic/">struggling to attract and retain workers because of low wages</a>, Spotlight PA recently reported, and the situation has ripple effects for the state’s economy, as parents shuffle their work schedules to deal with shorter hours and face tough decisions about how to care for their children without losing a paycheck.
+Providers are <a href="https://lesspage.com/news/2021/11/pa-child-care-staffing-shortage-pandemic/">struggling to attract and retain workers because of low wages</a>, Spotlight PA recently reported, and the situation has ripple effects for the state’s economy, as parents shuffle their work schedules to deal with shorter hours and face tough decisions about how to care for their children without losing a paycheck.
 
 Here are the figures that stand out, and what they show:
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Closures
 
@@ -76,7 +76,7 @@ A survey released in September of more than 1,100 child care providers in Pennsy
 
 <b>What it means: </b>Child care providers operate on thin margins, which makes it difficult for them to raise wages and ease staffing shortages. At the same time, costs for parents are high. And even though low-income families are eligible for government subsidies, that assistance doesn’t cover the cost of care, child care advocates say. That perpetuates a broken business model.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
 
 ## Federal help
 
@@ -88,4 +88,4 @@ A survey released in September of more than 1,100 child care providers in Pennsy
 
 <b>What it means:</b> Previous federal assistance helped programs stay in business as they dealt with shutdown orders, drops in enrollment, and new cleaning and safety requirements. Child care advocates expect providers will use some of the latest relief money to offer higher pay or better benefits for workers. But recruiting challenges could remain, and providers fear the money is only a temporary fix.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

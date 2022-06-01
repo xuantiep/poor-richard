@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 As part of its commitment to better connect experts in topics of urgent statewide importance to Pennsylvanians in all corners of the state, Spotlight PA held its second virtual Q&amp;A webinar focused on helping small businesses in Pennsylvania navigate the coronavirus shutdown.
 

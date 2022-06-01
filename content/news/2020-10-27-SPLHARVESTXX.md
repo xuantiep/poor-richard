@@ -44,7 +44,7 @@ Those opposed to ballot harvesting raise concerns about the intentions of the pe
 
 Derek Muller, an election law professor at the University of Iowa, said the term “ballot harvesting” is often used pejoratively, especially by Republicans. Long opposed to mail-in voting, the GOP has said it opens the door for party activists and campaigns to tamper with ballots or coerce voters without oversight because it’s done privately, away from the polls.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Much of President Donald Trump’s rhetoric this election season has centered around falsely claiming that adding more voting sites — including drop boxes like the ones installed in some Pennsylvania counties — would lead to widespread voter fraud. The Trump campaign has gone so far as to <a href="https://www.nytimes.com/2020/10/22/us/politics/trump-campaign-voter-surveillance.html">videotape Philadelphia voters depositing multiple ballots in drop boxes</a>, The New York Times reported.
 
@@ -74,7 +74,7 @@ From the printing facility, the ballots are typically transported via semi-truck
 
 After the mail carrier puts the ballot in your mailbox, you’re the only one who can fill it out. If you have a disability that prevents you from picking up a ballot and returning it to the county Board of Elections, you can designate someone else to do it, and the designee <a href="https://www.votespa.com/Resources/Documents/Authorize-Designated-Agent-for-Mail-in-or-Absentee-Ballot.pdf">must certify</a> they haven’t altered or marked the ballot.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/cta/?url=https%3A%2F%2Fwww.spotlightpa.org%2Fdonate&eyebrow=BECOME%20A%20MEMBER&body=Make%20a%20gift%20today%20and%20help%20Spotlight%20PA%20continue%20to%20provide%20100%25%20essential%20reporting%20on%20the%20upcoming%20election%20in%20Pennsylvania.%20From%20court%20challenges%20to%20voter%20intimidation%2C%20our%20reporters%20are%20keeping%20watch%20for%20you.&cta=JOIN%20US%20NOW"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/cta/?url=https%3A%2F%2Flesspage.com%2Fdonate&eyebrow=BECOME%20A%20MEMBER&body=Make%20a%20gift%20today%20and%20help%20Spotlight%20PA%20continue%20to%20provide%20100%25%20essential%20reporting%20on%20the%20upcoming%20election%20in%20Pennsylvania.%20From%20court%20challenges%20to%20voter%20intimidation%2C%20our%20reporters%20are%20keeping%20watch%20for%20you.&cta=JOIN%20US%20NOW"></div>
 
 If you’re mailing your ballot, it’ll get picked up by the mail carrier and taken back to the post office, where it will typically be run through a machine that adds a postmark and cancels the stamp, Lewis said.
 
@@ -88,6 +88,6 @@ In Lycoming County, where more than 15,000 people have requested a mail ballot, 
 
 So far, nearly 50% of the ballots that headed out the printing facilities' doors have been returned to county boards of elections, waiting to complete their final leg of the journey.
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20a%20Pennsylvania%20resident%20with%20a%20voting%20or%20election%20question%3F%20Send%20it%20to%20Spotlight%20PA%20and%20we'll%20do%20our%20best%20to%20answer%20it.&flag_text=election%202020"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20a%20Pennsylvania%20resident%20with%20a%20voting%20or%20election%20question%3F%20Send%20it%20to%20Spotlight%20PA%20and%20we'll%20do%20our%20best%20to%20answer%20it.&flag_text=election%202020"></div>

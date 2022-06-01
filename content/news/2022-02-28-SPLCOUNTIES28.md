@@ -19,7 +19,7 @@ title = "Who makes public health decisions for your community? In Pennsylvania, 
 topics = ["Health"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — For more than two years, public health officials have answered Pennsylvanians’ most pressing questions about the coronavirus: Where are tests available? Are masks necessary? Who is eligible to get a vaccine?
 
@@ -27,7 +27,7 @@ Who provides this information and how easy it is to find may depend on where you
 
 The split setup presented new challenges during the pandemic as local officials worked to gather rapidly changing data and communicate evolving health guidance to residents.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 In places with a local health department, many of those tasks were handled by health officials on the ground. But in counties without one, some officials said they were frustrated by a lack of communication with the state and limited control over how decisions were made. As a result, a few contemplated creating their own local health departments. Some of those plans were ultimately scrapped, while other counties are still considering how to move forward.
 
@@ -46,7 +46,7 @@ If you live anywhere else, you get services directly from the state Department o
 
 State law requires local health departments to provide basic public and environmental health services. This can include programs to manage communicable diseases like tuberculosis or sexually transmitted infections, oversight of water supplies and pollution, inspections of swimming pools and restaurants, and monitoring diseases transmitted by animals or insects like rabies or Lyme.
 
-If you live somewhere without a local health department, the state provides similar services through a network of six health districts and 60 health centers. As state spending on public health has dwindled over the past decade, however, some of those services have been <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-investigation-contact-tracing-nurses-budget-cuts/">stretched thin</a>.
+If you live somewhere without a local health department, the state provides similar services through a network of six health districts and 60 health centers. As state spending on public health has dwindled over the past decade, however, some of those services have been <a href="https://lesspage.com/news/2020/04/pennsylvania-coronavirus-investigation-contact-tracing-nurses-budget-cuts/">stretched thin</a>.
 
 Pennsylvania has about 170 community health nurses — 50 of whom are temporary hires performing pandemic-related duties — 30 contracted case investigators, and 27 clerical support staff to serve roughly half of the state, according to information provided by the health department in February. That’s roughly one full-time nurse for every 58,000 people relying on state health department services.
 
@@ -76,7 +76,7 @@ That’s because even health departments that have a similar structure might hav
 
 It’s hard to tell from COVID-19 case data alone because many factors, like population size and density, affect those figures. However, there is anecdotal evidence that shows local health departments had some advantages.
 
-Throughout the pandemic, state health officials <a href="https://www.spotlightpa.org/news/2020/08/pa-coronavirus-tom-wolf-transparency-public-records/">have argued</a> they can’t release certain information because of the 1955 Disease Prevention and Control Law, which allows the Pennsylvania health department to withhold information to protect individuals’ privacy.
+Throughout the pandemic, state health officials <a href="https://lesspage.com/news/2020/08/pa-coronavirus-tom-wolf-transparency-public-records/">have argued</a> they can’t release certain information because of the 1955 Disease Prevention and Control Law, which allows the Pennsylvania health department to withhold information to protect individuals’ privacy.
 
 This at times made it difficult for local officials to get basic data related to the spread of the coronavirus — including case counts and demographic details — in their own communities.
 
@@ -132,7 +132,7 @@ Financial commitments have long been a sticking point for counties considering a
 
 In <a href="https://www.mcall.com/health/mc-hea-lehigh-county-health-bureau-discussion-20211214-j7bk2ouxdrfxvnu67jnwkns5mm-story.html">Lehigh</a> and <a href="https://www.mcall.com/opinion/mc-opi-northampton-county-brighter-future-20220206-tvfnzblvobds3aemlikiuhnzka-story.html">Northampton</a> Counties, discussions about establishing new health departments are ongoing. And while the pandemic prompted other counties to consider creating their own local health departments, some of those plans were either scrapped or scaled back.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Facing similar challenges during the pandemic, commissioners from seven counties in the southwest <a href="https://www.post-gazette.com/news/health/2021/05/10/southestern-western-pennsylvania-Seven-counties-working-solutions-pandemic-challenges-regional-health-department/stories/202104300107">met last year</a> to discuss the potential of starting a regional health department.
 
@@ -140,7 +140,7 @@ Those plans were tabled after it became apparent that the price tag would exceed
 
 When Vaughan spoke with Spotlight PA, she wasn’t able to put a dollar amount on how much establishing regional or individual county health departments could cost.
 
-But in Greene County, <a href="https://www.spotlightpa.org/news/2021/03/pa-greene-county-broke-tax-increase-gas-payouts-businesses/">where officials during the pandemic raised property taxes</a> for the first time since 2010, any additional cost is out of the question.
+But in Greene County, <a href="https://lesspage.com/news/2021/03/pa-greene-county-broke-tax-increase-gas-payouts-businesses/">where officials during the pandemic raised property taxes</a> for the first time since 2010, any additional cost is out of the question.
 
 “I’d say it’s off the table for us,” Commissioner Mike Belding said. “We just can’t afford that.”
 
@@ -150,4 +150,4 @@ In Lancaster County, the three-member county board of commissioners scrapped pla
 
 Instead, commissioners voted 2-1 to create a health advisory council, made up of volunteers, that would report directly to the board. The council would not have the authority to enact or enforce policy, speak on behalf of the county, or spend any county funds, according to a charter document.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

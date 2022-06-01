@@ -69,13 +69,13 @@ topics = ["Health"]
 {{<block name="why">}}
 ### How we investigated cannabis websites
 
-While covering the debate over Pennsylvania’s <a href="https://www.spotlightpa.org/news/2021/08/pa-opioid-addiction-medical-marijuana-research/">endorsement of cannabis as a treatment for opioid use disorder</a>, and the <a href="https://www.spotlightpa.org/series/turned-away/">unintended confusion it created</a>, Spotlight PA came across a 2020 medical journal article that examined claims made by dispensaries online.
+While covering the debate over Pennsylvania’s <a href="https://lesspage.com/news/2021/08/pa-opioid-addiction-medical-marijuana-research/">endorsement of cannabis as a treatment for opioid use disorder</a>, and the <a href="https://lesspage.com/series/turned-away/">unintended confusion it created</a>, Spotlight PA came across a 2020 medical journal article that examined claims made by dispensaries online.
 
 In the study, epidemiologist Chelsea L. Shover and her colleagues found that unsupported medical claims about using cannabis to treat opioid use disorder are more prevalent in states like Pennsylvania, <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2768239">where the condition is an official qualifying condition.</a>
 
 Spotlight PA decided to conduct its own review of websites that promoted cannabis dispensaries, as well as those for physicians and certification companies.
 
-<a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-cannabis-websites-investigation-how-why/">READ MORE</a>
+<a href="https://lesspage.com/news/2022/02/pennsylvania-cannabis-websites-investigation-how-why/">READ MORE</a>
 {{</block>}}
 
 <script defer>
@@ -194,7 +194,7 @@ Health department spokesperson Maggi Barton said the agency “continues to work
 
 Barton said the department does not have enforcement power over cannabis certification companies like Releaf Specialists and Compassionate Certification Centers, which connect people to doctors who make consequential treatment decisions.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20a%20cannabis%20company%20publishing%20%3Cb%3Emisleading%2C%20false%2C%20or%20dangerous%20statements%3C%2Fb%3E%20about%20medical%20marijuana%20and%20addiction%3F%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20a%20cannabis%20company%20publishing%20%3Cb%3Emisleading%2C%20false%2C%20or%20dangerous%20statements%3C%2Fb%3E%20about%20medical%20marijuana%20and%20addiction%3F%20We%20want%20to%20hear%20from%20you."></div>
 
 {{<featured/hr>}}
 ### ‘False hope’

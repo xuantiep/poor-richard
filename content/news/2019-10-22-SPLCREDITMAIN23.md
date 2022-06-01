@@ -50,7 +50,7 @@ Scarnati was 43 days from re-election and 4,300 miles from his constituents in h
 
 Under Pennsylvania election law, campaign accounts must be used for “influencing the outcome of an election.” But what qualifies is largely open to interpretation. For Scarnati, a Jefferson County Republican with enormous influence over how tax dollars are spent, it’s the kind of dining on someone else’s dime that might have given voters pause — had they known about it.
 
-A year-long investigation by The Caucus and [Spotlight PA](https://www.spotlightpa.org/) found lawmakers across the state are shielding sometimes lavish campaign spending by not reporting the details to the public, making it extremely difficult for voters and donors to assess how the money was spent and if that spending was appropriate.
+A year-long investigation by The Caucus and [Spotlight PA](https://lesspage.com/) found lawmakers across the state are shielding sometimes lavish campaign spending by not reporting the details to the public, making it extremely difficult for voters and donors to assess how the money was spent and if that spending was appropriate.
 
 From 2016 through 2018, state House and Senate candidates spent nearly $3.5 million that cannot be fully traced based on the information they publicly disclosed, according to thousands of pages of records obtained by the news organizations. Charges included foreign trips, sports tickets, limos, lavish dinners, fine wines and liquor, country club memberships and a DNA test kit.
 
@@ -58,15 +58,15 @@ In many cases, the expenditures were listed on publicly available campaign finan
 
 “It seems to me that when somebody digs deep into their pockets to contribute to a political campaign, my guess is that they want it to be for policy as opposed to ensure that someone gets beers and brats in Germany,” said Terry Mutchler, a First Amendment lawyer and former director of the state Office of Open Records. “A 12th grader can figure out that there is a problem here and that it leaves room for gaming the system.”
 
-Pennsylvania lawmakers operate under some of the country’s weakest campaign finance laws. The state is the only one with neither contribution limits nor an explicit ban on spending campaign cash for personal use, according to a nationwide survey by The Caucus and [Spotlight PA](https://www.spotlightpa.org/).
+Pennsylvania lawmakers operate under some of the country’s weakest campaign finance laws. The state is the only one with neither contribution limits nor an explicit ban on spending campaign cash for personal use, according to a nationwide survey by The Caucus and [Spotlight PA](https://lesspage.com/).
 
 <div id="container-vis-map-tile-usa-campaign-finance1"></div>
 
 Over the years, Pennsylvania state lawmakers have dismissed efforts to impose more restrictions, arguing they are unnecessary as long as details about where the money comes from, and how it is spent, are available to the public.
 
-But the investigation by The Caucus and [Spotlight PA](https://www.spotlightpa.org/) found  lawmakers are falling well short of their end of the bargain.
+But the investigation by The Caucus and [Spotlight PA](https://lesspage.com/) found  lawmakers are falling well short of their end of the bargain.
 
-**» _DONATE NOW_** _and_ [_support future investigations by Spotlight PA_](https://www.spotlightpa.org/donate/) _that hold the powerful in Pennsylvania to account._ [_Become a Founding Donor now_](https://www.spotlightpa.org/donate/) _and support our team of investigative journalists._
+**» _DONATE NOW_** _and_ [_support future investigations by Spotlight PA_](https://lesspage.com/donate/) _that hold the powerful in Pennsylvania to account._ [_Become a Founding Donor now_](https://lesspage.com/donate/) _and support our team of investigative journalists._
 
 House Speaker Mike Turzai, R., Allegheny, used a credit card to buy more than $3,500 in gift cards, for which no other documentation was available.
 
@@ -102,11 +102,11 @@ What’s more, there’s little enforcement of the rules that do exist. Just thr
 
 Campaigns are supposed to keep “vouchers” of their spending for the previous three years, and — if requested by a member of the public — they are supposed to make them available. The state department interprets vouchers to mean receipts, yet there’s no requirement they be itemized, and there’s no penalty if the candidates don’t keep them on file as required.
 
-Reporters for The Caucus and [Spotlight PA](https://www.spotlightpa.org/) put that little-known provision of the law to the test, requesting credit card statements and receipts for campaigns with the highest amounts of obscured spending. The records provided form the basis of this investigation.
+Reporters for The Caucus and [Spotlight PA](https://lesspage.com/) put that little-known provision of the law to the test, requesting credit card statements and receipts for campaigns with the highest amounts of obscured spending. The records provided form the basis of this investigation.
 
 <div data-analytics-viewport="autotune" data-analytics-label="dark-spending-top-20" id="dark-spending-top-20__graphic" data-iframe-fallback="https://media.inquirer.com/storage/inquirer/ai2html/dark-spending-top-20/fallback-mobile.jpg" data-iframe-fallback-width="350" data-iframe-fallback-height="814.001071236929" data-iframe="https://media.inquirer.com/storage/inquirer/ai2html/dark-spending-top-20/index.html" data-iframe-height="814.001071236929" data-iframe-resizable></div>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Allowing lawmakers to shield their spending “is a huge impediment to transparency,” said Craig Holman, a lobbyist for the Washington D.C.-based reform group Public Citizen, adding: “And the greatest damage is that it discourages the public and the press from seeing how campaign funds are spent. It is a very serious obstacle to public information.”
 
@@ -122,7 +122,7 @@ Tightening restrictions and improving disclosure in Pennsylvania, however, would
 
 ## Running up the tab
 
-As part of the investigation, The Caucus and [Spotlight PA](https://www.spotlightpa.org/) found more than 4,800 instances of obscured spending by nearly 300 campaigns. The purchases covered everything from the mundane, such as political consultants and yard signs, to the lavish and downright bizarre.
+As part of the investigation, The Caucus and [Spotlight PA](https://lesspage.com/) found more than 4,800 instances of obscured spending by nearly 300 campaigns. The purchases covered everything from the mundane, such as political consultants and yard signs, to the lavish and downright bizarre.
 
 Take the $146 promotional photo with ’70s trio Tony Orlando and Dawn and the $10 ultraviolet dog urine detector. Or the $5,184 trip to Las Vegas and the $2,123 worth of wine shipped from Napa Valley to southeastern Pennsylvania.
 

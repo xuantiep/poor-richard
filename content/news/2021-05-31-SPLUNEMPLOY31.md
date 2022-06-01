@@ -17,7 +17,7 @@ suppress-featured = false
 title = "Anxiety runs high as Pa. begins massive overhaul of 60-year-old unemployment computer system"
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — <i>“I feel like I am a sinking ship right now.”</i>
 
@@ -37,7 +37,7 @@ But technology experts and unemployment advocates are warning that the state’s
 
 “It just introduces this immense new volume of problems into a system that is already overwhelmed with problems, and that is if it is working reasonably well,” said Sharon Dietrich, a lawyer with Community Legal Services in Philadelphia. “What if it doesn’t?”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The overhaul is the heart of a $35 million contract with Florida-based Geographic Solutions Inc., which is leading the project and will manage the new system. Residents will not be able to file new state unemployment claims from May 31 through June 7, and people with continuing claims <a href="https://www.uc.pa.gov/unemployment-benefits/UCBenMod/Pages/Offline-Transition-Information.aspx">will not be able to file</a> from June 3 through June 7. The new system is to be up and running June 8.
 
@@ -87,7 +87,7 @@ Jaquith said the state is using a “Big Bang” approach, by shutting down the 
 
 “One hundred percent of the time I advise against these things where you just flip a switch,” he said. “You are just setting yourselves up for trouble.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## ‘Rubber bands and duct tape’
 
@@ -129,7 +129,7 @@ Berrier said the old system is held together with “rubber bands and duct tape.
 
 “Frankly, during this entire pandemic, we were basically crossing our fingers with our legacy mainframe system as we were making changes to it,” she said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=If%20you%20face%20difficulties%20using%20the%20new%20system%20come%20June%208%2C%20we%20want%20to%20hear%20from%20you.%20"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=If%20you%20face%20difficulties%20using%20the%20new%20system%20come%20June%208%2C%20we%20want%20to%20hear%20from%20you.%20"></div>
 
 ## Another massive contract
 
@@ -157,4 +157,4 @@ At an advisory committee meeting for the new system on May 26, Saralinda Bauer, 
 
 “This is, overall, a high-risk project,” she said. “That does not mean we cannot continue to go forward with ‘go live.’”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

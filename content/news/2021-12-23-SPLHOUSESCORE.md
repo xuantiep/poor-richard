@@ -18,25 +18,25 @@ title = "See how the proposed Pennsylvania state House map scores in every key a
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A proposed redrawing of the Pennsylvania House map improves on fairness metrics as mandated by the state constitution, while creating more districts that could be won by Democrats.
 
 The preliminary map was approved in a hotly contested, split vote by the five-member Legislative Reapportionment Commission. The two Democratic legislative leaders on the panel voted yes while their Republican counterparts voted no, with House Majority Leader Kerry Benningoff (R., Centre) calling it a partisan gerrymander.
 
-The commission’s nonpartisan chair, former University of Pittsburgh chancellor Mark Nordenberg, <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-house-senate-maps/">cast the tie-breaking vote during the Dec. 16 meeting</a>.
+The commission’s nonpartisan chair, former University of Pittsburgh chancellor Mark Nordenberg, <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-house-senate-maps/">cast the tie-breaking vote during the Dec. 16 meeting</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “The main goal of the constitution is not to ensure that there is a fair fight between leaders of opposing parties every 10 years, but instead to facilitate what will be a good reapportionment result for the people of Pennsylvania,” he said.
 
-The public has until Jan. 16 to <a href="https://www.redistricting.state.pa.us/">provide feedback</a>, while the panel plans to hold hearings before it amends the map and takes a final vote. The map could then be challenged in court. The state’s congressional map is <a href="https://www.spotlightpa.org/news/2021/12/pa-congressional-maps-proposed-redistricting/">created and approved in a separate process</a>.
+The public has until Jan. 16 to <a href="https://www.redistricting.state.pa.us/">provide feedback</a>, while the panel plans to hold hearings before it amends the map and takes a final vote. The map could then be challenged in court. The state’s congressional map is <a href="https://lesspage.com/news/2021/12/pa-congressional-maps-proposed-redistricting/">created and approved in a separate process</a>.
 
 While Republicans believe the proposal is unfair to members of their party, fairness standards as mandated under the state constitution and embraced by the courts show it represents an improvement over the current map.
 
 The Pennsylvania Constitution explicitly lists four requirements for state House and Senate districts: compactness, contiguity, minimal splits, and equal population. Here’s how the proposal stacks up on those and other measures:
 
-<i><b>&gt;&gt; MY MAP: </b></i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/" target="_blank"><i><b>Search now to see your old and new legislative districts</b></i></a>
+<i><b>&gt;&gt; MY MAP: </b></i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/" target="_blank"><i><b>Search now to see your old and new legislative districts</b></i></a>
 
 ## Compactness
 
@@ -82,13 +82,13 @@ Another factor is the average percentage of votes that a party receives in order
 
 Competitiveness indicates how many districts have an even balance between Democratic and Republican voters, resulting in no party’s dominance in the area. Redistricting advocates believe that districts with this composition will be represented by legislators who are more responsive to voters, as their districts are less “safe.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 <b>The Princeton Gerrymandering Project gave the proposed map an F grade on competitiveness</b>, finding only 17 districts are “competitive.” Dave’s Redistricting also rated the map as less competitive, labeling only 13.56% of its districts as competitive as compared to the current map’s 18.65%. Both are still a far cry from what Dave’s Redistricting calls a good level of competitive districts, around 75%.
 
 ## Minority representation
 
-Properly representing communities of color, <a href="https://www.spotlightpa.org/news/2021/11/pa-redistricting-latino-representation-political-power/">which are driving Pennsylvania’s population growth</a>, was a topic of high importance during the Legislative Reapportionment Commission’s meetings.
+Properly representing communities of color, <a href="https://lesspage.com/news/2021/11/pa-redistricting-latino-representation-political-power/">which are driving Pennsylvania’s population growth</a>, was a topic of high importance during the Legislative Reapportionment Commission’s meetings.
 
 When possible, mapmakers aim to create majority-minority districts — those where the majority population is constituted by a minority group.
 
@@ -98,4 +98,4 @@ In total, there are 25 districts where either one minority community or a coalit
 
 <b>But the proposed map also creates 19 districts with minority populations that are greater than 35%, creating a meaningful voting bloc, while the current map has only 13.</b>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -40,11 +40,11 @@ In the waning days of summer 2016, just weeks after major legislation expanded P
 
 The leader of the state Senate, Joe Scarnati, along with former Republican Sens. Chuck McIlhinney and Richard Alloway, arrived in London on Sept. 20 and made stops in Belgium and Austria before ending up in Munich, during Oktoberfest.
 
-The cost of the trip, totaling at least $15,300, was uncovered as part of a year-long investigation by The Caucus and [Spotlight PA](https://www.spotlightpa.org/) that examined [how Pennsylvania’s most powerful state lawmakers have obscured details of how and where they spend their campaign money.](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
+The cost of the trip, totaling at least $15,300, was uncovered as part of a year-long investigation by The Caucus and [Spotlight PA](https://lesspage.com/) that examined [how Pennsylvania’s most powerful state lawmakers have obscured details of how and where they spend their campaign money.](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
 
-The investigation found nearly $3.5 million in expenses from 2016 through 2018 that could not be traced to the ultimate recipient based on publicly filed campaign finance reports. They included [overseas and cross-country travel, sports tickets, limos, dinners, cuff links and country club memberships.](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
+The investigation found nearly $3.5 million in expenses from 2016 through 2018 that could not be traced to the ultimate recipient based on publicly filed campaign finance reports. They included [overseas and cross-country travel, sports tickets, limos, dinners, cuff links and country club memberships.](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
 
-<strong><em>» READ MORE: </em></strong><a href="https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/"><strong><em>Lavish dinners, sports tickets, and nearly $3.5 million other expenses by Pa. lawmakers you’ve never seen</em></strong></a>
+<strong><em>» READ MORE: </em></strong><a href="https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/"><strong><em>Lavish dinners, sports tickets, and nearly $3.5 million other expenses by Pa. lawmakers you’ve never seen</em></strong></a>
 
 Among the hidden spending, however, the European trip stood out.
 
@@ -64,7 +64,7 @@ McIlhinney — then the chairman of the Senate Law and Justice Committee, which 
 
 “After I made the changes, I went and pursued some of the larger national corporations that we were dealing with… The wine people, the liquor people, the beer guys,” he said. “We were in pursuit of high-end donors.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Asked if he thought it was a conflict to change the law and then fundraise off of it, he said, “That’s the million-dollar question.”
 

@@ -18,7 +18,7 @@ title = "Stress, delays, and confusion still plague jobless in Pennsylvania, and
 topics = ["Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Sandra Huffman was cleaning St. Luke’s hospital in Quakertown, gloved and maskless, when she got sick last March. It felt as though a film of spiderwebs had caked her throat, she said. At 54, she was sleeping upright in bed, breathing through a borrowed nebulizer, and drinking an old family remedy of fat Spanish onions congealed in sugar.
 
@@ -26,7 +26,7 @@ She sold her ’86 Chevy Mallard RV, then her mother’s gold jewelry. By late s
 
 “Trying to get a job without a vehicle in rural PA, it is scary,” Huffman said. “We just basically sold or traded everything we owned. There wasn’t a lot of information that filtered down to us. That’s how we got by.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Pandemic unemployment benefits were a lifeline to Huffman and more than 400,000 other Pennsylvanians who don’t qualify for traditional unemployment. But payments stalled the day after Christmas because former President Donald Trump delayed their extension. Then, Huffman said, her claim disappeared from the state’s unemployment computer portal — a system that dates back to 1968.
 
@@ -48,7 +48,7 @@ Rep. Timothy O’Neal, (R., Washington), who called for an investigation into th
 
 “The department, with their antiquated system, wasn’t ready. They weren’t ready for any stress on the system, especially the magnitude we ended up seeing,” O’Neal said. “This safety net throughout the Commonwealth was simply failing.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## Feeling the strain
 
@@ -98,7 +98,7 @@ Those without a college or high school degree, and people with disabilities, als
 
 “All those factors — of education, career, and access to infrastructure — studies have shown are associated with structural racism,” said Timothy Kelsey, a professor of agricultural economics at Penn State, who led the research. “We strongly suspect those issues underline the differences here.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Have%20you%20had%20problems%20getting%20unemployment%20compensation%20benefits%2C%20or%20worked%20at%20the%20PA%20Department%20of%20Labor%20%26%20Industry%20and%20seen%20problems%20first-hand%3F%20Send%20us%20a%20tip."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Have%20you%20had%20problems%20getting%20unemployment%20compensation%20benefits%2C%20or%20worked%20at%20the%20PA%20Department%20of%20Labor%20%26%20Industry%20and%20seen%20problems%20first-hand%3F%20Send%20us%20a%20tip."></div>
 
 
 ## The privilege of working from home
@@ -135,4 +135,4 @@ Rep. Joe Ciresi (D., Montgomery), who has also called for an investigation into 
 
 “These are our taxpayers,” Ciresi said. “We have an obligation to make sure these departments are well-funded and well-staffed and that is where the ball dropped.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -15,7 +15,7 @@ kicker = "Coronavirus"
 suppress-featured = true
 topics = ["Coronavirus"]
 +++
-<i>This story was produced as part of a joint effort among [Spotlight PA](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/"), [LNP Media Group](https://lancasteronline.com/ "https\://lancasteronline.com/"), [PennLive](https://www.pennlive.com/ "https\://www.pennlive.com/"), [PA Post](https://papost.org/ "https\://papost.org/"),  and [WITF](https://www.witf.org/ "https\://www.witf.org/") to cover how Pennsylvania state government is responding to the coronavirus. [Sign up for Spotlight PA’s newsletter.](https://www.spotlightpa.org/newsletters "https\://www.spotlightpa.org/newsletters")</i>
+<i>This story was produced as part of a joint effort among [Spotlight PA](https://lesspage.com/ "https\://lesspage.com/"), [LNP Media Group](https://lancasteronline.com/ "https\://lancasteronline.com/"), [PennLive](https://www.pennlive.com/ "https\://www.pennlive.com/"), [PA Post](https://papost.org/ "https\://papost.org/"),  and [WITF](https://www.witf.org/ "https\://www.witf.org/") to cover how Pennsylvania state government is responding to the coronavirus. [Sign up for Spotlight PA’s newsletter.](https://lesspage.com/newsletters "https\://lesspage.com/newsletters")</i>
 
 HARRISBURG — Inmate advocacy groups and corrections officers alike are worried that a coronavirus outbreak inside Pennsylvania’s state prisons is an inevitability, and that should one occur, it could spread quickly because of the difficulty of practicing “social distancing.”
 
@@ -31,7 +31,7 @@ Blackwell said inmate movement is “putting all our staff and inmates at risk.�
 
 Advocates for those incarcerated in the prisons, meanwhile, said those serving time behind bars are particularly vulnerable should the virus take hold.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 "Environments of a prison are the perfect transmittal ground, and they are exactly where this virus is going to be the most pervasive and severe once it gets in," said Claire Shubik-Richards, executive director of the Pennsylvania Prison Society, a Philadelphia-based advocacy group.
 
@@ -63,7 +63,7 @@ He’s also worried about the lack of access to antibacterial soap, which costs 
 
 “Some guys can’t afford the soap from the commissary,” he said
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Finn said inmates are producing roughly 4,000 bars each week through Pennsylvania Correctional Industries and that soap is provided free of charge.
 
@@ -85,4 +85,4 @@ Blackwell said the union has reached out to the department to request extra ince
 
 <i>Spotlight PA staff writer Angela Couloumbis contributed to this story.
 
-<b>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://www.spotlightpa.org/donate "https\://www.spotlightpa.org/donate").</i>
+<b>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://lesspage.com/donate "https\://lesspage.com/donate").</i>

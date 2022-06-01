@@ -54,7 +54,7 @@ Brown declined a request for an interview, but said in response to emailed quest
 
 “The election prospects of a senator often depend upon the senator’s success as a legislator, which is in part a function of the effective work of the senator’s staff,” she wrote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Barry Kauffman, who led Common Cause Pennsylvania for decades before retiring in 2016, said the political goodwill argument “generally doesn’t cut the mustard.”
 
@@ -64,7 +64,7 @@ Brown’s purchases were uncovered as part of a year-long investigation by the C
 
 As part of the investigation, the news organizations requested statements and receipts from Scarnati’s campaign and those of other top lawmakers from 2016 through 2018. In some cases, the expenditures were publicly listed with broad descriptions such as “credit card,” “meals,” or “campaign expenses,” and a total amount, with no other details.
 
-<b>» </b><i><b>DONATE NOW and </b></i><a href="https://www.spotlightpa.org/donate/"><i><b>support future investigations by Spotlight PA</b></i></a><i><b> that hold the powerful in Pennsylvania to account. </b></i><a href="https://www.spotlightpa.org/donate/"><i><b>Become a Founding Donor </b></i></a><i><b>and support our investigative journalists.</b></i>
+<b>» </b><i><b>DONATE NOW and </b></i><a href="https://lesspage.com/donate/"><i><b>support future investigations by Spotlight PA</b></i></a><i><b> that hold the powerful in Pennsylvania to account. </b></i><a href="https://lesspage.com/donate/"><i><b>Become a Founding Donor </b></i></a><i><b>and support our investigative journalists.</b></i>
 
 In the case of Brown, public disclosure forms do not detail her expenses or make it known that she’s the one spending the money.
 

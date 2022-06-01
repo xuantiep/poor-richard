@@ -19,7 +19,7 @@ title = "Pa. Election Day 2022: Why independents can’t vote for candidates thi
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — When Diana Dakey registered to vote in Pennsylvania, she chose to tick the box that would leave her without a political party.
 
@@ -27,7 +27,7 @@ HARRISBURG — When Diana Dakey registered to vote in Pennsylvania, she chose to
 
 However, with that choice, Dakey knew that she would forgo the ability to vote for candidates in any primary election. Over a million other Pennsylvanians have made that same decision.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Pennsylvania is one of only nine states with a closed primary system. People who register without a party affiliation or with smaller third parties, such as the Green or the Libertarian Party, are unable to vote for Democratic or Republican candidates in the spring races that determine who runs in the general election.
 
@@ -75,7 +75,7 @@ He told Spotlight PA that he still approves of the legislation but wants to lear
 
 Argall is referring to crossover voting, which allows voters who are registered with one major party to vote in another’s primary. The bill pending in Pennsylvania would not allow this.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Jenn Bullock, director of Independent Pennsylvanians — an organization that advocates for expanding voting rights for unaffiliated Pennsylvanians — said fears about some voters spoiling elections does not justify disenfranchising more than a million people.
 
@@ -89,4 +89,4 @@ Bullock said this bill should only be a stepping stone on the path to expanding 
 
 “The ideal is that voting rights are not connected to … your party registration at all across the board. So the bill now is … a little bit low-hanging fruit,” Bullock said. “It’s one step towards unlocking voting rights and election participation from the two private parties.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

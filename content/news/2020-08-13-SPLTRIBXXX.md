@@ -19,7 +19,7 @@ title = "Spotlight PA partners with Triblive/Pittsburgh Tribune-Review, expands 
 topics = ["Editor's Notes"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and Triblive/Pittsburgh Tribune-Review. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and Triblive/Pittsburgh Tribune-Review. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 The drive between Harrisburg and Pittsburgh is a haul, even for the leadfoots among us. Depending on the weather, the steep climb through the mountains can be a tad treacherous, and the train runs so infrequently it hardly seems a good option. And yet, the connection between the two cities is more important than ever.
 
@@ -29,7 +29,7 @@ Today, I’m proud to announce a new partnership with <a href="https://www.tribl
 
 The addition of Triblive/Pittsburgh Tribune-Review to Spotlight PA — Pennsylvania’s largest statewide news organization dedicated to accountability journalism on the Capitol and urgent statewide issues — is the centerpiece of our bold new commitment to the western half of the state. We now provide our journalism free of charge to 20 newsrooms in the region, which account for nearly half of our 47 newsroom partners statewide.
 
-Spotlight PA’s high-quality, public-service journalism from the capital allows local newsrooms to keep their resources focused on their local communities, while providing their readers a more robust news report each day. But this uniquely collaborative effort in Pennsylvania relies on your support. <b>Help shine a light on injustice and hold the powerful to account by </b><a href="https://www.spotlightpa.org/donate" target=_blank><b>becoming a monthly donor to Spotlight PA today</b></a><b>.</b>
+Spotlight PA’s high-quality, public-service journalism from the capital allows local newsrooms to keep their resources focused on their local communities, while providing their readers a more robust news report each day. But this uniquely collaborative effort in Pennsylvania relies on your support. <b>Help shine a light on injustice and hold the powerful to account by </b><a href="https://lesspage.com/donate" target=_blank><b>becoming a monthly donor to Spotlight PA today</b></a><b>.</b>
 
 “We are honored to be part of the Spotlight PA team,” said Jennifer Bertetto, president and CEO of Trib Total Media. “What Spotlight has accomplished in the past year shows the power of joining forces to multiply our strengths. Covering Harrisburg well is essential to our mission to serve Southwestern Pennsylvania, and we look forward to a long partnership with our colleagues across the state.”
 
@@ -41,7 +41,7 @@ Additionally, Spotlight PA recently <a href="https://web.archive.org/web/2022050
 
 Filling that need was the founding principle of Spotlight PA, a centralized team of highly talented journalists covering all aspects of the state government and urgent statewide issues, in collaboration — and not competition — with other newsrooms across Pennsylvania.
 
-<i><b>» YOU POWER OUR WORK: </b></i><i>The kind of accountability reporting we provide for free to communities across the state is more important than ever. </i><a href="https://www.spotlightpa.org/donate" target=_blank><i>Help us hold the powerful to account and </i></a><a href="https://www.spotlightpa.org/donate"><i>become a donor now</i></a><i>.</i>
+<i><b>» YOU POWER OUR WORK: </b></i><i>The kind of accountability reporting we provide for free to communities across the state is more important than ever. </i><a href="https://lesspage.com/donate" target=_blank><i>Help us hold the powerful to account and </i></a><a href="https://lesspage.com/donate"><i>become a donor now</i></a><i>.</i>
 
 Our commitment to Western Pennsylvania has never been stronger, but the path forward required some difficult choices. Earlier this year, Post-Gazette management approached us about removing their reporter and exiting the Spotlight PA collaboration. For a number of reasons, we agreed and their exit was effective July 17.
 
@@ -51,6 +51,6 @@ Because by holding the powerful to account, Spotlight PA’s journalism can help
 
 <i>Christopher Baxter is the editor in chief of Spotlight PA. You can reach him at </i><a href="mailto:cbaxter@spotlightpa.org" target=_blank><i>cbaxter@spotlightpa.org</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20or%20story%20Spotlight%20PA%20should%20investigate%3F%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20or%20story%20Spotlight%20PA%20should%20investigate%3F%20We%20want%20to%20hear%20from%20you."></div>
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

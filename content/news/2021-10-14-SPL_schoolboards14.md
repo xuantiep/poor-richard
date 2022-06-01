@@ -18,7 +18,7 @@ title = "A basic guide to vetting your local candidates in Pennsylvania’s 2021
 topics = ["Education", "Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — School board races across Pennsylvania are receiving an unusually high level of attention this fall because of the extreme views of many candidates.
 
@@ -26,7 +26,7 @@ In Bucks County, a candidate running for Palisades School District said on socia
 
 In Chester County, a candidate for Downingtown School District has used false and misleading talking points to oppose schools’ COVID-19 safety measures — though he’s not the only one.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 And across the state, Back to School PA, a political action committee that seeks to hold elected officials accountable for “unnecessary school closures,” is pouring money into dozens of races. Some candidates endorsed by the PAC say they oppose “<a href="https://www.reuters.com/legal/government/what-critical-race-theory-means-why-its-igniting-debate-2021-09-21/">critical race theory</a>,” a concept often taught in law schools that studies the ways that racism shapes U.S. policies and institutions. In the past year, the term has become a buzzword for any curriculum or effort that mentions race.
 
@@ -46,7 +46,7 @@ Social media accounts sometimes give a more personal look into a candidate’s v
 
 You can also use Facebook’s ad library to explore <a href="https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&media_type=all">how candidates or political groups boost their messages across </a>the platform.
 
-News articles can offer you a more in-depth look at a candidate, detail how a community perceives them, and raise any potential red flags about the candidate’s beliefs or affiliations. But it’s important to <a href="https://www.spotlightpa.org/news/2021/03/pa-news-partisan-republican-democrat-newsguard-lenfest-outlets-trust-credibility/">vet the trustworthiness and accuracy</a> of the news source. To learn how to vet your sources, read this guide to <a href="https://guides.library.cornell.edu/evaluate_news/fakenews">spotting false information</a> by Cornell University, and this guide to <a href="https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview">analyzing a news source</a> by Melissa Zimdars, a communications professor who researches misinformation.
+News articles can offer you a more in-depth look at a candidate, detail how a community perceives them, and raise any potential red flags about the candidate’s beliefs or affiliations. But it’s important to <a href="https://lesspage.com/news/2021/03/pa-news-partisan-republican-democrat-newsguard-lenfest-outlets-trust-credibility/">vet the trustworthiness and accuracy</a> of the news source. To learn how to vet your sources, read this guide to <a href="https://guides.library.cornell.edu/evaluate_news/fakenews">spotting false information</a> by Cornell University, and this guide to <a href="https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview">analyzing a news source</a> by Melissa Zimdars, a communications professor who researches misinformation.
 
 ## Take a deeper dive
 
@@ -62,7 +62,7 @@ Candidates for local positions have to file financial reports, too, but they onl
 
 If the records you seek are not accessible online, you can contact the county election office. If they’re only accessible in person, you will have to take time out of your day to visit the election office and review the documents.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 ## Try it yourself
@@ -73,4 +73,4 @@ Spotlight PA plans to gather candidates’ campaign finance reports in 10 counti
 
 Plan to test out what you learned here? <a href="mailto:tips@spotlightpa.org">Let us know what you find</a>.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

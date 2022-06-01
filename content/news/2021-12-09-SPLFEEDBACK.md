@@ -17,11 +17,11 @@ title = "How to weigh in on Pennsylvania’s next congressional map"
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — Pennsylvania’s first proposed congressional map has arrived.
 
-The map was picked by House Republicans from among 19 citizen submissions and was <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-congressional-map-gop-proposal/">drawn by former Lehigh County Republican Commissioner Amanda Holt</a>, a well-known redistricting reform advocate.
+The map was picked by House Republicans from among 19 citizen submissions and was <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-congressional-map-gop-proposal/">drawn by former Lehigh County Republican Commissioner Amanda Holt</a>, a well-known redistricting reform advocate.
 
 The redistricting process will now kick into high gear, as lawmakers hold hearings and begin to take votes while considering additional public input.
 
@@ -55,4 +55,4 @@ The House State Government Committee has a <a href="http://www.paredistricting.c
 
 You can also find information about votes on the map, changes to the districts, and more by <a href="https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2021&sInd=0&body=H&type=B&bn=2146">following the legislation page</a>.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

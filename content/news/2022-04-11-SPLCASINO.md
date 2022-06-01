@@ -196,7 +196,7 @@ The bill that Tomlinson introduced at the end of the month contained near-identi
 
 The next year, when the pandemic began, legislative activity focused on dealing with its fallout.
 
-But by that summer, as budget negotiations unfolded, top GOP leaders in the state Senate, including then-Majority Leader Jake Corman of Centre County, began pushing behind the scenes for a <a href="https://www.spotlightpa.org/news/2020/06/joe-scarnati-golden-entertainment-gambling-expansion-vgts-senate-republicans/">gambling expansion</a> bill that would legalize, regulate, and tax skill games.
+But by that summer, as budget negotiations unfolded, top GOP leaders in the state Senate, including then-Majority Leader Jake Corman of Centre County, began pushing behind the scenes for a <a href="https://lesspage.com/news/2020/06/joe-scarnati-golden-entertainment-gambling-expansion-vgts-senate-republicans/">gambling expansion</a> bill that would legalize, regulate, and tax skill games.
 
 Parx’s lobbyists quickly went to work, emails show.
 
@@ -210,7 +210,7 @@ Minutes later, at 7:46 a.m., Gmerek emailed one of his associates and copied Ste
 
 The emails do not show whether the talking points made their way to Tomlinson, and whether he used them. That morning, however, <a href="https://www.pennlive.com/business/2020/06/gamblings-next-wave-pa-senate-starts-closed-door-discussions-on-plan-to-permit-bars-other-liquor-licensees-to-host-slots-style-video-gaming-terminals.html">Republican senators met behind closed doors </a>to discuss the plan, with Tomlinson telling PennLive: “We shouldn’t be pushing this thing at all as long as our casinos aren’t up and running 100%. We are thumbing our nose at their economic distress.”
 
-<a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-gambling-video-gaming-terminals-joe-scarnati-jake-corman/">The effort fizzled</a>. But that fall, with just weeks left before the end of the 2019-20 legislative session, a key state Senate committee chaired by then-Sen. Tom Killion (R., Delaware) held a hearing on a bill championed by Corman that would legalize and regulate skill games.
+<a href="https://lesspage.com/news/2020/06/pennsylvania-gambling-video-gaming-terminals-joe-scarnati-jake-corman/">The effort fizzled</a>. But that fall, with just weeks left before the end of the 2019-20 legislative session, a key state Senate committee chaired by then-Sen. Tom Killion (R., Delaware) held a hearing on a bill championed by Corman that would legalize and regulate skill games.
 
 The day before the <a href="https://www.pasenategop.com/blog/100620-4/">Oct. 6 hearing</a>, Schafer emailed Gmerek, Stewart, and several Parx executives, including Green.
 

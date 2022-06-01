@@ -17,15 +17,15 @@ slug = "spotlight-pa-investigative-journalism-pennsylvania-awards"
 title = "Spotlight PA wins two national investigative journalism awards"
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Spotlight PA — a nonpartisan, reader-funded newsroom dedicated to covering Pennsylvania state government and urgent statewide issues — has been awarded two national investigative journalism prizes for its work on the Mariner East pipeline system and the state’s poor oversight of addiction treatment facilities.
 
-“At Risk, In the Dark,” an investigation into <a href="https://www.spotlightpa.org/series/mariner-east-pipeline/" target="_blank">how secrecy and a patchwork of emergency plans around the pipelines have left many communities in the dark</a> about what to do in case of an accident, was awarded the Al Neuharth Innovation in Investigative Journalism Award by the Online News Association.
+“At Risk, In the Dark,” an investigation into <a href="https://lesspage.com/series/mariner-east-pipeline/" target="_blank">how secrecy and a patchwork of emergency plans around the pipelines have left many communities in the dark</a> about what to do in case of an accident, was awarded the Al Neuharth Innovation in Investigative Journalism Award by the Online News Association.
 
-“Fundamental Flaws,” an investigation into <a href="https://www.spotlightpa.org/series/fundamental-flaws/" target="_blank">Pennsylvania’s flawed oversight of addiction treatment facilities</a> produced in partnership with KHN, was honored with the Best Investigative Journalism Prize by the Institute for Nonprofit News, which recognizes excellence by independent and nonprofit newsrooms.
+“Fundamental Flaws,” an investigation into <a href="https://lesspage.com/series/fundamental-flaws/" target="_blank">Pennsylvania’s flawed oversight of addiction treatment facilities</a> produced in partnership with KHN, was honored with the Best Investigative Journalism Prize by the Institute for Nonprofit News, which recognizes excellence by independent and nonprofit newsrooms.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20delivers%20original%2C%20fearless%20investigative%20reporting%20for%20Pennsylvania.%20Help%20power%20our%20next%20investigation%20by%20making%20a%20tax-deductible%20contribution%20now.&eyebrow_text=WHILE%20YOU'RE%20HERE"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20delivers%20original%2C%20fearless%20investigative%20reporting%20for%20Pennsylvania.%20Help%20power%20our%20next%20investigation%20by%20making%20a%20tax-deductible%20contribution%20now.&eyebrow_text=WHILE%20YOU'RE%20HERE"></div>
 
 In both competitions, Spotlight PA competed against newsrooms of similar size from across the United States. The awards recognize Spotlight PA’s commitment to producing high-quality investigative journalism that gets results.
 
@@ -33,4 +33,4 @@ Spotlight PA, the largest statewide news organization in Pennsylvania, was found
 
 Spotlight PA’s investigative reporting relies on the support of our readers, with every dollar donated going straight back into our 100% essential journalism. Help power our next investigation and <a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=7015G0000003ZtBQAU" target="_blank">make a tax-deductible contribution now at spotlightpa.org/donate</a>.
 
-<i>Christopher Baxter is the executive director and editor in chief of Spotlight PA. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i>Christopher Baxter is the executive director and editor in chief of Spotlight PA. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

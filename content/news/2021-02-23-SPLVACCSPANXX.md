@@ -36,23 +36,23 @@ topics = ["Coronavirus", "Español"]
   </a>
 </figure>
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> es una sala de redacción independiente y no partidista impulsada por The Philadelphia Inquirer en asociación con PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review y WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Inscríbete sin costo a nuestros boletines</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> es una sala de redacción independiente y no partidista impulsada por The Philadelphia Inquirer en asociación con PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review y WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Inscríbete sin costo a nuestros boletines</i></a><i>.</i>
 
-<i>A version of this story in English is available </i><a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-coronavirus-vaccine-questions-answers-explainer-variants/" target="_blank"><i>here</i></a><i>.</i>
+<i>A version of this story in English is available </i><a href="https://lesspage.com/news/2021/02/pennsylvania-coronavirus-vaccine-questions-answers-explainer-variants/" target="_blank"><i>here</i></a><i>.</i>
 
 Pensilvania se encuentra en medio de un frustrante despliegue de vacunas, y eso es decir poco.
 
 Esto se debe principalmente a la escasez de la vacuna en general. Para empeorar las cosas, ha sido el sistema fragmentado del Estado para encontrar y recibir vacunas, que ha sido una fuente importante de quejas públicas. Encima de esto llegan las noticias sobre las variantes emergentes del coronavirus, las cambiantes recomendaciones de mascarillas y lo que todo esto significa para vivir nuestras vidas.
 
-El jueves 11 de febrero, Spotlight PA organizó un <a href="https://www.spotlightpa.org/news/2021/02/pa-covid-vaccine-help-providers-availability-questions-answers-spotlight-pa/">evento en vivo de preguntas y respuestas</a> con expertos en salud y activistas de todo el estado para abordar algunas de las preguntas más urgentes. A continuación, recopilamos algunas de las preguntas más frecuentes e información útil.
+El jueves 11 de febrero, Spotlight PA organizó un <a href="https://lesspage.com/news/2021/02/pa-covid-vaccine-help-providers-availability-questions-answers-spotlight-pa/">evento en vivo de preguntas y respuestas</a> con expertos en salud y activistas de todo el estado para abordar algunas de las preguntas más urgentes. A continuación, recopilamos algunas de las preguntas más frecuentes e información útil.
 
 Si te ayudó algo de esta historia para el servicio público, <a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuXAAW">devuelve el favor y apoya a Spotlight PA</a> para que otros puedan beneficiarse más adelante.
 
 ## ¿Cómo pueden las personas obtener una cita para vacunarse?
 
-Muchas personas han expresado su frustración por el proceso de encontrar y reservar una cita para vacunarse. En Pensilvania, puedes encontrar proveedores de vacunas consultando el <a href="https://www.spotlightpa.org/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/">mapa de proveedores de Spotlight PA o, si no te agrada el mapa, además hemos creado una lista de texto por condado</a>. Con esta información, puedes comunicarte directamente con los proveedores sobre la disponibilidad de citas y vacunas.
+Muchas personas han expresado su frustración por el proceso de encontrar y reservar una cita para vacunarse. En Pensilvania, puedes encontrar proveedores de vacunas consultando el <a href="https://lesspage.com/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/">mapa de proveedores de Spotlight PA o, si no te agrada el mapa, además hemos creado una lista de texto por condado</a>. Con esta información, puedes comunicarte directamente con los proveedores sobre la disponibilidad de citas y vacunas.
 
-El Estado no tiene un sistema de registro de vacunas centralizado, como algunos otros Estados. (<a href="https://www.spotlightpa.org/news/2021/01/pa-covid-vaccine-availability-frustration-statewide-signup-explainer/">Más sobre eso aquí</a>).
+El Estado no tiene un sistema de registro de vacunas centralizado, como algunos otros Estados. (<a href="https://lesspage.com/news/2021/01/pa-covid-vaccine-availability-frustration-statewide-signup-explainer/">Más sobre eso aquí</a>).
 
 Comunicarse con un proveedor que aparezca en el mapa o las listas no garantiza que podrás reservar una cita. El suministro limitado ha sido un desafío importante para todos los estados de EE.UU., a los que el gobierno federal les asigna dosis según la población. Y con la primera fase de elegibilidad de la vacuna, 1A, ahora expandida a adultos de 65 años o más y aquellos de 16 a 64 con condiciones de salud específicas, hay mucha más demanda de la vacuna que disponibilidad.
 
@@ -74,7 +74,7 @@ Las agencias del envejecimiento en el área (<a href="https://www.aging.pa.gov/l
 
 A pesar del hecho de que aproximadamente el 11% del Estado, aproximadamente 1.4 millones de residentes de Pensilvania, no hablan inglés, la mayor parte de la información sobre vacunas en el sitio del Departamento de Salud únicamente está disponible en inglés.
 
-El Departamento de Salud <a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-vaccine-rollout-latino-community-spanish-speakers-seniors/">reconoce que no ha realizado un acercamiento dirigido a estas comunidades sobre la vacuna</a>, pero un portavoz dijo que está trabajando para lanzar materiales multilingües para los solicitantes de vacunas. En ausencia de eso, los grupos comunitarios que atienden a aquellos que no hablan inglés en el estado dijeron que han estado respondiendo preguntas relacionadas con las vacunas tanto como ha sido posible, pero que la desinformación y la falta de confianza en los funcionarios son cuestiones clave.
+El Departamento de Salud <a href="https://lesspage.com/news/2021/02/pennsylvania-vaccine-rollout-latino-community-spanish-speakers-seniors/">reconoce que no ha realizado un acercamiento dirigido a estas comunidades sobre la vacuna</a>, pero un portavoz dijo que está trabajando para lanzar materiales multilingües para los solicitantes de vacunas. En ausencia de eso, los grupos comunitarios que atienden a aquellos que no hablan inglés en el estado dijeron que han estado respondiendo preguntas relacionadas con las vacunas tanto como ha sido posible, pero que la desinformación y la falta de confianza en los funcionarios son cuestiones clave.
 
 Los expertos en la sesión de preguntas y respuestas con los lectores de Spotlight PA reconocieron estos desafíos y alentaron a quienes dudan acerca de la vacuna a buscar fuentes de información confiables.
 
@@ -136,4 +136,4 @@ El gobierno estatal aún no ha organizado clínicas masivas de vacunación, pero
 
 “Los sitios de vacunación masiva son parte de cualquier plan”, dijo Wolf. “El paso inicial fue trabajar con el programa federal y llevarlos a los centros de atención a largo plazo, hogares de ancianos, trabajadores de atención médica de primera línea y proveerlo a más de 4 millones de personas, además de aquellos que tienen 65 años o más tan rápidamente como sea posible.”
 
-<i><b>100% ESENCIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> depende del financiamiento de fundaciones y lectores como usted que están comprometidos con el periodismo de responsabilidad que obtiene resultados. Hazte miembro hoy mismo en </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESENCIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> depende del financiamiento de fundaciones y lectores como usted que están comprometidos con el periodismo de responsabilidad que obtiene resultados. Hazte miembro hoy mismo en </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

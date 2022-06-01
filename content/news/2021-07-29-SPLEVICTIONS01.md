@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Almost every day for the past month, as the end of a federal freeze on evictions edges closer, Brian Bastian has checked the status of his application for rental assistance online, only to experience a familiar thud of disappointment.
 
@@ -38,7 +38,7 @@ Since applying at the end of March, his case has moved through three of the five
 
 Bastian, 34, said the restaurant supply company where he worked went out of business in November. His savings started to run out in January. He is seven months and thousands of dollars behind on the rent for his Pittsburgh apartment.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Come Aug. 1, he may be one of thousands of people across Pennsylvania at risk of losing their homes, even as local governments and nonprofits race to distribute $870 million in federal funding for rent and utility relief.
 
@@ -48,11 +48,11 @@ Even so, the assistance has yet to reach thousands who are still waiting, accord
 
 “Community leaders, including nonprofits and local governments, have accomplished a Herculean task in getting this program up and running in a very short period of time,” said Phyllis Chamberlain, executive director of the Housing Alliance of Pennsylvania, an advocacy group. “But it still takes time for applications to move through the process and I don’t see how there won’t be a huge spike in eviction filings.”
 
-A ban on evictions implemented by the Centers for Disease Control and Prevention, <a href="https://www.spotlightpa.org/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">though not a cure-all</a>, has kept thousands of Pennsylvania tenants who couldn’t pay rent because of the pandemic in their homes. Originally set to expire at the end of 2020, the order has been extended several times.
+A ban on evictions implemented by the Centers for Disease Control and Prevention, <a href="https://lesspage.com/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">though not a cure-all</a>, has kept thousands of Pennsylvania tenants who couldn’t pay rent because of the pandemic in their homes. Originally set to expire at the end of 2020, the order has been extended several times.
 
 In a statement three days before the eviction ban was set to expire July 31, President Joe Biden called on Congress to extend it, saying he cannot do so on his own because of a U.S. Supreme Court ruling.
 
-Pennsylvania’s first rent relief effort was stymied by a monthly cap on payments and onerous paperwork requirements that left many people unable to get help. The $150 million program ended last year with two-thirds of the money unspent, which state lawmakers — <a href="https://www.spotlightpa.org/news/2021/02/pa-rent-relief-program-deadline-application-failure-landlord-tenant/">who failed to address its design flaws, despite repeated warnings</a> — reallocated to help cover the Department of Corrections’ payroll.
+Pennsylvania’s first rent relief effort was stymied by a monthly cap on payments and onerous paperwork requirements that left many people unable to get help. The $150 million program ended last year with two-thirds of the money unspent, which state lawmakers — <a href="https://lesspage.com/news/2021/02/pa-rent-relief-program-deadline-application-failure-landlord-tenant/">who failed to address its design flaws, despite repeated warnings</a> — reallocated to help cover the Department of Corrections’ payroll.
 
 Advocates for landlords and tenants agree that this round of rental assistance is an improvement. With more money to go around, there are options to cover utility bills as well as rent, and up to 15 months of payments available instead of six.
 
@@ -163,7 +163,7 @@ By May, things had grown so tense between them that when she came downstairs one
 
 As Horrocks paced across the living room, the video glanced over her abandoned attempts at packing, a maroon sofa, a garden gnome with a red hat — all the things she had accumulated in the years she had lived there and had now mostly resigned herself to losing.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 “It’s an eviction case and there’s not an eviction yet and she’s been trying other tactics,” Horrocks told the operator. “This is what I came down to, her trying to get in again, and just banging and banging and yelling and yelling.”
 
@@ -179,4 +179,4 @@ Even if Horrocks gets the money and pays Gross the more than $18,000 she owes, s
 
 In a brief phone interview, Gross said she will not accept any money from Horrocks. “She will be getting out in the next month.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

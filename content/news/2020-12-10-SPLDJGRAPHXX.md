@@ -30,11 +30,11 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-A yearlong investigation and data analysis by PennLive and Spotlight PA found <a href="https://www.spotlightpa.org/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/" target=_blank>huge variations in how many days Pennsylvania’s magisterial district judges actually spend in the courtroom</a>, raising questions about whether the $237 million system is an efficient use of taxpayer dollars.
+A yearlong investigation and data analysis by PennLive and Spotlight PA found <a href="https://lesspage.com/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/" target=_blank>huge variations in how many days Pennsylvania’s magisterial district judges actually spend in the courtroom</a>, raising questions about whether the $237 million system is an efficient use of taxpayer dollars.
 
-You can <a href="https://www.spotlightpa.org/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/" target=_blank>read the full investigation here</a>, as well as this <a href="https://www.spotlightpa.org/news/2020/12/pa-district-judges-investigation-how-we-did-it-spotlight-pa-pennlive/" target=_blank>explanation of how the news organizations conducted the analysis</a>.
+You can <a href="https://lesspage.com/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/" target=_blank>read the full investigation here</a>, as well as this <a href="https://lesspage.com/news/2020/12/pa-district-judges-investigation-how-we-did-it-spotlight-pa-pennlive/" target=_blank>explanation of how the news organizations conducted the analysis</a>.
 
 Using the graphic below, click, tap, or search for your county and see how often your local judges held proceedings. (Can’t see the graphic? <a href="https://interactives.data.spotlightpa.org/2020/vis-map-mdjs/" target=_blank>Click here</a>.)
 
@@ -43,4 +43,4 @@ Using the graphic below, click, tap, or search for your county and see how often
 <script>new pym.Parent("vis-map-mdjs--container", "https://interactives.data.spotlightpa.org/2020/vis-map-mdjs/", {});</script>
 
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

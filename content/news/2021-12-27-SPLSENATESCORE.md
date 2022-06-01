@@ -18,17 +18,17 @@ title = "See how the proposed Pennsylvania state Senate map scores in every key 
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A proposed redrawing of the Pennsylvania Senate map would likely keep the partisan composition of the chamber largely unchanged while improving upon traditional fairness metrics.
 
 The map was created by the Legislative Reapportionment Commission, a five-person panel composed of the top legislative leaders from both the House and Senate and an independent chair.
 
-The senators on the panel, Majority Leader Kim Ward (R., Westmoreland) and Minority Leader Jay Costa (D., Allegheny), said they took the lead on their chamber’s map and worked closely throughout the process. It passed unanimously during a Dec. 16 voting meeting, <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/">unlike the contested preliminary House map</a>.
+The senators on the panel, Majority Leader Kim Ward (R., Westmoreland) and Minority Leader Jay Costa (D., Allegheny), said they took the lead on their chamber’s map and worked closely throughout the process. It passed unanimously during a Dec. 16 voting meeting, <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/">unlike the contested preliminary House map</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-The public has until mid-January to <a href="https://www.redistricting.state.pa.us/">provide feedback online</a> or at meetings. The panel then has 30 days to consider the comments before voting on a final map, which could be challenged in court. The state’s congressional map is <a href="https://www.spotlightpa.org/news/2021/12/pa-congressional-maps-proposed-redistricting/">created and approved in a separate process</a>.
+The public has until mid-January to <a href="https://www.redistricting.state.pa.us/">provide feedback online</a> or at meetings. The panel then has 30 days to consider the comments before voting on a final map, which could be challenged in court. The state’s congressional map is <a href="https://lesspage.com/news/2021/12/pa-congressional-maps-proposed-redistricting/">created and approved in a separate process</a>.
 
 “There is still work to be done, and I look forward to continuing this process,” Ward said. “This is what you do from morning till night, but it’s been an honor to be able to be part of it and to hear from the public. And a lot of what the public said we took into consideration.”
 
@@ -36,7 +36,7 @@ Unlike the House plan, the proposed Senate map is much friendlier to incumbents.
 
 The Pennsylvania Constitution explicitly lists four requirements for state House and Senate districts: compactness, contiguity, minimal splits, and equal population. Here’s how the proposal stacks up on those and other measures:
 
-<i><b>&gt;&gt; MY MAP: </b></i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b>Search now to see your old and new legislative districts</b></i></a>
+<i><b>&gt;&gt; MY MAP: </b></i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b>Search now to see your old and new legislative districts</b></i></a>
 
 ## Compactness
 
@@ -86,7 +86,7 @@ The Princeton Gerrymandering Project also looks at the average percentage of vot
 
 Competitiveness refers to the number of districts that have a ratio of Democratic and Republican voters that results in neither party’s dominance. Redistricting advocates believe that fewer “safe” districts result in more responsive legislators.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 There are six competitive districts in the proposed map, according to the Princeton Gerrymandering Project. <b>The group gave the plan a C grade in this category, calling it “similarly competitive relative to other maps that could have been drawn.”</b>
 
@@ -100,4 +100,4 @@ In an effort to increase the representation of communities of color, which drove
 
 <b>Overall, the plan improves minority representation compared to the current map.</b> It has four majority-minority districts — those where the majority of the population is from one community of color — one more than currently exists. The map also creates five coalition-majority districts, where a combination of different communities of color constitutes the majority population.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -20,7 +20,7 @@ title = "For the first time, Pa. Senate gives public online access to spending r
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i>&nbsp;is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media.&nbsp;</i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i>&nbsp;is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media.&nbsp;</i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The Pennsylvania Senate for the first time is giving the public online access to the way the chamber and its elected members spend millions in taxpayer money on themselves.
 
@@ -28,7 +28,7 @@ Reports that show all 50 senators’ spending for the month of July were posted 
 
 Though a first for the legislature, and a win for taxpayers, the information provided online still does not give the public the full picture of the chamber’s spending. 
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The reports often leave out key details, including where a lawmaker spent money and why, and the records weren’t uploaded in a way that allows the public to quickly and meaningfully search or analyze the spending.
 
@@ -36,7 +36,7 @@ Still, posting the expenses where the public has easy access to them is “long 
 
 Taxpayers “deserve to know how their money is being spent,” he said.
 
-The Senate’s decision to post expenses online follows <a href="https://www.spotlightpa.org/series/the-hidden-tab/" target="_blank">a year-long investigation by The Caucus and Spotlight PA into the legislature’s internal expenses</a>. The journalists analyzed more than 400,000 transactions from 2017 through 2020, and found the country’s largest full-time legislature spent $203 million just to feed, house, transport, and provide district offices and perks for lawmakers and their staffs — above and beyond lawmakers’ $90,000 annual salaries.
+The Senate’s decision to post expenses online follows <a href="https://lesspage.com/series/the-hidden-tab/" target="_blank">a year-long investigation by The Caucus and Spotlight PA into the legislature’s internal expenses</a>. The journalists analyzed more than 400,000 transactions from 2017 through 2020, and found the country’s largest full-time legislature spent $203 million just to feed, house, transport, and provide district offices and perks for lawmakers and their staffs — above and beyond lawmakers’ $90,000 annual salaries.
 
 Shortly after, Senate President Pro Tempore Jake Corman (R., Centre) announced plans to post the records online. House leaders have indicated an interest in doing something similar but have not announced a plan to do so.
 
@@ -64,7 +64,7 @@ Eric Epstein, cofounder of the good-government group Rock the Capital, said the 
 
 The expenses made available Wednesday show that in July, the Senate’s spending included big-ticket, once-a-year expenses like a $248,000 payment for various Microsoft computer services and smaller payments like a $267 chair for a senator’s office and $496 on a technology contract for “monitoring the Dark Web.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 The latter expense was paid through the Senate’s chief clerk, and it is not clear whether the contract was for a specific senator or someone else.
@@ -79,4 +79,4 @@ Before Wednesday, only 11 of 50 state senators and 18 of 203 state House members
 
 Corman’s web page, titled “It’s Your Money,” hadn’t been updated in over six years.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

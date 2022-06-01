@@ -18,15 +18,15 @@ title = "Pa. is on the brink of regulating recovery homes for the first time. He
 topics = ["Health"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The Wolf administration has cleared one of the final hurdles to enact oversight of Pennsylvania’s drug and alcohol recovery homes, an effort aimed at protecting vulnerable people from being exploited by unscrupulous owners.
 
 But the regulations aren’t a done deal yet, and it’s possible lawmakers who worry the rules go too far will intervene.
 
-An independent state commission signed off Oct. 21 on a voluntary licensing system that would make recovery homes subject to inspections and new requirements. The panel rejected a previous version after some recovery home operators, addiction treatment advocates, and county officials raised concerns <a href="https://www.spotlightpa.org/news/2021/04/pa-addiction-recovery-homes-ddap-regulations-pushback/">that the rules could hurt the very people they aim to protect</a>.
+An independent state commission signed off Oct. 21 on a voluntary licensing system that would make recovery homes subject to inspections and new requirements. The panel rejected a previous version after some recovery home operators, addiction treatment advocates, and county officials raised concerns <a href="https://lesspage.com/news/2021/04/pa-addiction-recovery-homes-ddap-regulations-pushback/">that the rules could hurt the very people they aim to protect</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The chair of a key state House committee — which could vote to put the brakes on implementing the rules — supported creating the oversight system but told Spotlight PA he fears recovery home operators will see the regulations as too burdensome.
 
@@ -52,9 +52,9 @@ Wolf administration officials say oversight will save lives and provide greater 
 
 The opioid epidemic is an urgent issue in Pennsylvania, a state that in 2019 ranked fifth in the nation for its drug overdose death rate. Overdose deaths rose here in 2020, killing more than 5,200 people, according to a preliminary estimate from the Centers for Disease Control and Prevention.
 
-Separately, Spotlight PA and <a href="https://www.inquirer.com/health/opioid-addiction/inq/pimping-out-drug-addicts-cash-20170601.html-2">other news organizations</a> have reported that the <a href="https://www.spotlightpa.org/news/2021/04/pa-addiction-treatment-facilities-investigation-state-oversight-flawed-violations-harm-clients/">current system’s lack of oversight</a> can leave people with addiction and their loved ones in the dark about the track record of recovery homes and the people running them.
+Separately, Spotlight PA and <a href="https://www.inquirer.com/health/opioid-addiction/inq/pimping-out-drug-addicts-cash-20170601.html-2">other news organizations</a> have reported that the <a href="https://lesspage.com/news/2021/04/pa-addiction-treatment-facilities-investigation-state-oversight-flawed-violations-harm-clients/">current system’s lack of oversight</a> can leave people with addiction and their loved ones in the dark about the track record of recovery homes and the people running them.
 
-An <a href="https://www.attorneygeneral.gov/wp-content/uploads/2019/03/2019-03-25-Liberation-Way-Presentment.pdf">investigative statewide grand jury report</a>, released in 2019, alleged that a Bucks County-based treatment provider used recovery homes as part of an elaborate and complex insurance fraud scheme. And a grand jury report in July alleged two Philadelphia licensed addiction treatment providers <a href="https://www.spotlightpa.org/news/2021/07/pa-philadelphia-addiction-treatment-providers-kickbacks-ddap-oversight/">paid illegal kickbacks</a> to recovery homes.
+An <a href="https://www.attorneygeneral.gov/wp-content/uploads/2019/03/2019-03-25-Liberation-Way-Presentment.pdf">investigative statewide grand jury report</a>, released in 2019, alleged that a Bucks County-based treatment provider used recovery homes as part of an elaborate and complex insurance fraud scheme. And a grand jury report in July alleged two Philadelphia licensed addiction treatment providers <a href="https://lesspage.com/news/2021/07/pa-philadelphia-addiction-treatment-providers-kickbacks-ddap-oversight/">paid illegal kickbacks</a> to recovery homes.
 
 But some recovery home operators have told state officials the Wolf administration’s proposals would create too much hardship.
 
@@ -100,7 +100,7 @@ William Stauffer, executive director of the Pennsylvania Recovery Organizations 
 
 ## Why did it take so long to put these rules in place?
 
-Under the 2017 law, the Department of Drug and Alcohol Programs was supposed to have a licensing or certification system in place by June 2020. But <a href="https://www.spotlightpa.org/news/2021/01/pennsylvania-recovery-homes-oversight-ddap-opioid-addiction/">the amount of feedback the department received on an early draft, other priorities it pursued, and the coronavirus pandemic</a> all contributed to the delay, Spotlight PA reported earlier this year.
+Under the 2017 law, the Department of Drug and Alcohol Programs was supposed to have a licensing or certification system in place by June 2020. But <a href="https://lesspage.com/news/2021/01/pennsylvania-recovery-homes-oversight-ddap-opioid-addiction/">the amount of feedback the department received on an early draft, other priorities it pursued, and the coronavirus pandemic</a> all contributed to the delay, Spotlight PA reported earlier this year.
 
 Since March, the department has submitted several versions of the proposal for formal approval to the state’s Independent Regulatory Review Commission.
 
@@ -120,7 +120,7 @@ The Office of Attorney General must still review the rules, while lawmakers have
 
 In a letter, the chair of the Independent Regulatory Review Commission told lawmakers in the House and Senate they had until the first week of November to pass a resolution objecting to the regulations, which would kick off a complicated timeline for action that would at least delay the rollout.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 If the committees don’t act, the department can move forward.
 
@@ -134,4 +134,4 @@ The department plans to create an online registry of licensed drug and alcohol r
 
 The agency plans to make citations and licensing information publicly available, similar to the system it uses for licensed addiction treatment facilities, a spokesperson for the department told Spotlight PA.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

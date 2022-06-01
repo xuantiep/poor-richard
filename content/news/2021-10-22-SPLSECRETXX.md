@@ -19,7 +19,7 @@ title = "Here’s how Pa.’s school pension fund keeps its communications secre
 topics = ["Economy"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In December 2020, Pennsylvania’s largest pension fund adopted a figure for investment profits that its executives said was rock solid. 
 
@@ -29,7 +29,7 @@ The number was wrong. In April, the board <a href="https://www.inquirer.com/busi
 
 But in a <a href="https://www.documentcloud.org/documents/21089893-psers-evelyn-williams-statement-to-oor?responsive=1&title=1">new sworn affidavit</a>, the fund’s spokesperson, Evelyn Williams, says the $73 billion plan had launched a “detailed review” into the calculation starting in the “summer 2020.” She detailed months of investigation that involved three outside consultants to make sure the figure was right.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Yet the launch of that investigation went unmentioned to the board when it voted in December during a public meeting.
 
@@ -77,7 +77,7 @@ Mutchler was the first head of Pennsylvania’s Office of Open Records when it w
 
 Muth, Mutchler’s client, has taken the unusual step of suing the agency on whose board she sits, saying PSERS has wrongly denied her information. Two colleagues on the 15-member board, state Treasurer Stacy Garrity and former Treasurer Joe Torsella, recently filed a legal brief supporting her.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 In interviews, other pension experts condemned the secrecy.
 
@@ -87,4 +87,4 @@ In Kentucky, where fees charged by Wall Street managers have become so controver
 
 To be sure, hearing officer Burlew noted in her opinion that PSERS, although not bound to do so, could voluntarily release the material. Agencies can do this, she wrote, on grounds that disclosure was “in the public interest” and “to build trust and confidence.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

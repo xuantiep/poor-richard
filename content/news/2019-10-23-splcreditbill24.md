@@ -31,21 +31,21 @@ series = ["Campaign Finance 2019"]
 })();
 </script>
 
-The Republican-controlled legislature abruptly reversed course Wednesday and said it would abandon a controversial measure that could make it [harder to find out how lawmakers and other elected officials spend millions of dollars in campaign cash](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/).
+The Republican-controlled legislature abruptly reversed course Wednesday and said it would abandon a controversial measure that could make it [harder to find out how lawmakers and other elected officials spend millions of dollars in campaign cash](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/).
 
-The change comes a day after The Caucus and Spotlight PA [reported on the proposal](https://www.spotlightpa.org/news/2019/10/lawmakers-quietly-tucked-a-new-provision-into-a-bill-that-would-reduce-oversight/).
+The change comes a day after The Caucus and Spotlight PA [reported on the proposal](https://lesspage.com/news/2019/10/lawmakers-quietly-tucked-a-new-provision-into-a-bill-that-would-reduce-oversight/).
 
-On Tuesday, the news organizations published the results of a year-long investigation into [how lawmakers hide sometimes lavish campaign expenditures from the public](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Hours later, a House committee, at the request of Senate Republican leadership, inserted language into a larger voting reform bill that [would make it even harder to hold them accountable](https://www.spotlightpa.org/news/2019/10/lawmakers-quietly-tucked-a-new-provision-into-a-bill-that-would-reduce-oversight/).
+On Tuesday, the news organizations published the results of a year-long investigation into [how lawmakers hide sometimes lavish campaign expenditures from the public](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Hours later, a House committee, at the request of Senate Republican leadership, inserted language into a larger voting reform bill that [would make it even harder to hold them accountable](https://lesspage.com/news/2019/10/lawmakers-quietly-tucked-a-new-provision-into-a-bill-that-would-reduce-oversight/).
 
 But on Wednesday, House Republicans bucked their Senate counterparts and said they would strip out the new provision.
 
 Mike Straub, a spokesman for the House Republican caucus, said several members raised concerns about the language in the provision, including the fact that it was tacked onto a bill that dealt with voting reforms, rather than one dealing with the state’s campaign finance laws.
 
-***» READ MORE:*** [***Lavish dinners, sports tickets, and nearly $3.5 million other expenses by Pa. lawmakers you’ve never seen***](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
+***» READ MORE:*** [***Lavish dinners, sports tickets, and nearly $3.5 million other expenses by Pa. lawmakers you’ve never seen***](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/)
 
 “The parties involved in negotiating the bill agreed,” said Straub, adding that the provision, at the moment, is not being added to any other legislation.
 
-The investigation by The Caucus and Spotlight PA found lawmakers [use credit cards, gift cards and self-reimbursements to shield sometimes lavish campaign spending](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Expenses included pricey dinners, foreign trips, sports tickets, a country club membership and even a DNA test kit.
+The investigation by The Caucus and Spotlight PA found lawmakers [use credit cards, gift cards and self-reimbursements to shield sometimes lavish campaign spending](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Expenses included pricey dinners, foreign trips, sports tickets, a country club membership and even a DNA test kit.
 
 None of those items were included in publicly available campaign finance reports. They were brought to light only after reporters used a little-known provision of state election law that requires campaigns to keep “vouchers,” or receipts, for the past three years and make them available upon request.
 
@@ -57,7 +57,7 @@ In lieu of the department’s oversight, the public would have been forced to su
 
 But House Republicans were unwilling to go along with the change.
 
-<strong>» <em>DONATE NOW and</em></strong> <a href="https://www.spotlightpa.org/donate"><strong><em>support future investigations by Spotlight PA</em></strong></a> <strong><em>that hold the powerful in Pennsylvania to account.</em></strong> <a href="https://www.spotlightpa.org/donate"><strong><em>Become a Founding Donor</em></strong></a> <strong><em>and support the truth.</em></strong>
+<strong>» <em>DONATE NOW and</em></strong> <a href="https://lesspage.com/donate"><strong><em>support future investigations by Spotlight PA</em></strong></a> <strong><em>that hold the powerful in Pennsylvania to account.</em></strong> <a href="https://lesspage.com/donate"><strong><em>Become a Founding Donor</em></strong></a> <strong><em>and support the truth.</em></strong>
 
 Legislative leadership in both parties accounted for much of the hidden spending uncovered as part of the investigation by the news organizations. The leader of the Senate, Joe Scarnati (R., Jefferson), topped the list. When reporters sought access to more detailed spending records, his campaign took months to respond and attempted to charge more than $1,800.
 

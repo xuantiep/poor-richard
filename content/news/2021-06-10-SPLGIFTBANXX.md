@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Using song and chant, a group of activists marched through the Capitol’s hallways Wednesday, even momentarily disrupting the Senate’s voting session, demanding that lawmakers pass legislation to ban public officials from accepting gifts from special interests and others trying to influence public policy.
 
@@ -38,9 +38,9 @@ The activists, from the grassroots group MarchOnHarrisburg, rallied on the steps
 
 “This is not a fringe issue, this is not a lefty, radical issue. This is talking about getting money out of politics,” activist Randall Hayes, who leads the group’s Harrisburg chapter, said as he live-streamed the protest on Facebook. 
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-Activists said they have <a href="https://www.spotlightpa.org/news/2021/05/pa-legislature-lawmakers-gifts-disclosure-ban/" target="_blank">pushed for nearly two decades for a gift ban</a>. But year after year, they said, they’ve seen gift ban bills stall for lack of support.
+Activists said they have <a href="https://lesspage.com/news/2021/05/pa-legislature-lawmakers-gifts-disclosure-ban/" target="_blank">pushed for nearly two decades for a gift ban</a>. But year after year, they said, they’ve seen gift ban bills stall for lack of support.
 
 Pennsylvania is one of eight states that does not have a complete or partial ban on legislators and other public officials and employees receiving gifts from lobbyists and other advocates with a stake in government.
 
@@ -54,7 +54,7 @@ Activists on Wednesday said they targeted Corman because, unlike some leaders, h
 
 A spokesperson for Corman said the senator had no comment.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 As it stands, Sen. Lisa Baker (R., Luzerne) has introduced a bill in this two-year legislative session that would prohibit public officials and employees from taking gifts from lobbyists and anyone with or seeking a government contract, or trying to influence official action.
 
@@ -66,4 +66,4 @@ Senate Majority Leader Kim Ward (R., Westmoreland) has signed on as a co-sponsor
 
 Although Wednesday’s protest was peaceful, four activists were arrested and charged with trespassing after resisting orders to move from in front of the door to Corman’s office.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

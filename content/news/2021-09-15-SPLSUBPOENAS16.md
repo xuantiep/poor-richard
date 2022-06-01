@@ -18,7 +18,7 @@ title = "Pa. Senate GOP moves to collect private voter information in controvers
 topics = ["Elections", "The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Pennsylvania Senate Republicans undertaking a controversial review of last year’s presidential election on Wednesday authorized collecting personal information on every registered voter in the state, despite objections by Democrats who decried it as invasive and unwarranted.
 
@@ -28,7 +28,7 @@ The sweeping subpoena also requests all email and other written communications b
 
 That information, Senate officials said, would then be turned over to a yet-to-be-identified private company, which would carry out the review. The committee’s chair, Republican Sen. Cris Dush of Jefferson County, refused to provide any information about which companies are being vetted for the job.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The demand for documents is the latest step in an ongoing effort by Senate Republicans to investigate the 2020 election, despite the fact that it has already been audited twice in most counties. Republicans have pointed to the state’s changing election guidance to counties last year, which they say has undermined public confidence in the election.
 
@@ -40,11 +40,11 @@ Democrats on Wednesday said they would swiftly sue to both block the subpoena an
 
 Dush did reveal Wednesday that the private company the Senate hires will be paid with taxpayer dollars. Top Senate officials have said they do not have a specific budget for their inquiry, nor have they set a ceiling on how much they are willing to spend on it.
 
-They have also struggled to describe its scope, and have vacillated on why they believe it is necessary. As recently as June, Corman said<a href="https://www.spotlightpa.org/news/2021/08/jake-corman-pennsylvania-senate-election-audit/"> he did not see a need to “relitigate” the 2020 election</a>.
+They have also struggled to describe its scope, and have vacillated on why they believe it is necessary. As recently as June, Corman said<a href="https://lesspage.com/news/2021/08/jake-corman-pennsylvania-senate-election-audit/"> he did not see a need to “relitigate” the 2020 election</a>.
 
 But in an <a href="https://www.senatorcorman.com/2021/08/23/op-ed-careful-thoughtful-investigation-is-necessary-to-restore-faith-in-our-elections/">editorial</a> two months later, Corman wrote of the necessity for a “forensic audit” that would restore faith in the same elections Pennsylvania Republicans repeatedly challenged in court last year, to no avail.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 Even so, Republicans at Wednesday’s hearing avoided calling their investigation an “audit,” and voiced several times their intention is to look for voter fraud, not to overturn the 2020 election. Republicans, who control the House of Representatives, are not participating in the investigation and have said they’re not interested in auditing any past elections.
@@ -67,4 +67,4 @@ The Republican subpoena not only seeks the personal information of voters regist
 
 Republicans said Wednesday morning they would use the information to verify the identity of voters, but to what specific end was unclear.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

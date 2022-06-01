@@ -15,11 +15,11 @@ slug = "thanksgiving-day-2021-scrambler-riddler-answers"
 title = "Answers to Spotlight PA’s 2021 Thanksgiving Day Scrambler and Riddler puzzles"
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Rather than make you wait until next week, we’re providing answers to the Thanksgiving Day Scramblers and Riddlers here. We hope you have a great holiday, and we’ll get back to the news next week. 
 
-If you’re feeling thankful for Spotlight PA’s fearless, independent journalism, you can <a href="https://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=7015G0000013oXOQAY&utm_source=www.spotlightpa.org&utm_medium=home%20&utm_campaign=header:banner">become a member now</a> and have your tax-deductible gift automatically doubled.
+If you’re feeling thankful for Spotlight PA’s fearless, independent journalism, you can <a href="https://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=7015G0000013oXOQAY&utm_source=lesspage.com&utm_medium=home%20&utm_campaign=header:banner">become a member now</a> and have your tax-deductible gift automatically doubled.
 
 ### SCRAMBLERS
 
@@ -41,4 +41,4 @@ Case No. 121: A duck or goose.
 
 Case No. 122: 80 people.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

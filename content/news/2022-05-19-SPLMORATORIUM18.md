@@ -19,7 +19,7 @@ title = "Despite high vaccination rates among Pa. prisoners, some COVID restrict
 topics = ["Coronavirus", "Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — More than two years after the first coronavirus cases were reported in Pennsylvania state prisons, some of the mitigation measures Gov. Tom Wolf’s administration implemented to cut down on the spread of COVID-19 are still in place.
 
@@ -27,7 +27,7 @@ But with nearly 90% of people held at state prisons vaccinated and cases signifi
 
 The coronavirus hit Pennsylvania state prisons in <a href="https://www.wgal.com/article/pennsylvania-department-of-corrections-reports-first-inmate-to-test-positive-with-covid-19/31970534">late March 2020</a>, sending the system’s 23 prisons into <a href="https://www.cor.pa.gov/About%20Us/Newsroom/Pages/2020-News-Releases.aspx">quarantine</a>. Extreme restrictions on movement kept people in cells and largely uninfected through the spring. But more contagious permutations of the virus overwhelmed the tight restrictions.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 State prisons saw waves of infection and death from November 2020 to January 2021 and again the following winter.
 
@@ -103,9 +103,9 @@ The permanent addition of video visitation has allowed family and friends to see
 
 ## Vaccinations
 
-The Wolf administration provided an incentive for people in prisons to get vaccinated: a <a href="https://www.spotlightpa.org/news/2021/03/pa-coronavirus-covid-vaccine-prison-incentive-inmates-corrections/">$25 commissary credit</a>, a significant amount equivalent to more than 130 hours of work at prison jobs paying $0.19 an hour.
+The Wolf administration provided an incentive for people in prisons to get vaccinated: a <a href="https://lesspage.com/news/2021/03/pa-coronavirus-covid-vaccine-prison-incentive-inmates-corrections/">$25 commissary credit</a>, a significant amount equivalent to more than 130 hours of work at prison jobs paying $0.19 an hour.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
 
 Wolf also mandated vaccination against or testing for COVID-19 for state employees working in congregate settings, including prisons. In response, the union representing most guards in Pennsylvania state prisons sued the state in September, but the Commonwealth Court <a href="https://www.penncapital-star.com/blog/prison-guards-lawsuit-against-wolf-admin-vax-policy-thrown-out/">dismissed</a> the complaint in October.
 
@@ -121,4 +121,4 @@ While the corrections department provided incentives for incarcerated people to 
 
 As of Tuesday, there are 55 positive cases among corrections staff and 37 positive cases among people in prison.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

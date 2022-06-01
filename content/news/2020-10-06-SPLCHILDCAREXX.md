@@ -18,7 +18,7 @@ title = "Hundreds of Pa. child-care centers have closed, and some fear it will g
 topics = ["Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 MONTGOMERY COUNTY — Some things have returned to normal at Dorothy Creevey’s child-care center outside Boyertown: little kids searching for pumpkins in a garden, building towers, and painting with marbles.
 
@@ -32,7 +32,7 @@ Between March and the beginning of September, more than 260 licensed child-care 
 
 Those closures represent just a fraction of the roughly 6,500 licensed child-care programs that remain open — a success credited to the roughly $220 million in federal dollars allocated to providers to help them stay afloat, as well as a policy that Gov. Tom Wolf’s administration says sent $370 million to providers that serve low-income families.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 But as CARES Act funding dries up and the state switches back to its pre-coronavirus funding approach, advocates warn that many more child-care providers will be pushed to the breaking point this fall and winter.
 
@@ -129,7 +129,7 @@ Wolf also called for $27 million to expand child-care options in deserts. Of the
 
 The list includes Nanny’s Creative Learning Center in Greene County. After Nancy Moore graduated from college with an elementary education degree, she couldn’t find a job in the area. So her parents helped her launch the child-care center in the late 1990s.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The program grew, and she could serve up to 30 children. Then her mother, who helped run the child-care center, died in March of 2019.
 
@@ -143,6 +143,6 @@ She decided to not renew her license. Now her four children, including the young
 
 “Instead of me trying to take care of everybody else’s kids and making sure everybody else is going to work and provide for them, I need to provide for my own family,” Moore said.
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=%3Cb%3EAre%20you%20facing%20a%20child%20care%20challenge%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=%3Cb%3EAre%20you%20facing%20a%20child%20care%20challenge%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>

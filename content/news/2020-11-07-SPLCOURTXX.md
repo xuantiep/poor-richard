@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A Pennsylvania appellate court judge on Friday rejected an eleventh-hour request by Republicans to block counties from counting provisional ballots cast by voters whose mail ballots contained mistakes and were going to be disqualified.
 
@@ -42,7 +42,7 @@ Feeling the national spotlight, Republicans in Pennsylvania amplified their atta
 
 “What we didn’t want was a disputed election,” Senate Majority Leader Jake Corman (R., Centre) said during a news conference Friday. “Unfortunately, the actions of the Department of State have brought that into question.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Those claims came despite impressive wins across the state for Republican lawmakers, who held onto majorities in the state House and Senate and were poised to gain seats. The GOP also won the state auditor general race for the first time since 1992.
 
@@ -62,7 +62,7 @@ At issue is guidance Boockvar’s office gave to counties on the night before th
 
 That, in turn, allowed the parties to contact voters to let them know about the problem, and urge them to go to the polls on Election Day and submit a provisional ballot. (In some counties, elections officials were the ones who contacted voters directly about problems.)
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
 Though there was no hearing in open court, lawyers for the two Republican candidates and four voters who sued Boockvar had argued that the state’s election code does not permit counties from sharing that information with political parties. They had asked for an injunction to prevent Boockvar from “permitting invalidly submitted absentee and mail-in ballots to be `cured'.”
 
@@ -74,4 +74,4 @@ Still, lawyers for Republicans emerged from court portraying the ruling as a win
 
 “It brings uniformity to the counting of these provisional ballots throughout the commonwealth,” said Thomas E. Breath, a lawyer who represented the GOP. “It directs each local county board of elections to handle these provisional ballots in the same manner. That was sorely needed.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>

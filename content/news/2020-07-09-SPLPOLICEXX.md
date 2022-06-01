@@ -27,19 +27,19 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
-HARRISBURG — Gov. Tom Wolf has signed two police reform measures spurred by protests, both <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-george-floyd-protests-democrats-block-house-demand-action/" target=_blank>inside</a> and outside the Capitol, in the wake of the police killing of George Floyd.
+HARRISBURG — Gov. Tom Wolf has signed two police reform measures spurred by protests, both <a href="https://lesspage.com/news/2020/06/pennsylvania-george-floyd-protests-democrats-block-house-demand-action/" target=_blank>inside</a> and outside the Capitol, in the wake of the police killing of George Floyd.
 
 The legislation, passed overwhelmingly by Pennsylvania’s House and Senate, is aimed at preventing officers with egregious misconduct in their past from jumping from one department to another as well as strengthening training. Democrats have called the measures first steps, as they press GOP leadership to go further and take up more complex issues like curtailing when officers can use deadly force.
 
 Two other reform bills that unanimously passed the Senate in June are still pending before the House. Lawmakers there have until December to pass the measures before the legislative session ends and all pending legislation is thrown out. 
 
-Similar reform measures introduced after the <a href="https://www.spotlightpa.org/news/2020/06/police-protest-pennsylvania-antwon-rose-use-of-force/" target=_blank>police killing of Antwon Rose II</a> outside Pittsburgh in 2018 had languished without consideration in legislative committees until protests over Floyd’s death erupted across Pennsylvania and the country.
+Similar reform measures introduced after the <a href="https://lesspage.com/news/2020/06/police-protest-pennsylvania-antwon-rose-use-of-force/" target=_blank>police killing of Antwon Rose II</a> outside Pittsburgh in 2018 had languished without consideration in legislative committees until protests over Floyd’s death erupted across Pennsylvania and the country.
 
 ## Bills signed by Gov. Tom Wolf
 
-Wolf said the measures he signed Tuesday “make progress in keeping every Pennsylvanian safe,” while citing executive actions he took in June to <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-state-police-watchdog-tom-wolf-reform-george-floyd/" target=_blank>strengthen oversight</a> of law enforcement agencies under his purview. 
+Wolf said the measures he signed Tuesday “make progress in keeping every Pennsylvanian safe,” while citing executive actions he took in June to <a href="https://lesspage.com/news/2020/06/pennsylvania-state-police-watchdog-tom-wolf-reform-george-floyd/" target=_blank>strengthen oversight</a> of law enforcement agencies under his purview. 
 
 But there is still more work to be done, Wolf said.
 
@@ -53,9 +53,9 @@ Currently, there is no uniform way for local police departments in Pennsylvania 
 
 “We can’t say that this database would have saved Antwon’s life,” Attorney General Josh Shapiro said Tuesday. “But I trust his mom ... [who] believes that this bill will save lives in the future. She’s right.”
 
-The legislation also requires an agency to disclose information about any investigations into current or former officers in writing. The effort, however, stops <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-police-misconduct-database-george-floyd/" target=_blank>short of making misconduct records available to the public</a>, a move recently taken in New York and New Jersey.
+The legislation also requires an agency to disclose information about any investigations into current or former officers in writing. The effort, however, stops <a href="https://lesspage.com/news/2020/06/pennsylvania-police-misconduct-database-george-floyd/" target=_blank>short of making misconduct records available to the public</a>, a move recently taken in New York and New Jersey.
 
-Wolf <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-state-police-watchdog-tom-wolf-reform-george-floyd/">endorsed</a> the database legislation, as did Shapiro and the heads of powerful police unions for the state and Philadelphia. Though a positive step forward, the <a href="https://www.spotlightpa.org/news/2020/06/antwon-rose-pennsylvania-police-misconduct-database/" target=_blank>database does little to further public accountability and transparency</a>, experts say.
+Wolf <a href="https://lesspage.com/news/2020/06/pennsylvania-state-police-watchdog-tom-wolf-reform-george-floyd/">endorsed</a> the database legislation, as did Shapiro and the heads of powerful police unions for the state and Philadelphia. Though a positive step forward, the <a href="https://lesspage.com/news/2020/06/antwon-rose-pennsylvania-police-misconduct-database/" target=_blank>database does little to further public accountability and transparency</a>, experts say.
 
 The bill does make available under the state’s open-records law “hiring reports” that must be compiled if a department chooses to hire an applicant with a criminal conviction or binding disciplinary action for wrongdoing, including excessive force, discrimination, and sexual abuse.
 
@@ -103,4 +103,4 @@ Lawmakers have introduced a number of reform bills that have not been considered
 
 <i>This story was updated on July 14 to include information about Gov. Tom Wolf signing two reform measures.</i>
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

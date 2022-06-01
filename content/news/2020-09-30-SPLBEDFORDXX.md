@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 SCHELLSBURG — It was a bit after 11 p.m. in late August when Frank Nitty and a group of Black and white civil rights activists stopped along a highway in rural Bedford County.
 
@@ -44,7 +44,7 @@ Then shots rang out.
 
 The incident made national news for a day, another thread in the country’s ongoing struggle with racism. But a closer examination by Spotlight PA and Pittsburgh City Paper reveals a changing narrative by law enforcement authorities the next day, the effects those inconsistencies had in how the story was portrayed, and how local community members took up arms in response.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 Pennsylvania State Police <a href="https://twitter.com/PSPTroopGPIO/status/1298222754932625408/photo/1">initially said</a> an “argument” between residents and the marchers “culminated in gun fire.” But by the end of the day, the official story had <a href="https://twitter.com/PSPTroopGPIO/status/1298296539073466373?s=20">changed</a> <a href="https://twitter.com/PSPTroopGPIO/status/1298350806329102336?s=20">twice</a>. In the final version of events, police said the property owners had called them about a gathering of people in a private business parking lot. Before troopers could arrive, police said, the property owners confronted the marchers, the confrontation escalated, and “gun shots were exchanged.”
 
@@ -146,7 +146,7 @@ That same night, while many armed demonstrators were still at the courthouse, a 
 
 One of them, Jeremy Decker, 43, drove to the hotel and fired a gun into the air outside the hotel. Decker was charged by state police with possessing a prohibited firearm, having a firearm not to be carried without a license, and reckless endangerment, according to a criminal complaint obtained by the news organizations.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 On Wednesday at around 10:40 p.m. — two days after the original shooting — as the marchers made their way to the outskirts of McConnellsburg, in Fulton County, they walked over roads chalked with messages including “n—s suck,” <a href="https://www.facebook.com/100024409792996/videos/751936865629966/">video</a> taken by the group shows.
 
@@ -158,4 +158,4 @@ Alexis Kaleigh, a McConnellsburg resident who supports the marchers and the Blac
 
 “We wrote ‘Black Lives Matter’ and ‘we love you’ in chalk,” said Kaleigh. “We wrote things to outweigh the hate.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

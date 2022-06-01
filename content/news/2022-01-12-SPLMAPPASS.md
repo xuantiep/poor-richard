@@ -18,7 +18,7 @@ title = "Pa. House approves proposed congressional map as court challenges loom"
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — The Pennsylvania House has advanced a new congressional map that nonpartisan analysts say has a clear Republican advantage, but its fate remains unclear as a court-mandated deadline looms.
 
@@ -26,7 +26,7 @@ The map, which will help determine the balance of power in Washington, passed wi
 
 While the proposal fulfills four basic fairness criteria embraced by the Pennsylvania Supreme Court, redistricting reform groups said it does not reflect the partisan makeup of the state — a sticking point for Gov. Tom Wolf, who has final say over the map.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Adam Podowitz-Thomas of the Princeton Gerrymandering Project, a nonpartisan organization that analyzes redistricting plans across the country, said nearly all metrics that social scientists use to analyze the fairness of a map show Pennsylvania’s current proposal gives Republicans an advantage.
 
@@ -68,7 +68,7 @@ Even before the process formally began last year, many redistricting observers p
 
 Two lawsuits targeting the map — one from a group of residents who live in population-dense areas, the other from mathematicians and scientists seeking a “data-driven” process — were filed in Commonwealth Court in December.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The suits, since merged into one, argue that the judiciary should intervene in the process and ban the state from using the current map for the 2022 election.
 
@@ -78,4 +78,4 @@ Commonwealth Court is the first level of the state’s appellate court system, a
 
 The state Supreme Court in 2018 threw out a previous version of Pennsylvania’s congressional map, approved by former Republican Gov. Tom Corbett years earlier, finding it was drawn to benefit the GOP in a way that violates the state constitution.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

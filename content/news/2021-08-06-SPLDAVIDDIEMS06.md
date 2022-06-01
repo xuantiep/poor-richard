@@ -19,19 +19,19 @@ title = "Theft charges brought down a state lawmaker. But Pa.’s taxpayer-funde
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Theft charges against a Philadelphia-area Democrat highlight Pennsylvania’s lax rules for reimbursing lawmakers with taxpayer and donor money, two state-run systems with little transparency and even less oversight.
 
-Former State Rep. Margo Davidson was charged in July with <a href="https://www.spotlightpa.org/news/2021/07/margo-davidson-theft-charges-pa-attorney-general/">stealing from taxpayers and misusing campaign funds</a>, helping her pad a legislative salary that’s already among the most generous in the country. She has since accepted responsibility and resigned her office.
+Former State Rep. Margo Davidson was charged in July with <a href="https://lesspage.com/news/2021/07/margo-davidson-theft-charges-pa-attorney-general/">stealing from taxpayers and misusing campaign funds</a>, helping her pad a legislative salary that’s already among the most generous in the country. She has since accepted responsibility and resigned her office.
 
 Despite warnings from good-government advocates and even some inside the Capitol that the state’s reimbursement systems are ripe for abuse, Republican leadership has failed to move reforms.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-Unlike most private- and public-sector employers, state lawmakers <a href="https://www.spotlightpa.org/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/" target="_blank">often aren’t required to provide any proof when seeking reimbursement</a> from taxpayer-funded accounts. On the campaign side, the public can’t see <a href="https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/" target="_blank">thousands of dollars of election expenses lumped together</a> under vague categories and charged to credit cards.
+Unlike most private- and public-sector employers, state lawmakers <a href="https://lesspage.com/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/" target="_blank">often aren’t required to provide any proof when seeking reimbursement</a> from taxpayer-funded accounts. On the campaign side, the public can’t see <a href="https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/" target="_blank">thousands of dollars of election expenses lumped together</a> under vague categories and charged to credit cards.
 
-Those expense rules, highlighted in a series of stories by The Caucus and Spotlight PA over the last two years, have created “a culture of zero accountability,” Khalif Ali, executive director of Common Cause Pennsylvania, <a href="https://www.spotlightpa.org/news/2021/07/pa-lawmaker-expenses-live-event/">said during a recent Spotlight PA live event</a>.
+Those expense rules, highlighted in a series of stories by The Caucus and Spotlight PA over the last two years, have created “a culture of zero accountability,” Khalif Ali, executive director of Common Cause Pennsylvania, <a href="https://lesspage.com/news/2021/07/pa-lawmaker-expenses-live-event/">said during a recent Spotlight PA live event</a>.
 
 They were written by the very lawmakers they are meant to govern, but too often, Ali said, there is a practice of “professed change,” where lawmakers talk about reform when confronted with problems but don’t follow through.
 
@@ -91,7 +91,7 @@ It’s unclear if the unreported campaign expenses were for her election efforts
 
 But even if they were for personal use, it wouldn’t necessarily be a crime in Pennsylvania.
 
-Pennsylvania is among a minority of states that <a href="https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/" target="_blank">do not have an explicit ban on candidates spending campaign money for their personal use</a>, The Caucus and Spotlight PA found in a 2019 investigation.
+Pennsylvania is among a minority of states that <a href="https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/" target="_blank">do not have an explicit ban on candidates spending campaign money for their personal use</a>, The Caucus and Spotlight PA found in a 2019 investigation.
 
 That’s allowed legislators to spend donors’ money on alcohol, lavish dinners, clothes, limos, and travel across the United States and abroad — all while keeping the expenses hidden through various legal methods.
 
@@ -107,9 +107,9 @@ More frequent and complete disclosure of both legislative expense and campaign r
 
 Prominent lawmakers such as Grove have discussed making both kinds of spending more readily available for public viewing.
 
-The tens of thousands of pages of legislative expense records used in The Caucus and Spotlight PA’s reporting <a href="https://www.spotlightpa.org/news/2021/05/pa-legislative-expenses-investigation-how-we-did-it-spotlightpa-thecaucus/" target="_blank">took months to acquire and required the news organizations to develop</a> a first-of-its-kind database that includes 400,000 individual expenses over four years.
+The tens of thousands of pages of legislative expense records used in The Caucus and Spotlight PA’s reporting <a href="https://lesspage.com/news/2021/05/pa-legislative-expenses-investigation-how-we-did-it-spotlightpa-thecaucus/" target="_blank">took months to acquire and required the news organizations to develop</a> a first-of-its-kind database that includes 400,000 individual expenses over four years.
 
-A small minority of lawmakers post their expenses online for their constituents, but the news organizations found that <a href="https://www.spotlightpa.org/news/2021/05/pa-lawmaker-expenses-transparency-websites/" target="_blank">almost all of them were posting incomplete or outdated information</a>.
+A small minority of lawmakers post their expenses online for their constituents, but the news organizations found that <a href="https://lesspage.com/news/2021/05/pa-lawmaker-expenses-transparency-websites/" target="_blank">almost all of them were posting incomplete or outdated information</a>.
 
 Grove, for one, did not disclose more than $31,300 in spending over the four years that was attributed to him in House expense records. Most of that was for bulk mail purchases. About $3,200 was for mileage though he publicly insists that he does not accept such reimbursements.
 
@@ -119,4 +119,4 @@ Less clear is whether the political will exists to make substantive changes.
 
 The reason legislators make the information difficult to find is “self-serving,” Tim Potts, a former top-level House staffer, previously told The Caucus and Spotlight PA — to “protect themselves.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

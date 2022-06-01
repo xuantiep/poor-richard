@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — On Tuesday morning, Jason Kiefer went to get his mail and found two copies of an eviction notice taped to the door, scheduling a court hearing for Sept. 10. The address of the Lehigh County Courthouse was crossed out, replaced by “Zoom” in scribbled red letters.
 
@@ -44,7 +44,7 @@ The new eviction ban will prevent homelessness, help state and local governments
 
 Much remains uncertain about how the new eviction ban will work in practice — and whether it will survive legal challenges.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=As%20the%20eviction%20moratorium%20expires%2C%20we%20won't%20stop%20telling%20the%20stories%20that%20matter%20and%20holding%20the%20powerful%20to%20account.%20Join%20us%20and%20become%20a%20monthly%20donor%20today."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=As%20the%20eviction%20moratorium%20expires%2C%20we%20won't%20stop%20telling%20the%20stories%20that%20matter%20and%20holding%20the%20powerful%20to%20account.%20Join%20us%20and%20become%20a%20monthly%20donor%20today."></div>
 
 “This is a completely unprecedented action and we’re in uncharted territory,” said Mary Cunningham, an expert in housing policy at the Urban Institute, a Washington, D.C. think tank. “It will likely be challenged in the courts and we’ll have to see.”
 
@@ -68,9 +68,9 @@ The new order does not cover tenants who face eviction for reasons other than no
 
 For Kiefer, who lives with his girlfriend and two children near Allentown, the new eviction ban offers a tentative lifeline. He said he has struggled to make rent since being laid off from his job as an auto body technician in March.
 
-He applied for food stamps for the first time. He tried to get help from the state’s <a href="https://www.spotlightpa.org/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/">troubled</a> rental assistance program. For months, he said, he’d been making partial payments, but still racked up about $4,000 in debt.
+He applied for food stamps for the first time. He tried to get help from the state’s <a href="https://lesspage.com/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/">troubled</a> rental assistance program. For months, he said, he’d been making partial payments, but still racked up about $4,000 in debt.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “There’s just nowhere we can go,” Kiefer said. “None of our family have big enough houses to take us in.”
 
@@ -78,14 +78,14 @@ Under the federal order, late fees and interest can still accrue, which could le
 
 “This is a really positive development but the problem still remains that if people can’t pay their rent, and they’re not paying it, that bill is going to come at some point,” said Phyllis Chamberlain, executive director of the Housing Alliance of Pennsylvania.
 
-Lawmakers are weighing changes to Pennsylvania’s troubled rental assistance program, in part because many landlords have refused to participate, citing a $750 cap on the amount of assistance they can receive and a requirement that they waive their right to collect any remaining rent, <a href="https://www.spotlightpa.org/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/" target=_blank>a Spotlight PA review found</a>. Onerous paperwork requirements have also slowed the pace of approving applications in some counties.
+Lawmakers are weighing changes to Pennsylvania’s troubled rental assistance program, in part because many landlords have refused to participate, citing a $750 cap on the amount of assistance they can receive and a requirement that they waive their right to collect any remaining rent, <a href="https://lesspage.com/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/" target=_blank>a Spotlight PA review found</a>. Onerous paperwork requirements have also slowed the pace of approving applications in some counties.
 
-A spokesperson for Wolf said the governor believes the state legislature should <a href="https://www.spotlightpa.org/news/2020/09/pa-eviction-moratorium-tom-wolf-republican-lawmakers/" target=_blank>both fix the rental assistance program and reinstate the state’s eviction ban</a>, which went further than the new federal order by preventing foreclosures.
+A spokesperson for Wolf said the governor believes the state legislature should <a href="https://lesspage.com/news/2020/09/pa-eviction-moratorium-tom-wolf-republican-lawmakers/" target=_blank>both fix the rental assistance program and reinstate the state’s eviction ban</a>, which went further than the new federal order by preventing foreclosures.
 
 “The eviction moratorium is important, but it’s temporary,” Chamberlain said. “Rental assistance is a longer-term solution that actually addresses the root problem.”
 
 <i>Inquirer staff writer Michaelle Bond contributed to this article.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20%3Cb%3Efacing%20eviction%20as%20a%20result%20of%20the%20coronavirus%20pandemic%3C%2Fb%3E%3F%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20%3Cb%3Efacing%20eviction%20as%20a%20result%20of%20the%20coronavirus%20pandemic%3C%2Fb%3E%3F%20We%20want%20to%20hear%20from%20you."></div>

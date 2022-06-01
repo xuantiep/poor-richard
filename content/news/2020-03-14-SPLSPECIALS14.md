@@ -18,7 +18,7 @@ arc-id = "H4R3JUJ32RCXPFHWVNWZ6ZLLRI"
 subtitle = ""
 linktitle = ""
 +++
-*This story was produced as part of a joint effort between [Spotlight PA](https://www.spotlightpa.org/), [LNP Media Group](https://lancasteronline.com/), [PennLive](https://www.pennlive.com/), [PA Post](https://papost.org/), and [WITF](https://www.witf.org/) to cover how Pennsylvania state government is responding to the coronavirus.*
+*This story was produced as part of a joint effort between [Spotlight PA](https://lesspage.com/), [LNP Media Group](https://lancasteronline.com/), [PennLive](https://www.pennlive.com/), [PA Post](https://papost.org/), and [WITF](https://www.witf.org/) to cover how Pennsylvania state government is responding to the coronavirus.*
 
 HARRISBURG — Despite concerns over the coronavirus, a special election in Bucks County will go on as planned Tuesday, a top state House official has announced.
 
@@ -56,4 +56,4 @@ As of Friday morning, Humphrey said she had only discussed with state officials 
 
 *Inquirer staff writer Chris Brennan contributed to this article.*
 
-*Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at [spotlightpa.org/donate](https://www.spotlightpa.org/donate).*
+*Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at [spotlightpa.org/donate](https://lesspage.com/donate).*

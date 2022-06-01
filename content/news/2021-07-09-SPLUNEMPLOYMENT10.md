@@ -19,9 +19,9 @@ title = "Department of Labor admits it overcharged unemployed Pennsylvanians mil
 topics = ["Economy", "Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-<i><b>Update, Sept. 3: </b></i><a href="https://www.spotlightpa.org/news/2021/09/pa-unemployment-interest-overcharged-refund-website/"><i><b>Pa. to refund $19 million to 109,000 people it overcharged in unemployment error</b></i></a>
+<i><b>Update, Sept. 3: </b></i><a href="https://lesspage.com/news/2021/09/pa-unemployment-interest-overcharged-refund-website/"><i><b>Pa. to refund $19 million to 109,000 people it overcharged in unemployment error</b></i></a>
 
 HARRISBURG — Just one day after Spotlight PA contacted the Department of Labor and Industry with a list of questions about a serious error that overcharged unemployed Pennsylvanians millions of dollars in interest for a decade, the agency announced Friday it will issue refunds.
 
@@ -29,7 +29,7 @@ Each year, interest accrues on money people owe to the department because, for v
 
 The agency instead charged a fixed, 9% interest rate, because it failed to adjust the number annually in the computer system that processes payments. The department said this was an oversight after a 2005 legal change.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 In its response to questions from Spotlight PA, the department on Friday said 250,000 people “were affected by the interest overcharge” and estimated that it owes at least $14 million in refunds, which it said amounts to less than $50 for most people.
 
@@ -109,7 +109,7 @@ Wiley did not respond to a request to be interviewed and directed Spotlight PA t
 
 As staffers tried to calculate, over email, how much the agency owed Pennsylvanians, one claim showed that if the interest rate was applied correctly, at 3% between 2011 and 2016, the claimant owed $3,000 less than the state had charged.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=%3Cb%3EWere%20you%20charged%20interest%20for%20overpayment%20of%20unemployment%20between%202006%20and%202016%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=%3Cb%3EWere%20you%20charged%20interest%20for%20overpayment%20of%20unemployment%20between%202006%20and%202016%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>
 
 ## The fallout
 
@@ -151,9 +151,9 @@ Kopcho was the only person involved in the discussion who agreed to talk to Spot
 
 “They didn’t want any part of it,” Kopcho said plainly.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-Meanwhile, momentum to address the mistake was impeded by a push to renew and update the unemployment benefits computer system through a new contractor, Florida-based GSI. The new system launched in June, and <a href="https://www.spotlightpa.org/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/">as IT experts and advocates warned,</a> it has since faced <a href="https://www.spotlightpa.org/news/2021/06/pa-unemployment-new-system-errors-issues/">widespread public outcry</a> as problems continue.
+Meanwhile, momentum to address the mistake was impeded by a push to renew and update the unemployment benefits computer system through a new contractor, Florida-based GSI. The new system launched in June, and <a href="https://lesspage.com/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/">as IT experts and advocates warned,</a> it has since faced <a href="https://lesspage.com/news/2021/06/pa-unemployment-new-system-errors-issues/">widespread public outcry</a> as problems continue.
 
 The pandemic also resulted in the largest influx in claims in the agency’s history, compounded by low staffing, serious training gaps, and ongoing technological problems.
 
@@ -169,4 +169,4 @@ Former employees feared that the new system could erase records of decades of ov
 
 <i>This story was updated to clarify that 250,000 were impacted by the interest mistake, but not all will receive refunds, according to the department.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -11,7 +11,7 @@ kicker = "Capitol Notebook"
 suppress-featured = false
 slug = "pennsylvania-tom-wolf-money-public-schools-no-new-taxes"
 +++
-***Capitol Notebook by [Spotlight PA](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/")** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://www.spotlightpa.org/newsletters "https\://www.spotlightpa.org/newsletters")*
+***Capitol Notebook by [Spotlight PA](https://lesspage.com/ "https\://lesspage.com/")** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://lesspage.com/newsletters "https\://lesspage.com/newsletters")*
 
 HARRISBURG — Gov. Tom Wolf on Tuesday proposed a $36 billion dollar budget with no major tax increases that would boost funding for public education, expand full-day kindergarten to all students, borrow money to address environmental hazards in schools, and make sweeping changes to how charter schools are funded.
 
@@ -25,7 +25,7 @@ Though the governor’s sixth proposed budget reflected his long held priorities
 
 Wolf’s plan, for instance, would not hike either the state’s sales or income taxes — the two largest sources of revenue — but instead would seek to raise new dollars through targeted fees on municipalities to fund, among other items, the State Police budget.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The governor also renewed his call to gradually raise Pennsylvania’s minimum wage to $15 an hour, another proposal that has been met with resistance by some Republican lawmakers.
 
@@ -79,4 +79,4 @@ Wolf is asking the legislature to approve raising the state’s minimum wage fro
 
 Wolf is resurrecting a new version of a proposal he championed in recent years to impose a fee for State Police coverage on municipalities that don’t have their own police forces. This year, the governor is seeking a fee on all municipalities based on the level of coverage. It would factor in a town’s population and income.
 
-*[Spotlight PA](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/") receives[ funding from nonprofit institutions and readers like you](https://www.spotlightpa.org/support "https\://www.spotlightpa.org/support") who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/").*
+*[Spotlight PA](https://lesspage.com/ "https\://lesspage.com/") receives[ funding from nonprofit institutions and readers like you](https://lesspage.com/support "https\://lesspage.com/support") who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://lesspage.com/ "https\://lesspage.com/").*

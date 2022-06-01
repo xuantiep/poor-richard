@@ -24,7 +24,7 @@ HARRISBURG — As President Donald Trump continues to question the integrity of 
 
 Roughly two dozen House and Senate lawmakers on Tuesday called for the creation of an investigatory committee with subpoena power to conduct an immediate audit, saying they had fielded widespread doubts about the fairness of the Nov. 3 presidential election.
 
-House Republicans <a href="https://www.spotlightpa.org/news/2020/10/pa-election-integrity-committee-house-republicans-democrats-voting/">championed a similar proposal</a> before the election, but abandoned it after Democrats raised concerns it would be weaponized to impound ballots, interrogate election officials, and delay the certification of Pennsylvania’s election results.
+House Republicans <a href="https://lesspage.com/news/2020/10/pa-election-integrity-committee-house-republicans-democrats-voting/">championed a similar proposal</a> before the election, but abandoned it after Democrats raised concerns it would be weaponized to impound ballots, interrogate election officials, and delay the certification of Pennsylvania’s election results.
 
 At the state Capitol, Rep. Dawn Keefer (R., York) said the assembled lawmakers' offices had been “overwhelmed with calls and emails and other messages from constituents who are confused and outraged by the circumstances surrounding this election.”
 
@@ -32,7 +32,7 @@ When asked if she had evidence that fraud had been committed, Keefer said the la
 
 The lawmakers who gathered Tuesday aren’t alone. House Speaker Bryan Cutler (R., Lancaster) last week <a href="http://www.pahousegop.com/Display/SiteFiles/1/OtherDocuments/2020/Governor%20Wolf%20-%20Election%20Audit%20-%20NOV%202020.pdf">called</a> on Gov. Tom Wolf to audit the election before the state’s results are certified Nov. 23, claiming state guidance and court rulings have created “chaos and uncertainty.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 But Pennsylvania already has safeguards in place to ensure the accuracy of election results, experts told Spotlight PA and Votebeat. In addition to routine reviews in each county required by law, the state has started to pilot “risk-limiting” audits, a process that verifies whether a sample of paper ballots matches results captured electronically by voting machines.
 
@@ -44,7 +44,7 @@ Suzanne Almeida, interim director of the good-government organization Common Cau
 
 The calls for investigations come as Republicans, including those in leadership, continue to question a state Supreme Court ruling that allowed counties to accept ballots postmarked by Election Day but that arrived up until 5 p.m. Friday. The GOP has also targeted Department of State guidance allowing counties to contact party and candidate representatives if they rejected certain mail ballots, either because the ballot was missing a signature or was not in a secrecy envelope (known as a “naked” ballot).
 
-Senate Majority Leader Jake Corman (R., Centre) last week <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-election-2020-republican-fraud-cured-late-ballots/">claimed</a> the Wolf administration attempted to “tip the scales in favor of Joe Biden,” while also acknowledging he didn’t “have any evidence of misdoing.”
+Senate Majority Leader Jake Corman (R., Centre) last week <a href="https://lesspage.com/news/2020/11/pennsylvania-election-2020-republican-fraud-cured-late-ballots/">claimed</a> the Wolf administration attempted to “tip the scales in favor of Joe Biden,” while also acknowledging he didn’t “have any evidence of misdoing.”
 
 GOP leadership said Tuesday afternoon they had tasked the House State Government Committee to investigate the election. Interim chair, Rep. Seth Grove (R., York), said in a statement a review must take place “now, while all the evidence remains before us and the events leading up to our General Election are fresh in the minds of all participants.”
 
@@ -66,7 +66,7 @@ The first such audits <a href="https://www.inquirer.com/politics/election/philad
 
 During that audit, counties used a statistical sample of 400 randomly selected ballots and compared the votes on paper to the totals reported by vote-counting machines. The chance that the audit gave a false-positive result was less than 0.1%.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20its%20dedicated%20and%20passionate%20members.%20%3Cb%3EJoin%20today%20and%20we'll%20DOUBLE%20your%20gift.%3C%2Fb%3E&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20its%20dedicated%20and%20passionate%20members.%20%3Cb%3EJoin%20today%20and%20we'll%20DOUBLE%20your%20gift.%3C%2Fb%3E&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
 The settlement also required the Department of State to convene a post-election audit work group. Members included county election directors, Department of State representatives, Common Cause PA, nonpartisan election integrity organization Verified Voting, and the Brennan Center Democracy Program.
 
@@ -84,4 +84,4 @@ Election officials who spoke to Spotlight PA and Votebeat said they weren’t aw
 
 “All I care is if it’s fair,” said Lisa Dart, Carbon County’s elections director, on post-election audits generally. “No matter what happens, I just want it to be fair.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>

@@ -14,7 +14,7 @@ suppress-featured = false
 topics = ["Coronavirus"]
 series = []
 +++
-<i>This story was produced as part of a joint effort among [Spotlight PA](https://www.spotlightpa.org/), [LNP Media Group](https://lancasteronline.com/), [PennLive](https://www.pennlive.com/), [PA Post](https://papost.org/), and [WITF](https://www.witf.org/) to cover how Pennsylvania state government is responding to the coronavirus. [Sign up for Spotlight PA’s newsletter.](https://www.spotlightpa.org/newsletters)</i>
+<i>This story was produced as part of a joint effort among [Spotlight PA](https://lesspage.com/), [LNP Media Group](https://lancasteronline.com/), [PennLive](https://www.pennlive.com/), [PA Post](https://papost.org/), and [WITF](https://www.witf.org/) to cover how Pennsylvania state government is responding to the coronavirus. [Sign up for Spotlight PA’s newsletter.](https://lesspage.com/newsletters)</i>
 
 The Pennsylvania State Police on Monday will begin enforcing the statewide shutdown for [all but “life-sustaining” businesses](https://www.inquirer.com/health/coronavirus/spl/pennsylvania-shutdown-lifesustaining-businesses-tom-wolf-shut-down-20200319.html) across the state, as Gov. Tom Wolf warned that emergency measures may last longer than initially anticipated.
 
@@ -28,7 +28,7 @@ Other agencies involved with enforcement include the Pennsylvania Liquor Control
 
 "Troopers and liquor control officers will make every effort to achieve voluntary compliance by educating business owners and using discretion when appropriate,” Evanchick said. "But our message is clear: COVID-19 is a serious health and public safety risk that requires an extraordinary response from law enforcement and the public."
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Asked Sunday whether he would consider implementing a stay-at-home directive, similar to what Philadelphia Mayor Jim Kenney announced, Wolf said: “That is something that has to be under consideration. And it is for Pennsylvania.”
 
@@ -52,6 +52,6 @@ Levine said tests are available not only through the state but through commercia
 
 "I don’t see a time when we’ll be testing asymptomatic people in the future,” she said.
 
-<b><i>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://www.spotlightpa.org/donate).</i>
+<b><i>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://lesspage.com/donate).</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

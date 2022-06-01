@@ -27,9 +27,9 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i>
 
-With all but one county in Pennsylvania now in the green phase of reopening, public health experts agree that contact tracing is <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-reopening-contact-tracing-coronavirus/">a crucial element</a> to keeping people safe.
+With all but one county in Pennsylvania now in the green phase of reopening, public health experts agree that contact tracing is <a href="https://lesspage.com/news/2020/06/pennsylvania-reopening-contact-tracing-coronavirus/">a crucial element</a> to keeping people safe.
 
 Locating infected individuals, identifying their close contacts, and asking those contacts to quarantine limits the spread of the disease without imposing sweeping stay-at-home orders.
 
@@ -41,12 +41,12 @@ And so far in June, 60 infected individuals have declined to provide their list 
 
 “Certainly we’re not going to be able to contain the spread of the disease if we can’t do the contact tracing,” said Chrysan Cronin, director and assistant professor of public health at Muhlenberg College. “It will just run rampant through the population and we’ll have to depend on herd immunity or a vaccine — both of which are uncertain.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 Traditionally, contact tracers see much better response rates, Cronin said. But as politics and public health continue to clash at federal and local levels, more people are skeptical of government intervention and the true severity of COVID-19.
 
-Some don’t want to share who they’ve been in contact with for fear of being blamed for spreading the virus or because it feels like an invasion of privacy, those on the front lines of tracing said. Others are concerned that they’ll be stigmatized even if they’re wrongly identified as a contact, said Rep. Russ Diamond (R., Lebanon), who was identified as a contact of another legislator <a href="https://www.spotlightpa.org/news/2020/05/pennsylvania-gop-lawmaker-positive-coronavirus/">who tested positive for COVID-19 in May</a>.
+Some don’t want to share who they’ve been in contact with for fear of being blamed for spreading the virus or because it feels like an invasion of privacy, those on the front lines of tracing said. Others are concerned that they’ll be stigmatized even if they’re wrongly identified as a contact, said Rep. Russ Diamond (R., Lebanon), who was identified as a contact of another legislator <a href="https://lesspage.com/news/2020/05/pennsylvania-gop-lawmaker-positive-coronavirus/">who tested positive for COVID-19 in May</a>.
 
 But information on who is a contact is confidential. It is not published in any public realm and tracers are trained in federal laws that protect medical information, Cronin said.
 
@@ -58,7 +58,7 @@ Some counties are working with local nonprofits to provide these types of suppor
 
 Berks County contracted with Co-County Wellness Services, a nonprofit providing sexually transmitted infection services, to begin contact tracing in June. Tracers can connect individuals to mental health services, food banks, pharmacy deliveries, and more, said director Carolyn Bazik. So far, only two individuals called by tracers have refused to participate.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “We’ve been around for 35 years and we’ve safe-guarded HIV and STD information all that time,” Bazik said, “so that reputation makes people more likely to trust the process perhaps.”
 
@@ -68,6 +68,6 @@ The key is building community trust, said Noble Maseru, a professor at the Unive
 
 “You really want to convey that you are treating everyone fairly and no one is being singled out,” Maseru said.
 
-<a href="https://www.spotlightpa.org/newsletters"><i>A version of this story first appeared in our free weekly newsletter. Sign up here</i></a><i>.</i>
+<a href="https://lesspage.com/newsletters"><i>A version of this story first appeared in our free weekly newsletter. Sign up here</i></a><i>.</i>
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

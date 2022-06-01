@@ -26,7 +26,7 @@ modal-exclude = false
 aliases = []
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — In the days after schools shut down statewide to slow the spread of the coronavirus, Pennsylvania’s 24-hour hotline for reporting child abuse and neglect experienced a sudden drop-off in calls.
 
@@ -38,7 +38,7 @@ That’s happening at a time when families who were already struggling are furth
 
 In the first few days after schools closed on March 13, state public welfare officials reported a reduction in calls to ChildLine, Pennsylvania’s hotline for reporting suspected child abuse and neglect. The hotline received 3,284 phone calls between March 11 and March 17, compared with 4,121 during the same week in February, according to data provided by the state Department of Human Services.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 And in a call earlier this week with child welfare advocates, human services officials said that in the first three weeks of March, ChildLine had received just over 9,000 calls, compared with nearly 18,000 the previous month.
@@ -55,7 +55,7 @@ The staff also processes child-abuse clearances and FBI background checks for pe
 
 When they receive a call reporting abuse, ChildLine caseworkers search a statewide database to identify if anyone involved in the report — including the child, the child’s parent, or the alleged abuser — has ever been involved in a previous substantiated report or one that may currently be under investigation.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ChildLine workers then “triage” the situation and determine whether a case gets referred to county children and youth agencies or law enforcement for further investigation, Palm said. (Those agencies are considered essential and are working despite other shutdowns.)
 
@@ -67,6 +67,6 @@ Palm noted that the next two largest groups of mandated reporters are social ser
 
 “This is a dangerous time for children,” Palm said.
 
-<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

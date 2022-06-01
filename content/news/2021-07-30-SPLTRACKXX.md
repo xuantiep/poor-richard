@@ -30,15 +30,15 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Spotlight PA’s tallying of Pennsylvania’s pandemic-related spending led us to the state’s emergency procurement program — a faster and, critics say, less transparent way for agencies to purchase urgently needed supplies and services.
 
-Not unexpectedly, that spending ballooned in 2020,<a href="https://www.spotlightpa.org/news/2021/07/contact-tracing-data-breach-pennsylvania-emergency-contracts/"> with state agencies requesting to spend $340 million</a>, up from an annual average of $81 million.
+Not unexpectedly, that spending ballooned in 2020,<a href="https://lesspage.com/news/2021/07/contact-tracing-data-breach-pennsylvania-emergency-contracts/"> with state agencies requesting to spend $340 million</a>, up from an annual average of $81 million.
 
-Many requests were straightforward, like bulk orders of masks and gloves. Other requests<a href="https://www.spotlightpa.org/news/2021/07/emergency-contracts-pandemic-department-of-health-contact-tracing-pa/"> led to scrutiny from Republican lawmakers</a>, and some requests were downright curious — like one from PennDOT for repairs to a plane used for emergency response that collided with a deer.
+Many requests were straightforward, like bulk orders of masks and gloves. Other requests<a href="https://lesspage.com/news/2021/07/emergency-contracts-pandemic-department-of-health-contact-tracing-pa/"> led to scrutiny from Republican lawmakers</a>, and some requests were downright curious — like one from PennDOT for repairs to a plane used for emergency response that collided with a deer.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The requests alone only tell part of the story. State agencies are not required to produce a written contract for emergency procurement requests. Departments under state law must post purchase orders related to those expenses to the Treasury Department website, though there is no mechanism in state law to ensure that happens.
 
@@ -48,7 +48,7 @@ These requests also don’t represent the totality of state agencies’ spending
 
 But they do shed light on how the administration responded to the pandemic and what was prioritized. Here are the highlights of what we found via a public records request.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Want%20to%20know%20more%20about%20an%20emergency%20procurement%3F%20Have%20information%20about%20a%20contract%20we%20should%20know%20about%3F%20%3Cb%3ESend%20us%20a%20tip.%3Cb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Want%20to%20know%20more%20about%20an%20emergency%20procurement%3F%20Have%20information%20about%20a%20contract%20we%20should%20know%20about%3F%20%3Cb%3ESend%20us%20a%20tip.%3Cb%3E"></div>
 
 <b>Most expensive pandemic-related requests:</b>
 
@@ -56,7 +56,7 @@ But they do shed light on how the administration responded to the pandemic and w
 
 - <b>$28.5 million</b>&nbsp;by the Department of Health to hire&nbsp;<a href="http://www.emarketplace.state.pa.us/EP_Details.aspx?id=20156">Curative</a>&nbsp;to administer COVID-19 tests in long-term care facilities
 
-- <b>$25 million</b>&nbsp;by the Department of Health to hire&nbsp;<a href="http://www.emarketplace.state.pa.us/EP_Details.aspx?id=18187">Insight Global</a>&nbsp;to administer the&nbsp;<a href="https://www.spotlightpa.org/news/2021/06/pa-coronavirus-data-breach-insight-global-google-drive/">contact tracing program</a>
+- <b>$25 million</b>&nbsp;by the Department of Health to hire&nbsp;<a href="http://www.emarketplace.state.pa.us/EP_Details.aspx?id=18187">Insight Global</a>&nbsp;to administer the&nbsp;<a href="https://lesspage.com/news/2021/06/pa-coronavirus-data-breach-insight-global-google-drive/">contact tracing program</a>
 
 - <b>$13 million</b>&nbsp;by the Department of Labor and&nbsp;Industry to hire&nbsp;<a href="http://www.emarketplace.state.pa.us/EP_Details.aspx?id=19287">Ernst &amp; Young</a>&nbsp;to assist with unemployment claims
 
@@ -108,4 +108,4 @@ But they do shed light on how the administration responded to the pandemic and w
 
 - Transportation: $30,731,414
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

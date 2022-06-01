@@ -19,7 +19,7 @@ title = "Big PSERS report gives new details on top staff’s actions"
 topics = ["Pensions"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 <i>Clarification: This article has been updated to make clear that, during a December 2020 board vote to certify investment returns, chief financial officer Brian Carl told chief executive officer Glen Grell that a different accounting method produced a lower figure for returns, but said that this number did “not add value” and was not based on the most up-to-date financial information</i>.
 
@@ -31,7 +31,7 @@ The board then certified the higher figure for its investment performance -- onl
 
 Grell’s legal team said he did nothing wrong and made the right decision because the lower figure was not the “consensus” view and was based on an “illegitimate and inappropriate methodology.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The board of PSERS, the $73 billion Public School Employment Retirement System, made public the long-awaited <a href="https://www.inquirer.com/business/psers-pension-fund-pa-teachers-mistake-error-lawyers-20210319.html">report by Womble Bond Dickinson</a> lawyers about midnight Tuesday. Its weary members did so after the panel had met in secret for 15 hours Monday to review the 37-page report and its accompanying 95 pages of rebuttal statements and significant documents.
 
@@ -113,7 +113,7 @@ That morning, the report said, Grell, Grossman, and the fund’s chief financial
 
 The one that produced the lower figure was based on a more traditional accounting method. The other approach relied more on updated figures for earlier years.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The three executives exchanged the emails after a board member — the report does not say which one — first raised the issue and asked for a calculation based on the more conservative method.
 
@@ -131,4 +131,4 @@ According to the Womble probe, PSERS investment experts began to detect flaws in
 
 In April, the PSERS board voted again, adopting a new, lower figure for investment returns, one under the target. This forced PSERS to raise pension contributions for 100,000 school staff after all.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -20,7 +20,7 @@ title = "To successfully use Pennsylvania’s ‘compassionate release’ law, h
 topics = ["Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 PHILADELPHIA — If Bradford Gamble wanted to leave state prison, he had to decide to die.
 
@@ -28,7 +28,7 @@ He found out about his late-stage cancer diagnosis unceremoniously: A guard drop
 
 Gamble spent his entire adult life inside the walls of Pennsylvania state prisons. He was sentenced in 1976 for a murder he committed when he was 19 years old, an action he’s come to deeply regret.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 His cancer diagnosis at age 65 gave him an opportunity to use a little-known Pennsylvania law that allows terminally ill people to leave prison, but only if they have less than a year to live. For people serving life, it’s one of the only ways out.
 
@@ -46,9 +46,9 @@ The statute, established in 2009, allows older and sick people to transfer from 
 
 “The statute is drafted so narrowly that it forces you to make decisions like forgoing lifesaving treatment in order to get even the possibility of medical transfer,” said Rupalee Rashatwar, an attorney with the Abolitionist Law Project, a public interest law firm that represented Gamble in his transfer petition.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
-Gamble is one of only 33 people who have successfully petitioned to leave prison in the past 13 years because of illness. Two more petitioners have been successful since <a href="https://www.spotlightpa.org/news/2022/03/pa-prison-life-sentence-compassionate-release/">Spotlight PA investigated the law</a> in March.
+Gamble is one of only 33 people who have successfully petitioned to leave prison in the past 13 years because of illness. Two more petitioners have been successful since <a href="https://lesspage.com/news/2022/03/pa-prison-life-sentence-compassionate-release/">Spotlight PA investigated the law</a> in March.
 
 Gamble didn’t know about the process until he met an incarcerated activist, Bryant Arroyo, who helped him scour the prison law library for any means of getting out. They called dozens of state lawmakers, attorneys, and activists on the outside before discovering the compassionate release statute.
 
@@ -62,4 +62,4 @@ A shirt Gamble designed hangs next to him. It features an image of Arroyo, stand
 
 “I came up with that because it’s many men and women, but we all had the same heartbeat as far as getting home to our loved ones,” Gamble said.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -18,17 +18,17 @@ title = "Court weighs Pennsylvania congressional map proposals with national imp
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — Teams representing Gov. Tom Wolf, state Republican lawmakers, and other groups of Pennsylvanians spent much of Thursday and Friday explaining to a judge why their proposed congressional map is the best, widely agreeing on the basics but differing on how to weigh factors like partisan fairness.
 
 Commonwealth Court heard two days of testimony on district lines that could affect the balance of power in Washington for the next decade.
 
-The state court system is set to pick the next map just days after Democratic Gov. Tom Wolf <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a proposal sent to him by the Republican-controlled legislature</a>. Because of Pennsylvania’s sluggish population growth over the past decade, the state will lose one of its 18 seats.
+The state court system is set to pick the next map just days after Democratic Gov. Tom Wolf <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a proposal sent to him by the Republican-controlled legislature</a>. Because of Pennsylvania’s sluggish population growth over the past decade, the state will lose one of its 18 seats.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-Anticipating that Wolf and the General Assembly would be unable to agree on a map in time to <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-primary-2022-redistricting-delays/">keep the May primary on track</a>, two suits filed in December asked Commonwealth Court to take over the redistricting process.
+Anticipating that Wolf and the General Assembly would be unable to agree on a map in time to <a href="https://lesspage.com/news/2022/01/pennsylvania-primary-2022-redistricting-delays/">keep the May primary on track</a>, two suits filed in December asked Commonwealth Court to take over the redistricting process.
 
 In response, the court issued a Jan. 30 deadline to complete the map while also soliciting proposals from the petitioners, Wolf, top lawmakers, and other approved parties in preparation to take over the process. In total, more than a dozen maps were submitted.
 
@@ -194,4 +194,4 @@ Concerned Citizens for Democracy, a good-government group, submitted a map to th
 
 <div class="flourish-embed flourish-map" data-src="visualisation/8550264"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

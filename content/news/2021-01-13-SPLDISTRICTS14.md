@@ -44,7 +44,7 @@ Rep. Russ Diamond (R., Lebanon), who introduced the amendment, said judges’ ju
 
 “Just like we have geographic diversity when we create law and come to consensus based on that multi-voice, we should also have that sort of diversity when those laws are heard on appeal and when our courts are setting precedent for the future,” he said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Lawmakers would redraw judicial districts every 10 years, as they do for congressional districts. The judicial maps would have to adhere to the same redistricting criteria outlined in the Pennsylvania constitution, which requires lawmakers to draw districts that are roughly equal in population, compact, and contiguous, as well as avoid splitting localities “unless absolutely necessary.”
 
@@ -54,9 +54,9 @@ Only two states — <a href="http://www.judicialselection.us/judicial_selection/
 
 “It’s really an attempt to hold the judiciary accountable and threaten their independence,” said Deborah Gross, president and CEO of Pennsylvanians for Modern Courts, which advocates for judges to be chosen through an independent merit selection process.
 
-Republicans for months have accused the majority-Democrat state Supreme Court of overstepping its constitutional role, after the party lost <a href="https://www.spotlightpa.org/news/2020/09/pa-election-november-supreme-court-mail-ballots-tom-wolf/">several significant election cases</a>.
+Republicans for months have accused the majority-Democrat state Supreme Court of overstepping its constitutional role, after the party lost <a href="https://lesspage.com/news/2020/09/pa-election-november-supreme-court-mail-ballots-tom-wolf/">several significant election cases</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 In 2018, after the high court struck down a congressional map that justices said was gerrymandered to give Republicans an unfair political advantage, several GOP lawmakers called for Democrats on the bench <a href="https://apnews.com/article/8d8215c8e34b42198222ae5b00c0ca9d">to be impeached</a>. A Republican state lawmaker again <a href="https://triblive.com/news/pennsylvania/state-rep-calls-for-impeachment-of-supreme-court-justice-wecht/">called for Justice David Wecht, a Democrat, to be impeached</a> in October in response to the court’s ruling on several election-related cases, and its upholding of Wolf’s emergency COVID-19 declaration.
 
@@ -72,4 +72,4 @@ In a statement, Gov. Tom Wolf called the proposed amendment “another effort by
 
 <i>This story will be updated.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -30,9 +30,9 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, Triblive/Pittsburgh Tribune-Review, and WITF Public Media. </i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, Triblive/Pittsburgh Tribune-Review, and WITF Public Media. </i>
 
-<a href="https://www.spotlightpa.org/newsletters" target=_blank><i>A version of this story first appeared in our free weekly newsletter. Sign up here.</i></a>
+<a href="https://lesspage.com/newsletters" target=_blank><i>A version of this story first appeared in our free weekly newsletter. Sign up here.</i></a>
 
 As the fall semester begins, universities across the state and country are focused on keeping students safe from the coronavirus and providing effective online and in-person classes.
 
@@ -40,13 +40,13 @@ But amidst those concerns, one lawmaker is calling on Pennsylvania’s 14 public
 
 “We have a responsibility to discuss this and address this [now],” Sen. Judy Schwank (D., Berks) said at a <a href="https://www.youtube.com/watch?v=8BELoWpdxIg&feature=youtu.be">board of governors meeting</a> last week for the public university system, known as PASSHE.
 
-At the Aug. 13 meeting, Schwank raised <a href="https://www.spotlightpa.org/news/2020/08/pennsylvania-public-universities-colleges-campus-racism/">Spotlight PA’s in-depth report</a> from earlier this month which chronicled the mental and academic toll of long-standing racial inequities on students of color and the lack of meaningful response from universities.
+At the Aug. 13 meeting, Schwank raised <a href="https://lesspage.com/news/2020/08/pennsylvania-public-universities-colleges-campus-racism/">Spotlight PA’s in-depth report</a> from earlier this month which chronicled the mental and academic toll of long-standing racial inequities on students of color and the lack of meaningful response from universities.
 
 And she called on the system to take immediate action.
 
 Schwank asked the board to add racial equity to every meeting agenda moving forward and to make it a key part of the system’s redesign — a multi-year effort to reimagine public higher education and address falling enrollment and financial woes. 
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20critical%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20critical%20work."></div>
 
 “This is exactly the time to have this discussion,” Schwank told Spotlight PA. “Who are we designing the system to serve and what will that student body look like?” 
 
@@ -62,7 +62,7 @@ Schwank said accountability can’t stop with one administrator, though. She rai
 
 Shippensburg University President Laurie Carter echoed that sentiment. At the meeting, Carter said several universities have been taking measures to be more inclusive, but “the work is simply not deep enough. There hasn’t been enough support for it, and it is not across the board.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 But Carter — a Black woman and first-generation student who graduated from a PASSHE school herself — told Spotlight PA that this moment feels different. With the hiring of Pearson, and the nationwide reckoning on race, more people than ever are committed to addressing the concerns of students and faculty of color, she said.
 
@@ -70,4 +70,4 @@ Many students who spoke to Spotlight PA for the original article were equally op
 
 “The fact that she even brought it up ... is huge honestly,” said Ada Bailor, a senior at Indiana University of Pennsylvania. “I feel like the current climate won’t allow them to keep ignoring our concerns.”
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -18,7 +18,7 @@ title = "Pa. Supreme Court weighs future of state’s popular mail voting law"
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The fate of Pennsylvania’s popular vote-by-mail law now lies in the hands of the state’s highest court, which on Tuesday heard competing arguments on whether it violates the state constitution and should be struck down.
 
@@ -26,7 +26,7 @@ The law, known as Act 77 and approved overwhelmingly by the GOP-controlled legis
 
 It was challenged last year by a group of Republican lawmakers and elected officials who argue the legislature does not have the power under the state constitution to make such a change. A lower appellate court in January sided with them, ruling that such a change requires an amendment to the state constitution that must be approved by voters.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 On Tuesday, justices on the seven-member Supreme Court pressed lawyers representing the Wolf administration and Republican challengers for nearly three hours about the law, focusing on the two sections of the state constitution at the heart of the dispute over its legality: one that dictates eligibility requirements for voting, and another that spells out the circumstances for voters to cast an absentee ballot.
 
@@ -50,7 +50,7 @@ Attorneys for the state have countered that to win, lawyers for Republicans must
 
 The constitution states that elections shall occur by ballot “or by such other method as may be prescribed by law” — a clause, the lawyers say, that gives the legislature the authority to make election changes without having to go through the lengthy process of amending the constitution.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Several justices Tuesday pushed back on that argument, asking lawyers for the state about two prior court cases that determined that the only constitutional exception to voting in person is voting by absentee ballot. Those cases, they noted, pose a problem to the state’s position.
 
@@ -60,4 +60,4 @@ It is unclear how quickly the court will rule. At one point during Tuesday’s o
 
 “I don’t think so,” responded Seth Waxman, one of the lawyers representing the state and national Democratic parties. “There are millions and millions of people who would need to be reeducated, millions and millions of dollars that the state would have to spend in reeducating them.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -17,15 +17,15 @@ title = "Pa. election 2021: Polling places, mail ballot details, and more things
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The Nov. 2, 2021 Pennsylvania election is fast approaching.
 
 Voters statewide — regardless of party affiliation — will elect a new Pennsylvania Supreme Court justice as well as judges at all levels of the judicial system. Municipal positions such as mayor, school board director, and council member will also be on the ballot.
 
-Below, Spotlight PA answers some of the most frequently asked questions about the voting process and this fall’s races. And join us on Oct. 21 at noon for a <a href="https://www.spotlightpa.org/news/2021/10/pa-elections-2021-judicial-appellate/">free virtual panel on this election and why it matters</a>.
+Below, Spotlight PA answers some of the most frequently asked questions about the voting process and this fall’s races. And join us on Oct. 21 at noon for a <a href="https://lesspage.com/news/2021/10/pa-elections-2021-judicial-appellate/">free virtual panel on this election and why it matters</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Can I still register to vote?
 
@@ -41,7 +41,7 @@ You can also go to your county election office (find the address <a href="https:
 
 You have at least two options. Option one: Mail your ballot back to your county election office. Some counties pay for the postage, while others don’t, so pay attention to the writing on the envelope.
 
-Option two: In all 67 counties, a voter can return their <a href="https://www.spotlightpa.org/news/2020/10/pa-who-can-drop-off-mail-absentee-ballots/">own</a> ballot to a local election office in person (again, find the address <a href="https://www.vote.pa.gov/Resources/Pages/Contact-Your-Election-Officials.aspx">here</a>). Some counties have set up satellite offices and drop boxes. <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/Drop-Box.aspx">Look up those locations here</a>.
+Option two: In all 67 counties, a voter can return their <a href="https://lesspage.com/news/2020/10/pa-who-can-drop-off-mail-absentee-ballots/">own</a> ballot to a local election office in person (again, find the address <a href="https://www.vote.pa.gov/Resources/Pages/Contact-Your-Election-Officials.aspx">here</a>). Some counties have set up satellite offices and drop boxes. <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/Drop-Box.aspx">Look up those locations here</a>.
 
 This part is extra important: Ballots must be received by the county election office before 8 p.m. on Election Day. Plan accordingly.
 
@@ -57,7 +57,7 @@ Commonwealth Court handles new civil cases as well as actions brought against st
 
 The state Supreme Court is the ultimate arbiter of legal disputes. Since the beginning of 2020, the high court has handed down highly consequential election and pandemic decisions. The justices in 2018 also threw out the state’s congressional map, finding it was drawn unfairly to benefit Republicans.
 
-<i><b>&gt;&gt; READ MORE: </b></i><a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-justices-cases-voter-guide/"><i><b>A full guide to Pennsylvania’s 2021 Supreme Court election and other appellate judicial races</b></i></a>
+<i><b>&gt;&gt; READ MORE: </b></i><a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-justices-cases-voter-guide/"><i><b>A full guide to Pennsylvania’s 2021 Supreme Court election and other appellate judicial races</b></i></a>
 
 Depending on where you live, you may also be asked to vote on candidates for Court of Common Pleas, a municipal court, or a magisterial district court.
 
@@ -71,11 +71,11 @@ The best place to look for that information is on your county government’s web
 
 Investigating an incumbent or challenger’s qualifications is also difficult. Candidates aren’t evaluated or given a rating by the Pennsylvania Bar Association — it reviews only the qualifications of people running for appellate court seats. And local coverage of these races is spotty, at best.
 
-That’s a significant lack of scrutiny for judges who make $93,338 a year, with the possibility of a pension and lifetime health care. As a Spotlight PA/PennLive investigation found, <a href="https://www.spotlightpa.org/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/">there are also huge variations in their workloads</a>. In 2019, 10% of district judges had at least 60 days without court appearances, above and beyond holidays, weekends, and training days.
+That’s a significant lack of scrutiny for judges who make $93,338 a year, with the possibility of a pension and lifetime health care. As a Spotlight PA/PennLive investigation found, <a href="https://lesspage.com/news/2020/12/pa-district-judges-investigation-workloads-caseloads-spotlight-pa-pennlive/">there are also huge variations in their workloads</a>. In 2019, 10% of district judges had at least 60 days without court appearances, above and beyond holidays, weekends, and training days.
 
-One measure you can consider for incumbents is how many days of the year they did (or didn’t) have court proceedings <a href="https://www.spotlightpa.org/news/2020/12/pa-district-judge-lookup-county-caseloads-workloads-investigation-spotlight-pa-pennlive/">using this tool</a>.
+One measure you can consider for incumbents is how many days of the year they did (or didn’t) have court proceedings <a href="https://lesspage.com/news/2020/12/pa-district-judge-lookup-county-caseloads-workloads-investigation-spotlight-pa-pennlive/">using this tool</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## What else am I voting on?
 
@@ -83,8 +83,8 @@ The best way to find this out is to look up a sample ballot before Election Day,
 
 You should be prepared to vote on school board candidates. These races are receiving an unusually high level of attention this fall because of the extreme views of many candidates. That’s why it’s even more important to vet the names on your ballot.
 
-<b>&gt;&gt; READ MORE: </b><a href="https://www.spotlightpa.org/news/2021/10/pennsylvania-school-board-meetings-elections-2021-critical-race-theory/"><b>A basic guide to vetting your local candidates in Pennsylvania’s 2021 school board elections</b></a>
+<b>&gt;&gt; READ MORE: </b><a href="https://lesspage.com/news/2021/10/pennsylvania-school-board-meetings-elections-2021-critical-race-theory/"><b>A basic guide to vetting your local candidates in Pennsylvania’s 2021 school board elections</b></a>
 
-<i>Language in this story was adapted from a </i><a href="https://www.spotlightpa.org/news/2021/05/pa-may-2021-primary-questions-answered/"><i>May 2021 primary guide</i></a><i> as well as from other Spotlight PA </i><a href="https://www.spotlightpa.org/topics/elections/"><i>election coverage</i></a><i>.</i>
+<i>Language in this story was adapted from a </i><a href="https://lesspage.com/news/2021/05/pa-may-2021-primary-questions-answered/"><i>May 2021 primary guide</i></a><i> as well as from other Spotlight PA </i><a href="https://lesspage.com/topics/elections/"><i>election coverage</i></a><i>.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

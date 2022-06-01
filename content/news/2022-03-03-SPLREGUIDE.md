@@ -18,27 +18,27 @@ title = "A complete guide to Pennsylvania’s redistricting court challenges"
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
-<i>Updated March 17, 2022: The Pennsylvania Supreme Court has </i><a href="https://www.spotlightpa.org/news/2022/03/pennsylvania-legislative-maps-constitutional-supreme-court-challenges/" target="_blank"><i>rejected the legal challenges to the state’s new legislative maps</i></a><i>. The redistricting process is over. </i>
+<i>Updated March 17, 2022: The Pennsylvania Supreme Court has </i><a href="https://lesspage.com/news/2022/03/pennsylvania-legislative-maps-constitutional-supreme-court-challenges/" target="_blank"><i>rejected the legal challenges to the state’s new legislative maps</i></a><i>. The redistricting process is over. </i>
 
 HARRISBURG — Pennsylvania’s new political maps may have been picked, but that doesn’t mean the redistricting process is over.
 
 There are pending legal challenges against the congressional and legislative maps, which were redrawn this year to account for population changes identified by the census.
 
-Below is a rundown of what you need to know about these lawsuits. If you want to learn more, <a href="https://www.spotlightpa.org/news/2022/02/redistricting-pa-congressional-legislative-maps-2022-panel/" target="_blank">watch Spotlight PA’s free expert panel on the subject</a>.
+Below is a rundown of what you need to know about these lawsuits. If you want to learn more, <a href="https://lesspage.com/news/2022/02/redistricting-pa-congressional-legislative-maps-2022-panel/" target="_blank">watch Spotlight PA’s free expert panel on the subject</a>.
 
 <i>Last updated March 10, 2022</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Congressional map
 
 Pennsylvania law gives the responsibility to draw the state’s congressional boundaries to the legislature. The governor has the power to approve or reject the map.
 
-Gov. Tom Wolf did the latter in January when he <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a map sent to him by Republicans</a>.
+Gov. Tom Wolf did the latter in January when he <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a map sent to him by Republicans</a>.
 
-Shortly after that occurred, the state Supreme Court agreed to intervene in an existing case and take over the process. In mid-February, the justices in a 4-3 decision <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-pick/">picked a new congressional map</a> from among more than a dozen proposals.
+Shortly after that occurred, the state Supreme Court agreed to intervene in an existing case and take over the process. In mid-February, the justices in a 4-3 decision <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-pick/">picked a new congressional map</a> from among more than a dozen proposals.
 
 But there’s still at least one legal challenge left to play out.
 
@@ -46,13 +46,13 @@ A group of Pennsylvanians, including two Republicans running for political offic
 
 A federal judge in Harrisburg denied their request for a temporary restraining order against the map, while the U.S. Supreme Court <a href="https://www.washingtonpost.com/politics/2022/03/07/supreme-court-congressional-maps/" target="_blank">declined to intervene</a>. A lower court hearing has yet to be scheduled.
 
-<i><b>&gt;&gt; MY MAP: </b></i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b>Search now to see your old and new political districts</b></i></a>
+<i><b>&gt;&gt; MY MAP: </b></i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b>Search now to see your old and new political districts</b></i></a>
 
 ## Legislative maps
 
 Pennsylvania’s state House and Senate districts are drawn by the five-person Legislative Reapportionment Commission, which is composed of the top General Assembly leaders and an independent chair.
 
-The panel <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 in early February to approve new maps</a>.
+The panel <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 in early February to approve new maps</a>.
 
 Under the Pennsylvania Constitution, any person could bring a challenge to either map directly to the state Supreme Court by March 7. The court will now choose whether it wants to consider any of them.
 
@@ -72,7 +72,7 @@ A group of math and science professors from Pennsylvania universities who challe
 
 “It splits more political subdivisions than ‘absolutely necessary,’ and it violates the guarantee provided by the Free and Equal Elections Clause that all voters have an equal opportunity to translate their votes into representation,” the group wrote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Former and current elected officials also brought challenges.
 
@@ -84,4 +84,4 @@ House Majority Leader Kerry Benninghoff (R., Centre), the only member of the Leg
 
 And Eric Roe, a former Republican representative from Chester Couty who pushed to create an independent redistricting commission, claims the House map does not fulfill neutral criteria, like having equal population.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

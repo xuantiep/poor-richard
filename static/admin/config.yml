@@ -1,9 +1,9 @@
 media_folder: assets/img/uploads
 public_folder: /img/uploads
 
-site_url: https://www.spotlightpa.org
-display_url: https://www.spotlightpa.org
-logo_url: https://www.spotlightpa.org/img/logos/banner-share-5000.png
+site_url: https://lesspage.com
+display_url: https://lesspage.com
+logo_url: https://lesspage.com/img/logos/banner-share-5000.png
 
 show_preview_links: true
 

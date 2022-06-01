@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — With a partisan logjam holding up election reforms in the Pennsylvania legislature, lawmakers are making one final push to fix what county officials across the state say is the number one issue standing in the way of a timely counting of votes.
 
@@ -40,9 +40,9 @@ County commissioners for months have pleaded for more flexibility to begin the p
 
 “That’s our main need from the legislature right now on this,” Secretary of the Commonwealth Kathy Boockvar said Wednesday at a news conference. “So far, it seems like all or nearly all of the largest counties that I’ve spoken with so far are planning to count 24/7.”
 
-In recent weeks, there appeared to be agreement between Gov. Tom Wolf and legislative Republicans. A bill that would allow counties three days of pre-canvassing <a href="https://www.spotlightpa.org/news/2020/09/pa-election-reform-mail-ballots-voting-drop-boxes/" target="_blank">passed the House</a>, but drew fierce opposition from Democrats and Wolf because Republicans tied the change to a ban of satellite drop boxes, and giving paid, partisan poll watchers access to polling places across the state.
+In recent weeks, there appeared to be agreement between Gov. Tom Wolf and legislative Republicans. A bill that would allow counties three days of pre-canvassing <a href="https://lesspage.com/news/2020/09/pa-election-reform-mail-ballots-voting-drop-boxes/" target="_blank">passed the House</a>, but drew fierce opposition from Democrats and Wolf because Republicans tied the change to a ban of satellite drop boxes, and giving paid, partisan poll watchers access to polling places across the state.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Now, with the election fast approaching, one House Democrat, Kevin Boyle, has introduced new <a href="https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2019&sInd=0&body=H&type=B&bn=2916">legislation</a> solely focused on pre-canvassing, giving counties a 10-day window before Nov. 3
 
@@ -68,9 +68,9 @@ Rep. Garth Everett (R., Lycoming), DiSanto’s counterpart in the House, noted t
 
 Jason Gottesman, a spokesperson for House Republicans, did not say whether new pre-canvassing legislation is forthcoming but said the caucus remains “sensitive to the needs of counties in achieving that goal.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
-Republicans in the House are also pursuing the creation of a GOP-led <a href="https://www.spotlightpa.org/news/2020/09/pa-election-integrity-committee-house-republicans-voting/">“election integrity” panel</a> with subpoena power, which Democrats fear could be used to slow the certification of Pennsylvania’s election results. A vote on the plan, which would only require support from a majority of House lawmakers, was put on hold last week after a GOP representative tested positive for the coronavirus.
+Republicans in the House are also pursuing the creation of a GOP-led <a href="https://lesspage.com/news/2020/09/pa-election-integrity-committee-house-republicans-voting/">“election integrity” panel</a> with subpoena power, which Democrats fear could be used to slow the certification of Pennsylvania’s election results. A vote on the plan, which would only require support from a majority of House lawmakers, was put on hold last week after a GOP representative tested positive for the coronavirus.
 
 Since then, the resolution has lost support from about a dozen Republicans, according to a source familiar with the negotiations.
 
@@ -78,6 +78,6 @@ Whether Democrats and Republicans will be able to find common ground on anything
 
 “There was kind of an agreement between the Democrats and the Republicans that they would do away with the straight-party voting, which is what the Republicans wanted,” he said. “And the Democrats wanted mail-in voting, so the Republicans agreed to put both of those issues in the bill.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=What%20%3Cb%3Eelection%20stories%3C%2Fb%3E%20should%20Spotlight%20PA%20be%20covering%3F%20Tell%20us.%20"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=What%20%3Cb%3Eelection%20stories%3C%2Fb%3E%20should%20Spotlight%20PA%20be%20covering%3F%20Tell%20us.%20"></div>

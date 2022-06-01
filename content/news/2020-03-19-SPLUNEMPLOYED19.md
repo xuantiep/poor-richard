@@ -30,13 +30,13 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 The wave of business closings and cancellations amid the coronavirus crisis is causing massive job losses and a sharp spike in claims for unemployment compensation in Pennsylvania and New Jersey.
 
-In the last two days, as the coronavirus’ spread led Pennsylvania Gov. Tom Wolf to order a <a href="https://www.spotlightpa.org/news/2020/03/pennsylvania-coronavirus-statewide-shutdown-tom-wolf-governor/" target=_blank>statewide shutdown</a>, state officials have received 120,000 claims for unemployment benefits — more than half of what the state reported for the entire first quarter of 2019, according to state and federal data.
+In the last two days, as the coronavirus’ spread led Pennsylvania Gov. Tom Wolf to order a <a href="https://lesspage.com/news/2020/03/pennsylvania-coronavirus-statewide-shutdown-tom-wolf-governor/" target=_blank>statewide shutdown</a>, state officials have received 120,000 claims for unemployment benefits — more than half of what the state reported for the entire first quarter of 2019, according to state and federal data.
 
-State labor and industry officials said 50,000 people filed for benefits on Monday, the day the governor extended his <a href="https://www.spotlightpa.org/news/2020/03/updated-everything-you-need-to-know-about-the-pennsylvania-coronavirus-shutdown/" target="_blank">shutdown order for nonessential businesses</a> to all 67 counties. By Tuesday, another 70,000 people had submitted claims.
+State labor and industry officials said 50,000 people filed for benefits on Monday, the day the governor extended his <a href="https://lesspage.com/news/2020/03/updated-everything-you-need-to-know-about-the-pennsylvania-coronavirus-shutdown/" target="_blank">shutdown order for nonessential businesses</a> to all 67 counties. By Tuesday, another 70,000 people had submitted claims.
 
 In New Jersey, the online system for filing claims crashed Monday, as a record 15,000 people flooded it with applications, labor officials there said. The labor department normally handles between 1,500 and 2,300 applications on a given day.
 
@@ -44,7 +44,7 @@ In New Jersey, the online system for filing claims crashed Monday, as a record 1
 
 “It’s rough. A lot of people are going to be absolutely destitute because of this,” Buccino said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 In Pennsylvania, John Dodd, director of the <a href="https://philaup.org/web/" target=_blank>Philadelphia Unemployment Project</a>, a seven-person nonprofit, said he is concerned about whether the state will be able to handle the influx of new applications.
 
@@ -68,7 +68,7 @@ People should not “worry if they have trouble getting through," she added.
 
 The jobs crash caused by the impact of the coronavirus has been hard and swift: Before the public health emergency, both states enjoyed relatively low unemployment rates. Pennsylvania’s was 4.7 percent in January; New Jersey averaged a rate of 3.6 percent in 2019.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Wolf’s statewide shutdown order went into effect at 12:01 a.m. Tuesday and will last for two weeks. It applies to all nonessential businesses such as hair and nail salons, gyms, retail malls and stores, movie theaters, concert halls, and other entertainment venues. The governor also shut down schools statewide.
 
@@ -104,6 +104,6 @@ Under the program, loans of up to $100,000 will be available for small businesse
 
 <i>Inquirer staff writer Andy Maykuth contributed to this story.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

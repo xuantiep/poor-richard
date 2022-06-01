@@ -19,7 +19,7 @@ title = "What makes a political map fair? Here’s what we learned during Pa.’
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — What makes a political map fair?
 
@@ -27,7 +27,7 @@ It’s a question the people in charge of drawing Pennsylvania’s congressional
 
 There are four traditional redistricting criteria spelled out in the state constitution. The districts must be compact, contiguous, and made up of roughly equal population, with counties, municipalities, and wards kept together unless splits are “absolutely necessary.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 But beyond those basic measures, lawmakers and state Supreme Court justices differed on what other criteria they should consider and prioritize, with perhaps the most debate over what’s known as “partisan fairness.”
 
@@ -89,7 +89,7 @@ That interpretation was essentially confirmed in Baer’s ruling.
 
 ## What does the GOP say about partisan fairness?
 
-In legal filings concerning both the <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-hearing/" target="_blank">congressional</a> and legislative plans, state Republicans argued that valuing partisan fairness amounts to gerrymandering and that the “natural political geography” of Pennsylvania favors Republican voters.
+In legal filings concerning both the <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-hearing/" target="_blank">congressional</a> and legislative plans, state Republicans argued that valuing partisan fairness amounts to gerrymandering and that the “natural political geography” of Pennsylvania favors Republican voters.
 
 Because Democratic voters tend to live clustered in urban and suburban areas, district maps naturally have a Republican bias, they argued.
 
@@ -97,7 +97,7 @@ Because Democratic voters tend to live clustered in urban and suburban areas, di
 
 House Majority Leader Kerry Benninghoff (R., Centre) made similar arguments in his legal challenge to the state House and Senate maps. He voted against the plan as a member of the five-person Legislative Reapportionment Commission.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 He described the maps as a “Democratic gerrymander” because they “carve[d] up the commonwealth’s cities to spread out Democratic-leaning urban voters into suburban and exurban areas to dilute the votes of Republican-leaning voters.”
 
@@ -109,4 +109,4 @@ Mark Nordenberg, the nonpartisan chair of the Legislative Reapportionment Commis
 
 The state Supreme Court rejected Benninghoff’s challenge, as well as several others, but did not explain its reasoning.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

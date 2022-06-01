@@ -34,11 +34,11 @@ extended-kicker = ""
 
 Pennsylvania Republicans proposed a sweeping overhaul of the state’s election system Thursday, with lawmakers in the state House calling for stricter voter identification requirements, in-person early voting, signature verification of mail ballots, and other major changes.
 
-State Rep. Seth Grove (R., York), chair of the House State Government Committee and House Republicans’ point person for election legislation, introduced the bill <a href="https://www.spotlightpa.org/news/2021/04/pa-election-2020-law-changes-trump-falsehoods-fraud/" target="_blank">after months of hearings with elections administrators, experts, and voting rights activists</a>.
+State Rep. Seth Grove (R., York), chair of the House State Government Committee and House Republicans’ point person for election legislation, introduced the bill <a href="https://lesspage.com/news/2021/04/pa-election-2020-law-changes-trump-falsehoods-fraud/" target="_blank">after months of hearings with elections administrators, experts, and voting rights activists</a>.
 
 <a href="https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2021&sInd=0&body=H&type=B&bn=1300">The legislation</a> is sure to draw intense scrutiny and faces steep obstacles as GOP leaders, who control both chambers of the legislature, try to keep their party unified while also winning the approval of Democratic Gov. Tom Wolf.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 For example, Republicans have long pushed stricter voter ID rules, saying they would prevent fraud. But there’s no evidence of widespread fraud, especially involving fake identities, and such rules can raise barriers for low-income and older voters, among others. Wolf said earlier this week that new voter ID requirements would be a non-starter. A Wolf spokesperson on Thursday called the bill “an extremist proposal” meant to undermine trust in elections and make voting more difficult.
 
@@ -48,7 +48,7 @@ Among the proposed changes:
 
 - Require every voter to present ID at the polls
 
-- Allow counties to begin processing and counting mail ballots — <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-election-2020-counting-results-delays-mail-ballots/" target="_blank">what’s known as “pre-canvassing”</a> — five days before Election Day
+- Allow counties to begin processing and counting mail ballots — <a href="https://lesspage.com/news/2020/11/pennsylvania-election-2020-counting-results-delays-mail-ballots/" target="_blank">what’s known as “pre-canvassing”</a> — five days before Election Day
 
 - Create six days of in-person early voting, beginning after the 2024 presidential election
 
@@ -60,7 +60,7 @@ Among the proposed changes:
 
 - Allow voters to<a href="https://www.inquirer.com/politics/election/pennsylvania-flawed-mail-ballots-cure-20201029.html"> fix — or “cure” — mail ballots</a> with missing signatures
 
-- Ban counties from accepting<a href="https://www.spotlightpa.org/news/2021/05/pa-2020-election-zuckerberg-grants-gop-outcry/"> private donations for election administration</a>
+- Ban counties from accepting<a href="https://lesspage.com/news/2021/05/pa-2020-election-zuckerberg-grants-gop-outcry/"> private donations for election administration</a>
 
 Republicans dubbed the bill, HB 1300, the Voting Rights Protection Act.
 
@@ -78,7 +78,7 @@ Wolf told reporters Thursday in Philadelphia that he’s open to any legislation
 
 Pennsylvania’s Election Code was largely untouched for decades after its creation in 1937, until Republicans and Wolf agreed in 2019 to an overhaul which, among other changes,<a href="https://www.inquirer.com/politics/pennsylvania/pa-election-reform-deal-20191023.html"> allowed any voter to cast ballots by mail</a>.
 
-That major change, taking effect during the 2020 election and the coronavirus pandemic, <a href="https://www.spotlightpa.org/news/2020/12/pennsylvania-election-2020-act-77-mail-voting-republican-audit/" target="_blank">revealed some of the weaknesses in the current system</a>, parts of which were outdated or entirely new. And it showed the dangers of moving too quickly without boosting Pennsylvania’s election infrastructure, which, like in other states, has long been underfunded.
+That major change, taking effect during the 2020 election and the coronavirus pandemic, <a href="https://lesspage.com/news/2020/12/pennsylvania-election-2020-act-77-mail-voting-republican-audit/" target="_blank">revealed some of the weaknesses in the current system</a>, parts of which were outdated or entirely new. And it showed the dangers of moving too quickly without boosting Pennsylvania’s election infrastructure, which, like in other states, has long been underfunded.
 
 The new bill includes state funding for some of the changes, such as covering the cost of counties buying electronic poll books. The Pennsylvania Department of State would also be required to cover half the cost of early vote centers.
 
@@ -104,7 +104,7 @@ The legislation would also overhaul voting before Election Day, including by cha
 
 Many election officials and advocates have called for widening the one-week window between the last day to request a ballot and the Election Day deadline for returning it. That tight window, which doesn’t align with Postal Service standards, currently ensnares thousands of voters who don’t receive ballots in time to vote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 There’s wide agreement on the problem — but not on a solution. While many officials support an earlier ballot request deadline, some want to allow ballots to be received after Election Day. Wolf has said he doesn’t support an earlier ballot application deadline.
 
@@ -112,7 +112,7 @@ Early in-person voting would be available starting in 2025 under the bill. Count
 
 Each county would also be allowed at least one mail ballot drop box and could add one for every 100,000 residents. Each would be monitored and open during limited hours in the seven days before Election Day, with poll workers from both parties who would check voter IDs. Pop-up ballot collection sites, as Philadelphia has done in the last three elections, would be banned.
 
-Republicans last year <a href="https://www.spotlightpa.org/news/2020/09/pa-election-reform-mail-ballots-voting-drop-boxes/">wanted to ban drop boxes</a>, but the Pennsylvania Supreme Court <a href="https://www.spotlightpa.org/news/2020/09/pa-election-november-supreme-court-mail-ballots-tom-wolf/">ruled that state election law allows them</a>. GOP lawmakers said that created inconsistencies between counties that chose to provide voters with drop boxes and those that didn’t.
+Republicans last year <a href="https://lesspage.com/news/2020/09/pa-election-reform-mail-ballots-voting-drop-boxes/">wanted to ban drop boxes</a>, but the Pennsylvania Supreme Court <a href="https://lesspage.com/news/2020/09/pa-election-november-supreme-court-mail-ballots-tom-wolf/">ruled that state election law allows them</a>. GOP lawmakers said that created inconsistencies between counties that chose to provide voters with drop boxes and those that didn’t.
 
 County elections directors’ other top request has been for time to pre-canvass mail ballots ahead of Election Day. Counting large numbers of mail ballots can take days, as happened last November when the presidential race hinged on the tallying in Philadelphia. On Thursday, a group of county elections directors, commissioners, state lawmakers, advocates, and lawyers — created by the legislature last year to review election-related legislation — recommended counties have up to 14 days to process mail ballots.
 
@@ -120,4 +120,4 @@ Grove’s proposal would require counties to use automated sorting or extracting
 
 “The longer we go without having this in statute,” Northampton County Elections Director Amy Cozze said, “the harder you are making our lives.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

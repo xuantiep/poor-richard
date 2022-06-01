@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Every May, state legislators and other public officials are required to file reports detailing, among other items, whether they received pricey gifts, transportation, or hospitality from lobbyists, businesses, nonprofit groups, or others with a stake in government.
 
@@ -38,7 +38,7 @@ Some years, those reports have revealed lawmakers accepting everything from over
 
 But for many lawmakers, 2020 was a banner year for staying home — and eschewing people bearing gifts, at least according to their limited disclosure forms.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Public filings with the State Ethics Commission show that, with some exceptions, Pennsylvania’s 253 lawmakers did not report receiving anything of great value last year as the pandemic raged, forcing lockdowns and restrictions on travel and in-person gatherings.
 
@@ -66,11 +66,11 @@ Rabbi Michael Pollack, executive director of MarchOnHarrisburg, said GOP leaders
 
 A spokesperson for House Majority Leader Kerry Benninghoff (R., Centre) did not directly address the question, but said by email the lawmaker “has always been supportive of bringing more accountability and transparency to elected and other government officials. We are currently examining and reviewing various options to advance those goals legislatively this session.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 In the state Senate, Majority Leader Kim Ward (R., Westmoreland) is a co-sponsor of a <a href="https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2021&sInd=0&body=S&type=B&bn=0401" target="_blank">bill</a> that would ban cash gifts and prevent lawmakers from taking anything of value from those seeking to influence official action.
 
-That leaves Corman, Pollack said, who has faced <a href="https://www.spotlightpa.org/news/2020/08/pa-campaign-dark-money-growth-opportunity-fund-jake-corman-gop/" target="_blank">scrutiny</a> for his <a href="https://www.spotlightpa.org/news/2021/05/pa-lobbying-reform-political-consultants-jake-corman-mavericks/" target="_blank">ties to lobbyists</a>.
+That leaves Corman, Pollack said, who has faced <a href="https://lesspage.com/news/2020/08/pa-campaign-dark-money-growth-opportunity-fund-jake-corman-gop/" target="_blank">scrutiny</a> for his <a href="https://lesspage.com/news/2021/05/pa-lobbying-reform-political-consultants-jake-corman-mavericks/" target="_blank">ties to lobbyists</a>.
 
 Jason Thompson, a spokesperson for Corman, did not respond to Spotlight PA’s questions about whether the senator supports gift ban legislation. Thompson recently told the Capital-Star he “<a href="https://www.penncapital-star.com/government-politics/pa-s-top-two-republicans-announce-plans-for-lobbying-reform-but-is-it-enough/" target="_blank">could not comment on a gift ban</a>” but added Corman “supported efforts to ban lawmakers from receiving gifts of cash and gift cards in years past.”
 
@@ -80,4 +80,4 @@ For Pollack, the issue is simple: As long as legislators can accept cash and oth
 
 <i>Sarah Anne Hughes of Spotlight PA contributed to this report.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

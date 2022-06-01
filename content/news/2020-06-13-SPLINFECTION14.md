@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — In the fall of 2016, Karen Murphy, then secretary of Pennsylvania’s Department of Health, pledged to reform how the state oversees its nursing homes.
 
@@ -54,7 +54,7 @@ A Spotlight PA review found:
 
 “It is probably unfair to say if the regulations were updated there would have been no issue with the coronavirus,” he said. “But I do certainly think there would be better preparation for this.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 As of early June, more than 4,200 residents of Pennsylvania’s long-term-care facilities have died from the coronavirus, nearly 70% of all the deaths attributed to the disease in the state.
@@ -63,7 +63,7 @@ The majority, roughly 3,600 people as of Wednesday, died in nursing homes, which
 
 Adjusted for population, Pennsylvania has the seventh-highest death rate for residents of nursing homes and the 10th-highest rate of cases, according to <a href="https://data.cms.gov/covid-19/covid-19-nursing-home-data">data</a> from the Centers for Medicare and Medicaid Services.
 
-The state’s response to nursing homes in crisis has been marred by false starts and misinformation. An early plan to develop quick-strike teams to assist struggling homes was <a href="https://www.spotlightpa.org/news/2020/05/pennsylvania-coronavirus-nursing-homes-plan-quick-strike-teams/" target="_blank">abandoned</a>, and only many weeks into the crisis was the National Guard, and later teams from the Centers for Disease Control and Prevention, deployed in a limited fashion to help.
+The state’s response to nursing homes in crisis has been marred by false starts and misinformation. An early plan to develop quick-strike teams to assist struggling homes was <a href="https://lesspage.com/news/2020/05/pennsylvania-coronavirus-nursing-homes-plan-quick-strike-teams/" target="_blank">abandoned</a>, and only many weeks into the crisis was the National Guard, and later teams from the Centers for Disease Control and Prevention, deployed in a limited fashion to help.
 
 For months, a lack of access to testing and protective equipment made it hard for nursing home staff to know the extent of the disease in a facility or take steps to prevent it from spreading.
 
@@ -189,7 +189,7 @@ DePasquale told Spotlight PA his office reviewed the complaint, and its allegati
 
 “It is something we stand behind — that consistency [in inspections] needs to be improved,” DePasquale said. “Broadly speaking, the issues that we addressed, we still believe need to be resolved."
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 A Department of Health employee, who asked not to be named for fear of retaliation, said the lack of progress in training inspectors and other problems within the department can make it hard for the public to rely on surveys as a measure of whether nursing homes are providing adequate care. The employee said it was common for violations to be erased from inspection reports and for some inspectors to be too cozy with nursing home administrators.
@@ -212,4 +212,4 @@ Grabowski at Harvard, who was on a nursing home task force convened in 2015 to l
 
 What we do know, he said, is that “COVID has been absolutely magnified in the U.S. by the more systemic problems — it could be an opportunity to rethink how we regulate.”
 
-<i><b>100% ESSENTIAL: </b></i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

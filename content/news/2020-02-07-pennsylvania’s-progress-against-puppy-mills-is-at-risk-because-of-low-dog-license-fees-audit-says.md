@@ -11,7 +11,7 @@ kicker = "Capitol Notebook"
 suppress-featured = true
 slug = "pennsylvanias-progress-against-puppy-mills-is-at-risk-because-of-low-dog-license-fees-audit-says"
 +++
-***Capitol Notebook by[ Spotlight PA](https://www.spotlightpa.org/)** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://www.spotlightpa.org/newsletters)*
+***Capitol Notebook by[ Spotlight PA](https://lesspage.com/)** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://lesspage.com/newsletters)*
 
 HARRISBURG — The Pennsylvania bureau tasked with discovering puppy mills and handling dangerous dogs expects to run out of money by this summer, in part because license fees for the state's canines are stuck at pre-2000 levels.
 
@@ -25,7 +25,7 @@ Although state law requires dogs more than 12 weeks old to be licensed, only sli
 
 What’s more, the license fees for dogs and kennels have not been raised in more than 20 years. Currently, it costs $6.50 to register a canine that is spayed or neutered, and $8.50 for one that is not.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 To cut costs, the bureau has reduced the number of wardens on staff, its director, Kristen Donmoyer, said Thursday. Still, the office finds itself in a dire financial situation ,exacerbated by the diversion of funds to the judicial branch.
 
@@ -45,4 +45,4 @@ A pair of bills in the [House](https://www.legis.state.pa.us/cfdocs/billInfo/bil
 
 “We are hopeful that the General Assembly will increase fees and supply the funding we need to continue protecting Pennsylvania’s puppies and dogs, protecting consumers victimized by illegal kennel operators, and protecting our communities from dangerous and stray animals,” Donmoyer said.
 
-*[Spotlight PA](https://www.spotlightpa.org/) receives [funding from nonprofit institutions and readers like you](https://www.spotlightpa.org/support) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://www.spotlightpa.org/).*
+*[Spotlight PA](https://lesspage.com/) receives [funding from nonprofit institutions and readers like you](https://lesspage.com/support) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://lesspage.com/).*

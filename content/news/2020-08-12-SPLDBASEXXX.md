@@ -29,7 +29,7 @@ language-code = ""
 layout = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and other news organizations across Pennsylvania. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and other news organizations across Pennsylvania. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 Spotlight PA is creating a diverse source database as a resource for Pennsylvania journalists, and <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh7CFSaKc5H7VTWcizw1sxmC8XQfWZ_yerww6SvWad5vmQQ/viewform">we’re seeking recommendations, tips, and suggestions</a> for Pa.-based experts of color who should be considered.
 
@@ -37,7 +37,7 @@ Amid the national conversation about race, equity, and inclusion, Pennsylvania�
 
 Historically, journalists have tended to amplify white voices over others in their stories. Spotlight PA’s diverse source database seeks to change that and ensure our local and statewide news coverage is more equitable and better reflects the communities we serve.
 
-<i><b>» SUPPORT THIS EFFORT:</b></i><i> We rely on reader support to provide urgent public-service journalism to communities across Pennsylvania. Become a donor at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>» SUPPORT THIS EFFORT:</b></i><i> We rely on reader support to provide urgent public-service journalism to communities across Pennsylvania. Become a donor at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
 The project is being overseen by <a href="https://twitter.com/itistamara">Tamara Dunn</a>, a freelance writer and former night news editor of the Times Leader in Wilkes-Barre. It was made possible by a grant from the Pennsylvania NewsMedia Association Foundation Fellows Fund for the Future.
 
@@ -47,4 +47,4 @@ The <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVh7CFSaKc5H7VTWcizw1sxmC
 
 If you have any questions or ideas, contact us at <a href="mailto:sources@spotlightpa.org">sources@spotlightpa.org</a>.
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

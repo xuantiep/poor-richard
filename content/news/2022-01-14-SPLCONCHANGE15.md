@@ -19,7 +19,7 @@ title = "Voters could be flooded with proposed changes to the Pa. Constitution i
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Pennsylvania voters could face at least five ballot questions about changing the state constitution next year after House Republicans added four controversial revisions to a single proposal.
 
@@ -27,7 +27,7 @@ Republican lawmakers have increasingly relied on constitutional amendments to pu
 
 The <a href="https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=PDF&sessYr=2021&sessInd=0&billBody=S&billTyp=B&billNbr=0106&pn=1279">resulting omnibus bill</a> is packed with initiatives that Republicans hope to send directly to voters all at once as separate ballot questions.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “It’s very partisan in nature and really reflects the attempt to advance an agenda that was unsuccessful through typical, ethical democratic means,” said Khalif Ali, executive director of Common Cause Pennsylvania, a good-government organization. “It’s a process in place for a reason and to go around that erodes democracy.”
 
@@ -55,9 +55,9 @@ Typically, lawmakers introduce proposed changes in separate resolutions, a syste
 
 “From a procedural point of view when you do this — when you throw a lot of amendments into one bill — you don’t have hearings, you don’t have discussion, no one knows they’re coming,” said Marc Stier, director of the Pennsylvania Budget and Policy Center, a progressive research group that studies the state’s economy and government.
 
-While the timeline for amending the constitution is designed to be slow, Republicans, who control the legislature, have favored the process in recent years to circumvent Wolf and <a href="https://www.spotlightpa.org/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results/">curtail executive power</a>. The Democrat has vetoed more bills during his time in office than any other Pennsylvania governor since Milton Shapp, who served from 1971 to 1979.
+While the timeline for amending the constitution is designed to be slow, Republicans, who control the legislature, have favored the process in recent years to circumvent Wolf and <a href="https://lesspage.com/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results/">curtail executive power</a>. The Democrat has vetoed more bills during his time in office than any other Pennsylvania governor since Milton Shapp, who served from 1971 to 1979.
 
-Last year, voters approved two ballot measures that limit the governor’s power to declare and renew a state of emergency — <a href="https://www.spotlightpa.org/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results/">advanced by Republicans angry over Wolf’s response to the pandemic</a> — as well as another that guarantees equal rights to residents regardless of race.
+Last year, voters approved two ballot measures that limit the governor’s power to declare and renew a state of emergency — <a href="https://lesspage.com/news/2021/05/pa-primary-2021-ballot-question-disaster-declaration-results/">advanced by Republicans angry over Wolf’s response to the pandemic</a> — as well as another that guarantees equal rights to residents regardless of race.
 
 “I would say that anytime that a branch of government circumvents the function of another branch of government, we have some real concerns about the constitutionality and legality of that move,” Ali said.
 
@@ -71,14 +71,14 @@ Argall said Wolf “refuses to negotiate” with the Republican caucuses, making
 
 The governor “has the worst relationship with the House and the Senate in generations,” he said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 While Argall supports the individual measures now tacked onto his bill, he hopes his initial effort to update the lieutenant governor election process won’t fail to pass the legislature because of the other measures now attached to it.
 
-Republicans in both chambers are pursuing a number of other amendments to Pennsylvania’s constitution, including one that would <a href="https://www.spotlightpa.org/news/2021/01/pennsylvania-supreme-court-gerrymandering-judicial-districts/">end statewide elections for appellate judges</a> in favor of races in districts drawn by the legislature, and another that would <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-legislative-panel-constitutional-map/">give state lawmakers the final say over their own political boundaries</a> in the redistricting process.
+Republicans in both chambers are pursuing a number of other amendments to Pennsylvania’s constitution, including one that would <a href="https://lesspage.com/news/2021/01/pennsylvania-supreme-court-gerrymandering-judicial-districts/">end statewide elections for appellate judges</a> in favor of races in districts drawn by the legislature, and another that would <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-legislative-panel-constitutional-map/">give state lawmakers the final say over their own political boundaries</a> in the redistricting process.
 
 That bill, sponsored by state Rep. Seth Grove (R., York), was scheduled for a House floor vote this week, just six days after Grove introduced it. But Democrats, mirroring their GOP colleagues’ actions before the holiday break, introduced dozens of amendments seeking changes to the constitution that would provide free college education, raise the minimum wage, eliminate property taxes, and more.
 
 The House, controlled by Republicans, adjourned Wednesday without bringing the previously fast-moving bill up for a vote.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -29,7 +29,7 @@ language-code = ""
 layout = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — House Republican leaders are calling on a member of their caucus to resign after videos of a Lawrence County lawmaker encouraging his young son to smoke and curse emerged this week.
 
@@ -37,7 +37,7 @@ In since-deleted social media posts <a href="https://www.ldnews.com/story/news/2
 
 House GOP leaders, including Speaker Bryan Cutler (R., Lancaster) and Majority Leader Kerry Benninghoff (R., Centre), said in a joint <a href="http://www.pahousegop.com/News/18403/Latest-News/Pennsylvania-House-Republican-Leaders-Call-on-Rep-Aaron-Bernstine-to-Resign-Immediately">statement</a> Thursday they were “disgusted.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “In order to take the time necessary to focus on his family and repair his relationships, we call on Rep. Bernstine to immediately resign,” the leaders said in a statement.
 
@@ -47,4 +47,4 @@ Bernstine did not respond to a request for comment, but in a <a href="https://ww
 
 <i>This story will be updated.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

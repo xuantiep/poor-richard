@@ -18,9 +18,9 @@ arc-id = "NESQRY4J7JD4JGSZ6IQSBND5II"
 subtitle = ""
 linktitle = ""
 +++
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
-***[UPDATE: Gov. Tom Wolf on Thursday expanded his order to all businesses that aren't "life-sustaining." ](https://www.spotlightpa.org/news/2020/03/pennsylvania-shutdown-lifesustaining-businesses-tom-wolf-shut-down/)***
+***[UPDATE: Gov. Tom Wolf on Thursday expanded his order to all businesses that aren't "life-sustaining." ](https://lesspage.com/news/2020/03/pennsylvania-shutdown-lifesustaining-businesses-tom-wolf-shut-down/)***
 
 HARRISBURG — Gov. Tom Wolf extended his shutdown order to the entire state on Monday as the number of coronavirus cases in Pennsylvania continued to grow.
 
@@ -28,17 +28,17 @@ The directive, which applies to nonessential businesses in all 67 counties, begi
 
 The governor also urged residents to “stay calm, stay safe, stay home."
 
-***» READ MORE:*** *[Everything you need to know about the Pennsylvania coronavirus shutdown | Latest updates](https://www.spotlightpa.org/news/2020/03/everything-you-need-to-know-about-the-pennsylvania-coronavirus-shutdown-latest-updates/)*
+***» READ MORE:*** *[Everything you need to know about the Pennsylvania coronavirus shutdown | Latest updates](https://lesspage.com/news/2020/03/everything-you-need-to-know-about-the-pennsylvania-coronavirus-shutdown-latest-updates/)*
 
 “This isn’t a decision that I take lightly at all,” Wolf said at the state’s emergency management headquarters on Monday. “It’s one that I’m making because medical experts believe it is the only way we can prevent our hospitals from being overwhelmed by patients.”
 
 The governor had previously placed four counties — Bucks, Chester, Delaware, and Montgomery — in a similar lockdown. On Friday, he also closed all public schools statewide for two weeks.
 
-Though Wolf has [broad powers in dealing with the COVID-19 crisis](https://www.spotlightpa.org/news/2020/03/coronavirus-tom-wolf-emergency-powers-pennsylvania/), his shutdown orders have generally involved asking nonessential businesses like gyms, salons, theaters, and concert venues to close for 14 days. On Monday, he ordered restaurants statewide to close their dine-in facilities, while allowing takeout service to continue.
+Though Wolf has [broad powers in dealing with the COVID-19 crisis](https://lesspage.com/news/2020/03/coronavirus-tom-wolf-emergency-powers-pennsylvania/), his shutdown orders have generally involved asking nonessential businesses like gyms, salons, theaters, and concert venues to close for 14 days. On Monday, he ordered restaurants statewide to close their dine-in facilities, while allowing takeout service to continue.
 
 A spokesperson for his office noted Wolf “could force closures, but as the governor previously stated, this is something that is incumbent on all of us to help mitigate the spread.”
 
-***» DONATE NOW:*** *Spotlight PA reporters are working nonstop under difficult circumstances to provide journalism for the public good. Our work is reader-funded, and we need your help. [Make a donation now](https://www.spotlightpa.org/donate "https\://www.spotlightpa.org/donate").*
+***» DONATE NOW:*** *Spotlight PA reporters are working nonstop under difficult circumstances to provide journalism for the public good. Our work is reader-funded, and we need your help. [Make a donation now](https://lesspage.com/donate "https\://lesspage.com/donate").*
 
 “In unprecedented circumstances like these we expect compliance to protect customers, employees, and the community,” the spokesperson said. “The administration will work with local law enforcement, permitting entities, and local officials to enforce if needed. The governor does not want to expend valuable resources from the State Police and National Guard because irresponsible people will not do the right thing.”
 
@@ -68,6 +68,6 @@ For the moment, that spread appears contained. But officials said they expect th
 
 *Sarah Anne Hughes and Cynthia Fernandez of Spotlight PA contributed to this article.*
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
 
-<i>Our reporters are working nonstop to bring you the latest on the state government's response to the coronavirus. If you value this service, please give a tax-deductible gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i>Our reporters are working nonstop to bring you the latest on the state government's response to the coronavirus. If you value this service, please give a tax-deductible gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

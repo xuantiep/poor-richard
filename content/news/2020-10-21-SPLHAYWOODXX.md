@@ -30,15 +30,15 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A state senator Wednesday called on officials of Pennsylvania’s system of public universities to prioritize solutions to address racism and inequity experienced by students of color as part of a larger planned restructuring.
 
-Citing an August report by Spotlight PA that <a href="https://www.spotlightpa.org/news/2020/08/pennsylvania-public-universities-colleges-campus-racism/">documented the mental and academic impact of ongoing racism at schools in the system</a>, known as PASSHE, state Sen. Art Haywood criticized administrators and state leadership for failing to take meaningful action.
+Citing an August report by Spotlight PA that <a href="https://lesspage.com/news/2020/08/pennsylvania-public-universities-colleges-campus-racism/">documented the mental and academic impact of ongoing racism at schools in the system</a>, known as PASSHE, state Sen. Art Haywood criticized administrators and state leadership for failing to take meaningful action.
 
 “My concern is that any redesign be done in a way that African American students can feel comfortable attending these institutions, not attend and then have to fear for their lives and escape, going home with one year or two years of debt,” Haywood (D., Philadelphia) said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The Spotlight PA report found that although the system has made strides in attracting more students of color, many said they were not supported once on campus. At best, many students of color said they felt unwelcome and ill-supported; at worst, unsafe and targeted.
 
@@ -62,14 +62,14 @@ The state system in August hired Dr. Denise Pearson to serve as vice-chancellor 
 
 While he is pleased that Pearson was hired, Haywood said simply hiring someone isn’t enough.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 “I received it as what I’ve seen as a typical play, where there’s a diversity problem and an African American is put at the head of dealing with what is essentially a white, race discrimination problem,” Haywood said.
 
 Haywood is the second state senator to raise the Spotlight PA report in their criticism of the state system’s redesign process.
 
-Sen. Judy Schwank (D., Berks) also <a href="https://www.spotlightpa.org/news/2020/08/pa-campus-racism-state-system-judy-schwank-passhe/">referenced</a> the report when she asked the PASSHE board of governors in August to include racial equity in redesign plans.
+Sen. Judy Schwank (D., Berks) also <a href="https://lesspage.com/news/2020/08/pa-campus-racism-state-system-judy-schwank-passhe/">referenced</a> the report when she asked the PASSHE board of governors in August to include racial equity in redesign plans.
 
 “This is exactly the time to have this discussion,” Schwank told Spotlight PA in August. “Who are we designing the system to serve and what will that student body look like?”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

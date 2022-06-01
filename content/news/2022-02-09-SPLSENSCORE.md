@@ -17,19 +17,19 @@ title = "See how the final Pennsylvania state Senate map scores in every key are
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A panel has approved a final Pennsylvania Senate map that could make small changes to the partisan composition of the chamber while improving traditional metrics.
 
-The map was created by the Legislative Reapportionment Commission, a five-person panel composed of an independent chair and the top legislative leaders. It <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 in early February</a> to approve both the <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">state House</a> and Senate maps, with House Majority Leader Kerry Benninghoff (R., Centre) casting the lone no vote.
+The map was created by the Legislative Reapportionment Commission, a five-person panel composed of an independent chair and the top legislative leaders. It <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 in early February</a> to approve both the <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">state House</a> and Senate maps, with House Majority Leader Kerry Benninghoff (R., Centre) casting the lone no vote.
 
 The process may not be over yet. Anyone can bring a challenge to either map to the state Supreme Court as part of a 30-day protest period that ends in early March.
 
 The Pennsylvania Constitution explicitly lists four requirements for state House and Senate districts: compactness, contiguity, minimal splits, and equal population. Here’s how the final map stacks up on those and other measures:
 
-<i><b>&gt;&gt; MY MAP:</b></i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b> Search now to see your old and new legislative districts</b></i></a>
+<i><b>&gt;&gt; MY MAP:</b></i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><i><b> Search now to see your old and new legislative districts</b></i></a>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Compactness
 
@@ -75,7 +75,7 @@ Competitiveness refers to the number of districts that have a ratio of Democrati
 
 <b>Dave’s Redistricting found 21% of the districts are competitive</b>, while 22% of the current map’s districts are competitive. Both are still a far cry from what Dave’s Redistricting calls a good level of competitive districts, around 75%.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## Minority representation
 
@@ -83,6 +83,6 @@ In an effort to increase the representation of communities of color, which drove
 
 <b>Overall, the plan improves minority representation compared to the current map</b>. It has four majority-minority districts — one in which the majority of the population comes from one community of color. The current map has three. The new map also has five coalition-majority districts, which are areas where a combination of different communities of color constitutes the majority population.
 
-<i>This story was adapted from </i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-senate-map-analysis-score/"><i>previous Spotlight PA reporting</i></a><i>.</i>
+<i>This story was adapted from </i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-senate-map-analysis-score/"><i>previous Spotlight PA reporting</i></a><i>.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

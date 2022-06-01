@@ -32,11 +32,11 @@ extended-kicker = ""
 
 Wolf administration officials doubled down this week on pursuing more than $100 million in new pandemic-related emergency contracts as they faced questions from state lawmakers about the health department’s spending.
 
-The House and Senate held two hearings this week after Spotlight PA reporting found that the <a href="https://www.spotlightpa.org/news/2021/07/pa-coronavirus-contact-tracing-insight-global-emergency/">Department of Health was using the emergency procurement process</a>, which allows state agencies to sidestep public bidding for contracts they say are urgent, to hire a new contact tracing company after the last one failed to prevent a data breach.
+The House and Senate held two hearings this week after Spotlight PA reporting found that the <a href="https://lesspage.com/news/2021/07/pa-coronavirus-contact-tracing-insight-global-emergency/">Department of Health was using the emergency procurement process</a>, which allows state agencies to sidestep public bidding for contracts they say are urgent, to hire a new contact tracing company after the last one failed to prevent a data breach.
 
 The health department requested a $34 million contract with Public Consulting Group, LLC, to take over the contact tracing program, though officials told lawmakers they expect to spend closer to $9 million.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Separately, the agency is pursuing an $87 million emergency contract to hire a company to perform COVID-19 testing in K-12 schools across the state. Officials also want to pay a Boston-based firm $2.7 million to perform consulting services. The company, Boston Consulting Group, was previously awarded an $11.6 million contract to assist the state with the vaccine rollout.
 
@@ -72,7 +72,7 @@ Health department officials told lawmakers on Wednesday that they considered at 
 
 These contracts are only a small sample of the hundreds of emergency procurement requests made during the pandemic.
 
-A Spotlight PA analysis showed <a href="https://www.spotlightpa.org/news/2021/07/contact-tracing-data-breach-pennsylvania-emergency-contracts/">state agencies made 483 emergency procurement requests in 2020</a>, up from an average of 135 requests made each year since 2015. The estimated costs attached to those requests totaled more than $340 million last year, up from an annual average of $81 million.
+A Spotlight PA analysis showed <a href="https://lesspage.com/news/2021/07/contact-tracing-data-breach-pennsylvania-emergency-contracts/">state agencies made 483 emergency procurement requests in 2020</a>, up from an average of 135 requests made each year since 2015. The estimated costs attached to those requests totaled more than $340 million last year, up from an annual average of $81 million.
 
 The Department of General Services typically approves emergency procurement requests within a day or two after they are submitted, a Spotlight PA review of state records showed. Non-emergency solicitations can take a minimum of 45 days to finalize.
 
@@ -88,7 +88,7 @@ Rep. Jason Ortitay (R., Allegheny), who chairs the subcommittee that held Tuesda
 
 Ortitay also said he wants to improve transparency by requiring state agencies to publicly post emergency procurement requests. State law currently does not require agencies to make the requests public, but the Department of General Services does publish them to the state eMarketplace website, Topper said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20information%20about%20emergency%20procurement%20contract%20that%20we%20should%20know%3F%20"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20information%20about%20emergency%20procurement%20contract%20that%20we%20should%20know%3F%20"></div>
 
 “That’s one thing we’re going to fix, is to make sure they are statutorily obligated, and it’s not just an option,” Ortitay said.
 
@@ -100,4 +100,4 @@ Sen. Kristin Phillips-Hill, (R., York), chair of the Senate Communications and T
 
 <i>This story has been updated to clarify the amount of money paid to Insight Global.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

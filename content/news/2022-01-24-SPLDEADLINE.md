@@ -18,7 +18,7 @@ title = "Pa. primary 2022: What delayed redistricting maps could mean for the Ma
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — The lawmakers in charge of drawing Pennsylvania’s new political maps have officially blown a deadline set by the Wolf administration to keep the May primary on track, sowing confusion among voters, candidates, and election administrators.
 
@@ -26,7 +26,7 @@ The redistricting process got off to a sluggish start nationwide. Because of the
 
 Still, Pennsylvania is far behind most states in finalizing its new congressional and legislative maps. In addition to the census delay, lawmakers have attributed the slow process to an increased number of public hearings and outreach.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Advocates for increased transparency in redistricting, meanwhile, have criticized those in charge for not releasing initial maps earlier and hosting public hearings before the proposals were released.
 
@@ -46,7 +46,7 @@ County election directors, meanwhile, have to begin preparing poll workers and b
 
 ## What is the status of the congressional map?
 
-The state Senate took a <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-final-passage-tom-wolf/">final vote on the congressional map Monday</a>, passing it 29-20.
+The state Senate took a <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-final-passage-tom-wolf/">final vote on the congressional map Monday</a>, passing it 29-20.
 
 It will now be sent to Gov. Tom Wolf for consideration. The Democrat has said he would veto the map in its current form.
 
@@ -84,7 +84,7 @@ The suit, filed last week in Commonwealth Court, argues that these population sh
 
 Legal challenges to the state House and Senate maps can’t be brought until they are finalized in February, but redistricting observers expect there to be lawsuits.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Candidates for legislative office could also be directed to run using the current maps, like they were a decade ago.
 
@@ -94,4 +94,4 @@ Using the current, outdated maps is possible for legislative elections but not f
 
 One leading Republican lawmaker involved with the redistricting process suggested that, in the absence of a new congressional map, an arcane federal law <a href="https://whyy.org/articles/the-arcane-unlikely-doomsday-redistricting-law-looming-over-pennsylvanias-map-impasse/">would direct the state to hold at-large elections for the 17 seats</a>. However, researchers and legal experts are skeptical that this would occur.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 The super-rich Milton S. Hershey School for poor children, which has faced criticism over how few students it helps, has proposed to spend $350 million on six centers throughout Pennsylvania to offer infant and early childhood services to 900 kids.
 
@@ -46,7 +46,7 @@ In court papers on Wednesday, the charity’s attorneys said that “circumstanc
 
 Talks between Shapiro’s office, which has ultimate oversight over Pennsylvania charities, and school leaders about putting more of its vast resources to serve the public have dragged on for about two years. Shapiro said that his office would support Hershey’s application for the childhood centers in court, a potentially contentious proceeding.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 Shapiro — who is facing reelection for attorney general in November against Republican Heather Heidelbaugh — has said that the Hershey charity, given its billions, should expand.
 
@@ -76,7 +76,7 @@ Milton and Catherine Hershey’s 1909 deed and later restatements of it call for
 
 The Early Childhood Education Initiative would offer services similar to the government’s Head Start program. Components would include nutritious meals, transportation, and other needed supplies, materials released on Wednesday said. Support services also would be included for families of enrolled children, part of a long-term trend in child care. Children between infancy and five years old could enroll.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The Hershey School said in its announcement that the initiative “is designed to improve school readiness for children … while introducing new populations to the benefits and programming of Milton Hershey School” — making it a potential feeder network for the charity’s campus in Hershey. The school has said it would grow its enrollment to 2,300 students, but has had great difficulty doing so.
 
@@ -92,6 +92,6 @@ After the judge’s 1999 denial, the Hershey School doubled its enrollment in a 
 
 <i>The Inquirer and Spotlight PA are looking into the Hershey School in a partnership with the nonprofit newsroom ProPublica’s </i><a href="https://www.propublica.org/about/local-reporting-network"><i>Local Reporting Network</i></a><i>. Reporters Bob Fernandez (</i><a href="mailto:bfernandez@inquirer.com" target="_blank"><i>bfernandez@inquirer.com</i></a><i>) and Charlotte Keith (</i><a href="mailto:ckeith@spotlightpa.org" target="_blank"><i>ckeith@spotlightpa.org</i></a><i>) would like to hear from students, staff, and alumni about their experiences at the school.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20a%20student%2C%20staff%20member%2C%20or%20alumnus%20of%20the%20Milton%20Hershey%20School%3F%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20a%20student%2C%20staff%20member%2C%20or%20alumnus%20of%20the%20Milton%20Hershey%20School%3F%20We%20want%20to%20hear%20from%20you."></div>

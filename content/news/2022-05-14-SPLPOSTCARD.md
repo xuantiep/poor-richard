@@ -19,7 +19,7 @@ title = "Unmarked postcards sent to Pennsylvanians tell them ‘whether you vote
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A handwritten postcard with vague sender information reminding some Pennsylvania voters about the May 17 primary appears to comply with the law, but the language did cause confusion among some recipients and raise concern about harassment.
 
@@ -27,7 +27,7 @@ HARRISBURG — A handwritten postcard with vague sender information reminding so
 
 The postcard is signed “Pam” but doesn’t have any additional identifying information telling the recipient who created or sent it. It also has a link to the state’s voting website — <a href="https://www.vote.pa.gov/Pages/default.aspx">vote.pa.gov</a> — leading the reader to believe it was sent by the state.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Spotlight PA matched the <a href="https://www.facebook.com/postcards2swingstates/posts/505162327665800">graphic on the postcard</a> to a campaign launched by a progressive political action committee called the <a href="https://www.turnoutpac.org/">Progressive Turnout Project</a>.
 
@@ -49,7 +49,7 @@ The Progressive Turnout Project says in its blog post that it conducted an exper
 
 “Some volunteers and voters do find social pressure messages distasteful,” the blog post said. “It is important to keep in mind that the goal of social pressure messages are to increase turnout, not to make voters happy about receiving a postcard.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The Pennsylvania Department of State did not respond to a request for comment, but it appears the postcard violated no laws.
 
@@ -59,4 +59,4 @@ Still, Berg told Spotlight PA, “Not knowing who is sending you these communica
 
 {{<picture src="external/rnqwvewg4t16bchqd0hw2tvpwr.png" description="A Spotlight PA reader was confused and concerned by a handwritten postcard that states, &#34;Who you vote for is private, but whether you vote is public record.&#34;" caption="A Spotlight PA reader was confused and concerned by a handwritten postcard that states, &#34;Who you vote for is private, but whether you vote is public record.&#34;" credit="Courtesy Shari Berg">}} 
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

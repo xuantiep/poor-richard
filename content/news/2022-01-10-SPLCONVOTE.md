@@ -18,7 +18,7 @@ title = "Pa. House expected to vote on proposed congressional map as redistricti
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — The state House is expected to vote on a proposed congressional map this week, as spring primary deadlines and a lawsuit that asks Pennsylvania’s highest court to take over the highly consequential process loom large.
 
@@ -26,11 +26,11 @@ A spokesperson for House Republicans told Spotlight PA the chamber will likely c
 
 The preliminary map was approved by the House State Government Committee in December along partisan lines.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The panel’s chair, Rep. Seth Grove (R., York), first put forth a map drawn by a well-known redistricting advocate — former Lehigh County Republican Commissioner Amanda Holt — and hailed it as a response to public pressure to remove lawmakers from the redrawing process.
 
-After complaints from some of the panel’s members, the committee advanced an altered version of that map a week later, <a href="https://www.spotlightpa.org/news/2021/12/pa-congressional-maps-proposed-redistricting/">before the public could review it</a>.
+After complaints from some of the panel’s members, the committee advanced an altered version of that map a week later, <a href="https://lesspage.com/news/2021/12/pa-congressional-maps-proposed-redistricting/">before the public could review it</a>.
 
 Democratic Gov. Tom Wolf, who must approve the map for it to take effect, said in a letter the map falls short in partisan fairness and creates a result that isn’t proportional to the balance of Democratic and Republican voters in the state.
 
@@ -60,14 +60,14 @@ The center handled the case that saw the Pennsylvania Supreme Court in 2018 adop
 
 Should the state House approve a map, it will then go to the state Senate for consideration. Lawmakers in that chamber are expected to release their own proposed congressional map this week.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Pennsylvania’s state House and Senate maps are drawn through a separate process controlled by the Legislative Reapportionment Commission, a five-person panel made up of the four top legislative leaders from both major parties and a nonpartisan chair.
 
-The commission <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-house-senate-maps/">released initial state House and Senate maps</a> in December that are now under a 30-day public comment period that ends Jan. 18. <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">You can see how your district would change under those proposals by using Spotlight PA’s map comparison tool at spotlightpa.org/mydistrict</a>.
+The commission <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-house-senate-maps/">released initial state House and Senate maps</a> in December that are now under a 30-day public comment period that ends Jan. 18. <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">You can see how your district would change under those proposals by using Spotlight PA’s map comparison tool at spotlightpa.org/mydistrict</a>.
 
 After that, the commission has another 30 days to make adjustments. Anyone who objects to one or both of the maps can file an appeal with the state Supreme Court within 30 days.
 
 <i>Spotlight PA’s Danielle Ohl contributed reporting.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -19,7 +19,7 @@ title = "Pennsylvania ‘particularly ill-prepared’ for financial blow caused 
 topics = ["Coronavirus"]
 +++
 
-<i>This story was produced as part of a joint effort among </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i>, </i><a href="https://lancasteronline.com/"><i>LNP Media Group</i></a><i>, </i><a href="https://www.pennlive.com/"><i>PennLive</i></a><i>, </i><a href="https://papost.org/"><i>PA Post</i></a><i>, and </i><a href="https://www.witf.org/"><i>WITF</i></a><i> to cover how Pennsylvania state government is responding to the coronavirus. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for Spotlight PA’s newsletter.</i></a>
+<i>This story was produced as part of a joint effort among </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i>, </i><a href="https://lancasteronline.com/"><i>LNP Media Group</i></a><i>, </i><a href="https://www.pennlive.com/"><i>PennLive</i></a><i>, </i><a href="https://papost.org/"><i>PA Post</i></a><i>, and </i><a href="https://www.witf.org/"><i>WITF</i></a><i> to cover how Pennsylvania state government is responding to the coronavirus. </i><a href="https://lesspage.com/newsletters"><i>Sign up for Spotlight PA’s newsletter.</i></a>
 
 HARRISBURG — Just last month, Pennsylvania’s finances were finally on an upswing again. Tax revenues were coming in higher than forecasted, and Democratic Gov. Tom Wolf proposed a $36 billion budget with some ambitious new spending plans.
 
@@ -35,7 +35,7 @@ The challenge will be particularly acute because, as revenues decline, demand fo
 
 Already, with casinos closed since March 17, revenues from slot machines and table games — which brought in $1.36 billion for the state in 2019 — are plummeting toward zero. The state liquor stores, which generated more than $700 million in the last fiscal year, are closed and are not selling online.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Sales tax revenues will slump because businesses are closed and families are cutting back on spending. Since Pennsylvania doesn’t tax essential items, panic-buying groceries and hoarding toilet paper doesn’t generate much revenue, either.
 
@@ -47,7 +47,7 @@ The scale of the shortfall will become clearer in about a week, Hassell said, wh
 
 “It’s a huge challenge for all of us as we try to figure out where we go from here,” he said.
 
-On Monday, Wolf issued a <a href="https://www.spotlightpa.org/news/2020/03/pennsylvania-coronavirus-stay-at-home-order-tom-wolf/">stay-at-home order</a> for the seven counties most affected by the coronavirus. Last week, he ordered all businesses <a href="https://www.spotlightpa.org/news/2020/03/wolf-coronavirus-shutdown-businesses/">except those deemed “life-sustaining”</a> to close their physical operations, and this week, police began enforcement.
+On Monday, Wolf issued a <a href="https://lesspage.com/news/2020/03/pennsylvania-coronavirus-stay-at-home-order-tom-wolf/">stay-at-home order</a> for the seven counties most affected by the coronavirus. Last week, he ordered all businesses <a href="https://lesspage.com/news/2020/03/wolf-coronavirus-shutdown-businesses/">except those deemed “life-sustaining”</a> to close their physical operations, and this week, police began enforcement.
 
 The state Department of Revenue doesn’t have specific estimates yet on just how badly the emergency measures put in place to slow the outbreak will hit Pennsylvania’s bottom line. That’s in part because of how fluid the situation remains, both here and in Washington, D.C.
 
@@ -63,7 +63,7 @@ Last week, Wolf put a hiring freeze and general purchasing ban in place across s
 
 Like many states, Pennsylvania was midway through the budget process when the outbreak hit.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 In the past, the state has been criticized for using one-time revenues to balance the budget. Experts say core government functions should be paid for with recurring revenues.
 
@@ -87,6 +87,6 @@ Unlike the 2008 recession, which Browne said took the state almost 10 years to r
 
 “All things being equal, this should not result in extended consequences like the last one did,” he said.
 
-<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

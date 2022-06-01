@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — For a moment, anti-gerrymandering advocates in Pennsylvania had a victory in sight. 
 
@@ -45,7 +45,7 @@ That was one of the problems the Pennsylvania Supreme Court identified in 2018, 
 
 “It was a map that was drawn entirely behind closed doors,” said Benjamin Geffen, an attorney at the Public Interest Law Center, which led the lawsuit on behalf of the League of Women Voters of Pennsylvania and individual state residents. “It was voted on the very same day they released the map. … Then it passed in the Senate two weeks later.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Every ten years, lawmakers use new census information to draw a congressional map that must garner the approval of the governor. 
 
@@ -65,7 +65,7 @@ If the legislature acts before the end of January, and Gov. Tom Wolf signs off, 
 
 “But recognizing that we don’t have time before the next redistricting cycle to get a constitutional amendment, a bill like this would certainly be an improvement over the status quo,” he said. 
 
-Whether the House and Senate will agree to rules that limit their ability to draw districts — and pick voters — remains to be seen, though in the past they’ve been slow to pass legislation that<a href="https://www.spotlightpa.org/news/2019/10/pennsylvania-campaign-expenses-reform-bill-costa/"> reduces their influence</a> or <a href="https://www.pennlive.com/news/2019/03/term-limits-proposal-seeks-to-put-an-end-to-career-politicians-serving-in-pas-general-assembly.html" target="_blank">power</a>. When lawmakers return in the fall, they’ll also have to grapple with the ever-present threat of the coronavirus and an incomplete state budget.
+Whether the House and Senate will agree to rules that limit their ability to draw districts — and pick voters — remains to be seen, though in the past they’ve been slow to pass legislation that<a href="https://lesspage.com/news/2019/10/pennsylvania-campaign-expenses-reform-bill-costa/"> reduces their influence</a> or <a href="https://www.pennlive.com/news/2019/03/term-limits-proposal-seeks-to-put-an-end-to-career-politicians-serving-in-pas-general-assembly.html" target="_blank">power</a>. When lawmakers return in the fall, they’ll also have to grapple with the ever-present threat of the coronavirus and an incomplete state budget.
 
 Thomas' bill was recently sent to the House State Government Committee, chaired by Rep. Garth Everett (R., Lycoming), who did not respond to request for comment. 
 
@@ -77,7 +77,7 @@ Sen. Lisa Boscola (D., Lehigh), the prime sponsor of an independent commission b
 
 “I don’t buy it. I get that they said we had to do other things in the past couple of months, but I don’t know,” she said. “I just don’t think there was the will.” 
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 A spokesperson for Senate Republicans said the caucus has “long supported changing the process by which districts are drawn for both state government and members of Congress.”
 
@@ -91,4 +91,4 @@ But ideally, good-government advocates said, people in power from either party s
 
 “It should not be about helping one party or incumbents for one party … making a mutual, back-scratching agreement,” Geffen said. “What they should be doing is drawing a map designed to make it possible for voters to have ... competitive races all across the commonwealth.” 
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

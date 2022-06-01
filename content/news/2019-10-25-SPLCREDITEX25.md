@@ -19,7 +19,7 @@ aliases=["/news/pennsylvania/spl/pa-election-campaign-spending-bizarre-expensive
 
 Pennsylvania’s legislators have tapped their campaign accounts for everything from the mundane to the extravagant to the outright bizarre.
 
-A year-long investigation by The Caucus and <a href="https://www.spotlightpa.org/">Spotlight PA</a> uncovered nearly $3.5 million worth of campaign expenses that <a href="/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/">could not be fully traced to the ultimate recipients</a> based on publicly available campaign finance reports.
+A year-long investigation by The Caucus and <a href="https://lesspage.com/">Spotlight PA</a> uncovered nearly $3.5 million worth of campaign expenses that <a href="/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/">could not be fully traced to the ultimate recipients</a> based on publicly available campaign finance reports.
 
 Under Pennsylvania election law, campaign accounts must be used for “influencing the outcome of an election.” But what qualifies is largely open to interpretation, and too often, campaign finance reports don’t contain enough information for the public to make a determination.
 
@@ -27,7 +27,7 @@ That’s a “loophole big enough to drive a Mack truck through,” said Larry O
 
 <i><b>» READ MORE: </b></i><a href="/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/"><i><b>Lavish dinners, sports tickets, and nearly $3.5 million other expenses by Pa. lawmakers you’ve never seen</b></i></a>
 
-As part of the investigation, The Caucus and <a href="https://www.spotlightpa.org/">Spotlight PA</a> found <a href="/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/">more than 4,800 instances of obscured spending by nearly 300 campaigns</a>. The news organizations then requested additional information from the campaigns with the most dark spending. Here are 10 of the more notable expenses:
+As part of the investigation, The Caucus and <a href="https://lesspage.com/">Spotlight PA</a> found <a href="/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/">more than 4,800 instances of obscured spending by nearly 300 campaigns</a>. The news organizations then requested additional information from the campaigns with the most dark spending. Here are 10 of the more notable expenses:
 
 ## Trip through Europe
 
@@ -42,7 +42,7 @@ Open bar and hors d’oeuvres for purchased for $3,797 by Alloway’s campaign f
 
 125 hats purchased for $3,125 by Senate Minority Leader Jay Costa (D., Allegheny) over back-to-back Stanley Cup years in 2016 and 2017. Costa’s campaign said the Penguins had just won the Stanley Cup and gifting the team hats to senators and staff was a “measure of appreciation and good will.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Walking shoes
 

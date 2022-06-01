@@ -19,15 +19,15 @@ title = "SEC’s probe of Pa. school pension fund examines staff gifts and trips
 topics = ["Pensions"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The U.S. Securities and Exchange Commission has widened the federal scrutiny of Pennsylvania’s mammoth public school pension plan, demanding records that could show whether the fund’s staff improperly traded gifts with any of hundreds of Wall Street consultants and investment managers.
 
-The SEC’s new 30-page subpoena comes six months after the U.S. Attorney’s office in Philadelphia and the FBI <a href="https://www.spotlightpa.org/news/2021/06/pa-psers-fbi-investigation-irs-disclosures-real-estate-amended/" target="_blank">opened a criminal investigation into possible bribery</a> linked to exaggerated investment returns and Harrisburg land deals at the agency.
+The SEC’s new 30-page subpoena comes six months after the U.S. Attorney’s office in Philadelphia and the FBI <a href="https://lesspage.com/news/2021/06/pa-psers-fbi-investigation-irs-disclosures-real-estate-amended/" target="_blank">opened a criminal investigation into possible bribery</a> linked to exaggerated investment returns and Harrisburg land deals at the agency.
 
 The commission gave PSERS, the state agency that invests $70 billion to fund pensions for half a million working and retired school staff, until Oct. 8 to produce “all documents and communications concerning any compensation, remuneration, reimbursement, money, gifts, gratuities, trips, or anything of any value” exchanged between PSERS officials and the agency’s money managers and consultants.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 In its ethics policy for its 500 staffers, PSERS says flatly that “employees shall not, directly or indirectly, solicit, accept, or receive for personal use any gift.” Gov. Tom Wolf has imposed a similar ban on all state workers.
 
@@ -59,7 +59,7 @@ His warnings were dismissed as groundless by fund Executive Director Glen Grell 
 
 In the subpoena, the SEC demands any documents or communications about “the decision to use unaudited financial information to calculate PSERS’ average rate of return.” It seeks material from Jan. 1, 2020 to the present.
 
-The Inquirer and Spotlight PA <a href="https://www.spotlightpa.org/news/2021/09/pa-psers-teacher-pension-fund-sec-federal-investigation-gifts/" target="_blank">first reported the filing of the subpoena on Saturday</a>. Bloomberg News later obtained a copy of the document, followed by the news organizations.
+The Inquirer and Spotlight PA <a href="https://lesspage.com/news/2021/09/pa-psers-teacher-pension-fund-sec-federal-investigation-gifts/" target="_blank">first reported the filing of the subpoena on Saturday</a>. Bloomberg News later obtained a copy of the document, followed by the news organizations.
 
 The original subpoenas from federal prosecutors, also obtained by The Inquirer, said that the criminal investigation was focusing on possible “honest services” fraud and wire fraud. Under key <a href="https://www.law.cornell.edu/supct/html/08-1394.ZO.html">U.S. Supreme Court rulings</a>, prosecutors, in effect, need to prove bribery or kickbacks to charge officials with the crime of not providing honest service.
 
@@ -71,7 +71,7 @@ In its subpoena, the commission takes pains to ask not only about fund employees
 
 In April, The Inquirer <a href="https://www.inquirer.com/business/psers-pension-teachers-travel-expenses-sers-public-school-trips-cost-20210403.html">for the first time revealed</a> the heavy spending by 40 or so members of the fund’s elite investment office as its financial experts traversed the world to check on investments.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 The article detailed hotel charges that included a $1,178 overnight stay in New York, a $1,144 overnight stay in Boston, and a $955 overnight stay in Beverly Hills. Plane costs were even more expensive, with 15 fares exceeding $11,000 between 2017 and 2019.
@@ -84,4 +84,4 @@ PSERS <a href="https://www.inquirer.com/news/psers-travel-costs-investments-refo
 
 In testimony before the U.S. Senate earlier this month, Gary Gensler, President Joe Biden’s pick for SEC chairman, called for enhanced scrutiny of the private investment managers that handle billions of dollars in retirement-plan money, “and in particular the conflicts of interest their managers may have.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

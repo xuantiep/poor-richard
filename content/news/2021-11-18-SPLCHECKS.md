@@ -19,7 +19,7 @@ title = "Who investigates police killings in Pennsylvania, and why there are few
 topics = ["Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 In Pennsylvania, elected district attorneys determine whether or not to charge officers who kill or use force against civilians. There is little recourse should anyone disagree with the decision.
 
@@ -27,11 +27,11 @@ After State Police troopers shot and killed 19-year-old Christian Hall in Decemb
 
 Christine regularly works with State Police and depends on troopers to help build cases, as they are responsible for coverage in the majority of the county he oversees.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 His office said troopers were brought in from outside the local jurisdiction to conduct the investigation. Officials determined the shooting was justified because Hall had what troopers at the scene believed to be a deadly weapon.
 
-Hall’s parents, Fe and Gareth, <a href="https://www.spotlightpa.org/news/2021/11/christian-hall-state-police-shooting-stroudsburg/" target="_blank">disagree and have asked federal agencies and the Pennsylvania Office of Attorney General to look into the case</a>.
+Hall’s parents, Fe and Gareth, <a href="https://lesspage.com/news/2021/11/christian-hall-state-police-shooting-stroudsburg/" target="_blank">disagree and have asked federal agencies and the Pennsylvania Office of Attorney General to look into the case</a>.
 
 A district attorney can ask the state attorney general to investigate a criminal case if its office doesn’t have the resources, or if there is a “real or apparent” conflict of interest, <a href="https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?txtType=HTM&yr=1980&sessInd=0&smthLwInd=0&act=164&chpt=2&sctn=5&subsctn=0">according to state law.</a> But it’s nearly impossible for the Attorney General’s Office to intervene on its own.
 
@@ -65,14 +65,14 @@ He has drafted legislation requiring an independent law enforcement agency to in
 
 Under the bill, the governor, key lawmakers, and the attorney general would receive a detailed report about the investigation from the independent agency if the local DA decides not to file charges.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
 
 Haywood had not introduced the legislation as of mid-November but said he believes the bill has gained some support among law enforcement. A previous version went nowhere in the GOP-controlled legislature.
 
-Police reform has <a href="https://www.spotlightpa.org/news/2020/06/police-protest-pennsylvania-antwon-rose-use-of-force/">traditionally languished in the legislature</a>, though there are exceptions.
+Police reform has <a href="https://lesspage.com/news/2020/06/police-protest-pennsylvania-antwon-rose-use-of-force/">traditionally languished in the legislature</a>, though there are exceptions.
 
 After the murder of George Floyd by then Minneapolis officer Derek Chauvin, lawmakers passed and Gov. Tom Wolf signed a bill requiring all law enforcement agencies in the state to consult a new database of disciplinary actions, performance evaluations, and attendance records as part of a background check on new officers.
 
 Another bill signed into law requires the Municipal Police Officers’ Education and Training Commission, which also maintains the new database, to train local police on how to treat people of diverse backgrounds. The bill also requires annual training on use of force and de-escalation techniques.
 
-<i><b>WHILE YOU’RE HERE ...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE ...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

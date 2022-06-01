@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Pennsylvania’s public school children are being shortchanged by $4.6 billion — and those in the poorest school districts, who have fallen the furthest behind, are owed the most, according to a new analysis commissioned by advocates seeking to overhaul the state’s education funding system.
 
@@ -44,7 +44,7 @@ The funding gap may be even greater, the report says — noting <a href="https:/
 
 The analysis, prepared for a Commonwealth Court judge, is the latest salvo in a yearslong legal battle to address school funding inequities, one that could intensify as the case moves toward trial.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “We are asking the court to fix the broken system, to ensure that the legislature fulfills its constitutional duty to create a system that ensures adequate and equitable funding for the needs of the commonwealth over time,” said Maura McInerney, legal director of the Education Law Center, which along with the Public Interest Law Center is representing the districts, parents, and organizations behind the lawsuit.
 
@@ -99,7 +99,7 @@ But the added state funding has been far outpaced by <a href="https://www.inquir
 
 <a href="https://www.inquirer.com/philly/education/in-pa-school-funding-maze-formula-for-equity-elusive-20170925.html">While a state formula enacted in 2016</a> sends more money to lower-wealth districts and those with needier students, it applies to less than 10% of what the state spends on education. Most of the state’s main education subsidy — which totals $6.7 billion this year — is distributed based on what districts have received historically. That protects districts with shrinking enrollments from cuts, while those that are growing don’t receive what the formula says they warrant.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 Black and Latino students are particularly shortchanged, according to Kelly’s report. More than 80% attend school districts that would receive more money if the formula were applied fully.
 
@@ -111,6 +111,6 @@ Without funding changes, Rau predicts the district’s challenges will only grow
 
 “We’re going to create a school district in a city that just has a deep, deep sense of poverty, like it was in the ’60s in the South,” she said. “The inequality is just going to become greater and greater for our kids.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20a%20parent%2C%20guardian%2C%20teacher%2C%20or%20social%20worker%20for%20an%20English%20learner%20student%20in%20Pennsylvania%3F%20We%20want%20to%20hear%20from%20you.%20%7C%20%C2%BFEres%20padre%2C%20tutor%2C%20maestro%20o%20trabajador%20social%20de%20un%20estudiante%20que%20aprende%20ingl%C3%A9s%20en%20Pensilvania%3F%20Queremos%20escuchar%20de%20ti."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20a%20parent%2C%20guardian%2C%20teacher%2C%20or%20social%20worker%20for%20an%20English%20learner%20student%20in%20Pennsylvania%3F%20We%20want%20to%20hear%20from%20you.%20%7C%20%C2%BFEres%20padre%2C%20tutor%2C%20maestro%20o%20trabajador%20social%20de%20un%20estudiante%20que%20aprende%20ingl%C3%A9s%20en%20Pensilvania%3F%20Queremos%20escuchar%20de%20ti."></div>

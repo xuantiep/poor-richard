@@ -30,11 +30,11 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-It’s the question on the minds of everyone today as <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-2020-election-live-blog-updates-donald-trump-joe-biden/">voters head to the polls</a>.
+It’s the question on the minds of everyone today as <a href="https://lesspage.com/news/2020/11/pennsylvania-2020-election-live-blog-updates-donald-trump-joe-biden/">voters head to the polls</a>.
 
-First, election results are never known on election night. States have days, sometimes weeks to certify the results, and in Pennsylvania, <a href="https://www.spotlightpa.org/news/2020/10/pennsylvania-election-county-officials-stress-misinformation-anger/">county staff will be opening millions of mail ballots</a> — some by hand, some with machines — while running an in-person election during a pandemic.
+First, election results are never known on election night. States have days, sometimes weeks to certify the results, and in Pennsylvania, <a href="https://lesspage.com/news/2020/10/pennsylvania-election-county-officials-stress-misinformation-anger/">county staff will be opening millions of mail ballots</a> — some by hand, some with machines — while running an in-person election during a pandemic.
 
 Instead, what we normally get are projected winners by television networks and news organizations, based on a number of factors, including turnout, exit polls, actual vote counts, and more. But this year will make projecting winners in some states much harder.
 
@@ -44,13 +44,13 @@ The coronavirus pandemic has prompted an unprecedented flood of mail ballots, in
 
 That processing includes opening the envelopes, taking out the ballot, flattening it, and putting it in a pile. Then comes the actual counting.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
-Several Pennsylvania counties <a href="https://www.spotlightpa.org/news/2020/11/pa-election-2020-mail-ballots-precanvassing/">won’t even begin processing mail ballots today</a>, much less counting them. And that could skew early returns you see this evening. Other swing states, such as Wisconsin, also do not permit pre-canvassing mail ballots.
+Several Pennsylvania counties <a href="https://lesspage.com/news/2020/11/pa-election-2020-mail-ballots-precanvassing/">won’t even begin processing mail ballots today</a>, much less counting them. And that could skew early returns you see this evening. Other swing states, such as Wisconsin, also do not permit pre-canvassing mail ballots.
 
 But do these delays mean something nefarious is going on?
 
-No, it will simply take longer than normal to tally all the different kinds of votes — in-person, mail, and provisional (cast when a voter’s eligibility is in question). The head of elections in Pennsylvania, Kathy Boockvar, and county officials are confident the <a href="https://www.spotlightpa.org/news/2020/10/pa-kathy-boockvar-election-results-timely-tom-wolf-republicans-precanvassing/">overwhelming majority of votes will be counted by Friday</a>.
+No, it will simply take longer than normal to tally all the different kinds of votes — in-person, mail, and provisional (cast when a voter’s eligibility is in question). The head of elections in Pennsylvania, Kathy Boockvar, and county officials are confident the <a href="https://lesspage.com/news/2020/10/pa-kathy-boockvar-election-results-timely-tom-wolf-republicans-precanvassing/">overwhelming majority of votes will be counted by Friday</a>.
 
 The state has also <a href="https://www.votespa.com/About-Elections/Pages/Counting-Dashboard.aspx">launched a new dashboard</a> for you to track the counting over the next few days, and see how many of the different types of ballots are still outstanding. If you don’t want all of that detail, you can use their <a href="https://www.electionreturns.pa.gov/">more simplified results page</a>.
 
@@ -62,10 +62,10 @@ But if the race isn’t clear tonight, or if it hinges on Pennsylvania, expect t
 
 <b>LEARN MORE</b>
 
-- <a href="https://www.spotlightpa.org/news/2020/10/pa-election-voting-questions-answered-mail-ballot/">Election 2020 in Pennsylvania: All of your voting questions, answered</a>
+- <a href="https://lesspage.com/news/2020/10/pa-election-voting-questions-answered-mail-ballot/">Election 2020 in Pennsylvania: All of your voting questions, answered</a>
 
-- <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-2020-election-live-blog-updates-donald-trump-joe-biden/">Election Day 2020 Pa. live updates: Voters say lack of trust, tradition brought them to the polls</a>
+- <a href="https://lesspage.com/news/2020/11/pennsylvania-2020-election-live-blog-updates-donald-trump-joe-biden/">Election Day 2020 Pa. live updates: Voters say lack of trust, tradition brought them to the polls</a>
 
-- <a href="https://www.spotlightpa.org/news/2020/10/pa-2020-election-day-voting-problems-machines-ballots-lawsuits/">Report voting problems in Pennsylvania to Spotlight PA’s 2020 election tipline</a>
+- <a href="https://lesspage.com/news/2020/10/pa-2020-election-day-voting-problems-machines-ballots-lawsuits/">Report voting problems in Pennsylvania to Spotlight PA’s 2020 election tipline</a>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. For a limited time, become a donor today and your gift will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. For a limited time, become a donor today and your gift will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

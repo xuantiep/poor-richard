@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 If you want to understand the big-money battle for control of Pennsylvania’s legislature, look to Dauphin County.
 
@@ -40,11 +40,11 @@ The money may seem like chump change compared to <a href="https://www.npr.org/20
 
 A Spotlight PA review of campaign finance reports filed between January and Oct. 23 shows donors, lawmakers, and outside interest groups are pouring millions of dollars into a few dozen races as Democrats fight for control of the state House and Senate.
 
-Four of the many committees that are heavily involved in state legislative races — Wolf’s, the pro-Democrat Pennsylvania Fund for Change, the pro-Republican Build PA PAC, and the conservative Commonwealth Leaders Fund — have alone spent more than $16.9 million this year, according to the latest available reports. While some of that money went to other races, such as for attorney general, the figure gives a window <a href="https://www.spotlightpa.org/news/2020/10/pa-election-state-house-flip-democrats-republicans/">into the high-stakes legislative contest.</a>
+Four of the many committees that are heavily involved in state legislative races — Wolf’s, the pro-Democrat Pennsylvania Fund for Change, the pro-Republican Build PA PAC, and the conservative Commonwealth Leaders Fund — have alone spent more than $16.9 million this year, according to the latest available reports. While some of that money went to other races, such as for attorney general, the figure gives a window <a href="https://lesspage.com/news/2020/10/pa-election-state-house-flip-democrats-republicans/">into the high-stakes legislative contest.</a>
 
 Nine wins in the House and four in the Senate would allow Democrats in Harrisburg to set the agenda on issues including gun restrictions, the natural gas industry, and the minimum wage. The party would also control the drawing of new <a href="https://www.wesa.fm/post/eye-redistricting-2021-national-group-targets-pa-legislative-races">congressional maps in 2021</a>. While control of the Senate is viewed as leaning toward Republicans, the House is considered a toss-up.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “It’s a big threat,” said Matthew Brouillette, treasurer for Commonwealth Leaders Fund. “We are seeing incredible amounts of money coming in.”
 
@@ -82,7 +82,7 @@ And in the middle of it all is the 15th state Senate district, covering much of 
 
 Democratic presidential candidates have won Dauphin County since 2008, although Republicans have kept control of county-level positions. Republicans make up 39% of registered voters in the county, compared to 46% for Democrats.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/cta/?url=https%3A%2F%2Fwww.spotlightpa.org%2Fdonate&eyebrow=BECOME%20A%20MEMBER&body=Make%20a%20gift%20today%20and%20help%20Spotlight%20PA%20continue%20to%20provide%20100%25%20essential%20reporting%20on%20the%20upcoming%20election%20in%20Pennsylvania.%20From%20court%20challenges%20to%20voter%20intimidation%2C%20our%20reporters%20are%20keeping%20watch%20for%20you.&cta=JOIN%20US%20NOW"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/cta/?url=https%3A%2F%2Flesspage.com%2Fdonate&eyebrow=BECOME%20A%20MEMBER&body=Make%20a%20gift%20today%20and%20help%20Spotlight%20PA%20continue%20to%20provide%20100%25%20essential%20reporting%20on%20the%20upcoming%20election%20in%20Pennsylvania.%20From%20court%20challenges%20to%20voter%20intimidation%2C%20our%20reporters%20are%20keeping%20watch%20for%20you.&cta=JOIN%20US%20NOW"></div>
 
 “The issue though is just getting those voters out,” said Rogette Harris, chair of the Dauphin County Democratic Committee. “So Dauphin County is a turnout county.”
 
@@ -96,6 +96,6 @@ David Feidt, chairman of the Dauphin County Republican Committee, said the outsi
 
 <i>Temple University’s Data Desk, a collaboration between the university and Spotlight PA, contributed research to this article. Andrew Seidman of The Philadelphia Inquirer contributed reporting.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20a%20Pennsylvania%20resident%20with%20a%20voting%20or%20election%20question%3F%20Send%20it%20to%20Spotlight%20PA%20and%20we'll%20do%20our%20best%20to%20answer%20it.&flag_text=election%202020"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20a%20Pennsylvania%20resident%20with%20a%20voting%20or%20election%20question%3F%20Send%20it%20to%20Spotlight%20PA%20and%20we'll%20do%20our%20best%20to%20answer%20it.&flag_text=election%202020"></div>

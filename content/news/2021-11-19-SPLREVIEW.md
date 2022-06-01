@@ -18,7 +18,7 @@ title = "What we know about the firm hired by the GOP to review Pennsylvania’s
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — More than a year after Joe Biden won the presidency, Pennsylvania Republican lawmakers in the state Senate on Friday announced they had signed a contract with Iowa-based Envoy Sage to lead their investigation of the 2020 election.
 
@@ -28,7 +28,7 @@ Republicans are moving forward with the review despite an active court fight ove
 
 The cases have been consolidated and a panel of Commonwealth Court judges is scheduled to hear arguments Dec. 15 in Harrisburg. However the court rules, the decision could be appealed to the state Supreme Court.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## What do we know about Envoy Sage?
 
@@ -80,7 +80,7 @@ Democrats and good-government groups such as Common Cause have criticized the at
 
 Republicans have not explained how they will keep sensitive data secure, beyond saying it’s a top priority and that vendors would be required to sign a non-disclosure agreement. Thompson said Envoy Sage personnel “not only have handled sensitive information for government agencies, but also have kept classified information safe for the Department of Defense.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
 
 Republicans leading the investigation say state government works with sensitive information on a regular basis, including with third-party contractors. In an updated FAQ on their election investigation website, they said Friday that the contract includes language on protecting information that “is consistent with the language that the Pennsylvania Department of State uses” with outside contractors that maintain the state’s voter registry.
 
@@ -94,4 +94,4 @@ He noted that the contract was being signed the same week Corman, the highest-ra
 
 <i>Staff writer Jonathan Lai contributed to this article.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

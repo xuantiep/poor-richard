@@ -18,7 +18,7 @@ title = "Vaunted Pennsylvania Society weekend loses luster among politicos"
 topics = ["Politics"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — For years, Pennsylvania Society has been the marquee event for the state’s politicians and the well-heeled special interests that want something from them: a long weekend in New York City featuring back-to-back swanky fundraisers, black-tie soirees, and after-hours parties.
 
@@ -26,7 +26,7 @@ Good-government groups have criticized the event as the epitome of garish larges
 
 But this year, Pennsylvania Society (scheduled for this weekend) is expected to look and feel far different, organizers, attendees, and others say. Attendance will be down, and long-standing events such as receptions thrown by law firms and business groups have been merged or canceled outright.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 One reason for this year’s scaled-down version, organizers say, is the pandemic, which has curbed interest in travel and crowded indoor gatherings. 
 
@@ -52,7 +52,7 @@ Eric Epstein, cofounder of the nonpartisan good-government group Rock the Capita
 
 “We need less self-interest and more common good, and we need to focus on Pennsylvania problems and not New York parties,” said Epstein. “We need to put the Society on ice, and thaw out democracy.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Sheehan disagrees.
 
@@ -64,4 +64,4 @@ That spirit of inclusion, he said, defines the society’s mission and event.
 
 “The dinner is really the heart of the weekend,” he said.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

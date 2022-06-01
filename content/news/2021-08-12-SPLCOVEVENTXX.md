@@ -18,11 +18,11 @@ title = "WATCH: A free reader Q&A on rising COVID-19 cases in Pennsylvania"
 topics = ["Events", "Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 COVID-19 cases are once again on the rise across the country, driven by the new delta variant. Nearly all of Pennsylvania’s recent deaths and hospitalizations are among the unvaccinated, according to Acting Health Secretary Allison Beam.
 
-As a result, the state is <a href="https://www.spotlightpa.org/news/2021/08/pa-vaccination-rate-county-fairs-clinics/">launching initiatives</a> to urge Pennsylvanians to get vaccinated, but Gov. Tom Wolf has so far said he will not put in place new restrictions or <a href="https://apnews.com/article/health-religion-pennsylvania-coronavirus-pandemic-af79869797aa081eb349449564a377c2">mandates</a>.
+As a result, the state is <a href="https://lesspage.com/news/2021/08/pa-vaccination-rate-county-fairs-clinics/">launching initiatives</a> to urge Pennsylvanians to get vaccinated, but Gov. Tom Wolf has so far said he will not put in place new restrictions or <a href="https://apnews.com/article/health-religion-pennsylvania-coronavirus-pandemic-af79869797aa081eb349449564a377c2">mandates</a>.
 
 On Wednesday, Aug. 25 at noon, Spotlight PA held a free Q&amp;A on Pennsylvania’s response to the surge in COVID-19 cases and what you need to know going into the fall.
 
@@ -42,4 +42,4 @@ Our panelists included:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/592894023?h=5c590570d7&color=ffcb05&title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

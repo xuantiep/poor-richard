@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 SULLIVAN COUNTY — Robert Keen figured his year of dodging the coronavirus was over.
 
@@ -42,7 +42,7 @@ Keen lives in Forksville, a borough in Sullivan County about 60 miles west of Wi
 
 The pharmacy and medical center are too small to take on the work of administering coronavirus vaccines. Most residents get their health care at hospitals or doctor’s offices at least an hour away in neighboring counties.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Scheduling a vaccine appointment in Pennsylvania is already a competitive process exacerbated by a short supply and patchwork online scheduling systems.
 
@@ -60,7 +60,7 @@ In Juniata County, 19% of the population is older than 65 and a quarter of house
 
 “Many of our older folks, they aren’t computer savvy,” Gray said. “They don’t use computers. So if the only way they have is to schedule an appointment via the internet, I don’t know if they know how to do that.”
 
-A Weis grocery store and a health clinic in Mifflintown are the only sites offering vaccines in Juniata, according to <a href="https://www.spotlightpa.org/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/">state data</a>. From the farthest reaches of the long, narrow county, getting there could be a 40-minute drive, Gray said.
+A Weis grocery store and a health clinic in Mifflintown are the only sites offering vaccines in Juniata, according to <a href="https://lesspage.com/news/2021/01/pa-covid-vaccine-locations-availability-where-to-get-who-can-get-latest-updates/">state data</a>. From the farthest reaches of the long, narrow county, getting there could be a 40-minute drive, Gray said.
 
 {{<picture src="external/nn643jbyzv7k1175hnf85a351m.jpeg" description="Robert Keen, 84, of Forksville, thought he would have to wait until April to get the vaccine despite being eligible, but received it during a community clinic last month at the Sullivan County Elementary School in Laporte Borough." caption="Robert Keen, 84, of Forksville, thought he would have to wait until April to get the vaccine despite being eligible, but received it during a community clinic last month at the Sullivan County Elementary School in Laporte Borough." credit="FRED ADAMS / For Spotlight PA">}} 
 
@@ -88,7 +88,7 @@ In Sullivan, about 27% of residents are older than 65, and 22% don’t have inte
 
 Officials in other counties are also preparing to launch local mass vaccination clinics.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Throughout January, Kevin Boozel, a commissioner in Butler County in southwest Pennsylvania, said his office fielded as many as 70 calls and emails a day from residents frustrated that they don’t have information about where to get a vaccine.
 
@@ -146,4 +146,4 @@ After being told by his doctor he’d have to wait until April, Keen received hi
 
 “I feel great,” he said afterward.
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -19,11 +19,11 @@ title = "Pa.’s looming dementia care crisis, by the numbers"
 topics = ["Health"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Pennsylvania is headed for a profound eldercare crisis, experts warn, as Alzheimer’s disease and dementia rates continue to climb, the state’s readiness plan continues to falter, and the exorbitant costs of care pressure state budgets and family budgets alike.
 
-Spotlight PA and PublicSource <a href="https://www.spotlightpa.org/news/2021/09/pa-alzheimers-dementia-crisis-unprepared/">looked at the remarkably high stakes in Pennsylvania</a>, home to one of the nation’s oldest populations, and found a slew of statistics demonstrating both the urgency of the problem, the glacial pace of the response, and the dollar amounts behind a “public health crisis with a looming financial crisis on top.” 
+Spotlight PA and PublicSource <a href="https://lesspage.com/news/2021/09/pa-alzheimers-dementia-crisis-unprepared/">looked at the remarkably high stakes in Pennsylvania</a>, home to one of the nation’s oldest populations, and found a slew of statistics demonstrating both the urgency of the problem, the glacial pace of the response, and the dollar amounts behind a “public health crisis with a looming financial crisis on top.” 
 
 Here are the figures that stand out:
 
@@ -31,7 +31,7 @@ Here are the figures that stand out:
 
 <b>Seven:</b> The number of years since a state-commissioned plan outlined action items to prepare for and respond to Pennsylvania’s growing dementia crisis
 
-<b>Eight:</b> The number of action items (<a href="https://www.spotlightpa.org/news/2021/09/pa-alzheimers-dementia-state-plan-scorecard/">out of nine chosen</a>) still unfinished or not yet started
+<b>Eight:</b> The number of action items (<a href="https://lesspage.com/news/2021/09/pa-alzheimers-dementia-state-plan-scorecard/">out of nine chosen</a>) still unfinished or not yet started
 
 ## Outnumbered
 
@@ -49,7 +49,7 @@ Here are the figures that stand out:
 
 <b>17,157:</b> The current capacity for full-time, dementia-specific services inside Pennsylvania’s state-licensed eldercare facilities
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Need gaps
 
@@ -75,4 +75,4 @@ Here are the figures that stand out:
 
 <b>$10 billion: </b>The value of unpaid care provided annually by Pennsylvanians to a loved one with Alzheimer’s disease or dementia, which advocates say demonstrates a far greater need for state-supported services
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

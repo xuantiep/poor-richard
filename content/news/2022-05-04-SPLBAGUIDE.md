@@ -19,7 +19,7 @@ title = "Pa. primary 2022: Everything you need to know about requesting, filling
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Registered Democrats and Republicans in Pennsylvania will vote on May 17 in primary elections to pick their candidates for governor, U.S. senator, and other key positions.
 
@@ -27,11 +27,11 @@ Already, nearly 800,000 people have requested to participate in this election by
 
 The mail voting process can be confusing and has been made even more so by an ongoing court case and efforts by many Republican lawmakers to prohibit its use.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-The fate of no-excuse mail voting is currently in the hands of the state Supreme Court. A lower appellate court <a href="https://www.spotlightpa.org/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">struck down the law</a> after a group of Republican lawmakers — many of whom voted for it — argued the way it was passed was unconstitutional.
+The fate of no-excuse mail voting is currently in the hands of the state Supreme Court. A lower appellate court <a href="https://lesspage.com/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">struck down the law</a> after a group of Republican lawmakers — many of whom voted for it — argued the way it was passed was unconstitutional.
 
-<b>The law remains in place, and voting by mail remains available to all</b>, while the state Supreme Court <a href="https://www.spotlightpa.org/news/2022/03/pennsylvania-mail-voting-supreme-court-hearing/">considers an appeal</a>.
+<b>The law remains in place, and voting by mail remains available to all</b>, while the state Supreme Court <a href="https://lesspage.com/news/2022/03/pennsylvania-mail-voting-supreme-court-hearing/">considers an appeal</a>.
 
 “Go ahead and request your mail-in ballot for the May primary election,” the Pennsylvania Department of State <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx">says on its website</a>.
 
@@ -45,7 +45,7 @@ You must provide proper identification to apply. Options include a Pennsylvania 
 
 You can apply for a one-time mail ballot or to be added to the annual request list, which means you’ll get an application each year.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
 
 ## How do I make sure my ballot is counted?
 
@@ -69,7 +69,7 @@ There are several methods for returning your ballot, but the most important thin
 
 - <b>Use a drop box: </b>Drop boxes are another secure method of returning a mail ballot (guidance from the U.S. Cybersecurity and Infrastructure Agency says they <a href="https://www.eac.gov/sites/default/files/electionofficials/vbm/Ballot_Drop_Box.pdf">should be securely bolted to the ground and monitored by security cameras</a>). Still, not all counties have them. The Department of State says voters should look on their county’s website <a href="https://www.vote.pa.gov/Resources/Pages/Contact-Your-Election-Officials.aspx">to find a list of locations</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 If you have a disability that prevents you from returning your own ballot, <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/Accessible-Voting.aspx">you may fill out a form to designate someone else to return it for you</a>. You must turn in the form with your mail ballot application, and the designee must have a copy on hand when they return your ballot.
 
@@ -79,4 +79,4 @@ Politicians have used <a href="https://www.mcall.com/news/pennsylvania/mc-nws-pa
 
 <a href="https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx">Read the Department of State’s rules for mail ballots</a> for more details.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -17,15 +17,15 @@ title = "Proposed redrawing of Pennsylvania’s congressional map draws mixed re
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — The long-awaited redistricting process in Pennsylvania kicked into high gear Wednesday as House Republicans released proposed new congressional districts, but immediate reaction to the initial map was decidedly mixed.
 
-The map was chosen from 19 citizen submissions and was drawn by former Lehigh County Republican Commissioner Amanda Holt. Holt became a <a href="https://www.spotlightpa.org/news/2021/05/pa-house-senate-political-maps-gerrymandered-math-tests-republican-majorities/">well-known redistricting activist a decade ago</a> and was a plaintiff in a successful case against previous state House and Senate maps.
+The map was chosen from 19 citizen submissions and was drawn by former Lehigh County Republican Commissioner Amanda Holt. Holt became a <a href="https://lesspage.com/news/2021/05/pa-house-senate-political-maps-gerrymandered-math-tests-republican-majorities/">well-known redistricting activist a decade ago</a> and was a plaintiff in a successful case against previous state House and Senate maps.
 
-Because of sluggish population growth, Pennsylvania’s <a href="https://www.spotlightpa.org/news/2021/04/pa-us-house-seat-congressional-census-announcement-redistricting/">next congressional map will have 17 districts</a>, as opposed to the 18 that are evenly represented by Democrats and Republicans.
+Because of sluggish population growth, Pennsylvania’s <a href="https://lesspage.com/news/2021/04/pa-us-house-seat-congressional-census-announcement-redistricting/">next congressional map will have 17 districts</a>, as opposed to the 18 that are evenly represented by Democrats and Republicans.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The new map emphasizes equal population among the districts above all else, which in turn makes them less compact. For example, the proposed District 6 encompasses portions of the state from West Chester to Lebanon County.
 
@@ -57,7 +57,7 @@ Rep. Scott Conklin, the ranking Democrat on the House State Government Committee
 
 “I had high hopes and I can’t express my disappointment that it wasn’t done in a bipartisan way,” Conklin added.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 The Senate, meanwhile, is expected to consider its own map.
 
@@ -75,4 +75,4 @@ See the map below or <a href="http://www.paredistricting.com/pcplan" target="_bl
 
 {{<picture src="external/59y431r338cchwb1bxytrvrm34.jpeg" description="The Pennsylvania House State Government Committee&#39;s preliminary congressional map, released Dec. 8." caption="The Pennsylvania House State Government Committee&#39;s preliminary congressional map, released Dec. 8." credit="Pennsylvania House State Government Committee">}} 
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

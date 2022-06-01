@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 After Pennsylvania’s biggest pension plan botched a crucial financial calculation, <a href="https://www.inquirer.com/business/psers-pension-fbi-pa-probe-subpoenas-20210516.html">the FBI launched an investigation</a>, the fund’s board began its own probe, and <a href="https://www.inquirer.com/business/psers-aft-psea-teachers-union-board-resign-wolf-20210525.html">100,000 public school employees</a> suddenly faced paying more into the retirement system.
 
@@ -38,7 +38,7 @@ Now The Inquirer and Spotlight PA have obtained new internal fund documents that
 
 The error was small. It falsely boosted the $64 billion PSERS fund’s performance by only about a third of a percentage point over a financial quarter. Even so, it was just enough to wrongly lift the fund’s financial returns over a key state-mandated hurdle used to gauge performance.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The documents reveal that a fund consultant, Aon, blamed the mistake on its clerical staff for inputting bad data. The material also shows that even though the fund hired a consultant, the ACA Compliance Group, to check the calculations, the consultant made only limited checks, and skipped over the month with the critical errors.
 
@@ -52,7 +52,7 @@ The board had declared triumphantly last year that its investment strategies had
 
 The board had little choice but to fix the number. A top tax lawyer warned the board that failure to do so would be “catastrophic” and force half a million current and retired school workers to pay future income taxes on pensions immediately.
 
-Soon after the board’s reversal, The Inquirer reported that the FBI was investigating the calculation, along with the<a href="https://www.inquirer.com/business/psers-fbi-pension-fund-probe-investigation-land-harrisburg-20210418.html"> fund’s spending on Harrisburg real estate</a>. In subpoenas, <a href="https://www.spotlightpa.org/news/2021/05/pa-fbi-pension-psers-investigation-subpoenas-properties-real-estate-harrisburg/">federal prosecutors have demanded</a> every scrap of work paper, from drafts to final versions, from the pension fund and from consultants Aon and ACA dealing with the mistaken number.
+Soon after the board’s reversal, The Inquirer reported that the FBI was investigating the calculation, along with the<a href="https://www.inquirer.com/business/psers-fbi-pension-fund-probe-investigation-land-harrisburg-20210418.html"> fund’s spending on Harrisburg real estate</a>. In subpoenas, <a href="https://lesspage.com/news/2021/05/pa-fbi-pension-psers-investigation-subpoenas-properties-real-estate-harrisburg/">federal prosecutors have demanded</a> every scrap of work paper, from drafts to final versions, from the pension fund and from consultants Aon and ACA dealing with the mistaken number.
 
 PSERS has been conducting its own in-house probe. Records show that some involved with the review wonder whether the first figure was no mistake at all, but a deliberate attempt to inflate the fund’s performance.
 
@@ -100,7 +100,7 @@ In an April 16 private memo to the board, ACA explained its method was a samplin
 
 As it happens, Torsella has long raised doubts about how the fund was measuring performance for the year 2015 — doing so months before the December vote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 Torsella <a href="https://www.inquirer.com/news/psers-grell-pension-teachers-recalculation-20210418.html" target="_blank">first asked about the 2015 figures</a> in a letter last August to Grell, noting skeptically that the fund staff was using unaudited figures and boosting performance for the year “five years after the fact.”
 
@@ -114,4 +114,4 @@ But according to experts who reviewed the documents, ACA in the end corrected PS
 
 Said Lavenberg: “Why you would ever use an estimate, if you had an audited number for that same period, makes no sense whatever.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

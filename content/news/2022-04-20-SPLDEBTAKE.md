@@ -19,7 +19,7 @@ title = "Pa. primary election 2022: 5 takeaways from Spotlight PA’s Republican
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Five of the nine Republican candidates running to be Pennsylvania’s next governor participated in a debate hosted by Spotlight PA and its founding members Tuesday, aiming to differentiate themselves in a crowded field and make an impression on a largely undecided electorate.
 
@@ -27,7 +27,7 @@ Senate President Pro Tempore Jake Corman (R., Centre), Montgomery County Commiss
 
 The other four candidates — including <a href="https://www.realclearpolitics.com/epolls/2022/governor/pa/pennsylvania-governor-republican-primary-7345.html" target="_blank">poll frontrunners</a> state Sen. Doug Mastriano (R., Franklin) and ex-U.S. Rep. Lou Barletta (R., Pa.) — did not participate. Three of them signed a letter demanding a partisan moderator.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 All nine will appear on the May 17 primary ballots, as will Pennsylvania Attorney General Josh Shapiro, who is the only Democrat running for his party’s nomination. Democratic Gov. Tom Wolf is prevented by statute from seeking another term.
 
@@ -35,13 +35,13 @@ Here are the key takeaways from the debate, which can be viewed <a href="http://
 
 <b>READ MORE:</b>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
+- <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">See how much money the GOP candidates for governor have raised</a>
+- <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">See how much money the GOP candidates for governor have raised</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
+- <a href="https://lesspage.com/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
+- <a href="https://lesspage.com/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
 
 ## Voting
 
@@ -51,7 +51,7 @@ They said it enabled fraudulent voting, a debunked claim. They also cast aspersi
 
 Corman, who voted for the bill in 2019, now says he would repeal it because Wolf and the courts interpreted it in ways with which he disagrees. Hart previously sidestepped the question, saying she would need to conduct more research before committing to a position, but confirmed during the debate that she would repeal the law.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
 
 ## Better roads and bridges, but different paths
 
@@ -79,7 +79,7 @@ Hart suggested funding schools with the sales tax rather than property taxes, bu
 
 Corman and Gale both contended that the problem with the education system is parents’ lack of choice rather than a funding gap. Gale argued that if parents were able to freely choose different schooling options, public school systems would be forced to “shape up and get it right” as they compete with alternative schooling.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## More drilling, natural gas production
 
@@ -101,4 +101,4 @@ Gerow said he would sign a <a href="https://www.legis.state.pa.us//cfdocs/Legis/
 
 <i>Correction: Due to an editing error, this story incorrectly stated why state Sen. Doug Mastriano did not participate in the debate. It also incorrectly stated how many school districts are involved in a funding lawsuit. </i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

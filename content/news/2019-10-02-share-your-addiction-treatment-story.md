@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-_**[Spotlight PA](https://www.spotlightpa.org/)**_ _is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://www.spotlightpa.org/newsletters/)._
+_**[Spotlight PA](https://lesspage.com/)**_ _is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://lesspage.com/newsletters/)._
 
 In the past two years, more than $150 million has poured into Pennsylvania to combat the opioid crisis, [nearly doubling the rate of per capita spending](https://bipartisanpolicy.org/wp-content/uploads/2019/03/Tracking-Federal-Funding-to-Combat-the-Opioid-Crisis.pdf). Most of that money has come from the federal government, which has given the Commonwealth [the second most of any state](http://web.archive.org/web/20210116161524if_/https://public3.pagefreezer.com/browse/HHS.gov/31-12-2020T08:51/https://www.hhs.gov/about/news/2019/09/04/state-opioid-response-grants-by-state.html), second to California. Other money has come [from philanthropic grants](https://whyy.org/articles/bloomberg-philanthropies-gives-pennsylvania-10-million-to-reduce-overdose-deaths/).
 
@@ -62,4 +62,4 @@ As the lead reporter on this effort, I assure you we take your privacy seriously
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZ7vdOzirrVUeyUaoxloLjxR7knDQhAsgFL6IME5lfDqtt6A/viewform?embedded=true" style="height: 963px; max-height: 75vh; width: 100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
-_[Spotlight PA](https://www.spotlightpa.org/) receives [funding from nonprofit institutions and readers like you](https://www.spotlightpa.org/support/) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://www.spotlightpa.org/donate/)._
+_[Spotlight PA](https://lesspage.com/) receives [funding from nonprofit institutions and readers like you](https://lesspage.com/support/) who are committed to investigative journalism that gets results. Become a Founding Donor today at [spotlightpa.org](https://lesspage.com/donate/)._

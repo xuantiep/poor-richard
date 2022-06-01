@@ -17,7 +17,7 @@ title = "Philadelphia set to run out of rental relief money in two weeks as it w
 topics = ["Eviction"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 With thousands of people still waiting for help, Philadelphia’s emergency rental assistance program could run out of money in as little as two weeks, as the city waits to receive more funding from the U.S. Treasury.
 
@@ -25,13 +25,13 @@ Another $35 million in federal relief is on the way, though exactly when it will
 
 He estimated the city would need another $276 million just to cover the pipeline of existing applications — not counting the roughly 1,500 new ones that are arriving each week. The city had received about 61,600 applications as of last Friday.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Congress has approved more than $46 billion in rent relief to stave off an eviction crisis, but many state and local governments have been slow to pay out the money to landlords and tenants, with applicants stymied by glitchy online forms, a lack of staff, and unnecessary paperwork requirements.
 
 Nationwide, just 30% of the first round of federal rental aid had been spent by the end of August.
 
-<a href="https://www.spotlightpa.org/news/2021/07/eviction-ban-expires-pa-rental-assistance-delayed/">Some of Pennsylvania’s 67 counties</a>, which are each running their own assistance programs, have similarly struggled to work through a mountain of applications and get funding out the door.
+<a href="https://lesspage.com/news/2021/07/eviction-ban-expires-pa-rental-assistance-delayed/">Some of Pennsylvania’s 67 counties</a>, which are each running their own assistance programs, have similarly struggled to work through a mountain of applications and get funding out the door.
 
 Philadelphia, meanwhile, has been hailed as a national model, both for the speed with which it has sent the money out and the way the assistance program is integrated with the municipal court system.
 
@@ -57,7 +57,7 @@ The Pennsylvania Department of Human Services will run its own reallocation proc
 
 With the timing and amount of additional funding still up in the air, Philadelphia may have to press pause on payments completely until more money arrives.
 
-A city spokesperson said Philadelphia does not have any additional federal stimulus funds that could be redirected for rental assistance. The state is sitting on <a href="https://www.spotlightpa.org/news/2021/06/pa-40-billion-budget-2021-poorest-school-districts-federal-relief-money/">billions in unspent stimulus funding</a>, but Republican lawmakers have insisted it should be saved to use in future budgets.
+A city spokesperson said Philadelphia does not have any additional federal stimulus funds that could be redirected for rental assistance. The state is sitting on <a href="https://lesspage.com/news/2021/06/pa-40-billion-budget-2021-poorest-school-districts-federal-relief-money/">billions in unspent stimulus funding</a>, but Republican lawmakers have insisted it should be saved to use in future budgets.
 
 “It’s an awful prospect, especially when we know the money is available in the state,” said state Sen. Nikil Saval (D., Philadelphia). “It should not happen.”
 
@@ -69,7 +69,7 @@ For instance, only 14% of households in rural Forest County are renters, compare
 
 The counties that received less assistance per rental household also tend to have a greater share of Black residents, Stier said. “It’s unfair and it’s racist in outcome, if not in intent.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 Greg Wertman, president of Philadelphia’s largest landlord association, commended the city for the strength of its program but has watched in frustration as funds dwindle. Tenants and landlords who did everything they were supposed to do see their peers receive funds while they wait for help they’re not sure will come, he said.
 
@@ -79,4 +79,4 @@ The association represents many of the city’s small landlords, who own a few u
 
 “After 18 months of this, it’s just like they’re numb at this point,” Wertman said. “They’re just numb because of everything they’ve gone through. ... You gotta feel both for the landlords and the tenants going through this.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

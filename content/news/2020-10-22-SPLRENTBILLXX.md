@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A last-ditch attempt to fix Pennsylvania’s ailing COVID-19 rent relief program hit a wall Wednesday after Senate Republican leadership did not advance legislation, making it likely many landlords and families on the financial brink will not get the aid they desperately need.
 
@@ -40,7 +40,7 @@ The failure came as a surprise even to House Republicans, who joined with Democr
 
 As a result of the Senate’s inaction, the relief program will probably expire Nov. 4 having distributed just a fraction of the money allotted to it. Jennifer Kocher, a spokesperson for Senate Republicans, said changes made to the program earlier this month by Gov. Tom Wolf “negated the need” for the legislation.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Lawmakers in both parties, as well as tenant and landlord groups, disagreed.
 
@@ -52,7 +52,7 @@ Even if the legislation had passed this week, the changes would have had only a 
 
 At the end of September, less than $10 million of the $150 million allocated to the program under the federal CARES Act had been paid out, signaling that the program may end with money leftover, despite widespread need. Several counties — including Allegheny, Lancaster, and Philadelphia — have increased the amount of assistance tenants can receive by bolstering the money from the state with their shares of CARES funding.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20coverage."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20coverage."></div>
 
 Thousands of families across the state are at risk of losing their homes amidst the economic crisis caused by the coronavirus pandemic. A federal order protects some tenants from eviction until the end of the year, but advocates warn of a surge in eviction filings come January.
 
@@ -60,6 +60,6 @@ While moratoriums delay eviction filings, relief programs directly provide aid t
 
 “If there is a lot of money that hasn’t been spent, it doesn’t reflect a lack of need,” said Phyllis Chamberlain, executive director of the Housing Alliance of Pennsylvania. “It really reflects a program that had too many requirements.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Are%20you%20%3Cb%3Efacing%20eviction%20as%20a%20result%20of%20the%20coronavirus%20pandemic%3C%2Fb%3E%3F%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Are%20you%20%3Cb%3Efacing%20eviction%20as%20a%20result%20of%20the%20coronavirus%20pandemic%3C%2Fb%3E%3F%20We%20want%20to%20hear%20from%20you."></div>

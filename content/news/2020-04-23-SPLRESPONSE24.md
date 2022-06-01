@@ -27,7 +27,7 @@ subtitle = ""
 aliases = []
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — More than a month after the process was first announced, there is still no timeline for when Gov. Tom Wolf’s administration will release the list of Pennsylvania businesses that received coveted waivers and were allowed to reopen during the ongoing coronavirus shutdown. 
 
@@ -41,7 +41,7 @@ Those decisions were handled by employees of the state Department of Community a
 
 Under the governor’s emergency order, state agencies have largely stopped processing public records requests.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/cta/?url=https%3A%2F%2Finquirer.zoom.us%2Fwebinar%2Fregister%2F4915877447830%2FWN_eDhAGSRhQJSwzQBA_L6jsQ&eyebrow=UPCOMING%20EVENT&body=Join%20us%20Wednesday%2C%20April%2029%20for%20a%20FREE%20virtual%20Q%26A%20for%20Pennsylvania%20small%20business%20owners%20on%20how%20to%20navigate%20the%20coronavirus%20shutdown.%20Get%20your%20questions%20answered%20by%20our%20expert%20panel%2C%20hosted%20by%20Spotlight%20PA.&cta=RSVP%20NOW"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/cta/?url=https%3A%2F%2Finquirer.zoom.us%2Fwebinar%2Fregister%2F4915877447830%2FWN_eDhAGSRhQJSwzQBA_L6jsQ&eyebrow=UPCOMING%20EVENT&body=Join%20us%20Wednesday%2C%20April%2029%20for%20a%20FREE%20virtual%20Q%26A%20for%20Pennsylvania%20small%20business%20owners%20on%20how%20to%20navigate%20the%20coronavirus%20shutdown.%20Get%20your%20questions%20answered%20by%20our%20expert%20panel%2C%20hosted%20by%20Spotlight%20PA.&cta=RSVP%20NOW"></div>
 
 The stakes of the waiver process cannot be overstated, as the state’s decisions affect the livelihoods and potential safety of business owners, employees, and their families, and could mean the difference between solvency and bankruptcy.
 
@@ -55,7 +55,7 @@ State officials have on several occasions reviewed and revoked waivers after bei
 
 Sen. Doug Mastriano (R., Adams) pressed Davin to release the list, saying the process seemed “random.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 “It puts a lot of power in your hands, as well as the governor’s, picking who can stay open and who can’t,” Mastriano said. “Despite the best intentions here, I think it’s a dangerous thing, having so much power in one place.”
@@ -72,6 +72,6 @@ Randy Padfield, director of the Pennsylvania Emergency Management Agency, said t
 
 “The challenges are the machines are really designed for point-of-care testing,” Padfield said. “Unfortunately the supplies and the technology is just not there yet.”
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

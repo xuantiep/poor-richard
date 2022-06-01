@@ -22,7 +22,7 @@ topics = ["Redistricting", "Español"]
 
 <i>Traducción por </i><a href="https://www.qhubonews.com/"><i>Q’Hubo News</i></a><i>, una empresa de periódicos y multimedia en crecimiento en el centro de Pensilvania. Translation by Q’Hubo News, a growing Hispanic newspaper and multimedia company in central Pennsylvania.</i>
 
-<i>A version of this story in English is available </i><a href="https://www.spotlightpa.org/news/2021/11/pa-redistricting-latino-representation-political-power/"><i>here</i></a><i>.</i>
+<i>A version of this story in English is available </i><a href="https://lesspage.com/news/2021/11/pa-redistricting-latino-representation-political-power/"><i>here</i></a><i>.</i>
 
 LEHIGH VALLEY — Durante los últimos cinco años, Víctor Martínez ha notado que más y más negocios dirigidos por hispanos surgen en la ruta que conduce al trabajo.
 
@@ -30,7 +30,7 @@ Martínez es dueño de La Mega, una estación de radio en español ubicada en la
 
 El auge empresarial refleja el rápido crecimiento de la población latina de Pensilvania, que superó el millón de personas según el último censo, un aumento del 43% con respecto a hace una década. El problema, dijo Martínez, es que el crecimiento de la población aún no se ha traducido en un aumento del poder y la influencia en todos los niveles de gobierno, en particular en la legislatura estatal.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/?cta=Suscr%C3%ADbete%20al%20bolet%C3%ADn%20de%20Spotlight%20PA%20para%20recibir%20noticias%20y%20periodismo%20de%20investigaci%C3%B3n%20sobre%20Pensilvania.&eyebrow=BOLETINES&button=SUSCR%C3%8DBETE"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/?cta=Suscr%C3%ADbete%20al%20bolet%C3%ADn%20de%20Spotlight%20PA%20para%20recibir%20noticias%20y%20periodismo%20de%20investigaci%C3%B3n%20sobre%20Pensilvania.&eyebrow=BOLETINES&button=SUSCR%C3%8DBETE"></div>
 
 “Tan pronto como salió el censo, los líderes de la comunidad hispana, en Allentown y Reading, comenzaron a llamarse y hablar sobre [cómo] debemos asegurarnos de involucrarnos en todas las conversaciones del distrito”, dijo Martínez. “Ahora lo tenemos en papel. Ahora podemos ir y expresar a los gobiernos que nuestra comunidad necesita y merece tener representación”.
 
@@ -108,7 +108,7 @@ Por esos obstáculos, Vargas De-León tiene dudas de que se intensifique una mas
 
 “Históricamente, la redistribución de distritos es una de las formas en que hemos afectado el poder de voto de las comunidades marginadas”, dijo Vargas De-León. “Es una de las tácticas silenciosas, diría yo, porque no es obvio cuando se hace. Pero es parte de la caja de herramientas mantener a estas comunidades privadas de sus derechos “.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20hace%20periodismo%20de%20investigaci%C3%B3n%20gracias%20a%20lectores%20como%20t%C3%BA.%20Ay%C3%BAdanos%20a%20seguir%20con%20este%20trabajo.&cta_text=%C3%9ANETE&eyebrow_text=%C3%9ANETE"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20hace%20periodismo%20de%20investigaci%C3%B3n%20gracias%20a%20lectores%20como%20t%C3%BA.%20Ay%C3%BAdanos%20a%20seguir%20con%20este%20trabajo.&cta_text=%C3%9ANETE&eyebrow_text=%C3%9ANETE"></div>
 
 En el condado de Lehigh, los defensores de los residentes latinos dicen que la falta de compromiso con el proceso político obstaculiza la representación. Diana Robinson de Make the Road Pennsylvania, una organización dedicada a organizar a los votantes latinos de la clase trabajadora, dijo que el sistema trabaja en su contra.
 

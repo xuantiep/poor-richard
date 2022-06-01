@@ -30,15 +30,15 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-A long-delayed upgrade of Pennsylvania’s computer system for unemployment benefits made a glitch-filled debut Tuesday, frustrating some jobless workers and confirming the concerns of critics who feared the new system would <a href="https://www.spotlightpa.org/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/" target="_blank">buckle under the heavy, pandemic-fueled demand</a>.
+A long-delayed upgrade of Pennsylvania’s computer system for unemployment benefits made a glitch-filled debut Tuesday, frustrating some jobless workers and confirming the concerns of critics who feared the new system would <a href="https://lesspage.com/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/" target="_blank">buckle under the heavy, pandemic-fueled demand</a>.
 
 Within the first 12 hours of the launch, more than 62,000 Pennsylvanians had filed claims and the Department of Labor &amp; Industry deemed the new system a success.
 
 At the same time, jobless advocates and scores of unemployed Pennsylvanians expressed an outpouring of frustration as a new wave of problems blocked numerous people from filing for benefits they had already been approved for.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=%3Cb%3EAre%20you%20facing%20difficulties%20using%20the%20new%20unemployment%20system%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=%3Cb%3EAre%20you%20facing%20difficulties%20using%20the%20new%20unemployment%20system%3F%3C%2Fb%3E%20We%20want%20to%20hear%20from%20you."></div>
 
 Some people who were receiving benefits through the old system last week were told they were ineligible. Others were refused benefits because they were incorrectly identified as incarcerated. Still others had payments stopped because of overpayments that had long ago been resolved. Some notices of eligibility were bafflingly dated in the future. And a new password requirement, a problem advocates had foreseen weeks ago and raised with state officials, blocked many people from entering the system at all.
 
@@ -52,11 +52,11 @@ The state’s modernization efforts, however, have been marked by failure, delay
 
 While the state says it did extensive internal testing, only five members of the public, five legislative staffers, and five members of the employer community had tested the new software as of mid-May.
 
-Advocates had asked the state to delay the launch until fewer people impacted by the pandemic were relying on it. Technology experts said the hardware’s durability had been mischaracterized by the state, and the nature of the overhaul — a “flip the switch” approach — <a href="https://www.spotlightpa.org/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/">was poised for failure</a>.
+Advocates had asked the state to delay the launch until fewer people impacted by the pandemic were relying on it. Technology experts said the hardware’s durability had been mischaracterized by the state, and the nature of the overhaul — a “flip the switch” approach — <a href="https://lesspage.com/news/2021/05/pa-unemployment-claims-overhaul-ibm-gsi-benefits-labor-industry/">was poised for failure</a>.
 
 April<a href="https://www.dol.gov/ui/data.pdf"> jobless numbers show</a> as many as one million Pennsylvanians may still be relying on federal and state benefits. The new computer system, which only processes state unemployment benefits, was stood up by the same contractor, Geographic Solutions Inc., or GSI, that manages the technology for paying out federal pandemic benefits. Its technology has a poor track record in Pennsylvania and in other states.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 GSI did not respond to questions Tuesday, but a spokesperson, Michelle Griffith, previously praised the company’s work in other states and readiness to launch the new system in Pennsylvania.
 
@@ -84,7 +84,7 @@ A small percentage of users also had problems logging in or changing their payme
 
 “Whoever is in charge of this circus should be fired and have to sign up for unemployment,” one person wrote on Facebook. “This s--- could not be anymore confusing.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 Nadia Warrick, a former facilities director from Feasterville, said she couldn’t log into the new system Tuesday to file for this week’s benefits. Her computer screen went blank when she tried to confirm she wasn’t a robot. When she tried again later, she was told the new username and password she had just created were incorrect.
 
@@ -98,4 +98,4 @@ Still, technology experts warn that even indications of a smooth launch may obsc
 
 “If I can find someone who can bet against me I will,” he said. “But I never do.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

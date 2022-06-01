@@ -17,15 +17,15 @@ title = "Congressional map picked by Pennsylvania Supreme Court unlikely to dram
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — The Pennsylvania Supreme Court has selected a new congressional map that closely resembles the current one, a ruling unlikely to dramatically change the partisan makeup of the state’s delegation.
 
 In a 4-3 decision Wednesday, the high court picked a proposal submitted by a group of Pennsylvania voters that fulfills four traditional redistricting criteria and has a slight Republican bias.
 
-The state Supreme Court agreed to assume control of the highly consequential process in early February, just weeks after Gov. Tom Wolf <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a map sent to him by Republicans</a>.
+The state Supreme Court agreed to assume control of the highly consequential process in early February, just weeks after Gov. Tom Wolf <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-veto/">vetoed a map sent to him by Republicans</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The <a href="https://www.pacourts.us/Storage/media/pdfs/20220223/162516-7mm2022-orderadopting2022congressionalplan(withmap).pdf">five-page order</a> does not explain the Democrat-controlled court’s reasoning. It notes that Justice Debra Todd, a Democrat, and the court’s two Republicans — Justices Sallie Updyke Mundy and Kevin Brobson — dissented to the selection of the Carter plan.
 
@@ -39,11 +39,11 @@ The Pennsylvania Supreme Court threw out the map several years later for that re
 
 Because of sluggish population growth between 2010 and 2020, the state lost one of its 18 seats, raising the stakes in what is already an intensely political process.
 
-The Republican-controlled legislature in January sent Wolf a map that <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-final-passage-tom-wolf/">nonpartisan analysis showed had a strong GOP bias</a>. Wolf vetoed the map for its partisan lean, calling it “highly skewed.”
+The Republican-controlled legislature in January sent Wolf a map that <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-final-passage-tom-wolf/">nonpartisan analysis showed had a strong GOP bias</a>. Wolf vetoed the map for its partisan lean, calling it “highly skewed.”
 
 In a statement responding to the ruling, House GOP leaders said their map was the only one that “followed all constitutional guidelines [and] went through a deliberative legislative process.” They also noted that the map “was endorsed by a judicial body,” referencing a report by Commonwealth Court Judge Patricia McCullough, a Republican.
 
-At the state Supreme Court’s request, McCullough <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-congressional-map-recommendation/">put together a document that recommended the legislative Republicans’ map</a> on the basis that it was “functionally tantamount to the voice and will of the People.”
+At the state Supreme Court’s request, McCullough <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-congressional-map-recommendation/">put together a document that recommended the legislative Republicans’ map</a> on the basis that it was “functionally tantamount to the voice and will of the People.”
 
 “Sadly, candidates and voters must now submit to a unilateral court that sees itself above every person in our commonwealth,” House Speaker Bryan Cutler (R., Lancaster) and Majority Leader Kerry Benninghoff (R., Centre) wrote in the statement.
 
@@ -67,7 +67,7 @@ PlanScore, a nonpartisan analysis tool, <a href="https://planscore.campaignlegal
 
 Partisan fairness can be measured using several mathematical tools and metrics that are increasingly being embraced by the courts. One of those metrics is called the efficiency gap, which indicates the number of “wasted votes” in each election or the number of votes that don’t contribute to a candidate’s victory.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The difference in efficiency between the two parties should be as small as possible to represent an unbiased map.
 
@@ -77,4 +77,4 @@ In his report, Rodden said changes to the map largely reflect population shifts 
 
 Because of those trends, U.S. Rep. Fred Keller’s 12th District was eliminated and he was drawn into the 15th District with another Republican, incumbent U.S. Rep. Glenn Thompson.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

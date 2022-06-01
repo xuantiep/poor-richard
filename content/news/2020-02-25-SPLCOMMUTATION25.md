@@ -14,7 +14,7 @@ kicker = "Capitol Notebook"
 linktitle = ""
 suppress-featured = true
 +++
-<i><b>Capitol Notebook by </b></i><a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> provides updates on important news and notes from the halls of power in Harrisburg. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our weekly newsletter.</i></a>
+<i><b>Capitol Notebook by </b></i><a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> provides updates on important news and notes from the halls of power in Harrisburg. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our weekly newsletter.</i></a>
 
 HARRISBURG — More than a hundred people rallied in Philadelphia and Pittsburgh on Tuesday, a protest organizer says, calling on Attorney General Josh Shapiro to “show mercy” by supporting more commutations.
 
@@ -55,7 +55,7 @@ Shapiro said in January he <a href="https://twitter.com/PAAttorneyGen/status/122
 
 Since Wolf took office in 2015, no recommendations have been denied by a 4-to-1 majority. There were eight cases, however, denied by a 3-to-2 vote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Mark Singel, who voted to recommend commutation for McFadden as lieutenant governor in 1994, said the case has had a chilling effect.
 
@@ -81,4 +81,4 @@ The decisions made by the Board of Pardons can have political consequences for e
 
 “It’s dangerous and it always has been,” Singel said. “But that’s what leadership is about. When you assume the duties of being on the Board of Pardons, you take an oath. You’re supposed to dispense your duties according to the oath of office and the Constitution. If you resign to playing safe and voting no, in my opinion, you’re violating your oath of office.”
 
-<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

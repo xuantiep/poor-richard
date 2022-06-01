@@ -20,7 +20,7 @@ title = "The public could gain easy access to info about how Pa. lawmakers spend
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A long-awaited transparency bill that would make legislative expenses accessible online for easy public viewing unanimously cleared a key state House of Representatives panel Tuesday.
 
@@ -28,7 +28,7 @@ HARRISBURG — A long-awaited transparency bill that would make legislative expe
 
 The <a href="https://www.legis.state.pa.us/cfdocs/billinfo/BillInfo.cfm?syear=2021&sind=0&body=H&type=B&bn=2449" target="_blank">bill</a>, introduced by state Rep. Keith Gillespie (R., York), would require legislators and staff in both the state House and Senate to post their expenses online on a quarterly basis, including reimbursements for meals, travel, office furniture, and overnight stays in Harrisburg.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 That expense information, according to the bill, would be searchable and would have to include the reason the expense was incurred, who incurred it, and which legislative account was used to provide the reimbursement.
 
@@ -38,18 +38,18 @@ The full state House could vote on the proposal as early as next month. If appro
 
 As it stands now, the public can request information on legislative expenses through the state’s public records law, but getting those documents can take weeks and sometimes longer if there is a dispute over access.
 
-The legislative push to post expenses online came after an <a href="https://www.spotlightpa.org/series/the-hidden-tab/" target="_blank">investigative series</a> last year by The Caucus and Spotlight PA documented how the Pennsylvania General Assembly — one of the largest and most expensive full-time legislatures in the country — spent hundreds of millions in taxpayer dollars with little or no transparency.
+The legislative push to post expenses online came after an <a href="https://lesspage.com/series/the-hidden-tab/" target="_blank">investigative series</a> last year by The Caucus and Spotlight PA documented how the Pennsylvania General Assembly — one of the largest and most expensive full-time legislatures in the country — spent hundreds of millions in taxpayer dollars with little or no transparency.
 
 The investigation revealed that the legislature spent $203 million from 2017 through 2020 just to feed, house, transport, and provide rental offices and other perks for lawmakers and their staff. One in every 10 of those dollars went into lawmakers’ pockets in the form of reimbursements for meals, mileage subsidies, per diems, and other expenses.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
-In September 2021, the state Senate began <a href="https://www.spotlightpa.org/news/2021/09/pa-senate-spending-records-online-historic/" target="_blank">posting its expenses online</a> on a monthly basis. State House leaders at the time said they were looking into how to best do the same but <a href="https://lancasteronline.com/news/politics/pennsylvania-house-of-representatives-lags-on-expenses-transparency/article_275ef318-a6f7-11ec-a8a2-b38112683fb5.html" target="_blank">have yet to follow through</a>.
+In September 2021, the state Senate began <a href="https://lesspage.com/news/2021/09/pa-senate-spending-records-online-historic/" target="_blank">posting its expenses online</a> on a monthly basis. State House leaders at the time said they were looking into how to best do the same but <a href="https://lancasteronline.com/news/politics/pennsylvania-house-of-representatives-lags-on-expenses-transparency/article_275ef318-a6f7-11ec-a8a2-b38112683fb5.html" target="_blank">have yet to follow through</a>.
 
 While Gillespie’s bill would make it far easier to access the information, it is not a panacea.
 
 Both chambers, the news organizations found, often redact key information about the expenses, most notably, the more detailed explanation of the expenses. And even unredacted records often don’t tell the full story, as lawmakers and staff sometimes use vague descriptions to explain their purchases.
 
-Gillespie’s bill is among several good-government changes being considered in the legislature. There are separate bills proposing <a href="https://www.spotlightpa.org/news/2021/11/pa-gift-ban-lobbyist-influence-jake-corman/" target="_blank">a gift ban</a> on public officials, as well as a package of bills that would rein in the influence of lobbyists.
+Gillespie’s bill is among several good-government changes being considered in the legislature. There are separate bills proposing <a href="https://lesspage.com/news/2021/11/pa-gift-ban-lobbyist-influence-jake-corman/" target="_blank">a gift ban</a> on public officials, as well as a package of bills that would rein in the influence of lobbyists.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

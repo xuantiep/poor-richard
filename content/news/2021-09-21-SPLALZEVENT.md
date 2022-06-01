@@ -19,11 +19,11 @@ title = "WATCH: A free panel on Alzheimer’s disease preparedness in Pennsylvan
 topics = ["Health", "Events"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 There are 280,000 people in Pennsylvania over the age of 64 living with Alzheimer’s disease, the most common cause of dementia, and that number is expected to swell to 320,000 over the next four years.
 
-Yet, few state-licensed eldercare facilities have dementia-specific accommodations, nursing homes are short-staffed, care costs are exceedingly high, and support is often incredibly thin, a <a href="https://www.spotlightpa.org/news/2021/09/pa-alzheimers-dementia-crisis-unprepared/">recent Spotlight PA/ PublicSource investigation revealed.</a>
+Yet, few state-licensed eldercare facilities have dementia-specific accommodations, nursing homes are short-staffed, care costs are exceedingly high, and support is often incredibly thin, a <a href="https://lesspage.com/news/2021/09/pa-alzheimers-dementia-crisis-unprepared/">recent Spotlight PA/ PublicSource investigation revealed.</a>
 
 The result, advocates warn, is a perfect storm of limited resources against soaring needs, with many giving Pennsylvania a failing grade on its efforts to prepare.
 
@@ -95,4 +95,4 @@ Spotlight PA has also compiled a list of resources for people caring for others 
 
 - <a href="https://theconsumervoice.org/">The Consumer Voice</a>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

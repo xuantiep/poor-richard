@@ -13,11 +13,11 @@ blurb = "Unlike in New Jersey and New York, Pennsylvania lobbyists and lobbying 
 kicker = "Transparency"
 suppress-featured = false
 +++
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/The Patriot-News. </i><a href="https://www.spotlightpa.org/" target=_blank><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/The Patriot-News. </i><a href="https://lesspage.com/" target=_blank><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 If you're an advocate for government transparency, it would be difficult to not feel disappointed that one of the biggest supporters of Pennsylvania's lobbying disclosure law was fined $19,900 for breaking it.\
 \
-As I reported last week, Common Cause Pennsylvania was fined for filing a quarterly lobbying expense report [112 days past the deadline](https://www.spotlightpa.org/news/2020/02/pennsylvania-lobbying-law-ethics-commission-fine-common-cause/). The group, I learned, was also late in filing four other reports since 2018 for reasons its director couldn’t explain. Common Cause’s national office ultimately issued [a public apology](https://www.spotlightpa.org/pennsylvania-lobbying-law-common-cause-apologizes-fine/) and vowed it would ensure all reports are filed on time.\
+As I reported last week, Common Cause Pennsylvania was fined for filing a quarterly lobbying expense report [112 days past the deadline](https://lesspage.com/news/2020/02/pennsylvania-lobbying-law-ethics-commission-fine-common-cause/). The group, I learned, was also late in filing four other reports since 2018 for reasons its director couldn’t explain. Common Cause’s national office ultimately issued [a public apology](https://lesspage.com/pennsylvania-lobbying-law-common-cause-apologizes-fine/) and vowed it would ensure all reports are filed on time.\
 \
 In some ways, Common Cause’s fine is a reminder of the strides Pennsylvania has taken to improve lobbying transparency and penalize those who breach the law.\
 \
@@ -35,4 +35,4 @@ Pennsylvania’s lobbying disclosure [website](https://www.palobbyingservices.pa
 \
 Without better information and better access, the public is left in the dark about how some of the most powerful groups in Pennsylvania and outside of it are trying to shape state policy.
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> receives </i><a href="https://www.spotlightpa.org/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://www.spotlightpa.org/"><i>spotlightpa.org</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> receives </i><a href="https://lesspage.com/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://lesspage.com/"><i>spotlightpa.org</i></a><i>.</i>

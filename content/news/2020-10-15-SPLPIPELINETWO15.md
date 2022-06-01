@@ -29,7 +29,7 @@ language-code = ""
 layout = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/the Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/the Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 Just after 7:30 in the morning, a great rumbling sound reverberated through the rural hamlet of North Blenheim, N.Y. The ground shook. Then, what appeared to be a dense, white fog billowed into the air and descended on the small village below.
 
@@ -43,7 +43,7 @@ While severe accidents involving natural gas liquids pipelines are rare, they ca
 
 That’s why many emergency managers and public safety experts contend natural gas liquids systems require specialized emergency planning, with blueprints for how all people can get to safety. But a Spotlight PA investigation found Pennsylvania falls well short of the mark.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 As many as 345,000 people potentially live within harm’s way of Sunoco’s Mariner East pipelines, a more than $5.1 billion project to ferry natural gas liquids across the southern half of Pennsylvania from west to east. But a patchwork system of preparedness across all levels of government has left many unsure of what to do and in immediate danger should an accident occur. Plans largely fail to account for people with disabilities, the elderly, the ill, and children.
 
@@ -57,9 +57,9 @@ Sunoco advises the public to self-evacuate on foot, which does not account for v
 
 Experts said failing to meaningfully consider vulnerable people is a violation of disability rights laws, and could leave governments or school districts liable.
 
-<i><b>» READ PART 1:</b></i><i> </i><a href="https://www.spotlightpa.org/news/2020/10/pa-mariner-east-pipeline-accident-emergency-plans-investigation/"><i>Along Mariner East pipelines, secrecy and a patchwork of emergency plans leave many at risk and in the dark</i></a>
+<i><b>» READ PART 1:</b></i><i> </i><a href="https://lesspage.com/news/2020/10/pa-mariner-east-pipeline-accident-emergency-plans-investigation/"><i>Along Mariner East pipelines, secrecy and a patchwork of emergency plans leave many at risk and in the dark</i></a>
 
-<i><b>» EXPLORE:</b></i><i> </i><a href="https://www.spotlightpa.org/news/2020/10/mariner-east-pipeline-interactive-map-explore/" target=_blank><i>An interactive explainer of the Mariner East pipeline system and its history of problems</i></a>
+<i><b>» EXPLORE:</b></i><i> </i><a href="https://lesspage.com/news/2020/10/mariner-east-pipeline-interactive-map-explore/" target=_blank><i>An interactive explainer of the Mariner East pipeline system and its history of problems</i></a>
 
 “That is why we pay taxes,” said Sharona Hoffman, a professor at Case Western Reserve University’s School of Law in Ohio, who has written extensively about the regulatory and legal frameworks of emergency planning and vulnerable populations. “It is up to the governments, the experts, people who have legal authority to respond to these situations.”
 
@@ -73,7 +73,7 @@ Similarly, state officials said focused planning for people with disabilities is
 
 Ultimately, Spotlight PA’s investigation found, much of Pennsylvania’s plan for preparedness is one of passing the buck.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Donate%20now%20and%20support%20Spotlight%20PA's%20original%2C%20exclusive%20investigations%20like%20this%20report%20on%20Mariner%20East."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Donate%20now%20and%20support%20Spotlight%20PA's%20original%2C%20exclusive%20investigations%20like%20this%20report%20on%20Mariner%20East."></div>
 
 ## All-hazards plans
 
@@ -257,4 +257,4 @@ As her sister’s guardian, Marshall has a legal obligation to plan for emergenc
 
 “It was Sophie’s Choice: either my husband or my sister,” she said. “And I am legally obligated.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

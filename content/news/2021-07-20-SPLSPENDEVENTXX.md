@@ -19,11 +19,11 @@ title = "WATCH: A live reader Q&A on how lawmakers spend millions of taxpayer do
 topics = ["The Capitol", "Events"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Between 2017 and 2020, the Pennsylvania legislature spent $203 million in taxpayer money on food, lodging, and other perks for lawmakers and their staff.
 
-Finding out exactly what that money was spent on is difficult as the public faces an array of barriers and even pushback from the lawyers hired by the General Assembly. Spotlight PA and The Caucus spent over a year investigating <a href="https://www.spotlightpa.org/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/">how the legislature spends taxpayer dollars then obscures those expenses from the public. </a>
+Finding out exactly what that money was spent on is difficult as the public faces an array of barriers and even pushback from the lawyers hired by the General Assembly. Spotlight PA and The Caucus spent over a year investigating <a href="https://lesspage.com/news/2021/05/pa-legislature-expense-accounts-hidden-legislative-privilege/">how the legislature spends taxpayer dollars then obscures those expenses from the public. </a>
 
 On Wednesday, July 28 at 5 p.m., Spotlight PA’s Angela Couloumbis; Sam Janesch, Brad Bumsted, and Mike Wereschagin of The Caucus; and Khalif Ali, executive director of Common Cause Pennsylvania, <a href="https://www.youtube.com/watch?v=o0FSR_NvGqo">participated in a free Q&amp;A on state lawmaker expenses</a>.
 
@@ -33,4 +33,4 @@ A full recording of the event is available below.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/o0FSR_NvGqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<i>Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i>Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

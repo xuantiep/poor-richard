@@ -11,7 +11,7 @@ blurb = "In the most recent fiscal year, the state gave away more than $500 mill
 kicker = "Business"
 suppress-featured = true
 +++
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — A state tax credit to encourage Pennsylvanians to donate their bone marrow hasn’t been used once in the more than five years since it was signed into law.
 
@@ -27,7 +27,7 @@ Proponents say tax credit programs are needed to spur investment or tackle probl
 
 “Tax credits are often pitched as incentives to stimulate growth … through investments from businesses, but there hasn't always been a follow-up,” Hughes said.
 
-<i><b>» ACT NOW to support accountability journalism that keeps track of your tax dollars in Harrisburg. </b></i><a href="https://www.spotlightpa.org/donate"><i><b>Donate to Spotlight PA and help power more stories like this one</b></i></a><i><b>.</b></i>
+<i><b>» ACT NOW to support accountability journalism that keeps track of your tax dollars in Harrisburg. </b></i><a href="https://lesspage.com/donate"><i><b>Donate to Spotlight PA and help power more stories like this one</b></i></a><i><b>.</b></i>
 
 Take the broadband tax credit, which was created in 2013 after being tucked into a wide-ranging budget bill. It’s unclear who added it or exactly why, but the Independent Fiscal Office, which recently reviewed a number of tax credit programs, concluded it was meant to expand mobile internet access in rural areas.
 
@@ -45,7 +45,7 @@ The credit only applies to mobile broadband equipment, limiting the pool of elig
 
 A Comcast spokesperson declined to comment. State law prohibits the Department of Revenue from naming the two other companies that have claimed the credit, or saying how much they received, an agency spokesperson said.
 
-<i><b>» SAVE TIME and sign up for </b></i><a href="https://www.spotlightpa.org/"><i><b>Spotlight PA’s free weekly newsletter</b></i></a><i><b> to receive the most important news from the Capitol and a roundup of can’t-miss stories from across Pa.</b></i>
+<i><b>» SAVE TIME and sign up for </b></i><a href="https://lesspage.com/"><i><b>Spotlight PA’s free weekly newsletter</b></i></a><i><b> to receive the most important news from the Capitol and a roundup of can’t-miss stories from across Pa.</b></i>
 
 The fiscal office recommended converting the broadband tax credit to a competitive grant program targeting underserved areas. Two Republican lawmakers have already said they will introduce legislation to do so.
 
@@ -73,6 +73,6 @@ Another report addressed a tax credit deemed to have a worthy goal: encouraging 
 
 “I’m not opposed to tax credits, but there has to be a benefit,” said Dunbar, who sits on the board that oversees the fiscal office. Its reviews, he said, have been “enlightening.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ewaste%2C%20fraud%20or%20abuse%3C%2Fb%3E%20that%20we%20should%20investigate%3F%20Tell%20us%20now."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ewaste%2C%20fraud%20or%20abuse%3C%2Fb%3E%20that%20we%20should%20investigate%3F%20Tell%20us%20now."></div>
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> receives </i><a href="https://www.spotlightpa.org/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://www.spotlightpa.org/"><i>spotlightpa.org</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> receives </i><a href="https://lesspage.com/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://lesspage.com/"><i>spotlightpa.org</i></a><i>.</i>

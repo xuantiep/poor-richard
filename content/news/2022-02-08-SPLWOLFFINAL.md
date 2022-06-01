@@ -18,7 +18,7 @@ title = "Wolf asks GOP-led legislature to spend Pa.’s federal aid dollars as h
 topics = ["The Capitol"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In his eighth and final budget address, Democratic Gov. Tom Wolf returned to the themes that have marked his two terms in office, advocating for a nearly $2 billion boost for public schools and higher education, a hike in the minimum wage, and new investments in infrastructure and public health.
 
@@ -26,7 +26,7 @@ During a 20-minute Tuesday speech laced with references to his administration’
 
 “These are days of opportunity for our commonwealth,” Wolf told a joint session of the legislature. “That’s because, at long last, our fiscal house is in order. … We are no longer digging out of a hole.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Though Wolf’s nearly $44 billion financial blueprint does not include any proposed increases to Pennsylvania’s two largest money sources — the state income and state sales tax — it is almost certain to face pushback from GOP leaders.
 
@@ -40,7 +40,7 @@ The administration says it can support the spending increases in part because Pe
 
 The state, administration officials said, also has access to roughly $2.2 billion in federal pandemic aid from the American Rescue Plan Act and will save another $1.1 billion this fiscal year as the federal government continues to pay a higher portion of its medical assistance contribution through June 30.
 
-The $2.6 billion in state taxpayer dollars that <a href="https://www.spotlightpa.org/news/2021/06/pa-40-billion-budget-2021-poorest-school-districts-federal-relief-money/">Wolf and the legislature put into the budget reserve</a> last year, nicknamed the rainy day fund, would remain untouched.
+The $2.6 billion in state taxpayer dollars that <a href="https://lesspage.com/news/2021/06/pa-40-billion-budget-2021-poorest-school-districts-federal-relief-money/">Wolf and the legislature put into the budget reserve</a> last year, nicknamed the rainy day fund, would remain untouched.
 
 Republicans countered that the state’s flush coffers are only temporary. A recent budget report by the nonpartisan Independent Fiscal Office projected a “substantial surplus” in this fiscal year’s budget, “but operating deficits for future years.” By the fiscal year that begins in July 2023, Pennsylvania could be staring at a nearly $2 billion deficit, according to the <a href="http://www.ifo.state.pa.us/download.cfm?file=Resources/Documents/Five_Year_Outlook_2021.pdf">IFO’s report</a>.
 
@@ -62,7 +62,7 @@ The governor also resurrects a previously unsuccessful push to raise the minimum
 
 Wolf wants an additional $75 million for the State System of Higher Education’s 14 state-owned colleges and universities, and another $200 million to underwrite a new scholarship program to provide aid to those schools’ students. That initiative, called the Nellie Bly Scholarship program, is open to students who pledge to remain in Pennsylvania after graduation for the same number of years they received scholarship funds.
 
-Wolf would pay for the scholarship program in part through dollars that now help <a href="https://www.spotlightpa.org/news/2020/03/special-funds-pennsylvania-budget-horse-racing-industry/">subsidize the state’s horse racing industry</a>, a proposal <a href="https://www.inquirer.com/news/wolf-horse-racing-subsidy-purses-disaster-college-tuition-20210203.html">advocates say would decimate the </a>sport.
+Wolf would pay for the scholarship program in part through dollars that now help <a href="https://lesspage.com/news/2020/03/special-funds-pennsylvania-budget-horse-racing-industry/">subsidize the state’s horse racing industry</a>, a proposal <a href="https://www.inquirer.com/news/wolf-horse-racing-subsidy-purses-disaster-college-tuition-20210203.html">advocates say would decimate the </a>sport.
 
 Wolf’s budget also pledges an additional $28.5 million for the so-called state-related universities: Penn State, Lincoln, Temple, and Pitt.
 
@@ -86,7 +86,7 @@ The money will fund cadet training programs and help troopers work through the b
 
 The budget also calls for $7.7 million for body cameras and another $7 million in increased funding to the Department of Human Services to supply beds for people leaving prison with medical and behavioral health needs.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## Health
 
@@ -96,4 +96,4 @@ In response to the speech, industry representatives called on the state to put m
 
 “The governor’s proposed Medicaid funding increase would be a critical step toward sustainability for long-term care — but it’s simply not enough,” said Pennsylvania Health Care Association President Zach Shamberg, whose organization has asked for a $249 million investment in Medicaid funding.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -22,17 +22,17 @@ series = ["Campaign Finance 2019"]
 
 Show me the receipts.
 
-That was the basis of a year-long investigation by The Caucus and [Spotlight PA](https://www.spotlightpa.org/) that found Pennsylvania lawmakers, operating under some of the weakest campaign finance laws in the country, obscured nearly $3.5 million in campaign spending from 2016 through 2018.
+That was the basis of a year-long investigation by The Caucus and [Spotlight PA](https://lesspage.com/) that found Pennsylvania lawmakers, operating under some of the weakest campaign finance laws in the country, obscured nearly $3.5 million in campaign spending from 2016 through 2018.
 
 Charges included lavish dinners, foreign trips, clothes, liquor, sports tickets and country club memberships, the investigation found.
 
 In many cases, those expenditures were listed on publicly available campaign finance documents with broad descriptions such as “credit card” or “campaign expenses” and a total amount, with no other details.
 
-State election law requires candidates to keep records of credit card expenses, but they don’t have to disclose those details unless someone specifically requests them. So reporters for The Caucus and [Spotlight PA](https://www.spotlightpa.org/) asked for the receipts.
+State election law requires candidates to keep records of credit card expenses, but they don’t have to disclose those details unless someone specifically requests them. So reporters for The Caucus and [Spotlight PA](https://lesspage.com/) asked for the receipts.
 
 The effort began in July 2018, when reporters noticed thousands of dollars’ worth of Senate President Pro Tempore Joe Scarnati’s campaign credit card expenses listed as meals, travel, lodging, supplies or gifts with little detail on how that money was spent.
 
-**» _DONATE NOW_** _and_ [_support future investigations by Spotlight PA_](https://www.spotlightpa.org/donate/) _that hold the powerful in Pennsylvania to account._ [_Become a Founding Donor now_](https://www.spotlightpa.org/donate/) _and support our team of investigative journalists._
+**» _DONATE NOW_** _and_ [_support future investigations by Spotlight PA_](https://lesspage.com/donate/) _that hold the powerful in Pennsylvania to account._ [_Become a Founding Donor now_](https://lesspage.com/donate/) _and support our team of investigative journalists._
 
 The reporters requested to review receipts for the expenses through the Department of State, which oversees campaigns. The department then made the request to the campaign, which is supposed to provide access within 30 days. It took six months to get the records.
 

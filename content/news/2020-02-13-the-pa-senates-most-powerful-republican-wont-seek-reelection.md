@@ -12,7 +12,7 @@ description = "State Sen. Joe Scarnati (R., Jefferson) said the decision was \"p
 kicker = "Capitol Notebook"
 suppress-featured = false
 +++
-*[Spotlight PA](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/") is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://www.spotlightpa.org/ "https\://www.spotlightpa.org/").*
+*[Spotlight PA](https://lesspage.com/ "https\://lesspage.com/") is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://lesspage.com/ "https\://lesspage.com/").*
 
 HARRISBURG — The top Republican in the Pennsylvania Senate announced late Wednesday that he is not running for reelection, becoming the second ranking GOP lawmaker in the Capitol to seek retirement in a pivotal election year.
 
@@ -26,13 +26,13 @@ Though he largely worked behind the scenes, Scarnati has for the better part of 
 
 His willingness to work with Democrats at times became a double-edged sword, with more conservative Republicans complaining that he conceded core GOP ideology for the sake of cutting deals.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Early in his tenure in leadership, Scarnati also came under scrutiny for accepting [a free trip to the Super Bowl](https://www.inquirer.com/philly/news/special_packages/inquirer/marcellus-shale/20110213_Perks_from_Pa__drilling_interests.html "https\://www.inquirer.com/philly/news/special_packages/inquirer/marcellus-shale/20110213_Perks_from_Pa\_\_drilling_interests.html") from a natural gas driller (he later said he intended to repay the company).
 
-And last year, a [series by Spotlight PA and The Caucus](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/ "https\://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/") revealed that Scarnati topped the list of lawmakers who shielded lavish campaign spending — including overseas trips and expensive meals — by not reporting the details to the public.
+And last year, a [series by Spotlight PA and The Caucus](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/ "https\://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/") revealed that Scarnati topped the list of lawmakers who shielded lavish campaign spending — including overseas trips and expensive meals — by not reporting the details to the public.
 
-Scarnati is the second top Republican in as many months to announce his retirement. Earlier this year, House Speaker Mike Turzai (R., Allegheny) said [he would not run](https://www.spotlightpa.org/news/2020/01/mike-turzai-pennsylvania-house-speaker-retiring/ "https\://www.spotlightpa.org/news/2020/01/mike-turzai-pennsylvania-house-speaker-retiring/") for another two-year term.
+Scarnati is the second top Republican in as many months to announce his retirement. Earlier this year, House Speaker Mike Turzai (R., Allegheny) said [he would not run](https://lesspage.com/news/2020/01/mike-turzai-pennsylvania-house-speaker-retiring/ "https\://lesspage.com/news/2020/01/mike-turzai-pennsylvania-house-speaker-retiring/") for another two-year term.
 
 The retirements are expected to be a blow to GOP fundraising efforts in a critical election year. Outside the policy arena, Scarnati, like Turzai, had been a prolific fundraiser for Republican legislative candidates across the state. It is a role he was widely expected to step into again this year, as Democrats in both chambers seek to take the majority from Republicans.
 
@@ -44,4 +44,4 @@ Grace Jesberger, a longtime member of the Elk County Republican Party, said in a
 
 Reached for comment Wednesday, Dush said: “I am running.”
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> receives </i><a href="https://www.spotlightpa.org/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://www.spotlightpa.org/"><i>spotlightpa.org</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> receives </i><a href="https://lesspage.com/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://lesspage.com/"><i>spotlightpa.org</i></a><i>.</i>

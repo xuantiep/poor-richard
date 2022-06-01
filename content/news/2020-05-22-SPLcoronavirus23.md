@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — Pennsylvania counties still under strict coronavirus restrictions — including hard-hit Philadelphia, its suburbs, and the Lehigh Valley — will move to the “yellow” reopening phase on June 5, Gov. Tom Wolf announced Friday.
 
@@ -54,7 +54,7 @@ Chrysan Cronin, director and professor of public health at Muhlenberg College, s
 
 “That is not a scientifically proven number," said Cronin. “We don’t learn about that in epidemiology school. They set a bar so they could watch the trends over time.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Also Friday, Wolf announced that some counties will soon be allowed to enter the green phase, which lifts most restrictions on businesses but still requires them to follow social-distancing guidelines and other safety precautions. Restaurants, bars, gyms, hair salons, and barbershops <a href="https://www.governor.pa.gov/plan-for-pennsylvania/" target=_blank>will only be allowed to operate</a> at 50% capacity, and large gatherings will be restricted. Officials said they will release more details next week.
 
@@ -82,4 +82,4 @@ Wolf said Friday that residents who live in counties moving to the green phase s
 
 <i>Inquirer staff writers Anna Orso and Chris Brennan contributed to this article. </i>
 
-<i>100% ESSENTIAL: </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i>100% ESSENTIAL: </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

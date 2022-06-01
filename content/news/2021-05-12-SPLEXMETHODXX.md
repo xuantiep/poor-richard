@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — The Caucus and Spotlight PA began filing Right-to-Know Law requests in November 2019 in an attempt to answer a simple question: How does one of the largest and most expensive full-time legislatures in the country spend the taxpayer money it allots itself?
 
@@ -38,7 +38,7 @@ Reporters sought every legislative expense other than salaries and benefits — 
 
 Thousands of pages of expense records were eventually turned over, but they were littered with redactions, often obscuring the purpose of meals and trips, and shielding the names of individuals or groups lawmakers met with.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 At one point, the Senate took it a step further. Instead of redacting information about what their expenses were for, they withheld it completely — making it appear as if they didn’t have that information. Open records advocates were alarmed when they learned of the Senate’s action in turning over incomplete records.
 
@@ -54,10 +54,10 @@ By early 2021, reporters had filed more than two dozen open-records requests res
 
 The journalists partnered with a team of Temple University students led by professor Aron Pilhofer to strip that mass of data out of clunky PDF pages and, for the first time ever, create a searchable, sortable database of the legislature’s expenses.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.%20%3Cb%3EFor%20a%20limited%20time%20only%2C%20all%20contributions%20will%20be%20matched%20dollar-for-dollar%20up%20to%20%2415%2C000.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.%20%3Cb%3EFor%20a%20limited%20time%20only%2C%20all%20contributions%20will%20be%20matched%20dollar-for-dollar%20up%20to%20%2415%2C000.%3C%2Fb%3E"></div>
 
 The database, built over the course of several months, includes nearly 400,000 separate records documenting more than $200 million in spending — a trove of transactions that, before now, was hidden behind the ornate doors of the Pennsylvania Capitol.
 
 Over the next year, The Caucus and Spotlight PA will examine and make public specific areas of spending by the legislature as part of its ongoing effort to follow the money and track the spending of taxpayer dollars.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

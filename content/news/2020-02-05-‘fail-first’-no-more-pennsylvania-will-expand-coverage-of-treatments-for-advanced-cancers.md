@@ -13,7 +13,7 @@ kicker = "Capitol Notebook"
 suppress-featured = false
 slug = "fail-first-no-more-pennsylvania-will-expand-coverage-of-treatments-for-advanced-cancers"
 +++
-**\*Capitol Notebook by [Spotlight PA](https://www.spotlightpa.org/)** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://www.spotlightpa.org/newsletters)*
+**\*Capitol Notebook by [Spotlight PA](https://lesspage.com/)** provides updates on important news and notes from the halls of power in Harrisburg. [Sign up for our weekly newsletter.](https://lesspage.com/newsletters)*
 
 HARRISBURG — Patients in Pennsylvania facing the most serious stage of cancer will no longer be forced to try cheaper drugs before their insurance covers other, more expensive treatments.
 
@@ -31,7 +31,7 @@ The bill would require health insurance policies to cover drugs prescribed to pa
 
 “When you sit in a hospital for two and a half years, you get a lot of opportunities to talk to patients, families, and doctors,” Benninghoff said. “Physicians go to school to practice medicine and get people well — they don’t go to deal with legislative policies or insurance companies.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Currently, oncologists shrink tumors and target cancerous blood cells with a cocktail of drugs, surgeries, or radiation treatments following protocols — schedules of when and how much of a medicine to administer — that are approved by a health insurance company’s reimbursement plan.
 
@@ -60,4 +60,4 @@ Legislatures in [Georgia](http://custom.statenet.com/public/resources.cgi?id=ID:
 
 ***Correction**: A previous version of this story misattributed a statement from Independence Blue Cross. The statement was from Dr. Ginny Calega, vice president of medical affairs.*
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> receives </i><a href="https://www.spotlightpa.org/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://www.spotlightpa.org/"><i>spotlightpa.org</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> receives </i><a href="https://lesspage.com/support"><i>funding from nonprofit institutions and readers like you</i></a><i> who are committed to investigative journalism that gets results. Become a Founding Donor today at </i><a href="https://lesspage.com/"><i>spotlightpa.org</i></a><i>.</i>

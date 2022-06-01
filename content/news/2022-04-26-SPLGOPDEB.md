@@ -18,7 +18,7 @@ title = "Pa. primary election 2022: Spotlight PA hosts Republican U.S. Senate de
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Five candidates running in Pennsylvania’s U.S. Senate primary election for the Republican nomination gathered at Dickinson College on Tuesday for a debate hosted by Spotlight PA and its founding members.
 
@@ -28,16 +28,16 @@ Seven candidates are running for the GOP nomination. Mehmet Oz was unable to “
 
 <a href="http://players.brightcove.net/2549849263001/default_default/index.html?videoId=6305224549001" target="_blank">Watch video of the debate here</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 <b>READ MORE:</b>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
+- <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">See how much money the GOP candidates for governor have raised</a>
+- <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">See how much money the GOP candidates for governor have raised</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
+- <a href="https://lesspage.com/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
+- <a href="https://lesspage.com/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

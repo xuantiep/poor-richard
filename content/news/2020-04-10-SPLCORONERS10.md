@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — Until late last week, Dr. Christina VandePol, the coroner in Chester County, said, she had to turn to local hospitals if she wanted to test a deceased person for the coronavirus.
 
@@ -43,7 +43,7 @@ The head of the group that represents the state’s coroners says he can’t see
 
 “We have to agree to disagree,” said Charles E. Kiessling Jr., coroner in Lycoming County and president of the Pennsylvania Coroners Association.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 Some coroners, like VandePol, have started to acquire diagnostic kits — which they say they need to test people who died in their homes or outside of a hospital — but the Department of Health is recommending that they use them sparingly. In <a href="#" data-gone="https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/Interim%20Guidance%20on%20Postmortem%20Care%20of%20a%20Decedent%20Whose%20Death%20is%20Confirmed%20or%20Suspected%20to%20be%20Attributed%20to%20COVID-19.pdf">interim guidance</a> released Tuesday, the department said coroners should “use their judgment” to determine whether to test a body based on a combination of factors, including if a person had symptoms or lived in an area with “known community transmission.”
@@ -80,7 +80,7 @@ But the Department of Health sees things differently, saying COVID-19 deaths —
 
 Coroners say they don’t need to handle every case, but do need hospitals to submit COVID-19 death information, as they’re required to do, through the state’s online reporting system. Kiessling said he’s spent much of the last month in conversations with the Health Department about whether that’s been happening.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 According to Nate Wardle, a department spokesperson, it has been “ongoing protocol” for physicians who certify death certificates to enter COVID-19 deaths into the system.
@@ -115,6 +115,6 @@ With the statewide shutdown of non-"life-sustaining" businesses, construction on
 
 “It could really negatively affect our community in the next few weeks,” Gay said. “It’s just not a good situation.”
 
-<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL: </b></i><i>Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

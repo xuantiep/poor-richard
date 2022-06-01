@@ -18,7 +18,7 @@ title = "A stark racial divide on vaccinations leaves many at risk as Pa. reopen
 topics = ["Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — As restrictions on daily life during the pandemic are lifted, fewer people wear masks, and mass vaccination clinics scale back due to decreased demand, the same communities in Pennsylvania disproportionately harmed by the coronavirus are still more at risk.
 
@@ -28,7 +28,7 @@ While it’s impossible to precisely compare population numbers to state vaccine
 
 Philadelphia, where the local health department is handling the vaccination effort, is seeing a similar disparity for its Black and Hispanic populations.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Experts said communities of color — especially among those whose work requires manual labor or contact with other people — continue to be threatened by COVID-19 outbreaks as their white neighbors stop wearing masks and return to life as usual.
 
@@ -36,9 +36,9 @@ Experts said communities of color — especially among those whose work requires
 
 Since the start of the pandemic last year, the Wolf administration has faced criticism for not prioritizing specialized approaches to reach communities of color and non-English speakers, and instead being reactionary after programs and efforts were already launched.
 
-For example, the state did not initially include Spanish translations for daily coronavirus updates and for resources like rental assistance. Gaps in the collection of <a href="https://www.spotlightpa.org/news/2021/03/pa-coronavirus-covid-vaccine-race-data-missing-one-year-later/">race and ethnicity data about infections and administered vaccines persist</a>, and will probably never be fully corrected.
+For example, the state did not initially include Spanish translations for daily coronavirus updates and for resources like rental assistance. Gaps in the collection of <a href="https://lesspage.com/news/2021/03/pa-coronavirus-covid-vaccine-race-data-missing-one-year-later/">race and ethnicity data about infections and administered vaccines persist</a>, and will probably never be fully corrected.
 
-Even as the vaccine rollout ramped up earlier this year, Spotlight PA reported that <a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-vaccine-rollout-latino-community-spanish-speakers-seniors/">the state did not have plans for targeted outreach in communities that do not speak English</a>.
+Even as the vaccine rollout ramped up earlier this year, Spotlight PA reported that <a href="https://lesspage.com/news/2021/02/pennsylvania-vaccine-rollout-latino-community-spanish-speakers-seniors/">the state did not have plans for targeted outreach in communities that do not speak English</a>.
 
 Organizers and community groups said they are facing the same barriers in these communities that were apparent from the start — language, transportation, a general lack of health care, and inadequate education and public awareness about vaccines and safety.
 
@@ -70,7 +70,7 @@ Asked what the Wolf administration was doing to support additional outreach to c
 
 Pressed for details of any other initiatives, the department noted it has also supported vaccinations for farm and agriculture workers, as well as teachers.
 
-The department has held several targeted outreach clinics. Back when vaccines were scarce in January and February, it supported events in rural areas without health-care systems for people who qualified for the vaccine in the state’s Phase 1A. One such <a href="https://www.spotlightpa.org/news/2021/02/pennsylvania-coronavirus-rural-older-people-phase-1a-vaccinations-cvs-riteaid/">clinic in Sullivan County was well attended</a> and vaccinated 500 people.
+The department has held several targeted outreach clinics. Back when vaccines were scarce in January and February, it supported events in rural areas without health-care systems for people who qualified for the vaccine in the state’s Phase 1A. One such <a href="https://lesspage.com/news/2021/02/pennsylvania-coronavirus-rural-older-people-phase-1a-vaccinations-cvs-riteaid/">clinic in Sullivan County was well attended</a> and vaccinated 500 people.
 
 In March and early April, the state used a portion of its allocation of the Johnson &amp; Johnson vaccine to vaccinate more than 112,000 teachers and school staff throughout the state.
 
@@ -126,7 +126,7 @@ People walked around the side of the building to check in under a pop-up tent, w
 
 The clinic also accepted various forms of identification, making it easy for anyone who is uninsured, undocumented, or concerned about revealing their immigration status to get a vaccine. The goal is to make the experience as light and positive as possible, said Jean Cubilette, a program manager for Latino Connection.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 “Everything is no questions asked,” Cubilette said. “Zero barriers.”
@@ -143,4 +143,4 @@ And if the clinic was administering the Pfizer vaccine — which, unlike Moderna
 
 Some people also need more time to feel confident about the process and see first-hand how it affects people they know, she said.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

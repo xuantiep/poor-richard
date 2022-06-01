@@ -19,7 +19,7 @@ title = "Pa. primary 2022: Doug Mastriano wins GOP nomination for governor, will
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Doug Mastriano is the projected winner of Pennsylvania’s Republican primary for governor, defeating a crowded field in a high-stakes race that will shape the state’s future.
 
@@ -27,7 +27,7 @@ Unofficial election results show Mastriano, a far-right state senator from Frank
 
 In November, Mastriano will face Democrat Josh Shapiro, Pennsylvania’s current attorney general who faced no opposition from members of his party.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Mastriano emerged from a crowded GOP field of nine candidates who have spent the past several months crisscrossing the state to rally support among party elites and the rank-and-file alike.
 
@@ -39,7 +39,7 @@ The governor also presents a spending plan each year that proposes how billions 
 
 A bombastic speaker who sprinkles his stump speeches with historical and Biblical references, Mastriano, a retired Army colonel and Gulf War veteran, is a favorite among grassroots conservatives and <a href="https://www.inquirer.com/politics/doug-mastriano-governor-christian-nationalism-qanon-20220504.html">evangelicals</a>.
 
-He appeared at or near the top of polls before the primary, despite raising just $1.6 million since the start of 2021 — near the bottom of the nine-person GOP field. Much of that total came from <a href="https://www.spotlightpa.org/news/2022/05/pennsylvania-primary-2022-governor-election-april-fundraising/">small individual donations</a>, while <a href="https://billypenn.com/2022/05/12/martins-potato-rolls-doug-mastriano-governor-philadelphia-restaurants/">potato roll magnate Jim Martin</a> gave more than $100,000.
+He appeared at or near the top of polls before the primary, despite raising just $1.6 million since the start of 2021 — near the bottom of the nine-person GOP field. Much of that total came from <a href="https://lesspage.com/news/2022/05/pennsylvania-primary-2022-governor-election-april-fundraising/">small individual donations</a>, while <a href="https://billypenn.com/2022/05/12/martins-potato-rolls-doug-mastriano-governor-philadelphia-restaurants/">potato roll magnate Jim Martin</a> gave more than $100,000.
 
 First elected to the state Senate in a 2019 special election, Mastriano started his time in Harrisburg as a conservative backbencher, best known for sharing <a href="https://www.penncapital-star.com/government-politics/conspiratorial-anti-muslim-memes-populate-facebook-page-of-state-senate-candidate/">Islamophobic memes</a> on his campaign Facebook account and sponsoring <a href="https://senatormastriano.com/2019/10/21/sen-mastriano-rep-borowicz-unveil-heartbeat-legislation/">a six-week abortion ban</a>.
 
@@ -97,7 +97,7 @@ Along with other attorneys general around the country, Shapiro negotiated <a hre
 
 Shapiro began his career in government in the 1990s, working for a member of Congress and two senators in Washington, D.C. He was elected to Pennsylvania’s House of Representatives in 2004, where he served four terms representing parts of Montgomery County in the Philadelphia suburbs.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
 
 In 2011, he won a seat on Montgomery County’s Board of Commissioners in a year when Democrats took control over the three-member panel for the <a href="https://www.inquirer.com/philly/neighbors/main_line/20111108_Shapiro__Richards_give_Dems_win_in_MontCo.html">first time in the county’s history.</a> He was elected attorney general in 2016 and again in 2020 for a second, four-year term.
 
@@ -105,7 +105,7 @@ In announcing his candidacy for governor last year, Shapiro, who has built a rep
 
 Running unopposed gave him an instant advantage over the crowded, nine-way primary field of GOP contenders. He has amassed more than $20 million in campaign contributions since the start of 2021, eclipsing fundraising on the Republican side.
 
-He is entering the post-primary landscape with <a href="https://www.spotlightpa.org/news/2022/05/pennsylvania-primary-2022-governor-election-april-fundraising/">nearly $16 million on hand</a>, largely because he was not forced to spend his war chest edging out competitors.
+He is entering the post-primary landscape with <a href="https://lesspage.com/news/2022/05/pennsylvania-primary-2022-governor-election-april-fundraising/">nearly $16 million on hand</a>, largely because he was not forced to spend his war chest edging out competitors.
 
 ## Other results
 
@@ -121,4 +121,4 @@ Democrats and Republicans also voted to pick their candidates for lieutenant gov
 
 Austin Davis and Carrie Lewis DelRosso, both state representatives from Allegheny County, won the Democratic and Republican nods, respectively, according to the Associated Press. 
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

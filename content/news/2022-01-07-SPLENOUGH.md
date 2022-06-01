@@ -18,7 +18,7 @@ title = "Proposed Pennsylvania legislative maps don’t do enough to increase Hi
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — Pennsylvania’s proposed legislative maps are an improvement over the current boundaries, but still don’t do enough to keep communities of interest together or increase Hispanic representation, residents said this week.
 
@@ -26,9 +26,9 @@ The nonpartisan chair of the Legislative Reapportionment Commission — the grou
 
 “It’s awkward to talk about myself, but I don’t have teams of public relations professionals like some of the caucus leaders do,” the chair, Mark Nordenberg, said Thursday during the first of four feedback sessions held by the commission on the initial plan. “And there have been so many baseless claims made about the maps, the process, the commission staff, and me that I felt it was important to respond because the work of the commission is so important.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-While Republicans argue the House map is unfair to members of their party, fairness standards as mandated under the state constitution and embraced by the courts <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/">show it represents an improvement over the current map</a>, a previous Spotlight PA analysis found.
+While Republicans argue the House map is unfair to members of their party, fairness standards as mandated under the state constitution and embraced by the courts <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/">show it represents an improvement over the current map</a>, a previous Spotlight PA analysis found.
 
 And while the proposed House map has the potential to significantly shift the balance of power in the chamber, redistricting advocates say that’s because it unwinds decades of gerrymandering in favor of the GOP.
 
@@ -56,11 +56,11 @@ Representatives from Fair Districts PA and Draw the Lines — another group that
 
 However, they said there was more work to be done, especially in regards to creating districts that don’t protect incumbents and are competitive, rather than skewed toward one major political party.
 
-Increasing Hispanic representation in the legislature was also a focus. Pennsylvania’s Latino population surpassed 1 million people according to the latest census, and <a href="https://www.spotlightpa.org/news/2021/11/pa-redistricting-latino-representation-political-power/">is driving the state’s growth</a>.
+Increasing Hispanic representation in the legislature was also a focus. Pennsylvania’s Latino population surpassed 1 million people according to the latest census, and <a href="https://lesspage.com/news/2021/11/pa-redistricting-latino-representation-political-power/">is driving the state’s growth</a>.
 
 Many people who testified at the hearing discussed Lehigh County, specifically citing Allentown, a majority-Hispanic city that the proposed Senate map splits.
 
-Ward, the Westmoreland County Republican, led the effort to create a new state Senate district that would include Allentown and would contain a minority population of 43%, according to data compiled by Spotlight PA. (<a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">You can search to see how your district would change by using Spotlight PA’s map comparison tool at spotlightpa.org/mydistrict</a>.)
+Ward, the Westmoreland County Republican, led the effort to create a new state Senate district that would include Allentown and would contain a minority population of 43%, according to data compiled by Spotlight PA. (<a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">You can search to see how your district would change by using Spotlight PA’s map comparison tool at spotlightpa.org/mydistrict</a>.)
 
 Because the district wouldn’t have an incumbent, and would have a sizable minority population, Ward has argued it would “give an opportunity to the Latino community” to elect the person of its choice.
 
@@ -68,7 +68,7 @@ However, residents of Lehigh County questioned why the proposals split Allentown
 
 “Everyone understands that one of your primary missions is to draw maps to increase minority influence,” said Mark Pinsley, a resident of Allentown. “However, I believe this information was used to convince you that you were doing the right thing by splitting up the two cities, Allentown and Bethlehem. You weren’t told that stronger minority districts could be built by keeping each city intact.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Several people spoke about communities of interest, defined as any group or area that shares common values or policy concerns. While keeping communities of interest together is not mandated by the state constitution, the commission has hosted multiple hearings in order to solicit feedback about how people across the state define these communities.
 
@@ -76,4 +76,4 @@ A group of state House lawmakers from Western Pennsylvania, for example, said th
 
 School districts are considered communities of interest, and many residents suggested changes that would result in grouping them together. This can be difficult, as school districts regularly cross political boundaries, which mapmakers are required to keep together as much as possible under the state constitution.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -18,7 +18,7 @@ title = "Christian Hall was killed one year ago by Pa. State Police. His family 
 topics = ["Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — On Dec. 30, 2020, Fe Hall dropped her son Christian off at his job at a local grocery store, thinking she would see him that afternoon.
 
@@ -26,7 +26,7 @@ Instead, Christian left work, walked to the ledge on a nearby overpass close to 
 
 Fe and her husband, Gareth, have been trying to understand what happened ever since. They’ve started the process of suing the troopers who shot their son and have tried to preserve their memories of Christian as the sweet young man they adopted from China as a baby.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 They held a vigil Thursday close to their home and the overpass where their 19-year-old son died one year earlier. Activists and family <a href="https://www.facebook.com/justiceforChristianHall/posts/587371055950418">held similar events</a> in more than a dozen other locations, including Los Angeles, New York, Philadelphia, and the Philippines, where Fe Hall was born.
 
@@ -34,7 +34,7 @@ The vigils showed the state that people remember the case, said Nicole Henriquez
 
 “We’re pushing for justice,” Henriquez said. “Although Fe and Gareth will never have Christian back … they at least want this to never happen again to someone and they want the people who did this to have some kind of consequence — not, ‘Well it’s just justified.’”
 
-Unredacted video obtained by Spotlight PA and NBC News shows that <a href="https://www.spotlightpa.org/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">Christian’s hands stayed above his head as two troopers shot at him</a>. Troopers tried to persuade him to get off the ledge and put down what they believed was a gun — actually a realistic pellet gun — for about 90 minutes before his death.
+Unredacted video obtained by Spotlight PA and NBC News shows that <a href="https://lesspage.com/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">Christian’s hands stayed above his head as two troopers shot at him</a>. Troopers tried to persuade him to get off the ledge and put down what they believed was a gun — actually a realistic pellet gun — for about 90 minutes before his death.
 
 “If he doesn’t drop it, just take him,” a voice can be heard saying on the video shortly before troopers fired the final shots.
 
@@ -44,9 +44,9 @@ The shooting was investigated by State Police troopers from outside the local ba
 
 Christian’s parents, as well as family attorneys Ben Crump and Devon M. Jacob, have criticized that process and called for a new investigation — one that doesn’t involve the State Police or the local DA.
 
-In early December, the newly created Pennsylvania State Law Enforcement Citizen Advisory Commission <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-state-police-use-of-force-investigations-independent/">recommended that such cases be independently reviewed</a>. Whether those recommendations will be put in place remains to be seen. The State Police are drafting a response to the recommendations.
+In early December, the newly created Pennsylvania State Law Enforcement Citizen Advisory Commission <a href="https://lesspage.com/news/2021/12/pennsylvania-state-police-use-of-force-investigations-independent/">recommended that such cases be independently reviewed</a>. Whether those recommendations will be put in place remains to be seen. The State Police are drafting a response to the recommendations.
 
-An unintroduced bill by State Sen. Art Haywood (D., Montgomery), meanwhile, would require that the state attorney general <a href="https://www.spotlightpa.org/news/2021/11/pa-police-killings-investigation-district-attorney-general/">be given new powers</a> to investigate all police killings.
+An unintroduced bill by State Sen. Art Haywood (D., Montgomery), meanwhile, would require that the state attorney general <a href="https://lesspage.com/news/2021/11/pa-police-killings-investigation-district-attorney-general/">be given new powers</a> to investigate all police killings.
 
 It’s not clear where Gov. Tom Wolf stands on the commission recommendations or the bill.
 
@@ -68,13 +68,13 @@ In New Jersey, the Attorney General’s Office established a public integrity an
 
 Jacob, one of the Hall family lawyers, has filed a complaint with the Pennsylvania Office of State Inspector General about the way the case was handled. He wants the office to look at the <a href="https://www.documentcloud.org/documents/21089305-psp-press-release?responsive=1&title=1">statements</a> made by the State Police about the shooting and compare them with what the unredacted video shows.
 
-While the video does not appear to show Christian pointing the gun directly at troopers before he was shot, the accounts by State Police and the DA’s Office are <a href="https://www.spotlightpa.org/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">inconsistent on this point</a> in their statements.
+While the video does not appear to show Christian pointing the gun directly at troopers before he was shot, the accounts by State Police and the DA’s Office are <a href="https://lesspage.com/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">inconsistent on this point</a> in their statements.
 
 Jacob received a letter from a deputy inspector general saying the office would evaluate the complaint.
 
-He thinks the office should look at other cases where there’s body camera footage to see if State Police statements match the video. Jacob said that in most cases, the footage is not available to the public because it is <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-body-cameras-footage-access/">not subject to the state’s open records law</a>.
+He thinks the office should look at other cases where there’s body camera footage to see if State Police statements match the video. Jacob said that in most cases, the footage is not available to the public because it is <a href="https://lesspage.com/news/2020/06/pennsylvania-body-cameras-footage-access/">not subject to the state’s open records law</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 “Are the State Police accurately reporting its actions to the people?” he asked.
 
@@ -86,4 +86,4 @@ She believes he would be ecstatic to see people coming together to remember him 
 
 {{<picture src="external/s7nr0zpc9xstd1p2sbqtcff01g.jpeg" description="Gareth Hall looks at an image of his late son, Christian, as he speaks during a vigil at Pleasant Valley Assembly of God in Brodheadsville. Christian Hall was killed one year ago by Pennsylvania State Police. " caption="Gareth Hall looks at an image of his late son, Christian, as he speaks during a vigil at Pleasant Valley Assembly of God in Brodheadsville. Christian Hall was killed one year ago by Pennsylvania State Police. " credit="Matt Smith / For Spotlight PA">}} 
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -34,13 +34,13 @@ Six trustees for Pennsylvania’s largest pension fund have called for the full 
 
 On Thursday morning, the dissidents delivered a detailed letter sharply criticizing the leadership of PSERS Executive Director Glen Grell and Chief Investment Officer James H. Grossman Jr. Grell has led the fund for the last five years after serving 11 years as a Republican lawmaker in the state House of Representatives. Grossman, the highest-paid state employee, heads a 50-member unit overseeing the fund’s investment strategy, which is at the core of the complaints against him and Grell.
 
-The letter, a copy of which was obtained by Spotlight PA and The Inquirer, was unchanged from<a href="https://www.spotlightpa.org/news/2021/06/pa-psers-fund-treasuer-fire-leadership/"> the draft obtained Wednesday</a> by the newsrooms. It mounts a detailed case against the leaders’ investments choices, blasting them as high-fee, poor-performing creations that serve the interests of venture capital and private equity.
+The letter, a copy of which was obtained by Spotlight PA and The Inquirer, was unchanged from<a href="https://lesspage.com/news/2021/06/pa-psers-fund-treasuer-fire-leadership/"> the draft obtained Wednesday</a> by the newsrooms. It mounts a detailed case against the leaders’ investments choices, blasting them as high-fee, poor-performing creations that serve the interests of venture capital and private equity.
 
 It also portrays the 350-employee PSERS as a topsy-turvy agency, where the managers run roughshod over the board, cutting out the appointed and elected panel of educators and politicians from key decisions even as overall fund performance has lagged behind similar public funds.
 
 The letter was signed by State Treasurer Stacy L. Garrity, a Republican, and went out on her letterhead. In a bipartisan twist, she was joined by a Democratic board member Joe Torsella, whom Democratic Gov. Tom Wolf put back on the PSERS board this year after Garrity defeated Torsella for treasurer last fall.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Two other board members tied to Wolf — Richard Vague, his banking secretary, and Noe Ortega, his acting education secretary — also signed. So did Nathan G. Mains, the leader of the state School Boards Association.
 
@@ -50,13 +50,13 @@ The dissident bloc says the board should vote to show it has “no confidence”
 
 <b>READ MORE</b>
 
-- <a href="https://www.spotlightpa.org/news/2021/06/pa-psers-fund-treasuer-fire-leadership/">In a revolt, dissidents on PSERS board lobby colleagues to fire the fund’s leaders and set a new investment strategy</a>
+- <a href="https://lesspage.com/news/2021/06/pa-psers-fund-treasuer-fire-leadership/">In a revolt, dissidents on PSERS board lobby colleagues to fire the fund’s leaders and set a new investment strategy</a>
 
-- <a href="https://www.spotlightpa.org/news/2021/06/pa-psers-fbi-investigation-irs-disclosures-real-estate-amended/">Facing FBI probe, PSERS backtracks on disclosure that staffers were on both sides of real estate dealings</a>
+- <a href="https://lesspage.com/news/2021/06/pa-psers-fbi-investigation-irs-disclosures-real-estate-amended/">Facing FBI probe, PSERS backtracks on disclosure that staffers were on both sides of real estate dealings</a>
 
-- <a href="https://www.spotlightpa.org/news/2021/05/pa-teacher-pension-fund-inflated-returns-how/">Internal PSERS documents show how Pa’s biggest pension fund got key financial calculation wrong</a>
+- <a href="https://lesspage.com/news/2021/05/pa-teacher-pension-fund-inflated-returns-how/">Internal PSERS documents show how Pa’s biggest pension fund got key financial calculation wrong</a>
 
-- <a href="https://www.spotlightpa.org/news/2021/05/pa-fbi-pension-psers-investigation-subpoenas-properties-real-estate-harrisburg/">FBI probe of massive Pa. pension fund seeks evidence of kickbacks or bribery</a>
+- <a href="https://lesspage.com/news/2021/05/pa-fbi-pension-psers-investigation-subpoenas-properties-real-estate-harrisburg/">FBI probe of massive Pa. pension fund seeks evidence of kickbacks or bribery</a>
 
 Among the nine board members who refrained from signing are board chairman Christopher Santa Maria, a teacher and former union leader in the Lower Merion schools, and several other board members tied to the PSEA, the state’s biggest teachers union who have staunchly defended PSERS managers.
 
@@ -72,7 +72,7 @@ The dissidents, though, barely touch on the federal probe in their letter.
 
 “PSERS’ investment underperformance over the past 10 years is beyond dispute, resulting in higher payroll deductions for nearly 100,000 public school employees,” the letter said. “Those who have dedicated their career to public education, people who are the heart and soul of this Commonwealth, deserve better.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 In preparing to move against Grell and Grossman, the dissidents also obtained a legal opinion from the Cozen O’Connor law firm stating that the board had an obligation to act if it thought managers were failing in their jobs.
 
@@ -100,4 +100,4 @@ In letters obtained by Spotlight PA and the Inquirer, a fund consultant said one
 
 The incorrect number was endorsed even after Torsella, while treasurer, had raised questions about how the management was computing investment results.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -20,7 +20,7 @@ title = "Parents of teen shot by Pennsylvania State Police sue troopers, local D
 topics = ["Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG —&nbsp;The parents of a Chinese American teenager fatally shot by Pennsylvania State Police in 2020 filed a federal lawsuit Wednesday accusing state troopers and the local district attorney of trying to “thwart public oversight” by making misleading statements and refusing to release full video of the incident.
 
@@ -28,7 +28,7 @@ Video recorded by the State Police and published in November by Spotlight PA and
 
 <a href="https://www.documentcloud.org/documents/21563019-hall-family-lawsuit?responsive=1&title=1">The lawsuit</a> says the troopers used excessive force, killing Hall as he tried to surrender and after they said they would not shoot him. Devon Jacob and Ben Crump, the Hall family’s attorneys, also allege that the Monroe County district attorney and his deputy misled the public by showing an edited version of the video.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The suit, filed in federal court in Harrisburg, lists as defendants State Police Superintendent Robert Evanchick and four troopers – two unnamed “John Doe’s” and Charles S. Phelps and Ian D. MacMillan. State Police officials, including Evanchick, did not respond to a request for comment. Phelps and MacMillan could not immediately be reached for comment.
 
@@ -65,7 +65,7 @@ In Pennsylvania, local district attorneys investigate police shootings unless th
 
 Gareth and Fe Hall publicly called for Christine to send the case to the attorney general and later criticized him for not doing so. The lawsuit alleges Christine and Mancuso retaliated against the Hall family by not answering questions or explaining their decisions.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Crump and Jacob, the family’s lawyers, also allege that the district attorney’s office used portions of <a href="https://www.youtube.com/watch?v=YJxFrZXpAxc">the video in a presentation</a> shown at a March 2021 news conference in a way that misled the public.
 
@@ -81,4 +81,4 @@ Fe Hall said that she is glad the lawsuit has been filed and that she still stru
 
 “I do not have the strength to read about my son that way, about how his life was taken that way,” she said of the lawsuit. “I just refuse to look at any more videos. … I just refuse to see the last moment.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

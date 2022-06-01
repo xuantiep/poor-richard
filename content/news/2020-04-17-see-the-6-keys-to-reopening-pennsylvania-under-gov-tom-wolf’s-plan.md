@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<i>[Spotlight PA](https://www.spotlightpa.org/) is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://www.spotlightpa.org/newsletters).</i>
+<i>[Spotlight PA](https://lesspage.com/) is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. [Sign up for our free weekly newsletter](https://lesspage.com/newsletters).</i>
 
 HARRISBURG — Gov. Tom Wolf on Friday announced the broad outline of his plan for reopening Pennsylvania as the state continues to grapple with the coronavirus.
 
@@ -45,6 +45,6 @@ Information released Friday includes six “[standards](https://web.archive.org/
 5. Protections for vulnerable populations must remain steadfast throughout the reopening process, such as limitations on visitors to congregate care facilities and prisons.
 6. Limitations on large gatherings unrelated to occupations should remain in place for the duration of the reopening process.
 
-<i><b>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://www.spotlightpa.org/donate).</i>
+<i><b>100% ESSENTIAL:</b> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at [spotlightpa.org/donate](https://lesspage.com/donate).</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

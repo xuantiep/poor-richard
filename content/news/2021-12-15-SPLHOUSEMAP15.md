@@ -18,7 +18,7 @@ title = "House GOP advances amended Pennsylvania congressional map before public
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A key House panel Wednesday approved an amended version of its proposed new map for Pennsylvania’s congressional districts prior to releasing data allowing the public to analyze it, drawing criticism from Democrats and at least one Republican.
 
@@ -26,7 +26,7 @@ State Rep. Seth Grove (R., York), who chairs the State Government Committee, sai
 
 Republicans also countered that this was hardly the final step in the process.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 But without the underlying files and data prior to the vote, it’s not yet clear if or how the changes alter what would likely be the primary sticking point of their proposal: That it clearly favors their own party. A map must be approved in the full House and Senate and then go to Democratic Gov. Tom Wolf.
 
@@ -46,7 +46,7 @@ Grove said the amended map, approved by a vote of 14-11, was changed to reflect 
 
 An initial comparison of the two maps shows that Dauphin County is now split between three districts rather than two. And districts in southeastern Pennsylvania are more compact, including those that encompass Delaware, Chester, and York Counties. Grove claims that the 2nd and 3rd Districts, which make up most of Philadelphia County, have been adjusted to increase the voting age population of minority communities. And Fulton and Tioga Counties are kept intact.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 The map also appears to accommodate the concerns of Republicans on the committee who criticized Holt’s map during a public comment forum last week.
 
@@ -56,4 +56,4 @@ Carol Kuniholm — the chairperson of Fair Districts PA, a group that advocates 
 
 “In the past, they would release a PDF at the last minute and think that was enough. Those days are gone,” Kuniholm said. “They need to understand that to release a PDF is not acceptable. It needs to be on a platform where people can really look at it, analyze it, understand what’s going on because we know that they are doing that.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

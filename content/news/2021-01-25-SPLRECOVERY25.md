@@ -18,7 +18,7 @@ title = "Thousands of drug, alcohol recovery homes in Pa. still operate without 
 topics = ["Health"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In December 2017, Gov. Tom Wolf signed legislation to increase oversight for drug and alcohol recovery houses — a measure that lawmakers said was needed to fight the opioid epidemic and protect vulnerable people from being exploited.
 
@@ -32,7 +32,7 @@ Department officials said earlier this month they were completing an internal re
 
 “I’m saddened by that because the longer it takes to set that up, the more individuals could pass away in these unstructured recovery homes,” said Amber Longhitano, a former council member in Bristol Township, Bucks County, who pushed state lawmakers to create oversight for recovery homes.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Beyond the delay, there’s a more fundamental problem with the oversight effort: It’s voluntary, though there are incentives.
 
@@ -76,7 +76,7 @@ In 2016, The Philadelphia Inquirer described how <a href="https://www.inquirer.c
 
 An <a href="https://www.attorneygeneral.gov/wp-content/uploads/2019/03/2019-03-25-Liberation-Way-Presentment.pdf">investigative statewide grand jury report</a>, released in 2019, alleged that a Bucks County-based treatment provider, the now-closed Liberation Way, used recovery homes as part of an elaborate and complex insurance fraud scheme in which patients were cycled through the treatment process as many times as possible to maximize billing. Some housing staff and employees had sexual relationships with patients who were actively receiving treatment, and some homes were located in areas “known for nefarious activity,” which made it easier for residents to relapse, the grand jury said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 “It was like the wild, wild west,” said state Rep. Tina Davis (D., Bucks), one of the lawmakers who turned their attention to recovery homes as the opioid epidemic surged.
 
@@ -96,6 +96,6 @@ But like Way, he’s concerned about the additional financial burden. He’s gla
 
 “Any kind of change at this point would make that housing less stable.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=We%20want%20your%20help%20%3Cb%3Einvestigating%20the%20business%20of%20addiction%20treatment%20in%20Pennsylvania%3C%2Fb%3E.%20Use%20the%20form%20below%20to%20talk%20to%20a%20reporter%20about%20your%20experience.%20We%20take%20your%20privacy%20seriously%20and%20will%20treat%20your%20information%20with%20the%20sensitivity%20it%20deserves."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=We%20want%20your%20help%20%3Cb%3Einvestigating%20the%20business%20of%20addiction%20treatment%20in%20Pennsylvania%3C%2Fb%3E.%20Use%20the%20form%20below%20to%20talk%20to%20a%20reporter%20about%20your%20experience.%20We%20take%20your%20privacy%20seriously%20and%20will%20treat%20your%20information%20with%20the%20sensitivity%20it%20deserves."></div>

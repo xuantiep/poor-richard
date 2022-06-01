@@ -19,13 +19,13 @@ title = "Pa. primary 2022: A last-minute guide to everything you need to know to
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — On May 17, Democrats and Republicans in Pennsylvania will vote for candidates running in local and statewide races. The victors will compete in general election races that will impact abortion access, climate change policy, and other crucial issues.
 
 Spotlight PA assembled all the things that you’ll need to know before you head to the polls:
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Make sure you can vote
 
@@ -51,7 +51,7 @@ Spotlight PA assembled all the things that you’ll need to know before you head
 
 - Before you vote, you can see what your ballot will look like by going to your <a href="https://www.vote.pa.gov/Resources/Pages/Contact-Your-Election-Officials.aspx">county’s election website</a> or using this <a href="https://www.vote411.org/ballot">tool</a> created by the League of Women Voters, a national nonpartisan group that advocates for voting rights.
 
-- You can read more about voting in the primaries <a href="https://www.spotlightpa.org/news/2022/04/pa-election-day-2022-pennsylvania-primary-governor-senate-voting-guide/">here</a> and using mail ballots <a href="https://www.spotlightpa.org/news/2022/05/pa-primary-2022-mail-ballot-instructions/">here</a>.
+- You can read more about voting in the primaries <a href="https://lesspage.com/news/2022/04/pa-election-day-2022-pennsylvania-primary-governor-senate-voting-guide/">here</a> and using mail ballots <a href="https://lesspage.com/news/2022/05/pa-primary-2022-mail-ballot-instructions/">here</a>.
 
 ## What’s on the ballot
 
@@ -69,20 +69,20 @@ Democratic and Republican voters will select which candidates will represent the
 
 - State senator (only lawmakers in even-number districts are up for reelection)
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Nine people are running for the Republican gubernatorial nomination, while just one Democrat will appear on that party’s ballot. Democratic Gov. Tom Wolf, who has often served as a foil to the Republican-led General Assembly, is term-limited by the state constitution. His departure provides an opportunity for Republicans to take over the executive branch.
 
-<b>&gt;&gt; To learn more about the gubernatorial candidates and their different positions, read Spotlight PA’s </b><a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-guide/"><b>guide</b></a><b>.</b>
+<b>&gt;&gt; To learn more about the gubernatorial candidates and their different positions, read Spotlight PA’s </b><a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-guide/"><b>guide</b></a><b>.</b>
 
 Four Democrats and seven Republicans are running for Pennsylvania’s open U.S. Senate seat. That race has the potential to affect the balance of power in Washington, D.C., where Democrats need to keep all their seats in order to maintain their voting majority. The seat is currently held by Pat Toomey (R., Pennsylvania) who announced his retirement in late 2020.
 
 <b>&gt;&gt; Read more about the U.S. Senate candidates </b><a href="https://whyy.org/articles/progressive-centrist-trumper-these-pa-2022-candidates-could-change-the-balance-of-power-in-the-u-s-senate/"><b>here</b></a><b>.</b>
 
-Pennsylvania’s <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">redrawn legislative lines</a> also have the potential to shift the balance of power in the General Assembly, at least in the lower chamber. Currently, 90 Democrats and 113 Republicans serve in the state House. However, nonpartisan analysis has projected that the new district lines — <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">altered to account for population growth and demographic change over the past decade</a> — could result in a more even split, with about 100 representatives from each major party.
+Pennsylvania’s <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">redrawn legislative lines</a> also have the potential to shift the balance of power in the General Assembly, at least in the lower chamber. Currently, 90 Democrats and 113 Republicans serve in the state House. However, nonpartisan analysis has projected that the new district lines — <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-final-state-house-map-analysis-score/">altered to account for population growth and demographic change over the past decade</a> — could result in a more even split, with about 100 representatives from each major party.
 
 Because state House and Senate districts are small enough to be politically cohesive, primaries are often the final say in an election. Of the state’s 253 legislative districts, only 15% of the seats are considered competitive — meaning the number of voters in each party is evenly distributed enough that any party could win.
 
 <b>&gt;&gt; See which incumbents are facing primary challengers </b><a href="https://www.cityandstatepa.com/politics/2022/04/your-guide-2022-primary-challengers/365433/" target="_blank"><b>here</b></a><b>.</b>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

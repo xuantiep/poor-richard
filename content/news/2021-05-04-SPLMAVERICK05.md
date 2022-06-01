@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — For the first time, the Pennsylvania legislature’s top leaders are expected to throw their weight behind reining in the influence of lobbyists who also moonlight as political consultants, blurring the worlds of politics and policy in the Capitol.
 
@@ -38,7 +38,7 @@ In the coming weeks, House Speaker Bryan Cutler and Senate President Pro Tempore
 
 Yet even as the final details of the plan are being penned, Corman is jetting off to a ritzy fundraiser organized by one in a trio of companies that has cornered the market on the business practice Corman’s lobbying reform legislation aims to stop. The Harrisburg-based firms, called The Mavericks, fundraise for elected officials, run their political campaigns, then lobby them once they are in office.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The $5,000-a-ticket fundraiser will be held this week on a PGA tour golf course in Arizona, according to a copy of the invitation obtained by The Caucus and Spotlight PA.
 
@@ -50,7 +50,7 @@ Jason Thompson, Corman’s Capitol spokesperson, said he could not comment on ca
 
 Records show Corman’s main campaign committee and a separate leadership committee he runs paid Maverick Finance and Red Maverick a combined $932,000 from 2015 to 2020.
 
-Over the past year, Corman has come under scrutiny for his close ties to Ray Zaborney. The senator <a href="https://www.spotlightpa.org/news/2020/09/pa-senate-jake-corman-lobbyist-mavericks-chief-of-staff/">hired Zaborney’s lobbying partner as his chief of staff</a> last fall and helped raise money at a California golf outing for <a href="https://www.spotlightpa.org/news/2020/08/pa-campaign-dark-money-growth-opportunity-fund-jake-corman-gop/">a secretive nonprofit Zaborney launched</a> that has engaged in some political activity.
+Over the past year, Corman has come under scrutiny for his close ties to Ray Zaborney. The senator <a href="https://lesspage.com/news/2020/09/pa-senate-jake-corman-lobbyist-mavericks-chief-of-staff/">hired Zaborney’s lobbying partner as his chief of staff</a> last fall and helped raise money at a California golf outing for <a href="https://lesspage.com/news/2020/08/pa-campaign-dark-money-growth-opportunity-fund-jake-corman-gop/">a secretive nonprofit Zaborney launched</a> that has engaged in some political activity.
 
 In emails to The Caucus and Spotlight PA last week, Zaborney said that in mid-April, he quietly shed his lobbying affiliation. He said he did so after consulting with Corman.
 
@@ -62,7 +62,7 @@ Referring to previous reporting by The Caucus and Spotlight PA on his ties to Co
 
 When asked whether Corman had given him advance notice of the legislation, Zaborney downplayed his initial statement: “I didn’t consult in a ‘what should I do’ manner, I consulted on getting a sense of if there was a part that banned political consulting and lobbying BECAUSE MY PLAN WAS TO VOLUNTARILY COMPLY IF THERE WAS.”
 
-Through his Capitol spokesperson, Corman said <a href="https://www.spotlightpa.org/news/2021/01/jake-corman-pennsylvania-senate-transparency-campaign-finance-track-record/">it is no secret in Harrisburg that he has been working on lobbying reform</a>, and that details about it are getting out.
+Through his Capitol spokesperson, Corman said <a href="https://lesspage.com/news/2021/01/jake-corman-pennsylvania-senate-transparency-campaign-finance-track-record/">it is no secret in Harrisburg that he has been working on lobbying reform</a>, and that details about it are getting out.
 
 Craig Holman, government affairs lobbyist for Public Citizen in Washington, D.C., said there has been a push nationally to ban lobbyists from campaign fundraising — and for good reason.
 
@@ -88,7 +88,7 @@ The national organization’s fundraiser will launch Wednesday with a reception 
 
 The cost: $30,000, which includes a golf foursome and a three-night stay at The Phoenician.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.%20%3Cb%3EFor%20a%20limited%20time%20only%2C%20all%20contributions%20will%20be%20matched%20dollar-for-dollar%20up%20to%20%2415%2C000.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.%20%3Cb%3EFor%20a%20limited%20time%20only%2C%20all%20contributions%20will%20be%20matched%20dollar-for-dollar%20up%20to%20%2415%2C000.%3C%2Fb%3E"></div>
 
 
 Corman’s fundraising event starts May 6 with an evening reception and continues the next day with golf at The Stadium Course at TPC Scottsdale. The course is most famous, per its website, for its “par-3, 16th hole that transforms into ‘The Coliseum’ during the tournaments and provides fans with one of the most exciting settings in professional sports.”
@@ -97,7 +97,7 @@ This spring, Corman was tapped by the Republican Legislative Campaign Committee 
 
 It spent $1.7 million to help state House Republicans keep their comfortable majority. And it spent another roughly $330,000 on a few competitive state Senate races, all of which was paid to Zaborney’s Red Maverick Media — the only Pennsylvania firm RSLC paid directly to produce and run ads in 2020, according to campaign finance filings.
 
-<a href="https://www.spotlightpa.org/news/2020/12/pennsylvania-election-2020-super-pac-john-disanto-red-maverick/">The money to Red Maverick raised questions</a>, Spotlight PA and The Caucus previously reported, because a large portion went toward ads in the Dauphin County-based state Senate matchup between Republican incumbent John DiSanto and Democratic challenger George Scott.
+<a href="https://lesspage.com/news/2020/12/pennsylvania-election-2020-super-pac-john-disanto-red-maverick/">The money to Red Maverick raised questions</a>, Spotlight PA and The Caucus previously reported, because a large portion went toward ads in the Dauphin County-based state Senate matchup between Republican incumbent John DiSanto and Democratic challenger George Scott.
 
 Red Maverick Media represented DiSanto’s campaign and worked for the RSLC. And though it is forbidden for a campaign to coordinate with an outside group like the RSLC, Zaborney said his company complied with federal rules allowing for one company to do both as long as there are internal “firewalls” preventing coordination. Zaborney worked for DiSanto’s campaign while another Red Maverick co-founder worked with RSLC, he said.
 
@@ -105,4 +105,4 @@ Under the RSLC’s larger organization, Corman and Cutler were both recently nam
 
 Cutler did not respond to a request for comment about whether he would also attend the Arizona event.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

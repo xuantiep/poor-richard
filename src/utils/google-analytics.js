@@ -74,10 +74,10 @@ function normalizeEvent(gaEvent) {
   if (action) {
     action = action.replace(
       /^(https?:\/\/(www\.)?spotlightpa\.org)/,
-      "https://www.spotlightpa.org"
+      "https://lesspage.com"
     );
     if (action.match(/checkout\.fundjournalism\.org\/memberform/)) {
-      action = "https://www.spotlightpa.org/donate/";
+      action = "https://lesspage.com/donate/";
     }
     if (action.match(/^https:\/\/www\.spotlightpa\.org.*[^/]$/)) {
       action = action + "/";
@@ -108,7 +108,7 @@ export function addGAListeners() {
   }
 
   if (!onProdSite && !onDevSite) {
-    window.location = "https://www.spotlightpa.org" + window.location.pathname;
+    window.location = "https://lesspage.com" + window.location.pathname;
   }
 
   let el = document.querySelector("[data-ga-settings]");
@@ -154,7 +154,7 @@ export function addGAListeners() {
       sendGAEvent(gaEvent);
 
       if (isInternal && el.pathname.match(/^\/donate\/?$/)) {
-        let source = "www.spotlightpa.org";
+        let source = "lesspage.com";
         if (window.frameElement && "URLSearchParams" in window) {
           let hash = window.location.hash.replace(/^#/, "");
           let hostPage = new URLSearchParams(hash).get("host_page");

@@ -17,21 +17,21 @@ title = "See how the final Pennsylvania state House map scores in every key area
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A panel has approved a new Pennsylvania House map that meets the requirements laid out in the state constitution, while creating more districts that could be won by Democrats.
 
-The Legislative Reapportionment Commission — a five-person panel composed of the top General Assembly leaders and an independent chair — <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 to approve both the state House and state Senate maps on Friday</a>.
+The Legislative Reapportionment Commission — a five-person panel composed of the top General Assembly leaders and an independent chair — <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-legislative-maps-final-vote/">voted 4-1 to approve both the state House and state Senate maps on Friday</a>.
 
-House Majority Leader Kerry Benninghoff (R., Centre) was the lone no vote, arguing that the creation of more Democratic-leaning seats in his chamber was done for political reasons. Data tests, however, show the map better reflects the partisan makeup of the state as well as <a href="https://www.spotlightpa.org/news/2021/08/pa-redistricting-2020-census-data-takeaways/" target="_blank">population shifts over the past decade</a>.
+House Majority Leader Kerry Benninghoff (R., Centre) was the lone no vote, arguing that the creation of more Democratic-leaning seats in his chamber was done for political reasons. Data tests, however, show the map better reflects the partisan makeup of the state as well as <a href="https://lesspage.com/news/2021/08/pa-redistricting-2020-census-data-takeaways/" target="_blank">population shifts over the past decade</a>.
 
 The process may not be over yet. Anyone can bring a challenge to either map to the state Supreme Court as part of a 30-day protest period that began Friday.
 
 The Pennsylvania Constitution explicitly lists four requirements for state House and Senate districts: compactness, contiguity, minimal splits, and equal population. Here’s how the final map stacks up on those and other measures:
 
-<b>&gt;&gt; MY MAP: </b><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><b>Search now to see your old and new legislative districts</b></a>
+<b>&gt;&gt; MY MAP: </b><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/"><b>Search now to see your old and new legislative districts</b></a>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Compactness
 
@@ -73,11 +73,11 @@ Competitiveness indicates how many districts have an even balance between Democr
 
 Dave’s Redistricting <b>rated the map as less competitive, labeling only 13.91% of its districts as competitive compared to the current map’s 18.65%</b>. Both are still a far cry from what Dave’s Redistricting calls a good level of competitive districts, around 75%.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## Minority representation
 
-Properly representing communities of color, <a href="https://www.spotlightpa.org/news/2021/11/pa-redistricting-latino-representation-political-power/">which are driving Pennsylvania’s population growth</a>, was a goal of high importance during the Legislative Reapportionment Commission’s meetings.
+Properly representing communities of color, <a href="https://lesspage.com/news/2021/11/pa-redistricting-latino-representation-political-power/">which are driving Pennsylvania’s population growth</a>, was a goal of high importance during the Legislative Reapportionment Commission’s meetings.
 
 When possible, mapmakers aim to create majority-minority districts — those where the majority population is constituted by a minority group.
 
@@ -87,6 +87,6 @@ In total, there are 25 districts where either one minority community or a coalit
 
 But the proposed map also creates 19 districts with minority populations that are greater than 35%, creating a meaningful voting bloc, while the current map has only 13.
 
-<i>This story was adapted from </i><a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/"><i>previous Spotlight PA reporting</i></a><i>.</i>
+<i>This story was adapted from </i><a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-state-house-map-score-analysis/"><i>previous Spotlight PA reporting</i></a><i>.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

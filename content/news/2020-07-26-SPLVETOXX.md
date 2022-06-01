@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and other news organizations across Pennsylvania. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News and other news organizations across Pennsylvania. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — After facing months of questions about his administration’s transparency during the coronavirus pandemic, Gov. Tom Wolf will allow a bill that ensures access to public records during declared emergencies to become law without his signature.
 
@@ -38,13 +38,13 @@ Despite the legislation’s unanimous approval in the General Assembly, Wolf had
 
 “While I am still very concerned about the ill-conceived and poorly drafted legislation as it pertains to protections for critical security and infrastructure during an emergency, I am going to err on the side of transparency, as I have done throughout my term, and let this bill become law,” Wolf said in a <a href="https://www.governor.pa.gov/newsroom/gov-wolf-allows-hb-2463-to-become-law/" target=_blank>statement</a> Sunday. 
 
-Republicans in the legislature have complained bitterly for months that Wolf has shielded important information about his administration’s decision-making while responding to the public health crisis. The dispute has even led some GOP lawmakers to sue the administration for records related to a <a href="https://www.spotlightpa.org/news/2020/06/coronavirus-business-waivers-pennsylvania-shutdown-governor-tom-wolf/">controversial waiver program</a> that allowed some businesses to reopen during the shutdown while others had to remain closed.
+Republicans in the legislature have complained bitterly for months that Wolf has shielded important information about his administration’s decision-making while responding to the public health crisis. The dispute has even led some GOP lawmakers to sue the administration for records related to a <a href="https://lesspage.com/news/2020/06/coronavirus-business-waivers-pennsylvania-shutdown-governor-tom-wolf/">controversial waiver program</a> that allowed some businesses to reopen during the shutdown while others had to remain closed.
 
 Rep. Seth Grove (R., York) introduced the measure after agencies under Wolf’s purview temporarily stopped processing requests made under the Right-to-Know Law in mid-March as the governor ordered a statewide shutdown.
 
 Wolf had argued Grove’s bill was flawed and would endanger state workers by forcing them to return to offices during an emergency, like the current pandemic or a natural disaster.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 “If people can’t get into the offices to actually look for something that somebody wants to know through a Right-to-Know, that makes it really hard to happen,” he said at a recent press conference. “So it’s an impractical bill "
@@ -69,7 +69,7 @@ Wolf and his office also expressed concern the bill would force the disclosure o
 
 The bill specifies that information related to disaster declarations, including data state agencies use to set policies or take actions during an emergency, should be considered public records. But there are provisions in the open-records law and Grove’s bill that protect proprietary and confidential information, according to Melissa Melewsky, media law counsel for the Pennsylvania NewsMedia Association.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 (Spotlight PA is a Pennsylvania NewsMedia Association member.)
@@ -78,9 +78,9 @@ During a Monday press conference with Grove, Melewsky said there is a heightened
 
 “When we’re dealing with extraordinary circumstances, we need extraordinary law to protect transparency in Pennsylvania,” Melewsky said. “Unfortunately, what our members ask for isn’t always provided, and in those situations, the public’s only option is to fall back on the Right-to-Know Law, and if that’s not active, that can leave a significant hole in transparency.”
 
-While he will allow the bill to become law, Wolf said in a statement Sunday he considers it “no more than a talking point for many in the General Assembly.” He called on the legislature to pass another measure that would make <a href="https://www.spotlightpa.org/news/2020/03/pennsylvania-legislature-open-records-special-law/" target=_blank>lawmakers’ now-secret emails and calendars</a> available to the public. 
+While he will allow the bill to become law, Wolf said in a statement Sunday he considers it “no more than a talking point for many in the General Assembly.” He called on the legislature to pass another measure that would make <a href="https://lesspage.com/news/2020/03/pennsylvania-legislature-open-records-special-law/" target=_blank>lawmakers’ now-secret emails and calendars</a> available to the public. 
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
 

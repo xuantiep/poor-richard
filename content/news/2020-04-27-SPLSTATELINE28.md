@@ -19,13 +19,13 @@ title = "States need coronavirus data to make timely decisions. What they share 
 topics = ["Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 With the coronavirus pandemic, timing is everything. When should states shut down? When should they reopen? Which hospitals need the most supplies right now? Across the United States, those decisions largely hinge on accurate public health data.
 
 And yet, how much information is shared with the public varies widely among the states.
 
-As part of a collaborative effort, <a href="https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline">Stateline</a> and <a href="https://www.spotlightpa.org/">Spotlight PA</a> surveyed six states — <a href="https://covid19.colorado.gov/data/case-data">Colorado</a>, <a href="https://dph.georgia.gov/covid-19-daily-status-report">Georgia</a>, <a href="https://coronavirus.maryland.gov/">Maryland</a>, <a href="https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx">Pennsylvania</a>, <a href="https://web.archive.org/web/20220514071328/https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19">South Carolina</a>, and <a href="https://www.doh.wa.gov/emergencies/coronavirus">Washington</a> — to determine what information they have made accessible to the public via their websites.
+As part of a collaborative effort, <a href="https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline">Stateline</a> and <a href="https://lesspage.com/">Spotlight PA</a> surveyed six states — <a href="https://covid19.colorado.gov/data/case-data">Colorado</a>, <a href="https://dph.georgia.gov/covid-19-daily-status-report">Georgia</a>, <a href="https://coronavirus.maryland.gov/">Maryland</a>, <a href="https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx">Pennsylvania</a>, <a href="https://web.archive.org/web/20220514071328/https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-testing-data-projections-covid-19">South Carolina</a>, and <a href="https://www.doh.wa.gov/emergencies/coronavirus">Washington</a> — to determine what information they have made accessible to the public via their websites.
 
 All six are regularly releasing data on cases by age, sex, and county. But beyond those basic numbers, the patchwork of available information shows the differing abilities of health officials to accurately collect and report data, as well as how much they believe the public needs to know.
 
@@ -33,7 +33,7 @@ The demand from the public has largely centered on where positive cases and deat
 
 In recent weeks, policymakers and advocates have pressed officials to begin reporting more demographic data about both positive cases and those who have been tested. In particular, racial data have proved critical, as early numbers indicated communities of color were being disproportionately harmed. Calls for more transparency have revealed systemic failures by some states to collect that information when tests are administered.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 What’s clearer from the available data: Seniors are <a href="https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm">dying at higher rates</a> than adults and children. Long-term-care facilities have proved to be tinderboxes for outbreaks, though a lack of federal data has obscured the extent of the situation. At the same time, some states are resisting calls to make facility-specific information available to the public.
 
@@ -73,7 +73,7 @@ Data on the race and ethnicity of people infected and killed by COVID-19 is cruc
 
 All six states are now releasing racial data for reported cases. But some have struggled to collect a complete picture from labs, physicians, and hospitals.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 “Our ability to report data on race and ethnicity really depends on that data being reported to the state,” Colorado State Epidemiologist Rachel Herlihy recently told reporters. “Our strategy going forward is to get that data from the beginning.”
@@ -119,6 +119,6 @@ The state has cited a decades-old law to hold back the names of nursing homes wi
 
 <i>Alex Brown, Sophie Quinton, and Michael Ollove of Stateline contributed to this article. This story includes previous reporting published by The Inquirer and Spotlight PA. </i>
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3Ehow%20Pa.'s%20government%20is%20responding%20to%20the%20coronavirus%3C%2Fb%3E%3F%20Tell%20us."></div>

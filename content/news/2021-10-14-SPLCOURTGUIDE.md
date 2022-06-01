@@ -18,7 +18,7 @@ title = "A full guide to Pennsylvania’s 2021 Supreme Court election and other 
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — On Nov. 2, voters statewide will have the opportunity to choose a new justice for the Pennsylvania Supreme Court, as well as judges for two other powerful appellate courts.
 
@@ -28,7 +28,7 @@ The decisions handed down by the Commonwealth, Superior, and Supreme Courts impa
 
 “The judges in these positions really rule on every aspect of a person’s or business’ life.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 In the past few years, these higher courts have been asked to settle major disputes between Democratic Gov. Tom Wolf’s administration and the Republican-controlled legislature, including the state’s handling of the pandemic, how it runs elections, and more.
 
@@ -38,7 +38,7 @@ Even so, turnout in judicial elections is <a href="https://www.pennlive.com/news
 
 Here’s a full guide on what you need to know about Pennsylvania’s 2021 Supreme Court election and other appellate races before you go to the polls.
 
-And <a href="https://www.spotlightpa.org/news/2021/10/pa-elections-2021-judicial-appellate/">don’t miss this recording of Spotlight PA’s live event on Oct. 21</a> for even more information on why these races matter.
+And <a href="https://lesspage.com/news/2021/10/pa-elections-2021-judicial-appellate/">don’t miss this recording of Spotlight PA’s live event on Oct. 21</a> for even more information on why these races matter.
 
 ## Supreme Court
 
@@ -48,7 +48,7 @@ The court chooses which appeals it wants to hear, and thus makes decisions in on
 
 In recent years, it threw out Pennsylvania’s gerrymandered congressional map, upheld Gov. Tom Wolf’s coronavirus pandemic restrictions, and allowed counties to accept mail ballots that arrived up to three days after the Nov. 3, 2020 election.
 
-These rulings have made the court a target among some Republicans, <a href="https://www.spotlightpa.org/news/2021/01/pennsylvania-supreme-court-gerrymandering-judicial-districts/">who want appellate judges to run in district elections, rather than statewide ones</a>. Efforts to send a question about making that change to voters are on hold for now, but advocates expect the issue to resurface.
+These rulings have made the court a target among some Republicans, <a href="https://lesspage.com/news/2021/01/pennsylvania-supreme-court-gerrymandering-judicial-districts/">who want appellate judges to run in district elections, rather than statewide ones</a>. Efforts to send a question about making that change to voters are on hold for now, but advocates expect the issue to resurface.
 
 ### Candidates
 
@@ -68,7 +68,7 @@ Brobson sat on the Supreme Court for one case, involving a <a href="https://law.
 
 The Pennsylvania Bar Association rated Brobson highly recommended. Read his answers to the PBA questionnaire <a href="https://www.pabar.org/public/news%20releases/21jec/KevinBrobsonSupreme.pdf">here</a>.
 
-<b><i>READ MORE: <a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-2021-biggest-donors/">Powerful special interests are pouring millions into the 2021 Pa. Supreme Court race</a></b></i>
+<b><i>READ MORE: <a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-2021-biggest-donors/">Powerful special interests are pouring millions into the 2021 Pa. Supreme Court race</a></b></i>
 
 ## Superior Court
 
@@ -116,12 +116,12 @@ As a Common Pleas judge, Spurgeon hears family law cases.
 
 He is highly recommended by the Pennsylvania Bar Association. Read his answers to the PBA questionnaire <a href="https://www.pabar.org/public/news%20releases/21jec/DavidSpurgeonCommonwealth.pdf">here</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future."></div>
 
 
 <b>Drew Crompton, Republican: </b>Crompton currently serves on Commonwealth Court as an appointee. He must be elected to keep his seat.
 
-Before <a href="https://www.spotlightpa.org/news/2019/11/wolf-judicial-vacancies-drew-crompton-commonwealth-court/">being appointed to the court by Gov. Tom Wolf</a>, Crompton served as chief of staff and counsel to former state Senate President Pro Tempore Joe Scarnati (R., Jefferson). He was also general counsel to the Senate Republican Caucus.
+Before <a href="https://lesspage.com/news/2019/11/wolf-judicial-vacancies-drew-crompton-commonwealth-court/">being appointed to the court by Gov. Tom Wolf</a>, Crompton served as chief of staff and counsel to former state Senate President Pro Tempore Joe Scarnati (R., Jefferson). He was also general counsel to the Senate Republican Caucus.
 
 As a Commonwealth Court judge, Crompton has heard workers’ compensation and unemployment cases as well as zoning, election, and other governmental disputes.
 
@@ -131,4 +131,4 @@ He is recommended by the Pennsylvania Bar Association. Read his answers to the P
 
 She is <a href="https://www.pabar.org/site/For-Lawyers/Committees-Commissions/Judicial-Evaluation/Resources/JEC-Ratings/2021/Commonwealth-Court">not recommended</a> by the Pennsylvania Bar Association. The PBA found that while the community holds Wallace in high regard, she “lacks the depth and breadth of experience and preparation necessary” to be a judge on the Commonwealth Court. Read her answers to the PBA questionnaire <a href="https://www.pabar.org/public/news%20releases/21jec/StacyWallaceCommonwealth.pdf">here</a>.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

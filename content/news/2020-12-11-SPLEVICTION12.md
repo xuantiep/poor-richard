@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Hundreds of thousands of families across Pennsylvania could lose their homes in January, after emergency unemployment benefits and federal eviction protections expire and as the state grapples with record numbers of new coronavirus cases.
 
@@ -42,11 +42,11 @@ The countdown to 2021, for Kull, is agonizing.
 
 “I don’t even want to watch the news anymore,” she said.
 
-Unless the CDC extends its ban, or Congress passes another COVID-19 relief package that includes further protections, tenants like her have little hope of staying in their homes. Even with the CDC order in place, loopholes and a lack of clear statewide guidance have let some who should be protected <a href="https://www.spotlightpa.org/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">slip through the cracks</a>.
+Unless the CDC extends its ban, or Congress passes another COVID-19 relief package that includes further protections, tenants like her have little hope of staying in their homes. Even with the CDC order in place, loopholes and a lack of clear statewide guidance have let some who should be protected <a href="https://lesspage.com/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">slip through the cracks</a>.
 
 Congress is considering a <a href="https://www.manchin.senate.gov/imo/media/doc/COVID%20Emergency%20Relief%20Framework.pdf?cb">$908 billion plan</a> put together by a bipartisan group of lawmakers, which includes $25 billion for housing and rental assistance. But it’s come after months of stalemate, and the plan remains in flux while details are being negotiated.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/"></div>
 
 Barring an extension, or immediate relief from Congress, an estimated 240,000 families — 15% of Pennsylvania renters will face eviction — according to an analysis by the nonprofit Housing Alliance of Pennsylvania, which advocates for state policy changes.
 
@@ -58,7 +58,7 @@ The federal ban was put in place in September in an effort to control the corona
 
 Yet Gov. Tom Wolf warned Monday that the health-care system is under strain as cases rise rapidly.
 
-“Over the course of the past two weeks, Pennsylvania’s situation has become even more dire,” said Wolf, who <a href="https://www.spotlightpa.org/news/2020/12/governor-tom-wolf-coronavirus-positive-pennsylvania/" target=_blank>announced Wednesday he had tested positive for COVID-19</a>.
+“Over the course of the past two weeks, Pennsylvania’s situation has become even more dire,” said Wolf, who <a href="https://lesspage.com/news/2020/12/governor-tom-wolf-coronavirus-positive-pennsylvania/" target=_blank>announced Wednesday he had tested positive for COVID-19</a>.
 
 “If the worst happens, hospitals will not be able to treat all sick Pennsylvanians,” he said. “That is simply unacceptable.”
 
@@ -102,13 +102,13 @@ Even if a deal is struck before the end of the year, Reynolds said, there’s no
 
 “It could take months for the funding to get out there,” she said.
 
-And the state’s efforts to use federal CARES Act money to shore up the rental market have <a href="https://www.spotlightpa.org/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/">floundered</a>. Pennsylvania’s major rent relief program stopped taking applications Nov. 4 and will likely end with millions of dollars unused. Bureaucratic obstacles in the law creating the program — including a $750 monthly cap on rental payments and onerous paperwork requirements — left many eligible tenants unable to get help.
+And the state’s efforts to use federal CARES Act money to shore up the rental market have <a href="https://lesspage.com/news/2020/08/pa-evictions-ban-rental-assistance-program-coronavirus-flaws/">floundered</a>. Pennsylvania’s major rent relief program stopped taking applications Nov. 4 and will likely end with millions of dollars unused. Bureaucratic obstacles in the law creating the program — including a $750 monthly cap on rental payments and onerous paperwork requirements — left many eligible tenants unable to get help.
 
-GOP leaders in the state Senate <a href="https://www.spotlightpa.org/news/2020/10/pa-rental-assistance-program-bill-house-senate-republicans/">did not consider</a> a bill to fix those issues, saying that limited administrative steps taken by Wolf to improve the program went <a href="https://www.spotlightpa.org/news/2020/10/pa-coronavirus-rent-relief-program-wolf-landlords-payment-plans/">far enough</a>. After passing the budget in late November, the state legislature is not due back in session until next year.
+GOP leaders in the state Senate <a href="https://lesspage.com/news/2020/10/pa-rental-assistance-program-bill-house-senate-republicans/">did not consider</a> a bill to fix those issues, saying that limited administrative steps taken by Wolf to improve the program went <a href="https://lesspage.com/news/2020/10/pa-coronavirus-rent-relief-program-wolf-landlords-payment-plans/">far enough</a>. After passing the budget in late November, the state legislature is not due back in session until next year.
 
 A CDC spokesperson said the agency could not discuss whether the eviction ban would be extended due to pending litigation. The National Apartment Association, a trade association that represents more than 55,000 property owners, has challenged the ban in a federal lawsuit, arguing it denies landlords access to the courts and the agency did not have the authority to issue it.
 
-If an extension does occur, there are still <a href="https://www.spotlightpa.org/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">loopholes</a> that leave some tenants vulnerable.
+If an extension does occur, there are still <a href="https://lesspage.com/news/2020/11/pa-eviction-cdc-ban-loophole-renters-despair/">loopholes</a> that leave some tenants vulnerable.
 
 In September, when David Sulitz’s landlord tried to evict him and his family from their house in Monongahela, near Pittsburgh, over one month’s late rent, they were protected by the CDC order.
 
@@ -120,4 +120,4 @@ Sulitz had been quarantining, waiting for the results of a COVID-19 test as the 
 
 “I’m just running out of time with everything right now,” he said.
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -26,7 +26,7 @@ Then I moved to Pennsylvania.
 
 The first records request I filed here, for consumer complaints, was promptly dismissed. They largely aren’t obtainable in the state.
 
-Even when the law is on my side, barriers to access pop up frequently. Access to government records here is so dire, in fact, that the [Reporters Committee for Freedom of the Press](https://www.rcfp.org/local/) recently announced it’s [sending a dedicated lawyer to fight for access](https://www.spotlightpa.org/news/2020/01/local-legal-initiative/) on behalf of Pennsylvania journalists.
+Even when the law is on my side, barriers to access pop up frequently. Access to government records here is so dire, in fact, that the [Reporters Committee for Freedom of the Press](https://www.rcfp.org/local/) recently announced it’s [sending a dedicated lawyer to fight for access](https://lesspage.com/news/2020/01/local-legal-initiative/) on behalf of Pennsylvania journalists.
 
 So, yes, last week’s poll result was welcome news. Of 628 registered voters, 79% agreed that “citizens should have the right to obtain any government record with few restrictions.”
 

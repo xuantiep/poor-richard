@@ -19,7 +19,7 @@ title = "How a mail ballot ruling in Pa. could affect 2022 primary election resu
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — A federal appeals court ruled Friday that election officials in one Pennsylvania county must count legally cast mail ballots signed by a voter even if they lack a date on the outer envelope.
 
@@ -29,7 +29,7 @@ Here’s an explainer of the ruling and what comes next:
 
 <i>Last updated: 2:10 p.m., May 25</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## Who brought the lawsuit, and why?
 
@@ -63,7 +63,7 @@ The Republican candidate in the race, meanwhile, has <a href="https://www.wfmz.c
 
 Ultimately, the ruling may have broad impacts.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SPRING%20MEMBER%20DRIVE%20&cta_text=GIVE%20NOW%2C%20WE'LL%20DOUBLE%20IT&teaser_text=This%20story%20by%20Spotlight%20PA%20is%20available%20to%20everyone%20at%20no%20cost%20thanks%20to%20our%20members.%20%3Cb%3EMake%20a%20gift%20during%20our%20spring%20member%20drive%20and%20your%20support%20will%20be%20DOUBLED.%3C%2Fb%3E"></div>
 
 The order was released just days after the May 17 primary, which featured at least two tightly contested races that could be decided by a handful of votes.
 
@@ -91,4 +91,4 @@ In the midst of this legal maelstrom, some county election officials will be pla
 
 “The thing that will give any county pause is the situation continues to evolve very rapidly,” he said.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

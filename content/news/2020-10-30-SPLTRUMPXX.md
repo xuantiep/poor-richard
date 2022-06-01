@@ -18,7 +18,7 @@ title = "Trump threatened to withhold aid from Pa. as coronavirus cases, hospita
 topics = ["Coronavirus"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — In a precarious position in the polls and with his focus fixed on the swing state of Pennsylvania, President Donald Trump has had no shortage of criticisms — many of them rooted in falsehoods — for Gov. Tom Wolf.
 
@@ -32,7 +32,7 @@ So how worried should Pennsylvania residents be about possible retribution?
 
 The president’s statements aimed at Wolf are part of a pattern that politicizes the government’s disaster response, said Jeff Schlegelmilch, director of the National Center for Disaster Preparedness at Columbia University’s Earth Institute.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Earlier this month, shortly after the president wrote on Twitter that “California is going to hell. Vote Trump!”, his administration rejected a disaster declaration for the state’s wildfires. <a href="https://www.washingtonpost.com/business/trump-changes-course-approves-california-relief-for-6-fires/2020/10/16/54c57a42-100e-11eb-b404-8d1e675ec701_story.html">Less than two days later</a> and facing criticism, Trump reversed course and approved California’s request, even before the state could go through <a href="https://www.eenews.net/stories/1063716473">the appeals process.</a>
 
@@ -74,7 +74,7 @@ Schlegelmilch, of the National Center for Disaster Preparedness, said some peopl
 
 But he said that hasn’t been a mainstream concern until the Trump administration.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 A 2019 study from University of Michigan researchers found “the federal government responded on a larger scale and much more quickly” to hurricanes in Texas and Florida, compared to Hurricane Maria in Puerto Rico.
 
@@ -82,10 +82,10 @@ For the coronavirus, Schlegelmilch said the Trump administration hasn’t done e
 
 The Trump administration approved a disaster declaration for Pennsylvania in March <a href="http://web.archive.org/web/20210119111652/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-pennsylvania-disaster-declaration-2/">in response to the coronavirus pandemic</a>. The state expects to receive about $29.7 million in disaster relief through FEMA’s Public Assistance program.
 
-That’s a small fraction of the billions Congress and the Trump administration have sent to Pennsylvania through the <a href="https://www.spotlightpa.org/news/2020/06/pennsylvania-coronavirus-cares-money-hospitals-child-care-fraud/">CARES Act</a> and <a href="https://www.washingtonpost.com/us-policy/2020/09/11/lost-wages-unemployment-assistance-expiring/">enhanced unemployment payments</a>. Wolf and the bipartisan National Governors Association have urged Congress and the president to pass another <a href="https://www.nga.org/news/press-releases/congress-failure-to-reach-agreement-on-aid-to-state-and-local-governments-leaves-them-in-an-untenable-position/">massive relief package.</a>
+That’s a small fraction of the billions Congress and the Trump administration have sent to Pennsylvania through the <a href="https://lesspage.com/news/2020/06/pennsylvania-coronavirus-cares-money-hospitals-child-care-fraud/">CARES Act</a> and <a href="https://www.washingtonpost.com/us-policy/2020/09/11/lost-wages-unemployment-assistance-expiring/">enhanced unemployment payments</a>. Wolf and the bipartisan National Governors Association have urged Congress and the president to pass another <a href="https://www.nga.org/news/press-releases/congress-failure-to-reach-agreement-on-aid-to-state-and-local-governments-leaves-them-in-an-untenable-position/">massive relief package.</a>
 
 During an interview on MSNBC on Tuesday, Wolf defended the state’s approach to the coronavirus — and took a shot at Trump’s re-election chances.
 
 “He really has to take Pennsylvania and evidently doesn’t feel very good about it,” <a href="https://www.youtube.com/watch?v=v5ZB1oO3-uk">Wolf said.</a> “So he has been here numerous times and is picking on a couple people here, including me.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

@@ -18,16 +18,16 @@ title = "See the top donors in this year’s hotly contested 2021 Pa. Supreme Co
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-HARRISBURG — <a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-2021-biggest-donors/" target="_blank">Millions of dollars from special interests and political groups are pouring into the 2021 Pennsylvania Supreme Court election</a>, a clear sign of the importance of the race and the potential future decisions that could hang in the balance.
+HARRISBURG — <a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-2021-biggest-donors/" target="_blank">Millions of dollars from special interests and political groups are pouring into the 2021 Pennsylvania Supreme Court election</a>, a clear sign of the importance of the race and the potential future decisions that could hang in the balance.
 
 The Nov. 2 election to replace outgoing Justice Thomas Saylor, a Republican, will not change the balance of power on the bench, where Democrats currently hold five of seven seats. But the new justice will have a hand in what cases the court accepts and will weigh in on significant matters in the coming months, including one that could change how the state funds its poorest school districts.
 
 The large-scale donations to both campaigns also showcase the state’s lax campaign finance rules, which place no limits on contributions, allowing deep-pocketed individuals and PACs to sway election outcomes. Pennsylvania is one of the few states that elects appellate court judges, including Supreme Court justices, through partisan races.
 
-You can <a href="https://www.spotlightpa.org/news/2021/10/pa-supreme-court-election-2021-biggest-donors/" target="_blank">read the full story here</a>, or check out this breakdown of the top donors so far to the campaigns of Democrat Maria McLaughlin, who this year has raised nearly $2.7 million, and Republican Kevin Brobson, who has raked in $2.8 million.
+You can <a href="https://lesspage.com/news/2021/10/pa-supreme-court-election-2021-biggest-donors/" target="_blank">read the full story here</a>, or check out this breakdown of the top donors so far to the campaigns of Democrat Maria McLaughlin, who this year has raised nearly $2.7 million, and Republican Kevin Brobson, who has raked in $2.8 million.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 <div class="flourish-embed flourish-table" data-src="visualisation/7633039"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

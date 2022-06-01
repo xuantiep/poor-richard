@@ -10,7 +10,7 @@ url = "/about/faq/"
 
 **Q: What is Spotlight PA’s mission?**
 
-**A:** The [mission of Spotlight PA](https://www.spotlightpa.org/about/) is to hold powerful private and public forces in Pennsylvania — especially governments, businesses and special interests — to account through urgent and compelling investigative journalism that drives change and strengthens our democracy, the state and all who live here.
+**A:** The [mission of Spotlight PA](https://lesspage.com/about/) is to hold powerful private and public forces in Pennsylvania — especially governments, businesses and special interests — to account through urgent and compelling investigative journalism that drives change and strengthens our democracy, the state and all who live here.
 
 **Q: Why was Spotlight PA created?**
 
@@ -26,7 +26,7 @@ url = "/about/faq/"
 
 **Q: How do I support Spotlight PA?**
 
-**A:** You can [become a member of Spotlight PA here](https://www.spotlightpa.org/donate). If you would like to send a check or discuss other ways to support our mission, contact [joanna@spotlightpa.org](mailto:joanna@spotlightpa.org).
+**A:** You can [become a member of Spotlight PA here](https://lesspage.com/donate). If you would like to send a check or discuss other ways to support our mission, contact [joanna@spotlightpa.org](mailto:joanna@spotlightpa.org).
 
 **Q: How do I change a recurring donation or update my credit card?**
 
@@ -54,7 +54,7 @@ url = "/about/faq/"
 
 **Q: Where does Spotlight PA’s work appear?**
 
-**A:** All Spotlight PA stories appear on our website, [spotlightpa.org](https://www.spotlightpa.org). Spotlight PA stories also appear in [The Philadelphia Inquirer / Inquirer.com](https://www.inquirer.com), [The Patriot-News / PennLive.com](https://www.pennlive.com), [TribLIVE/Pittsburgh Tribune Review](https://www.triblive.com), [WITF Public Media](https://www.witf.org), as well as across [a growing network of other Pennsylvania news organizations](/about/partners/).
+**A:** All Spotlight PA stories appear on our website, [spotlightpa.org](https://lesspage.com). Spotlight PA stories also appear in [The Philadelphia Inquirer / Inquirer.com](https://www.inquirer.com), [The Patriot-News / PennLive.com](https://www.pennlive.com), [TribLIVE/Pittsburgh Tribune Review](https://www.triblive.com), [WITF Public Media](https://www.witf.org), as well as across [a growing network of other Pennsylvania news organizations](/about/partners/).
 
 **Q: Will Spotlight PA share its content with other news organizations?**
 
@@ -62,11 +62,11 @@ url = "/about/faq/"
 
 **Q: Who are Spotlight PA’s reporters?**
 
-**A:** Meet [Spotlight PA's team of award-winning investigative reporters](https://www.spotlightpa.org/about/staff/).
+**A:** Meet [Spotlight PA's team of award-winning investigative reporters](https://lesspage.com/about/staff/).
 
 **Q: How can I securely send a tip to Spotlight PA?**
 
-**A:** There are many ways to [send tips to the Spotlight PA team](https://www.spotlightpa.org/tips/).
+**A:** There are many ways to [send tips to the Spotlight PA team](https://lesspage.com/tips/).
 
 **Q: What makes Spotlight PA’s model for journalism unique?**
 
@@ -90,7 +90,7 @@ url = "/about/faq/"
 
 **Q: How do I stay updated on Spotlight PA’s work?**
 
-**A:** You can [sign up for our weekly newsletter, The Investigator, here](https://www.spotlightpa.org/newsletters).
+**A:** You can [sign up for our weekly newsletter, The Investigator, here](https://lesspage.com/newsletters).
 
 **Q: How do I pitch an idea to Spotlight PA?**
 
@@ -98,7 +98,7 @@ url = "/about/faq/"
 
 **Q: How do I contact Spotlight PA reporters?**
 
-**A:** Check out the [contact information for all Spotlight PA reporters](https://www.spotlightpa.org/about/staff/).
+**A:** Check out the [contact information for all Spotlight PA reporters](https://lesspage.com/about/staff/).
 
 **Q: What is Spotlight PA’s corrections policy?**
 

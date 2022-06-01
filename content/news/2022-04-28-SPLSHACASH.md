@@ -19,7 +19,7 @@ title = "Pa. Election Day 2022: See how much money Democrat Josh Shapiro has rai
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Democratic gubernatorial candidate Josh Shapiro has raised nearly $18 million in campaign contributions over the past 15 months&nbsp; — more than all nine of his potential Republican opponents combined.
 
@@ -27,15 +27,15 @@ From labor unions in Pennsylvania to a Democratic megadonor in California and ph
 
 Unlike the GOP hopefuls who are depleting their campaign accounts fighting for supremacy in a crowded field, Shapiro does not have a Democratic challenger. That has given the current attorney general the chance to avoid a frenzied spring of politicking and instead focus on wooing traditional — and a few unexpected — donors ahead of a fall race that could break campaign spending records in the state.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-That lack of opponents has also allowed him to avoid spending much of the money he’s raised, campaign records show, leaving him with a cash balance of just over $16 million at the start of April. In contrast, <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">the GOP candidates began the month with far less money on hand</a>. Former U.S. Attorney Bill McSwain had the most available, with $1.7 million in his campaign account.
+That lack of opponents has also allowed him to avoid spending much of the money he’s raised, campaign records show, leaving him with a cash balance of just over $16 million at the start of April. In contrast, <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/">the GOP candidates began the month with far less money on hand</a>. Former U.S. Attorney Bill McSwain had the most available, with $1.7 million in his campaign account.
 
 Still, large national groups such as the Democratic and Republican governors associations have yet to start pouring money into Pennsylvania, a key battleground in both the 2022 midterm and 2024 presidential elections. Such infusions of cash could swiftly change Pennsylvania’s fundraising landscape after the May primary.
 
 Also a potential game-changer in the coming months: so-called independent expenditures by people or groups who can’t coordinate with campaigns, but who can still spend money on television ads, mailers, and other materials that can help a specific candidate.
 
-<b>&gt;&gt; READ MORE: </b><a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/"><b>See how much money the GOP candidates for governor have raised</b></a>
+<b>&gt;&gt; READ MORE: </b><a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/"><b>See how much money the GOP candidates for governor have raised</b></a>
 
 The stakes are high. The person who wins the governor’s office sets the state’s political and policy agenda and has the power to appoint cabinet members with broad authority, including election oversight. Depending on which party controls the legislature, the outcome of the governor’s race could profoundly alter the future direction of Pennsylvania.
 
@@ -55,7 +55,7 @@ The Greater PA Carpenters PAC in Philadelphia tops the list of union donors so f
 
 Yet with more than six months left before the general election, it is Shapiro’s individual donors who stand out for their six-figure contributions.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Billionaire Thomas Hagen, the board chair of Erie Indemnity Company who was ranked 951st on <a href="https://www.forbes.com/billionaires/">Forbes’ list of richest people in the world</a> as of April 27, gave Shapiro $500,000 in two separate donations last year, according to campaign records.
 
@@ -69,10 +69,10 @@ Also included are more expected supporters, such as Wolf, a known Shapiro suppor
 
 <b>READ MORE:</b>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
+- <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">Your guide to the Democratic and GOP candidates for governor</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
+- <a href="https://lesspage.com/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">A guide to the primary race few voters are paying attention to</a>
 
-- <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
+- <a href="https://lesspage.com/news/2022/02/pennsylvania-election-2022-questions-answers/">Pa. election 2022: Tell Spotlight PA what coverage matters to you</a>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

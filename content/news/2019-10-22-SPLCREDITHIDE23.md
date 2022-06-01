@@ -30,15 +30,15 @@ series = ["Campaign Finance 2019"]
 })();
 </script>
 
-The same day an investigation revealed how Pennsylvania state lawmakers [hide millions of dollars in campaign spending from public scrutiny](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/), the Legislature advanced a measure that would make it even harder to hold them accountable.
+The same day an investigation revealed how Pennsylvania state lawmakers [hide millions of dollars in campaign spending from public scrutiny](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/), the Legislature advanced a measure that would make it even harder to hold them accountable.
 
-The investigation, published Tuesday by The Caucus and Spotlight PA, found lawmakers [use credit cards, gift cards and self-reimbursements to shield sometimes lavish campaign spending](https://www.spotlightpa.org/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Expenses included pricey dinners, foreign trips, sports tickets, a country club membership and even a DNA test kit.
+The investigation, published Tuesday by The Caucus and Spotlight PA, found lawmakers [use credit cards, gift cards and self-reimbursements to shield sometimes lavish campaign spending](https://lesspage.com/news/2019/10/lavish-dinners-sports-tickets-and-nearly-3.5-million-other-expenses-by-pa.-lawmakers-youve-never-seen/). Expenses included pricey dinners, foreign trips, sports tickets, a country club membership and even a DNA test kit.
 
 None of those items were included in publicly available campaign finance reports. They were brought to light only after reporters used a little-known provision of state election law that requires campaigns to keep “vouchers,” or receipts, for the past three years and make them available upon request.
 
 But hours after the investigation debuted, lawmakers quietly tucked a new provision into a lengthy voting reform bill that could make it even harder for the public to access those expenses. The change would remove oversight from the Department of State and leave it up to politicians to respond to requests.
 
-***» DONATE NOW and*** [***support future investigations that hold the powerful in Pennsylvania to account***](https://www.spotlightpa.org/donate)***.*** [***Become a Founding Donor now***](https://www.spotlightpa.org/donate) ***and support our team of investigative journalists.***
+***» DONATE NOW and*** [***support future investigations that hold the powerful in Pennsylvania to account***](https://lesspage.com/donate)***.*** [***Become a Founding Donor now***](https://lesspage.com/donate) ***and support our team of investigative journalists.***
 
 In lieu of the department’s oversight, the public would be forced to sue in court if campaigns refuse a request, a potentially expensive and lengthy process. Campaigns could also deny requestors access if they make multiple requests for the same records and “the repeated requests have placed an unreasonable burden,” according to language inserted into the bill.
 
@@ -52,7 +52,7 @@ The head of the Republican-controlled Senate, Joe Scarnati, led all lawmakers in
 
 “This language had several authors,” Crompton said. “The primary author wasn’t Sen. Scarnati.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Scarnati’s campaign took six months to provide records requested as part of the investigation, far more than the 30 days it’s supposed to take under current law. Also, the campaign attempted to charge the news organizations more than $1,800 to reimburse the campaign’s accountant for the time she spent assembling the records.
 

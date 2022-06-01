@@ -26,7 +26,7 @@ Skill games — which are now common in restaurants, taverns, convenience stores
 
 That status has made them a prime target. The casino industry has complained that skill games operate with little to no financial or social accountability, and the State Police view them as tantamount to illegal gambling. Troopers have seized machines from bars and other venues over the past few years, leading to extensive litigation. There is a case now before Pennsylvania’s Commonwealth Court to determine whether skill games are legal.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Skill games proponents counter that a series of court rulings has settled the question of their legality. They say they are open to legislation to formally legalize and regulate the machines.
 
@@ -38,4 +38,4 @@ But the appellate court, in a separate case, has yet to weigh in on whether skil
 
 Meanwhile, legislators in the Capitol have been unable to find a compromise on skill games, in part because of pushback from lobbyists on both sides of the issue. A solution seems unlikely in this two-year legislative session, which ends in November.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

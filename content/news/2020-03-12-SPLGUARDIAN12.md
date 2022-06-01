@@ -18,7 +18,7 @@ subtitle = ""
 linktitle = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — More than five years ago, Pennsylvania identified widespread problems with its system of appointing and overseeing guardians — the legal decision-makers, chosen by judges, who manage the affairs of adults who are unable to care for themselves.
 
@@ -137,7 +137,7 @@ Hamel, the director of the office overseeing reforms, said the tool is “meant 
 
 Still, her office has marked two recommendations for adequate funding to support guardianship monitoring as “accomplished,” citing the new technology.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3EPennsylvania%E2%80%99s%20guardianship%20system%3C%2Fb%3E%3F%20Let%20us%20know."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20%3Cb%3EPennsylvania%E2%80%99s%20guardianship%20system%3C%2Fb%3E%3F%20Let%20us%20know."></div>
 
 
-<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

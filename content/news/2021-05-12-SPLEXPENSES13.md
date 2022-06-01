@@ -115,7 +115,7 @@ About one in 10 of those dollars — $20 million in all over the four years — 
 
 Records documenting that spending legally belong to the people who ultimately foot the bill: the taxpayers. But in practice, citizens who want to see what lawmakers are buying with their money face an array of barriers, delays, and even pushback from lawyers hired by the General Assembly with yet more taxpayer money, the news organizations found.
 
-When the records finally do arrive, they’re not in easy-to-analyze formats such as spreadsheets. Rather, the legislature provides the data in PDF files that can run more than 1,000 pages, some of which aren’t text-searchable. <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-senate-legislative-privilege-records-redactions-appeal/">Redactions, some of which strain credulity, are routine</a>.
+When the records finally do arrive, they’re not in easy-to-analyze formats such as spreadsheets. Rather, the legislature provides the data in PDF files that can run more than 1,000 pages, some of which aren’t text-searchable. <a href="https://lesspage.com/news/2020/04/pennsylvania-senate-legislative-privilege-records-redactions-appeal/">Redactions, some of which strain credulity, are routine</a>.
 
 “There’s a reason they make this information hard to get,” said Tim Potts, a retired top-level House staffer and now a citizen activist. “It’s not a good reason. It’s a reason that’s self-serving rather than serving the public.”
 
@@ -168,7 +168,7 @@ Indeed, the legislature’s budget documents, as well as its annual audits, only
 
 What the public doesn’t see, for instance: that the legislature spent $6.5 million on mileage, another $1.1 million on meals, and $4.2 million just for legislators to stay in the capital during voting sessions, according to the analysis by The Caucus and Spotlight PA.
 
-Of the money shelled out on that one day in March 2019, more than $23,000 — or just over 17% — went straight into lawmakers’ pockets in the form of <a href="https://www.spotlightpa.org/news/2021/03/pa-coronavirus-lawmakers-legislature-expenses-highest-paid-united-states/">per diems, the much-maligned, lump-sum payments for coming to the state Capitol for voting sessions</a>, hearings, meetings, and other business that Pennsylvania’s 253 legislators are allowed to claim without providing receipts.
+Of the money shelled out on that one day in March 2019, more than $23,000 — or just over 17% — went straight into lawmakers’ pockets in the form of <a href="https://lesspage.com/news/2021/03/pa-coronavirus-lawmakers-legislature-expenses-highest-paid-united-states/">per diems, the much-maligned, lump-sum payments for coming to the state Capitol for voting sessions</a>, hearings, meetings, and other business that Pennsylvania’s 253 legislators are allowed to claim without providing receipts.
 
 Lawmakers attending the session that day spent another $2,700 to feed themselves and their guests, and more than $7,000 on lodging.
 
@@ -264,7 +264,7 @@ For example, a House Democratic Caucus expense of $73.46 to reimburse a staffer 
 
 The actual receipt of the transaction, acquired through a follow-up request, revealed a Royal Caribbean cruise receipt for a “zoom surf + stream voyage package,” otherwise known on their website as “the fastest internet at sea.”
 
-Other expenses are shrouded by merely being described as credit card purchases, <a href="https://www.spotlightpa.org/series/campaign-finance-2019/">echoing the way lawmakers hide millions in campaign purchases uncovered by a previous Caucus/Spotlight PA investigation</a>.
+Other expenses are shrouded by merely being described as credit card purchases, <a href="https://lesspage.com/series/campaign-finance-2019/">echoing the way lawmakers hide millions in campaign purchases uncovered by a previous Caucus/Spotlight PA investigation</a>.
 
 Facebook and Twitter, for example, don’t appear as payees anywhere in the expense reports. But receipts for some expenses paid to credit card companies revealed both House Democrats and Republicans paid for social media ads to promote legislative activity or events.
 

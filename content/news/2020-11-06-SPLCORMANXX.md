@@ -54,7 +54,7 @@ The Trump campaign this week brought a lawsuit that alleged Philadelphia was “
 
 In fact, Trump campaign observers were and are allowed to witness the canvassing of ballots in person, but claimed they were not close enough to the process. A state court ruled that Philadelphia needed to allow these observers within six feet of the count. That issue aside, there has been no evidence of fraud or wrongdoing in Philadelphia’s vote count.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ### Late-arriving ballots
 
@@ -64,7 +64,7 @@ State law requires mail ballots to arrive by 8 p.m. on Election Day. But in Sept
 
 The justices also said those ballots could be accepted even if they didn’t have a postmark or had one that was illegible, as long as there wasn’t a “preponderance of evidence” to show they were sent too late.
 
-Republicans consider these late-arriving ballots to be invalid, or illegal, despite the state Supreme Court’s ruling. GOP lawmakers including Corman asked the U.S. Supreme Court to <a href="https://www.scotusblog.com/2020/09/pennsylvania-gop-leaders-ask-justices-to-block-order-on-counting-absentee-ballots-after-election-day/">block</a> the state Supreme Court’s extended window for accepting mail ballots, arguing the justices had usurped the legislature’s constitutional powers and unilaterally re-written state law. But the high court declined to issue a stay or expedite its decision on whether to accept the case. Justices did not, however, <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-election-2020-naked-cured-ballots-trump-campaign-lawsuits/">rule out eventually taking it up</a>.
+Republicans consider these late-arriving ballots to be invalid, or illegal, despite the state Supreme Court’s ruling. GOP lawmakers including Corman asked the U.S. Supreme Court to <a href="https://www.scotusblog.com/2020/09/pennsylvania-gop-leaders-ask-justices-to-block-order-on-counting-absentee-ballots-after-election-day/">block</a> the state Supreme Court’s extended window for accepting mail ballots, arguing the justices had usurped the legislature’s constitutional powers and unilaterally re-written state law. But the high court declined to issue a stay or expedite its decision on whether to accept the case. Justices did not, however, <a href="https://lesspage.com/news/2020/11/pennsylvania-election-2020-naked-cured-ballots-trump-campaign-lawsuits/">rule out eventually taking it up</a>.
 
 This week, Trump’s campaign asked to join the suit.
 
@@ -80,9 +80,9 @@ The third specific complaint from Corman and other state Republicans is that the
 
 In an email to election directors Monday, Jonathan Marks, the state’s deputy secretary for elections and commissions, said counties could let party and candidate representatives know if they rejected certain mail ballots, either because the ballot was missing a signature or was not in a secrecy envelope (known as a “naked” ballot).
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
-The parties or campaigns could then reach out to those voters — regardless of their political affiliation — and give them a chance to correct, or “cure,” the mistake. Counties could also notify voters directly of a problem. <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-mail-ballots-republican-legal-challenge-naked-ballots-fixed-cured/">Counties differed on if and how they notified voters or the parties when this happened</a>.
+The parties or campaigns could then reach out to those voters — regardless of their political affiliation — and give them a chance to correct, or “cure,” the mistake. Counties could also notify voters directly of a problem. <a href="https://lesspage.com/news/2020/11/pennsylvania-mail-ballots-republican-legal-challenge-naked-ballots-fixed-cured/">Counties differed on if and how they notified voters or the parties when this happened</a>.
 
 “When the ballots come in, if there is a defect, there is no remedy for that defect,” Corman said on a call with reporters Friday, citing a <a href="https://law.justia.com/cases/pennsylvania/supreme-court/2020/133-mm-2020-1.html">state Supreme Court ruling from September</a> that said ballots missing secrecy envelopes should be rendered invalid.
 
@@ -98,7 +98,7 @@ Much like late-arriving ballots, the total number of votes in question is still 
 
 The rest of the votes in Pennsylvania — those cast in person, by mail, by emergency ballot, or by military members — have not been challenged, and there has been no evidence presented to suggest any fraud. As Corman said, he doesn’t “have any evidence of misdoing.” And the Trump campaign has not offered any evidence calling those votes into question, either.
 
-What’s more, despite the complaints, Republicans have actually performed impressively across the state. The GOP is expected to keep — <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-election-2020-house-senate-legislature-flip/" target=_blank>and perhaps even grow</a> — their majorities in the state House and Senate. Republican Tim DeFoor won the state auditor general race, the first Republican to win a row office election since 2008.
+What’s more, despite the complaints, Republicans have actually performed impressively across the state. The GOP is expected to keep — <a href="https://lesspage.com/news/2020/11/pennsylvania-election-2020-house-senate-legislature-flip/" target=_blank>and perhaps even grow</a> — their majorities in the state House and Senate. Republican Tim DeFoor won the state auditor general race, the first Republican to win a row office election since 2008.
 
 This begs the question of why, from the Republican perspective, residents should trust those results from the election, but not the results in the presidential race.
 
@@ -106,4 +106,4 @@ After all, they were all the same ballots, and the same rules applied.
 
 <i>Angela Couloumbis of Spotlight PA contributed reporting.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>

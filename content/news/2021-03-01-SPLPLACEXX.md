@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. A version of this story originally appeared in </i><a href="https://www.spotlightpa.org/newsletters"><i>our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. A version of this story originally appeared in </i><a href="https://lesspage.com/newsletters"><i>our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — On paper, Thomas Yablonski Jr. is a man of many talents.
 
@@ -40,7 +40,7 @@ In reality, however, he’s a well-traveled political placeholder.
 
 In Pennsylvania, the governor has the power to appoint roughly 1,000 people to dozens of boards and positions across state government, including his own cabinet. That number also includes appointments a governor can make when there is a vacancy in county courts and other elected offices, Wolf’s office said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The power is not intended to be absolute, as appointments must be approved by the state Senate. And there are strict timing requirements that any administration must follow when making nominations. All of that leads to placeholders like Yablonski. 
 
@@ -54,4 +54,4 @@ His latest nominations — 45 in all — occurred just since October 2020.
 
 Just this month, Wolf submitted Yablonski’s name for a dozen new positions, including the high-profile job of state victim advocate. The last person to hold that title, Jennifer Storm, was not reconfirmed by the Senate, and the administration is now interviewing candidates to replace her.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

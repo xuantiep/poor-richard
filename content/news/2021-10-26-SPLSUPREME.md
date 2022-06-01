@@ -18,7 +18,7 @@ title = "Powerful special interests are pouring millions into the 2021 Pa. Supre
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Labor unions, lawyers, and a political committee with ties to a billionaire advocate for school choice are underwriting the <a href="https://www.inquirer.com/politics/pennsylvania/pa-supreme-court-election-kevin-brobson-maria-mclaughlin-advertising-20211026.html">increasingly contentious</a> race for a spot on Pennsylvania’s top court.
 
@@ -26,7 +26,7 @@ Democrat Maria McLaughlin this year raised nearly $2.7 million, including $1.8 m
 
 Republican Kevin Brobson received the majority of his $2.8 million from a single political action committee: the conservative Commonwealth Leaders Fund. The group receives much of its financial support from PACs associated with Jeffrey Yass, the suburban Philadelphia billionaire owner of a financial and technology firm who has spent millions over the years to advance tuition vouchers for children in poor-performing districts.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The flow of dollars in an off-year race underscores the importance of the Pennsylvania Supreme Court, which has been the final arbiter in recent years of high-stakes and highly partisan conflicts surrounding elections and redistricting.
 
@@ -76,12 +76,12 @@ The national Republican State Leadership Committee’s Judicial Fairness Initiat
 
 Recent rulings have made the Supreme Court a target among some Republicans, who contend that the justices have attempted to legislate from the bench and taken partisan stances on highly charged issues. Separately, advocates outside the legislature have pushed for years to do away with partisan elections and instead select judges based on merit — although opponents say campaign dollars would simply shift to the people overseeing the appointments.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 In the legislature, several GOP lawmakers in recent months have pushed proposals to require appellate-level judges to run in district elections, rather than statewide ones, in an effort to give more voting power to Pennsylvania’s less populous areas. Legislators passed one resolution to amend the state constitution, but have not voted on the second resolution required to put the issue on the ballot for voters to decide.
 
-Such a change could further politicize the courts, Kadida Kenner, executive director of the New Pennsylvania Project and co-chair of Why Courts Matter-PA, said <a href="https://www.spotlightpa.org/news/2021/10/pa-elections-2021-judicial-appellate/">during a panel on judicial races hosted by Spotlight PA</a>.
+Such a change could further politicize the courts, Kadida Kenner, executive director of the New Pennsylvania Project and co-chair of Why Courts Matter-PA, said <a href="https://lesspage.com/news/2021/10/pa-elections-2021-judicial-appellate/">during a panel on judicial races hosted by Spotlight PA</a>.
 
 “The future of the courts is right now in the hands of Pennsylvanians,” she said. “As long as we can continue to come out and vote in judicial elections in record numbers, that’s important that we do that, while we continue to vote for our judges.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

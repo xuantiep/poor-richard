@@ -19,15 +19,15 @@ title = "Investigations of Pennsylvania State Police troopers who injure, kill s
 topics = ["Criminal Justice"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Pennsylvania State Police troopers who kill or injure someone should not be investigated by their own agency, and an independent prosecutor should review the case, according to a recommendation approved Friday by a state oversight panel.
 
 The proposed reform comes after a joint investigation by Spotlight PA and NBC News highlighting the nearly unchecked power of local district attorneys in Pennsylvania to decide whether or not to bring charges against police, despite the fact that those prosecutors work closely with the officers they oversee.
 
-The State Law Enforcement Citizen Advisory Commission, which was created by Gov. Tom Wolf after the murder of George Floyd, made the recommendation based upon its review of a 2016 incident in Beaver County in which <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-state-police-shootings-review-investigation/">troopers consulted with the county district attorney before shooting a suspect involved in an hours-long standoff.</a>
+The State Law Enforcement Citizen Advisory Commission, which was created by Gov. Tom Wolf after the murder of George Floyd, made the recommendation based upon its review of a 2016 incident in Beaver County in which <a href="https://lesspage.com/news/2021/12/pennsylvania-state-police-shootings-review-investigation/">troopers consulted with the county district attorney before shooting a suspect involved in an hours-long standoff.</a>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 That same prosecutor then later reviewed the case and ruled the shooting was justified.
 
@@ -53,7 +53,7 @@ If, he said, the data shows that State Police rule that troopers acted correctly
 
 The guidance follows calls from the parents of Christian Hall, a 19-year-old Chinese American killed by the State Police, for their son’s death to be independently investigated.
 
-Video obtained by Spotlight PA and NBC News shows that Hall <a href="https://www.spotlightpa.org/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">had his hands in the air when troopers shot and killed him near Stroudsburg</a> in December 2020. The shooting was investigated by the State Police and ruled justified by the Monroe County district attorney, who works closely with the agency.
+Video obtained by Spotlight PA and NBC News shows that Hall <a href="https://lesspage.com/news/2021/11/christian-hall-state-police-shooting-stroudsburg/">had his hands in the air when troopers shot and killed him near Stroudsburg</a> in December 2020. The shooting was investigated by the State Police and ruled justified by the Monroe County district attorney, who works closely with the agency.
 
 Neighboring states have adopted similar strategies to remove police and prosecutors from investigating use-of-force incidents in recent years.
 
@@ -69,16 +69,16 @@ Wolf’s executive order creating the commission states that it will prepare a r
 
 Then state agencies under its jurisdiction, such as the State Police, “will review the recommendations and provide the commission with responses and updates regarding implementation of recommendations, as appropriate,” the order states.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20TRIPLED."></div>
 
 A spokesperson for State Police, Cpl. Brent Miller, said the agency will take this and other recommendations put forth by the commission “under advisement.” Miller said State Police helped train commission members to make meaningful recommendations.
 
 “PSP appreciates the dedication and time these citizens have volunteered to improving public safety and fair treatment, and addressing inequities in law enforcement,” he wrote by email.
 
-The State Police could agree to change its policies and not investigate incidents involving troopers, but that would require determining who else would do it. Removing local district attorneys from overseeing fatal State Police killings in their jurisdiction would likely take legislation, such as a bill proposed by Sen. Art Haywood (D., Montgomery), which would <a href="https://www.spotlightpa.org/news/2021/11/pa-police-killings-investigation-district-attorney-general/">give the state attorney general the power</a>.
+The State Police could agree to change its policies and not investigate incidents involving troopers, but that would require determining who else would do it. Removing local district attorneys from overseeing fatal State Police killings in their jurisdiction would likely take legislation, such as a bill proposed by Sen. Art Haywood (D., Montgomery), which would <a href="https://lesspage.com/news/2021/11/pa-police-killings-investigation-district-attorney-general/">give the state attorney general the power</a>.
 
 Currently, the attorney general can only intervene at the request of a local district attorney.
 
 <i>Correction: This story has been updated to correct the spelling of Kelley Hodge’s first name.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

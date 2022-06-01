@@ -18,7 +18,7 @@ title = "Justice Department finds Pa. courts discriminated against people with o
 topics = ["Health"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Courts in Pennsylvania violated federal law by telling people to stop taking life-saving addiction medications, the Department of Justice recently alleged while warning of possible legal consequences if the policies continue.
 
@@ -26,7 +26,7 @@ An <a href="https://www.ada.gov/ujs_lof.pdf">eight-page letter</a> the agency se
 
 The policies caused at least two people under court supervision “significant harm,” the department concluded, as they attempted to stop using proven and scientifically accepted treatments. One major national study found people are about 50% less likely to die when treated long-term with buprenorphine or methadone, two federally approved drugs that have faced bans in Pennsylvania.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The Department of Justice told the Unified Judicial System of Pennsylvania it should adopt or revise existing policies to ensure courts under its jurisdiction allow the use of these medications. The system should also pay damages to people harmed by the bans, update the process for people with disabilities to file discrimination complaints, and train all court staff.
 
@@ -46,7 +46,7 @@ Because of the ban in Jefferson County, Mosey, 45, tried to wean herself off the
 
 “Honestly, I knew I was going to relapse, and I was probably going to die,” Mosey said. “I knew my parents were probably going to have to bury me.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Have%20you%20encountered%20barriers%20to%20using%20medication%20for%20opioid%20use%20disorder%3F%20We%20want%20to%20hear%20your%20experience."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Have%20you%20encountered%20barriers%20to%20using%20medication%20for%20opioid%20use%20disorder%3F%20We%20want%20to%20hear%20your%20experience."></div>
 
 ## ‘You’re setting them up for a disaster’
 
@@ -110,7 +110,7 @@ Butler County recently revised its policy to allow buprenorphine and methadone o
 
 In Blair County, treatment court programs also allow participants to use naltrexone. The county’s president judge, Elizabeth A. Doyle, told Spotlight PA that officials are working on a new policy and considering allowing all three drugs.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 While the Department of Justice identified eight counties in its findings, other county courts might prohibit the use of the medications even if they don’t have a formal policy banning them.
 
@@ -130,4 +130,4 @@ The other day, Mosey said she broke down thinking about the Department of Justic
 
 “I have watched so many people that I know, so many friends die,” Mosey said. “And I thought, you know, maybe this will change things so that we don’t have to keep burying people.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

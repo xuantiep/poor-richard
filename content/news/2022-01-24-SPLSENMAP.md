@@ -18,15 +18,15 @@ title = "Pa. Republicans send doomed congressional map to Gov. Tom Wolf, likely 
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — Pennsylvania Republicans have sent Gov. Tom Wolf a congressional map he has vowed to veto, a move nearly guaranteed to put the courts in charge of determining the state’s new district lines.
 
-The state Senate voted 29-20 on Monday to approve a Republican-backed plan that nonpartisan analysts say has a clear GOP advantage. The state House <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-redistricting-congressional-map-house-approval/">approved the map</a> along party lines earlier this month.
+The state Senate voted 29-20 on Monday to approve a Republican-backed plan that nonpartisan analysts say has a clear GOP advantage. The state House <a href="https://lesspage.com/news/2022/01/pennsylvania-redistricting-congressional-map-house-approval/">approved the map</a> along party lines earlier this month.
 
 Legislators in the state Senate said they had sought a compromise that would have given the congressional map a chance of getting Wolf’s approval. They were facing a Jan. 30 deadline set by Commonwealth Court to finalize the map or turn the process over to the courts.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 With today’s vote, it now seems all but assured the state courts will pick the map.
 
@@ -58,7 +58,7 @@ Anticipating the impasse, two groups of Pennsylvanians — one made up of academ
 
 The court set a Jan. 30 deadline for Wolf and lawmakers to finish the map, while also asking the citizen petitioners, Wolf, Republican and Democratic lawmakers, and other approved parties to submit their own proposals by Jan. 24.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 The court will hold hearings on those maps this Thursday and Friday. It could pick one as soon as Sunday. A lawyer for one of the petitioner groups said it’s likely the ruling will be appealed to the state Supreme Court.
 
@@ -68,4 +68,4 @@ Asked whether the state Senate was resigned to having the high court draw the ma
 
 <i>Spotlight PA’s Angela Couloumbis contributed reporting.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

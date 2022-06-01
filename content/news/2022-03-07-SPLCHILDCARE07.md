@@ -19,7 +19,7 @@ title = "Waning signups for Pa. child care program could forecast weak economic 
 topics = ["Economy"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 ALLEGHENY COUNTY — Roughly 25,000 fewer children in Pennsylvania are benefiting from a program that helps low-income families find affordable child care compared with before the coronavirus pandemic, fueling concerns about the loss of vital support systems for parents.
 
@@ -27,7 +27,7 @@ Enrollment has reached a record low during the past two years, according to the 
 
 “There’s no reason to think it’s down because all of a sudden everyone’s doing just fine and doesn’t need any help finding child care or affording child care,” said Elliot Haspel, a child care policy expert with the Robins Foundation in Virginia. “Then that means that there are more families whose situations are more fraught than there were before.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 For parents like Gioia Maynor, a single mother who lives outside Pittsburgh, the state’s Child Care Works program has been “a blessing.”
 
@@ -53,7 +53,7 @@ Advocates, experts, providers, parents, and the Wolf administration offered a fe
 4. The rise of remote work has changed the level of demand.
 {{</sidebar>}}
 
-Child care policy experts say many children who were eligible for child care subsidy programs didn’t benefit from them even before the pandemic. The pandemic raised the stakes, forcing many providers to close for months and <a href="https://www.spotlightpa.org/news/2021/11/pa-child-care-staffing-shortage-pandemic/">causing them ongoing difficulties with attracting and retaining staff and maintaining full hours.</a>
+Child care policy experts say many children who were eligible for child care subsidy programs didn’t benefit from them even before the pandemic. The pandemic raised the stakes, forcing many providers to close for months and <a href="https://lesspage.com/news/2021/11/pa-child-care-staffing-shortage-pandemic/">causing them ongoing difficulties with attracting and retaining staff and maintaining full hours.</a>
 
 While national unemployment rates continue to improve, federal data from January show the number of people in nonfarm jobs was down by 2.9 million compared with February 2020, when the pandemic was just beginning.
 
@@ -63,7 +63,7 @@ For low-income workers, the choice can be particularly stark because they often 
 
 “Child care remains a chief barrier to women’s full employment,” Mason said.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Have%20you%20had%20trouble%20finding%20affordable%20child%20care%20in%20Pennsylvania%3F%20We%20want%20to%20hear%20from%20you.&flag_text=Share%20your%20experience"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Have%20you%20had%20trouble%20finding%20affordable%20child%20care%20in%20Pennsylvania%3F%20We%20want%20to%20hear%20from%20you.&flag_text=Share%20your%20experience"></div>
 
 ## The help that’s out there
 
@@ -126,7 +126,7 @@ At Butler County Community College, KEYS program facilitator Karen Jack said a m
 
 “It just became too hard,” Jack said. “In our area, there were a lot of centers that weren’t taking new children because they didn’t have staff.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Jordan Klingensmith, 24, began classes at a Butler County Community College campus in January as part of the KEYS program. She hopes to someday become a registered nurse.
 
@@ -140,5 +140,5 @@ The state’s public assistance programs allow some flexibility for work require
 
 “The difference,” Zurflieh said, “is that if you’re a low-income person and you can’t get access to education and training to get a good job, or you can’t take advantage of a job opportunity, you remain in poverty.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
 

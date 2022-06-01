@@ -18,7 +18,7 @@ title = "Proposed congressional map advances in Pa. legislature as Wolf, top law
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — A state Senate panel voted Tuesday to advance a redrawing of Pennsylvania’s congressional map as a top Republican expressed hope that his party and Democratic Gov. Tom Wolf could still reach a compromise with a court deadline looming.
 
@@ -26,7 +26,7 @@ Nonpartisan analysts say the map, first proposed by House Republicans, has a cle
 
 Wolf and lawmakers face two major deadlines. The state’s top election official has said her department needs a final map no later than Jan. 24 to meet the first of several spring primary deadlines. And Commonwealth Court has given those in charge of drawing the map until Jan. 30 to do so before it takes over the process.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The chairs of the Senate State Government Committee — David Argall (R., Schuylkill) and Sharif Street (D., Philadelphia) — had previously pledged to release their own proposed map. Argall on Tuesday was still focused on getting Wolf something the governor would sign.
 
@@ -44,7 +44,7 @@ In its initial form, the congressional map under consideration in the legislatur
 
 However, it was amended in the House State Government Committee after Republican members objected to the ways their counties were split. That version was introduced to the public and advanced by the panel at the same meeting.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Wolf recently <a href="https://davesredistricting.org/maps#ratings::fe2ff034-a707-4d2f-a781-60eb79ea8b7d">released his own proposed congressional map</a>, saying it and a citizen-drawn map championed by Draw the Lines — an initiative of the good-government organization Committee of Seventy — were “free of gerrymandering” and in line with <a href="https://www.governor.pa.gov/newsroom/gov-wolf-announces-pennsylvania-redistricting-advisory-councils-redistricting-principles/">principles released by the governor’s advisory council</a>.
 
@@ -54,4 +54,4 @@ But while redistricting reform groups said the Republican-advanced map does not 
 
 An <a href="https://www.inquirer.com/politics/election/pennsylvania-redistricting-gov-tom-wolf-congressional-map-20220115.html">analysis by the Princeton Gerrymandering Project for The Inquirer</a> found Wolf’s map would create nine Democratic or Democratic-leaning districts and eight Republican or Republican-leaning ones. Because of sluggish population growth, Pennsylvania is losing one of its 18 congressional seats this year.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

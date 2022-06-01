@@ -29,7 +29,7 @@ language-code = ""
 layout = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 Everyone wants life to get back to normal, to have their hair cut or get a sunburn at a baseball game, to go to work, and walk shoulder-to-shoulder in a park. Some people want all of that now, not next month, and they’re planning to converge on Harrisburg on Monday, coronavirus pandemic be damned, to demand it.
 
@@ -45,7 +45,7 @@ Pennsylvania officials are aware of the gathering and have advised against it.
 
 “If you come to Harrisburg and you’re not practicing social distancing, then you are putting all of yourselves at risk,” Rachel Levine, Pennsylvania’s health secretary, said Thursday. “So if a gathering like that happens and they’re not practicing social distancing … then they will be more at risk for contracting the dangerous virus.”
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 Troy Thompson, a spokesperson for the Pennsylvania Department of General Services, said the Capitol complex is closed and public gatherings are not permitted. Still, the department is aware of the “unauthorized” plans for a rally and is preparing.
@@ -56,7 +56,7 @@ Dorr’s Facebook group is one of several organizations behind the rally. Others
 
 According to Underwood, 1,400 people have said they’ll attend, and two elected officials, State Reps. Aaron Bernstine (R., Lawrence) and Russ Diamond (R., Lebanon), will be speaking.
 
-Bernstine said he’ll focus on reopening the state’s economy in a safe way and advocate for a measure <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-coronavirus-legislature-senate-vote-reopen-business/">passed in the state Senate</a> last week, which would allow a significant number of businesses across the state to reopen following federal Cybersecurity and Infrastructure Security Agency <a href="https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce">guidelines</a>.
+Bernstine said he’ll focus on reopening the state’s economy in a safe way and advocate for a measure <a href="https://lesspage.com/news/2020/04/pennsylvania-coronavirus-legislature-senate-vote-reopen-business/">passed in the state Senate</a> last week, which would allow a significant number of businesses across the state to reopen following federal Cybersecurity and Infrastructure Security Agency <a href="https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce">guidelines</a>.
 
 “We’re looking at this as how to make a surgical decision with a scalpel and not a hatchet,” he said. “There are businesses that can open safely.”
 
@@ -82,7 +82,7 @@ Many in the group are thankful, still, that Hillary Clinton lost the 2016 presid
 
 For others, the conversation has come full circle: They’re talking about the flu again.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “People need to just stop going to get tested,” one member wrote. “Unless you’re on the verge of dying, let it ride like the flu. The numbers can’t go up if we’re just staying in when we’re sick like flu season...”
 
@@ -122,4 +122,4 @@ Merritt, a stay-at-home mother, believes the country is getting restless.
 
 <i>Inquirer staff writer Justine McDaniel contributed to this article.</i>
 
-<i><b>100% ESSENTIAL:</b></i><i> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> Spotlight PA provides its journalism at no cost to newsrooms across the state as a public good to keep our communities informed and thriving. If you value this service, please give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

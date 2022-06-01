@@ -6,7 +6,7 @@ embed-partial = "cta.html"
 
 [[page-query-params]]
 name = "url"
-placeholder = "https://www.spotlightpa.org/"
+placeholder = "https://lesspage.com/"
 hint = "URL for clickthrough"
 pattern = "https?://.*"
 

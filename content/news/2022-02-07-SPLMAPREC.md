@@ -18,7 +18,7 @@ title = "A Pa. judge just sided with the GOP on a congressional map proposal. He
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — An appellate judge has recommended the Pennsylvania Supreme Court adopt the congressional map passed by the Republican-controlled General Assembly and rejected by Gov. Tom Wolf, citing its legislative approval and how it reflects the GOP’s geographic advantage.
 
@@ -26,7 +26,7 @@ Commonwealth Court Judge Patricia McCullough selected the map from among more th
 
 McCullough was set to pick a final map before the state Supreme Court accepted a request to take over the process, and asked her to instead make a recommendation. The high court is not required to follow McCullough’s counsel as it prepares to hold hearings on the map. The justices can pick one of the proposals, alter them, or draw a different map.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Pennsylvania must draw new district lines every 10 years to reflect population changes. Because of the state’s sluggish growth in the 2010s, it will lose one of its 18 congressional seats.
 
@@ -46,14 +46,14 @@ While the Pennsylvania Constitution has no explicit requirements for the state�
 
 “I think it’s a reading that places more value on land than it does on people,” said Justin Villere — executive director of Draw the Lines PA, a project of the good-government group Committee of Seventy — of McCullough’s ruling.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 “To say that there is inherent bias that we have to live with is antithetical to the idea of fair elections which states people are the ones who are electing their leaders, not necessarily determined by how the voting population is dispersed.”
 
-After initially declining to take over the process, the state Supreme Court, which has a Democratic majority, in early February <a href="https://www.spotlightpa.org/news/2022/02/pa-congressional-map-supreme-court-democrats-redistricting/">accepted a request from some of the original petitioners</a> to select the final map as Pennsylvania fast approaches deadlines for the May primary.
+After initially declining to take over the process, the state Supreme Court, which has a Democratic majority, in early February <a href="https://lesspage.com/news/2022/02/pa-congressional-map-supreme-court-democrats-redistricting/">accepted a request from some of the original petitioners</a> to select the final map as Pennsylvania fast approaches deadlines for the May primary.
 
 Candidates can begin circulating nominating petitioners on Feb. 15, however, they will likely begin doing so without finalized districts. McCullough recommended moving the start date to March 1.
 
 The Pennsylvania Supreme Court will begin hearing oral arguments Feb. 18.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -27,7 +27,7 @@ modal-exclude = false
 no-index = false
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with the Pittsburgh Post-Gazette and PennLive/Patriot-News. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free weekly newsletter</i></a><i>.</i>
 
 HARRISBURG — Despite intense lobbying in recent days, prospects are dimming for top Republican senators to push through a controversial proposal to vastly expand gambling in Pennsylvania before lawmakers leave the Capitol for a summer of campaigning.
 
@@ -35,13 +35,13 @@ The behind-the-scenes effort took shape last week, led by Senate President Pro T
 
 This week, Republicans who control the Senate have met behind closed doors for hours to hash out details of the plan, which calls for allowing video gaming terminals, or VGTs, in thousands of bars, taverns, social clubs, and other establishments with a liquor license.
 
-But since Spotlight PA and The Caucus <a href="https://www.spotlightpa.org/news/2020/06/joe-scarnati-golden-entertainment-gambling-expansion-vgts-senate-republicans/">first reported on the effort</a>, opposition has been mounting. Some rank-and-file Republicans object to the timing of the push given the massive challenges posed by the coronavirus pandemic, as well as widespread protests for more police oversight.
+But since Spotlight PA and The Caucus <a href="https://lesspage.com/news/2020/06/joe-scarnati-golden-entertainment-gambling-expansion-vgts-senate-republicans/">first reported on the effort</a>, opposition has been mounting. Some rank-and-file Republicans object to the timing of the push given the massive challenges posed by the coronavirus pandemic, as well as widespread protests for more police oversight.
 
 The state’s casinos fear the expansion could further cannibalize gaming revenue, and the makers and distributors of games of skill, which would be regulated and taxed for the first time as part of the measure under discussion, are also strongly opposed.
 
 In an interview Tuesday, Senate Majority Leader Jake Corman (R., Centre) said he was championing the effort not as a push for expanding gambling, but as a way to gain control over the thousands of skill game terminals that are operating with no oversight, including at retail locations where kids have access to playing them.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 
 “They are everywhere and they are completely unregulated, and I think it’s time to bring them into the light of day,” Corman said.
@@ -70,7 +70,7 @@ Should Republicans fail to gain enough support for the bill, their efforts will 
 
 “I would not be shocked if they [leaders] revisit it if they can find another way to fashion it,” said Christopher Borick, a political science professor at Muhlenberg College in Allentown. 
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 
 According to a draft copy of the bill, VGTs would be allowed at the majority of nearly 15,000 establishments that have a liquor license. Each establishment could have up to five machines. Though counties and municipalities would have the ability to opt-out of allowing VGTs within their borders, the state could potentially see an influx of 50,000 or more VGTs.
@@ -81,4 +81,4 @@ Mike Barley — a lobbyist for Long &amp; Nyquist, which represents Pace-O-Matic
 
 “We can’t compete against VGTs,” Barley said.
 
-<i><b>100% ESSENTIAL:</b></i> <a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i> <a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

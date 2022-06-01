@@ -35,9 +35,9 @@ Today, amid the coronavirus pandemic, I couldn’t imagine Pennsylvania without 
 
 From unemployment backlogs to nursing homes left without oversight, fears about migrant worker safety to fighting against secrecy in the state’s business waiver process — in total, we’ve written more than 100 stories in the past two months that otherwise would never have been told.
 
-Today, we’re launching a 3-day campaign to <a href="https://www.spotlightpa.org/donate" target=_blank>raise $10,000 toward making Spotlight PA a permanent fixture</a> in our state. <b>All donations made from May 5 to May 7 will be DOUBLED</b>, thanks to a generous matching gift from The Lenfest Institute for Journalism.
+Today, we’re launching a 3-day campaign to <a href="https://lesspage.com/donate" target=_blank>raise $10,000 toward making Spotlight PA a permanent fixture</a> in our state. <b>All donations made from May 5 to May 7 will be DOUBLED</b>, thanks to a generous matching gift from The Lenfest Institute for Journalism.
 
-<a href="https://www.spotlightpa.org/donate" target=_blank>Make a sustaining gift of $15/month now</a>, or just 50 cents a day, and you will:
+<a href="https://lesspage.com/donate" target=_blank>Make a sustaining gift of $15/month now</a>, or just 50 cents a day, and you will:
 
 1. <b>EMPOWER OUR COMMUNITIES:</b> Spotlight PA is unlike any news organization in the state. We’re funded by readers, and because of that support, we share our high-quality journalism at no charge to ensure every community gets the information it needs.
 
@@ -49,7 +49,7 @@ Today, we’re launching a 3-day campaign to <a href="https://www.spotlightpa.or
 
 5. <b>GET RESULTS: </b>Spotlight PA’s coronavirus coverage has influenced the state's approach to business waivers, virus statistics, workers' compensation rules, Spanish-language access and more. Before the crisis, our work spurred legislative proposals for reform and prompted policy changes in the House, the State Police and at the state’s largest community college.
 
-Won’t you take advantage of this special opportunity and <a href="https://www.spotlightpa.org/donate" target=_blank>give now to see your donation DOUBLED</a>? We’re counting on you to reach our $10,000 goal by the end of Thursday.
+Won’t you take advantage of this special opportunity and <a href="https://lesspage.com/donate" target=_blank>give now to see your donation DOUBLED</a>? We’re counting on you to reach our $10,000 goal by the end of Thursday.
 
 Thank you for your consideration and support. It’s a privilege to serve you, the public.
 
@@ -61,4 +61,4 @@ Editor in Chief
 
 Spotlight PA
 
-<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://www.spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i>Spotlight PA receives funding from nonprofit institutions and readers like you who are committed to investigative journalism that gets results. Give a gift today at </i><a href="https://lesspage.com/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

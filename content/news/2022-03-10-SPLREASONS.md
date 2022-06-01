@@ -18,15 +18,15 @@ title = "The 4 reasons the Pa. Supreme Court picked the winning congressional ma
 topics = ["Redistricting"]
 +++
 
-<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a yearlong reporting project focused on redistricting and gerrymandering in Pennsylvania. It is made possible by the support of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
 HARRISBURG — In February, the Pennsylvania Supreme Court announced that it had picked a new congressional map for the state — but didn’t explain why.
 
 Now, all seven of the high court’s justices have released <a href="https://twitter.com/SupremeCtofPA/status/1501626208836014083">opinions</a> outlining their positions, revealing differing perspectives on the judiciary’s role in redistricting and what exactly makes a fair map.
 
-The Democrat-controlled state Supreme Court took over the process after Gov. Tom Wolf rejected a map sent to him by legislative Republicans. The justices <a href="https://www.spotlightpa.org/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-pick/" target="_blank">considered more than a dozen maps</a> submitted by Wolf, top lawmakers, good-government groups, and voters.
+The Democrat-controlled state Supreme Court took over the process after Gov. Tom Wolf rejected a map sent to him by legislative Republicans. The justices <a href="https://lesspage.com/news/2022/02/pennsylvania-redistricting-congressional-map-supreme-court-pick/" target="_blank">considered more than a dozen maps</a> submitted by Wolf, top lawmakers, good-government groups, and voters.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 In a 4-3 decision, the court picked the map put forth by the Carter petitioners, a group of Pennsylvanians who brought one of the original lawsuits asking the judiciary to intervene in the redistricting process.
 
@@ -90,7 +90,7 @@ Todd, a Democrat, argued that the Gressman map — drawn by a group of scientist
 
 “In my view, assessment of subordinate or secondary considerations such as partisan fairness, or whether a plan represents the least change from a prior congressional districting plan, is necessary only when a court must choose among various plans that are equal with respect to their compliance with the core criteria,” Todd wrote.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 Justice Sallie Mundy, a Republican, also dissented, agreeing that the court should only use neutral redistricting criteria previously outlined to select a map in order to remove any perception of political bias.
 
@@ -98,4 +98,4 @@ Justice Sallie Mundy, a Republican, also dissented, agreeing that the court shou
 
 Justice Kevin Brobson, a Republican, cautioned that the court was overreaching in its selection of a reapportionment planning, advising it to “hew closely to nonpartisan standards or nonpartisan methods, eschewing partisan considerations or partisan approaches.”
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

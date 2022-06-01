@@ -30,9 +30,9 @@ layout = ""
 extended-kicker = ""
 +++
 
-<i>This article is part of a year-long reporting project focused on redistricting and gerrymandering in Pennsylvania. It’s made possible by the support of </i><a href="https://www.spotlightpa.org/" target=_blank><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
+<i>This article is part of a year-long reporting project focused on redistricting and gerrymandering in Pennsylvania. It’s made possible by the support of </i><a href="https://lesspage.com/" target=_blank><i>Spotlight PA</i></a><i> members and </i><a href="https://votebeat.org/"><i>Votebeat</i></a><i>, a project focused on election integrity and voting access.</i>
 
-Puedes leer esta nota en español <a href="https://www.spotlightpa.org/news/2021/01/pensilvania-redistribuci%C3%B3n-de-distritos-manipulaci%C3%B3n-partidista-2021/">aquí.</a>
+Puedes leer esta nota en español <a href="https://lesspage.com/news/2021/01/pensilvania-redistribuci%C3%B3n-de-distritos-manipulaci%C3%B3n-partidista-2021/">aquí.</a>
 
 HARRISBURG — With partisanship in the Pennsylvania legislature at peak levels, lawmakers this year are gearing up for the once-a-decade brawl to redraw political districts — and the stakes couldn’t be much higher.
 
@@ -46,7 +46,7 @@ It’s what Republicans did in 2011, when they controlled all three branches of 
 
 While they still control the General Assembly, Republicans this year will have to work with Democratic Gov. Tom Wolf, who can veto the congressional map. The GOP’s other adversary, the Democrat-dominated state Supreme Court, is also able to throw out legislative and congressional maps if it deems them unfair or illegal.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 The pandemic, delays in completing the U.S. Census data that drives the redistricting process, and the probable loss of one congressional district due to Pennsylvania’s declining population are sure to further complicate the process.
 
@@ -70,7 +70,7 @@ Gaddie said Republicans might play it safe, designing a map that satisfies both 
 
 That decision, coupled with election and pandemic rulings from 2020, have fueled GOP anger toward the court. As a result, they are seeking to exert more power over the judiciary.
 
-A <a href="https://www.spotlightpa.org/news/2021/01/pennsylvania-judicial-districts-supreme-court-election-2020-rulings-republican-majority/">constitutional amendment proposed by Rep. Russ Diamond</a> (R., Lebanon) would require appellate court judges to run in regional judicial districts, rather than statewide contests. The districts would be solely drawn and governed by state lawmakers.
+A <a href="https://lesspage.com/news/2021/01/pennsylvania-judicial-districts-supreme-court-election-2020-rulings-republican-majority/">constitutional amendment proposed by Rep. Russ Diamond</a> (R., Lebanon) would require appellate court judges to run in regional judicial districts, rather than statewide contests. The districts would be solely drawn and governed by state lawmakers.
 
 Diamond has argued the appellate courts, whose judges primarily live in Allegheny County or Philadelphia, should be more geographically diverse. Opponents counter that letting lawmakers draw judicial districts would result in a map skewed toward their own political ambitions.
 
@@ -100,7 +100,7 @@ Introduced for the first time last year, the Legislative and Congressional Redis
 
 The bill would also require the state to hold several public meetings on both the congressional and legislative maps. Any Pennsylvania resident would be able to submit their own map and would have online access to the same data lawmakers have.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 It would also add qualifications for the fifth legislative commission member. Right now, anyone — including lobbyists and relatives of legislators — can be considered.
 
@@ -120,6 +120,6 @@ Thomas, who also supports an independent redistricting commission, said her bill
 
 “It’s a good-government bill,” she said, adding it has bipartisan support. “My best shot is to continue to talk about the transparency piece of it.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Become a member today at </i><a href="http://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuIAAW"><i>spotlightpa.org/donate</i></a><i>.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Spotlight%20PA%20wants%20to%20capture%20%3Cb%3Ehow%20gerrymandering%20harms%20communities%20and%20the%20people%20who%20live%20there%3C%2Fb%3E.%20What%20priorities%20should%20legislators%20consider%20when%20drawing%20your%20district%3F%20"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Spotlight%20PA%20wants%20to%20capture%20%3Cb%3Ehow%20gerrymandering%20harms%20communities%20and%20the%20people%20who%20live%20there%3C%2Fb%3E.%20What%20priorities%20should%20legislators%20consider%20when%20drawing%20your%20district%3F%20"></div>

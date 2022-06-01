@@ -19,7 +19,7 @@ title = "Pa. primary election 2022: See how much money the GOP candidates for go
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — With just over a month to go until the May primary election of 2022, the nine candidates vying for the Republican nomination for governor have collectively raised more than $13 million.
 
@@ -27,7 +27,7 @@ Some of their campaigns have been fueled primarily by small donations of $25 to 
 
 That money has helped them crisscross the state, hit the television airwaves, cut digital ads, print mailers, and pay steep salaries to a bevy of consultants and campaign finance advisers.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?flag_text=ELECTION%202022&tip_text=Spotlight%20PA%20is%20covering%20Pennsylvania's%202022%20gubernatorial%20and%20legislative%20elections%20%E2%80%94%20and%20we%20want%20you%20to%20help%20shape%20our%20stories.%20%3Cb%3ETell%20us%20what%20you%20want%20to%20know%20about%20those%20races%2C%20and%20send%20us%20any%20questions%20you%20have%20about%20the%20voting%20system.%3C%2Fb%3E%20Use%20the%20form%20below%20to%20reach%20our%20election%20team.&form_name=elections-embed"></div>
 
 Though the race to lure more and bigger donors is only expected to intensify as the May 17 primary draws closer, it appears unlikely to shatter records. Pennsylvania in recent years has made national headlines for its expensive primary contests for governor — at least on the Democratic side.
 
@@ -35,7 +35,7 @@ In 2014, for instance, Tom Wolf edged out three opponents in a primary race that
 
 This year’s general election, however, could quickly <a href="https://www.pennlive.com/news/2022/01/pa-likely-to-shatter-80-million-record-for-spending-in-a-governors-race.html">make history</a> when it comes to spending.
 
-The Republican candidate who emerges victorious in the primary will face state Attorney General Josh Shapiro, a Democrat who is running unopposed. As the Republicans have fought for campaign superiority, Shapiro began the year with <a href="https://www.pennlive.com/news/2022/02/shapiro-sets-campaign-cash-record-to-start-election-year-dave-white-jake-corman-lead-republicans-in-fundraising.html">$13.4 million on hand</a> — and raised an additional $4.5 million in the first three months of this year. (<a href="https://www.spotlightpa.org/news/2022/04/pa-election-day-2022-primary-josh-shapiro-fundraising" target="_blank">Read Spotlight PA’s analysis of Shapiro’s donors</a>.)
+The Republican candidate who emerges victorious in the primary will face state Attorney General Josh Shapiro, a Democrat who is running unopposed. As the Republicans have fought for campaign superiority, Shapiro began the year with <a href="https://www.pennlive.com/news/2022/02/shapiro-sets-campaign-cash-record-to-start-election-year-dave-white-jake-corman-lead-republicans-in-fundraising.html">$13.4 million on hand</a> — and raised an additional $4.5 million in the first three months of this year. (<a href="https://lesspage.com/news/2022/04/pa-election-day-2022-primary-josh-shapiro-fundraising" target="_blank">Read Spotlight PA’s analysis of Shapiro’s donors</a>.)
 
 Here’s what we know about the Republican field’s donors, based on their most recent campaign finance reports covering the first three months of 2022 (the next report is due in early May):
 
@@ -235,4 +235,4 @@ Top donors who gave at least $25,000 at one time:
 
 Zama, a Harvard-educated surgeon who has lived in the Poconos for more than a decade, has primarily received smaller donations. The candidate had lent $140,000 to his own campaign, his most recent report showed.
 
-<i><b>WHILE YOU’RE HERE ...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE ...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

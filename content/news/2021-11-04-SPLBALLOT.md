@@ -18,7 +18,7 @@ title = "Pa. Gov. Tom Wolf’s wife dropped off his mail ballot, violating state
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — Gov. Tom Wolf on Tuesday revealed his wife, First Lady Frances Wolf, dropped his mail ballot off for him, a violation of Pennsylvania election law.
 
@@ -26,7 +26,7 @@ State law currently prohibits, in most cases, anyone other than the voter from r
 
 On the “KDKA Radio Morning Show,” host Kevin Battle asked Wolf if he visited the polls to vote in person during Tuesday’s municipal election.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 “I didn’t show up in person at the polls. We voted a couple weeks ago, actually,” Wolf said. “My wife actually dropped it off personally two weeks ago, so it’s there.”
 
@@ -40,13 +40,13 @@ Kyle King — a spokesperson for the district attorney in York County, where Wol
 
 The violation came to light after state Rep. Seth Grove (R., York), who leads the state House committee that considers election issues, pointed the interview out <a href="https://twitter.com/RepGrove/status/1456308179973951489?s=20">on Twitter</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?eyebrow_text=SUPPORT%20SPOTLIGHT%20PA&cta_text=YES%2C%20DOUBLE%20MY%20GIFT&teaser_text=Support%20Spotlight%20PA's%20vital%20investigative%20journalism%20for%20Pennsylvania%20and%20for%20a%20limited%20time%2C%20all%20gifts%20will%20be%20DOUBLED."></div>
 
 “This is illegal under the election code,” Grove tweeted, “BUT would have been legal had [Wolf] signed HB 1300.”
 
 Wolf in June vetoed HB 1300, a wide-ranging election reform package introduced by Grove. It would have allowed members of the same household to return each other’s ballots. Inspectors of election from the two major parties would have been required to verify the identity of each person dropping off a ballot and ensure the voter signed and dated it.
 
-The bill would have also implemented stricter voter identification requirements, allowed in-person early voting, and required signature verification of mail ballots. Wolf vetoed the bill, in part, <a href="https://www.spotlightpa.org/news/2021/06/pa-election-overhaul-voter-id-wolf-veto/">because of the ID rules</a>.
+The bill would have also implemented stricter voter identification requirements, allowed in-person early voting, and required signature verification of mail ballots. Wolf vetoed the bill, in part, <a href="https://lesspage.com/news/2021/06/pa-election-overhaul-voter-id-wolf-veto/">because of the ID rules</a>.
 
 In an interview with The Inquirer, Grove was understanding of the mistake. “This happens,” he said. “No one is an election law expert, right? Average citizens aren’t.”
 
@@ -54,4 +54,4 @@ In an interview with The Inquirer, Grove was understanding of the mistake. “Th
 
 <i>Angela Couloumbis of Spotlight PA and Jonathan Lai of The Inquirer contributed reporting.</i>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

@@ -20,7 +20,7 @@ title = "Pensilvania (PA) Día de las Elecciones 2022: Una guía completa para l
 topics = ["Elections", "Español"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG - No pocas cosas han cambiado desde la última vez que los pensilvanos acudieron a las urnas. Sus distritos del Congreso y legislativos pueden ser diferentes, algunos condados están supervisando o reduciendo los buzones y la ley de voto por correo ha sido declarada inconstitucional - pero, por ahora, sigue en vigor y es una forma válida de votar.
 
@@ -34,7 +34,7 @@ Martes, 17 de mayo de 2022. ¡Marque su calendario!
 
 Los colegios electorales están abiertos de 7 a 20 horas.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 ## ¿Aún puedo inscribirme para votar?
 
@@ -48,7 +48,7 @@ Para cambiar su afiliación a un partido, rellene el mismo <a href="https://www.
 
 Cuando rellene el formulario, simplemente seleccione la casilla que dice “cambio de partido”. Si se registra menos de 15 días antes de las elecciones el cambio no se llevará a cabo sino hasta el siguiente ciclo electoral.
 
-Si usted es un votante no afiliado/independiente, <a href="https://www.spotlightpa.org/news/2022/04/pa-election-day-2022-primary-closed-independent-voters/">no podrá votar por los candidatos de los principales partidos en las elecciones clave, como las de gobernador o de senador</a> de los Estados Unidos. Para ello, deberá haber cambiado su inscripción a uno de los partidos el 2 de mayo o antes.
+Si usted es un votante no afiliado/independiente, <a href="https://lesspage.com/news/2022/04/pa-election-day-2022-primary-closed-independent-voters/">no podrá votar por los candidatos de los principales partidos en las elecciones clave, como las de gobernador o de senador</a> de los Estados Unidos. Para ello, deberá haber cambiado su inscripción a uno de los partidos el 2 de mayo o antes.
 
 ## ¿Dónde se vota?
 
@@ -56,7 +56,7 @@ Si va a votar en persona puede buscar su colegio electoral <a href="https://www.
 
 ## ¿Puedo votar por correo?
 
-¡Sí! Aunque el Tribunal de la Mancomunidad (Commonwealth Court) ha <a href="https://www.spotlightpa.org/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">determinado inconstitucional la forma en que se aprobó la ley de voto por correo del estado</a>, el caso fue <a href="https://www.spotlightpa.org/news/2022/03/pennsylvania-mail-voting-supreme-court-hearing/">apelado ante el Tribunal Supremo del Estado (el más alto tribunal de Pensilvania)</a>. El Tribunal Supremo ha permitido que la ley siga en vigor mientras se resuelve el caso, así que, si quiere votar por correo, puede hacerlo.
+¡Sí! Aunque el Tribunal de la Mancomunidad (Commonwealth Court) ha <a href="https://lesspage.com/news/2022/01/pa-mail-voting-court-ruling-unconstitutional-whats-next/">determinado inconstitucional la forma en que se aprobó la ley de voto por correo del estado</a>, el caso fue <a href="https://lesspage.com/news/2022/03/pennsylvania-mail-voting-supreme-court-hearing/">apelado ante el Tribunal Supremo del Estado (el más alto tribunal de Pensilvania)</a>. El Tribunal Supremo ha permitido que la ley siga en vigor mientras se resuelve el caso, así que, si quiere votar por correo, puede hacerlo.
 
 ## ¿Cómo puedo votar por correo?
 
@@ -80,7 +80,7 @@ Los votantes deben devolver sus propias papeletas, a menos que se permita lo con
 
 El proceso para solicitar un voto en ausencia es similar al de solicitar un voto por correo. Puede solicitarlo en línea o descargar el formulario y enviarlo a la oficina electoral de su condado. Sin embargo, la solicitud requiere que indique el motivo de su ausencia, a diferencia del voto por correo. Puede encontrar la solicitud <a href="https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin">aquí</a>.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/"></div>
 
 ## ¿Cuál es el plazo para solicitar la papeleta de voto en ausencia?
 
@@ -88,11 +88,11 @@ La fecha límite para las primarias es el 10 de mayo de 2022 a las 17:00 horas.
 
 ## ¿Ha cambiado mi distrito legislativo o congresual?
 
-Posiblemente. Puede <a href="https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">utilizar nuestra herramienta de comparación de mapas</a> para ver cómo podrían afectarle los nuevos mapas de distritos legislativos y del Congreso.
+Posiblemente. Puede <a href="https://lesspage.com/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/">utilizar nuestra herramienta de comparación de mapas</a> para ver cómo podrían afectarle los nuevos mapas de distritos legislativos y del Congreso.
 
 ## ¿Qué hay en la papeleta?
 
-Todos los habitantes de Pensilvania votarán por un nuevo <a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">gobernador, </a><a href="https://www.spotlightpa.org/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">vicegobernador</a>, <a href="https://www.spotlightpa.org/news/2021/07/pa-2022-senate-race-candidates/">senador</a> de los Estados Unidos y representante de los Estados Unidos. Muchos también elegirán nuevos representantes estatales en función de las nuevas líneas de los distritos legislativos. Mientras que las nuevas líneas del Senado dejan el equilibrio de poder relativamente sin cambios en esa cámara, los nuevos distritos de la Cámara de Representantes tienen el potencial de nivelar el campo de juego para los demócratas en las elecciones generales.
+Todos los habitantes de Pensilvania votarán por un nuevo <a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-guide/">gobernador, </a><a href="https://lesspage.com/news/2022/04/pennsylvania-lieutenant-governor-2022-election-guide/">vicegobernador</a>, <a href="https://lesspage.com/news/2021/07/pa-2022-senate-race-candidates/">senador</a> de los Estados Unidos y representante de los Estados Unidos. Muchos también elegirán nuevos representantes estatales en función de las nuevas líneas de los distritos legislativos. Mientras que las nuevas líneas del Senado dejan el equilibrio de poder relativamente sin cambios en esa cámara, los nuevos distritos de la Cámara de Representantes tienen el potencial de nivelar el campo de juego para los demócratas en las elecciones generales.
 
 Las papeletas de voto también serán diferentes según el municipio en el que se resida. Algunos votantes podrán elegir nuevos miembros del consejo municipal o representantes de distrito. La mayoría de los condados ofrecen una vista previa de cómo será su papeleta. Puede encontrar el sitio de las elecciones de su condado <a href="https://www.vote.pa.gov/Resources/Pages/Contact-Your-Election-Officials.aspx">aquí.</a>
 
@@ -100,10 +100,10 @@ La Liga de Mujeres Votantes, un grupo nacional no partidista de defensa de los v
 
 ## ¿Hay alguna enmienda constitucional o referéndum estatal en la papeleta?
 
-No. Puede <a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-constitution-amendments-tracker-complete-guide/">seguir el estado de todas las propuestas actuales utilizando nuestro Rastreador de Enmiendas</a>.
+No. Puede <a href="https://lesspage.com/news/2022/01/pennsylvania-constitution-amendments-tracker-complete-guide/">seguir el estado de todas las propuestas actuales utilizando nuestro Rastreador de Enmiendas</a>.
 
 ## ¿Por qué importan las primarias?
 
 Las primarias suelen decidir qué candidato ganará las elecciones generales. Los distritos legislativos suelen ser pequeños y políticamente cohesionados. En los nuevos mapas legislativos, sólo el 15% de los escaños se consideran competitivos, según un análisis no partidista. Eso significa que la mayoría de los distritos tienen un partido con una fuerte mayoría. Así que el candidato que gane las primarias del partido dominante tiene casi garantizada la victoria en las elecciones generales de noviembre.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>

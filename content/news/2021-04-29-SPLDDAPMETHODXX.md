@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, non-partisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 Pennsylvania is at the epicenter of the nation’s opioid crisis, ranking among the <a href="https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2018.html">top five states for overdose death rates</a> and <a href="https://www.samhsa.gov/data/report/2018-2019-nsduh-estimated-totals-state">top 10 for number of adults suffering from substance use disorder</a> in recent years, according to national data. And the addiction treatment industry here is growing.
 
@@ -38,7 +38,7 @@ Federal grants, state initiatives, and Medicaid pump millions of taxpayer dollar
 
 But an investigation by Spotlight PA and KHN found the Pennsylvania Department of Drug and Alcohol Programs — which licenses these facilities — provides weak oversight and lacks the resources and regulatory power to police them, allowing providers to continue operating despite repeated violations and harm to clients. The department has no standard criteria to determine when it should force facilities to serve fewer patients and, in nearly a decade, has revoked just one provider’s license.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Spotlight PA began investigating the state’s oversight of addiction treatment facilities shortly after its launch in late 2019. The newsroom later partnered with KHN, a national organization that produces in-depth journalism about health issues.
 
@@ -50,9 +50,9 @@ Additionally, the team filed an open records request for reports of <a href="htt
 
 Reporters also reviewed the department’s administrative court history to see cases in which the state had initiated legal action against a facility.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.&cta_text=CLICK%20TO%20CONTRIBUTE&eyebrow_text=WHILE%20YOU'RE%20HERE..."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=If%20you%20learned%20something%20from%20this%20report%2C%20pay%20it%20forward%20and%20become%20a%20member%20of%20Spotlight%20PA%20so%20someone%20else%20can%20in%20the%20future.&cta_text=CLICK%20TO%20CONTRIBUTE&eyebrow_text=WHILE%20YOU'RE%20HERE..."></div>
 
-To further inform our reporting, we <a href="https://www.spotlightpa.org/news/2019/10/share-your-addiction-treatment-story/">launched a public callout</a> for readers to send in tips and concerns about facilities.
+To further inform our reporting, we <a href="https://lesspage.com/news/2019/10/share-your-addiction-treatment-story/">launched a public callout</a> for readers to send in tips and concerns about facilities.
 
 Using a combination of these sources — facility inspection surveys, provisional license history, administrative court cases, limited reports of unusual incidents, and tips from the public — we compiled a list of 34 facilities that appeared to have the most troubling track records.
 
@@ -62,6 +62,6 @@ Our reporters also reviewed the licensing applications that these facilities had
 
 The final story was based on interviews with more than 80 people and a review of thousands of pages of state government and court records.
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20a%20%3Cb%3Erehab%20facility%20or%20recovery%20home%20that%20we%20should%20investigate%3C%2Fb%3E%3F%20Send%20our%20team%20a%20message%20now."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/tips/?tip_text=Do%20you%20have%20a%20tip%20about%20a%20%3Cb%3Erehab%20facility%20or%20recovery%20home%20that%20we%20should%20investigate%3C%2Fb%3E%3F%20Send%20our%20team%20a%20message%20now."></div>

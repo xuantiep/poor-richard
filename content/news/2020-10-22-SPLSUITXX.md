@@ -44,7 +44,7 @@ In the latest lawsuit, filed Thursday in federal court in Pittsburgh, a Republic
 
 The lawsuit is the latest in a series of high-profile legal challenges in the run-up to the election in Pennsylvania, which could be pivotal in deciding who wins the presidency. Last month, a majority of state Supreme Court justices issued a sweeping decision that set the tone for how Pennsylvanians can vote under the state’s year-old law that greatly expanded mail-in voting.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 Among other changes, the high court, where Democrats hold the majority, allowed counties to receive and count mail-in ballots that arrive by 5 p.m. on Nov. 6, or three days after Election Day, as long as they are postmarked by Nov. 3.
 
@@ -64,7 +64,7 @@ In addition to arguments over constitutionality, the voters behind the latest ch
 
 Tom Spencer, vice president of the Lawyers Democracy Fund who served as a recount lawyer for Republican George W. Bush in the 2000 election against Democrat Al Gore, said the voters' argument that they would be disenfranchised is a strong one, and makes this lawsuit different from the state Republican Party’s earlier lawsuit, which focused primarily on who held the power to change when and how an election is held.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20thanks%20to%20readers%20like%20you.%20Help%20us%20continue%20that%20work."></div>
 
 He said the U.S. Supreme Court has traditionally urged lower courts not to get involved in election-related lawsuits so close to an election, but these are extraordinary circumstances, and he expects the federal district court to grant a hearing in the case quickly.
 
@@ -82,4 +82,4 @@ Bognet’s campaign said in a statement the state Supreme Court’s decision “
 
 “All we are asking is that the election follow the rules that the legislature passed and the governor signed.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations and readers like you</i></a><i> who are committed to accountability journalism that gets results. If you value this reporting, please give a gift today at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>.</i>

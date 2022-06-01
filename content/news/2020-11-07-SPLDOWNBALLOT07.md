@@ -30,7 +30,7 @@ layout = ""
 extended-kicker = ""
 +++
 
-<a href="https://www.spotlightpa.org/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i><b>Spotlight PA</b></i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
 HARRISBURG — It was supposed to be a historic year for Pennsylvania Democrats.
 
@@ -44,7 +44,7 @@ For the first time since 2008, Republicans claimed a row office through an elect
 
 “These results are clearly disappointing for any Democrat here in Pennsylvania,” said Mike Mikus, a Democratic strategist in Pittsburgh.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
 So why didn’t <a href="https://www.inquirer.com/news/2020-election-trump-biden-vote-count-pa-philly-results-20201105.html" target="_blank">Biden’s apparent success</a> in the state have coattails for state candidates? While political strategists and candidates warned it was still too early to assess the full extent of the damage, and <a href="https://www.inquirer.com/politics/election/spl/provisional-ballot-pennsylvania-counting-election-2020-20201106.html?outputType=amp" target="_blank">uncounted ballots could change the picture</a>, they offered a number of theories for why Democrats came up short — from ticket-splitting to a backlash against coronavirus restrictions, to Trump over-performing his turnout expectations.
 
@@ -96,7 +96,7 @@ Mikus, the Democratic strategist in Pittsburgh, said the law enforcement issue a
 
 In a few of the races still not called, Democratic incumbents trailed, including House Minority Leader Frank Dermody, who represents parts of Allegheny and Westmoreland Counties.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/donate/?teaser_text=Spotlight%20PA%20provides%20essential%2C%20public-service%20journalism%20about%20Pennsylvania%20thank%20to%20readers%20like%20you.%20For%20a%20limited%20time%2C%20become%20a%20member%20and%20your%20contribution%20will%20be%20TRIPLED.&cta_text=YES%2C%20TRIPLE%20MY%20GIFT&eyebrow_text=BECOME%20A%20MEMBER"></div>
 
 State Rep. Leanne Krueger (D., Delaware), the chair of the political arm for House Democrats, acknowledged that Republicans appeared likely to keep their majority. She pointed to many provisional ballots still uncounted that could potentially turn the tide in some races.<b> </b>Democrats haven’t conceded in some of the races that were called against them.
 
@@ -104,4 +104,4 @@ But, no matter what, she thought Democrats deserved credit for helping at the to
 
 “I absolutely believe that our candidates contributed to putting Joe Biden over the top,” Krueger said. “Aggressive races at the bottom of the ballot drive turnout up to the top of the ticket like nothing else does.”
 
-<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://www.spotlightpa.org/support"><i> funding from foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>
+<i><b>100% ESSENTIAL:</b></i><i> </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> relies on</i><a href="https://lesspage.com/support"><i> funding from foundations</i></a><i> </i><a href="https://lesspage.com/support">and readers like you</a><i> who are committed to accountability journalism that gets results. Give now and your contribution will be TRIPLED: </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a>

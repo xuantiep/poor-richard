@@ -19,10 +19,10 @@ Public records are the lifeblood of investigative journalism.
 Unfortunately, Pennsylvania doesn't make it fast or easy to get them.
 
 That was evident throughout the reporting that my colleague, Angela Couloumbis, and I did for our latest story on how the State Police
-[downplayed the findings of research analyzing traffic stops](https://www.spotlightpa.org/news/2020/01/pennsylvania-state-police-racial-bias-traffic-stops-vehicle-searches/) for racial disparities.
+[downplayed the findings of research analyzing traffic stops](https://lesspage.com/news/2020/01/pennsylvania-state-police-racial-bias-traffic-stops-vehicle-searches/) for racial disparities.
 
 Most state police agencies track the race of drivers who get pulled over to monitor for discrimination. But, as we reported in September, the
-[Pennsylvania State Police stopped doing that about a decade ago](https://www.spotlightpa.org/news/2019/09/pa-state-police-stopped-tracking-driver-race/). A spokesperson told us that research by the University of Cincinnati found no racial disparities.
+[Pennsylvania State Police stopped doing that about a decade ago](https://lesspage.com/news/2019/09/pa-state-police-stopped-tracking-driver-race/). A spokesperson told us that research by the University of Cincinnati found no racial disparities.
 
 Naturally, we wanted to see the proof. So we requested copies of all of the university's reports. The State Police required us to file a Right-to-Know request, which is a formal way of asking for public
 records. These requests also allow public agencies to delay the release
@@ -37,7 +37,7 @@ before the State Police finally provided all of the reports we
 requested.
 
 After going through those records, totaling 2,000 pages, Angela and I ultimately found that the State Police hadn't told the whole story in September. While researchers had found no evidence of racial bias in
-traffic stops by troopers, they did repeatedly warn that [troopers were disproportionately searching black and Hispanic drivers](https://www.spotlightpa.org/news/2020/01/pennsylvania-state-police-racial-bias-traffic-stops-vehicle-searches/). That, despite the fact that they were far less likely to find contraband
+traffic stops by troopers, they did repeatedly warn that [troopers were disproportionately searching black and Hispanic drivers](https://lesspage.com/news/2020/01/pennsylvania-state-police-racial-bias-traffic-stops-vehicle-searches/). That, despite the fact that they were far less likely to find contraband
 on those drivers compared to white drivers. 
 
-We would have never known the truth had we not fought for the records. And that's why Spotlight PA is so important, giving reporters the time and resources to hold the state government accountable. It's expensive work, and it's the [support of readers like you](https://www.spotlightpa.org/donate/) that make it possible.
+We would have never known the truth had we not fought for the records. And that's why Spotlight PA is so important, giving reporters the time and resources to hold the state government accountable. It's expensive work, and it's the [support of readers like you](https://lesspage.com/donate/) that make it possible.

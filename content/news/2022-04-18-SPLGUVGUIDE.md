@@ -19,9 +19,9 @@ title = "Pa. primary election 2022: Your guide to the Democratic and GOP candida
 topics = ["Elections"]
 +++
 
-<a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://www.spotlightpa.org/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
+<a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> is an independent, nonpartisan newsroom powered by The Philadelphia Inquirer in partnership with PennLive/The Patriot-News, TribLIVE/Pittsburgh Tribune-Review, and WITF Public Media. </i><a href="https://lesspage.com/newsletters"><i>Sign up for our free newsletters</i></a><i>.</i>
 
-<i><b>Final update, May 18, 2022: </b></i><a href="https://www.spotlightpa.org/news/2022/05/pa-primary-2022-governor-election-results/"><i><b>Doug Mastriano has won the Republican nomination for governor. He will face Democrat Josh Shapiro in the fall.</b></i></a>
+<i><b>Final update, May 18, 2022: </b></i><a href="https://lesspage.com/news/2022/05/pa-primary-2022-governor-election-results/"><i><b>Doug Mastriano has won the Republican nomination for governor. He will face Democrat Josh Shapiro in the fall.</b></i></a>
 
 HARRISBURG — When Democrats head to the polls on May 17 for Pennsylvania’s 2022 primary election for governor, there will be just one choice on the ballot.
 
@@ -29,15 +29,15 @@ Republicans will face a much different situation, with nine candidates and still
 
 Gov. Tom Wolf, a Democrat first elected in 2014, is unable to run for re-election due to term limit restrictions. In this vacuum, Republicans have an opportunity to win the executive branch, which would leave them in control of the governor’s office as well as the legislature.
 
-<script src="https://www.spotlightpa.org/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://www.spotlightpa.org/embeds/newsletter/"></div>
+<script src="https://lesspage.com/embed.js" async></script><div data-spl-embed-version="1" data-spl-src="https://lesspage.com/embeds/newsletter/"></div>
 
-Wolf has often served as a foil to the GOP-majority General Assembly during his tenure, vetoing efforts to <a href="https://www.spotlightpa.org/news/2021/06/pa-election-overhaul-voter-id-wolf-veto/">rewrite the state’s Election Code</a>, <a href="https://www.governor.pa.gov/newsroom/governor-wolf-vetoes-resolution-that-would-hinder-pennsylvanias-ability-to-address-climate-crisis/">roll back environmental policies</a>, and <a href="https://www.governor.pa.gov/newsroom/gov-wolf-vows-to-veto-proposed-anti-abortion-legislation-asks-general-assembly-to-focus-on-solutions-to-support-children-and-families/">further restrict abortion access</a>. Many GOP candidates have vowed to sign such legislation.
+Wolf has often served as a foil to the GOP-majority General Assembly during his tenure, vetoing efforts to <a href="https://lesspage.com/news/2021/06/pa-election-overhaul-voter-id-wolf-veto/">rewrite the state’s Election Code</a>, <a href="https://www.governor.pa.gov/newsroom/governor-wolf-vetoes-resolution-that-would-hinder-pennsylvanias-ability-to-address-climate-crisis/">roll back environmental policies</a>, and <a href="https://www.governor.pa.gov/newsroom/gov-wolf-vows-to-veto-proposed-anti-abortion-legislation-asks-general-assembly-to-focus-on-solutions-to-support-children-and-families/">further restrict abortion access</a>. Many GOP candidates have vowed to sign such legislation.
 
 Democrats have a voter registration edge over Republicans in the state, though that 500,000-plus <a href="https://www.goerie.com/story/news/2022/01/27/pa-voter-registration-more-democrats-than-republicans-switching-political-party/9212221002/">advantage has been shrinking</a>. While Wolf easily won reelection in 2018, close gubernatorial races in New Jersey and Virginia last year have political watchers expecting a tight race here.
 
 Here’s what you need to know about the 2022 primary governor election before going to the polls:
 
-<i><b>&gt;&gt; READ MORE: </b></i><a href="https://www.spotlightpa.org/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/"><i><b>See how much money the GOP candidates for governor have raised</b></i></a>
+<i><b>&gt;&gt; READ MORE: </b></i><a href="https://lesspage.com/news/2022/04/pa-primary-governor-election-2022-candidates-fundraising-donations/"><i><b>See how much money the GOP candidates for governor have raised</b></i></a>
 
 ## Democrat
 
@@ -61,7 +61,7 @@ Shapiro has listed defending voting access, maintaining abortion rights, and reb
 
 - New York Times: <a href="https://www.nytimes.com/2021/10/14/us/politics/josh-shapiro-pennsylvania-governor.html">In Pennsylvania Governor’s Race, Josh Shapiro Focuses on Voting Rights</a>
 
-<i><b>&gt;&gt; WATCH LIVE: </b></i><a href="https://www.spotlightpa.org/news/2022/03/pa-primary-2022-senate-race-republicans-democrats-debates/"><i><b>Spotlight PA hosts GOP gubernatorial debate</b></i></a>
+<i><b>&gt;&gt; WATCH LIVE: </b></i><a href="https://lesspage.com/news/2022/03/pa-primary-2022-senate-race-republicans-democrats-debates/"><i><b>Spotlight PA hosts GOP gubernatorial debate</b></i></a>
 
 ## Republicans
 
@@ -91,7 +91,7 @@ Barletta started his political career in Hazleton on the city council in 1998 an
 
 Corman replaced his father as a state senator in 1999. He served as the state Senate majority leader from 2015 to 2020, and he’s been the Senate president pro tempore since 2020. His vague platform includes “improving education,” election security, jobs, policing, and “defending freedoms.”
 
-<b>Supports repealing Pa.’s no-excuse mail voting law?</b> Yes. Corman voted for Act 77, but following the 2020 election, he’s supported its repeal and called for stricter voter ID requirements and third-party audits. Corman <a href="https://www.spotlightpa.org/news/2021/08/jake-corman-pennsylvania-senate-election-audit/">directed his chamber to conduct</a> a “full forensic investigation” of the 2020 election, an idea fueled by baseless claims of widespread voter fraud.
+<b>Supports repealing Pa.’s no-excuse mail voting law?</b> Yes. Corman voted for Act 77, but following the 2020 election, he’s supported its repeal and called for stricter voter ID requirements and third-party audits. Corman <a href="https://lesspage.com/news/2021/08/jake-corman-pennsylvania-senate-election-audit/">directed his chamber to conduct</a> a “full forensic investigation” of the 2020 election, an idea fueled by baseless claims of widespread voter fraud.
 
 <b>Endorsements:</b> Spotlight PA could not identify any endorsements.
 
@@ -133,7 +133,7 @@ Gerow has called himself a “Ronald Reagan Republican,” saying that he is bes
 
 His election platform has focused on promoting economic growth through traditional conservative fiscal policies of reducing taxes and regulation and wants to promote the state’s energy industry.
 
-<b>Supports repealing Pa.’s no-excuse mail voting law?</b> Yes. When Commonwealth Court struck down Act 77 as unconstitutional (<a href="https://www.spotlightpa.org/news/2022/01/pennsylvania-mail-voting-unconstitutional-supreme-court-appeal/">a ruling being appealed in the state Supreme Court</a>), Gerow called it “<a href="https://twitter.com/Charlie_Gerow/status/1487153378329255943">great news</a> for election integrity and the prevention of voter fraud and ballot harvesting.” Gerow’s name was also listed on a certificate to assign Pennsylvania’s Electoral College votes to Trump, <a href="https://lancasteronline.com/news/politics/pa-republicans-hedged-language-may-have-saved-them-from-prosecution-over-electoral-vote-scheme/article_849d4f7e-7589-11ec-8881-6383a823557d.html">should a court challenge have succeeded</a>.
+<b>Supports repealing Pa.’s no-excuse mail voting law?</b> Yes. When Commonwealth Court struck down Act 77 as unconstitutional (<a href="https://lesspage.com/news/2022/01/pennsylvania-mail-voting-unconstitutional-supreme-court-appeal/">a ruling being appealed in the state Supreme Court</a>), Gerow called it “<a href="https://twitter.com/Charlie_Gerow/status/1487153378329255943">great news</a> for election integrity and the prevention of voter fraud and ballot harvesting.” Gerow’s name was also listed on a certificate to assign Pennsylvania’s Electoral College votes to Trump, <a href="https://lancasteronline.com/news/politics/pa-republicans-hedged-language-may-have-saved-them-from-prosecution-over-electoral-vote-scheme/article_849d4f7e-7589-11ec-8881-6383a823557d.html">should a court challenge have succeeded</a>.
 
 <b>Endorsements:</b> U.S. Rep. Glenn Thompson; Michael Regan, son of President Ronald Regan; former Speaker of the U.S. House Newt Gingrich; Matt Schlapp, executive director of CPAC; former U.S. Rep. Bob Walker; state Rep. Jerry Knowles; former Maryland Gov. Bob Ehrlich
 
@@ -169,7 +169,7 @@ Hart’s campaign has focused on deregulating corporations and lowering taxes, e
 
 A retired Army colonel, Mastriano began serving as a state senator in 2019 and <a href="https://www.penncapital-star.com/commentary/new-yorker-profile-positions-pa-s-mastriano-as-icon-of-christian-nationalism-tuesday-morning-coffee/">has been called a Christian nationalist</a>, a label he rejects. However, he has often shared Islamophobic posts on social media, the New Yorker reported.
 
-Mastriano has highlighted anti-abortion policy, fiscal conservatism, and Second Amendment rights as central tenets of his campaign. He <a href="https://www.spotlightpa.org/news/2020/04/pennsylvania-anti-shutdown-rally-harrisburg/">led many anti-shutdown rallies</a> during the early months of the pandemic.
+Mastriano has highlighted anti-abortion policy, fiscal conservatism, and Second Amendment rights as central tenets of his campaign. He <a href="https://lesspage.com/news/2020/04/pennsylvania-anti-shutdown-rally-harrisburg/">led many anti-shutdown rallies</a> during the early months of the pandemic.
 
 <b>Supports repealing Pa.’s no-excuse mail voting law? </b>Yes. Mastriano has propagated false claims of widespread election fraud. He has been <a href="https://whyy.org/articles/pa-sen-doug-mastriano-subpoenaed-by-jan-6-committee/">subpoenaed by the Jan. 6 committee</a> over his communication with the Trump White House during attempts to overturn the results of the 2020 presidential election. He was also <a href="https://whyy.org/articles/new-video-appears-to-show-state-sen-mastriano-closer-to-capitol-riot-than-he-said/" target="_blank">seen near the Capitol</a> on the day of the insurrection.
 
@@ -189,7 +189,7 @@ McSwain is a former Trump-appointed U.S. attorney in Philadelphia, where he had 
 
 If elected governor, he has promised to focus on stimulating the economy and energy production, improving access to education, limiting access to abortion, dealing with the opioid epidemic, and “bringing back law and order.”
 
-<b>Supports repealing Pa.’s no-excuse mail voting law? </b>Yes. McSwain says no-excuse mail voting caused confusion and delayed the election results (something that can be blamed, in part, <a href="https://www.spotlightpa.org/news/2020/11/pennsylvania-election-2020-counting-results-delays-mail-ballots/" target="_blank">on the state’s lack of robust pre-canvassing time</a>).
+<b>Supports repealing Pa.’s no-excuse mail voting law? </b>Yes. McSwain says no-excuse mail voting caused confusion and delayed the election results (something that can be blamed, in part, <a href="https://lesspage.com/news/2020/11/pennsylvania-election-2020-counting-results-delays-mail-ballots/" target="_blank">on the state’s lack of robust pre-canvassing time</a>).
 
 <b>Endorsements: </b>Sean Parnell, a former candidate for U.S. Senate who dropped out after <a href="https://triblive.com/local/regional/judge-in-senate-candidate-sean-parnells-custody-case-awards-primary-custody-to-estranged-wife/">he lost custody of his children</a> in a case that also revealed allegations of domestic abuse; state Rep. Kathy Rapp; Commonwealth Partners Chamber of Entrepreneurs; Republican State Committee of Chester County
 
@@ -235,4 +235,4 @@ Zama’s campaign has centered on education and health care, two things he says 
 
 - Pocono Record: <a href="https://www.poconorecord.com/story/news/politics/elections/state/2021/05/21/dr-nche-zama-announced-his-candidacy-governor-pennsylvania-republican-democrat-tom-wolf/5208601001/">Renowned surgeon from the Poconos throws hat into ring for governor</a>
 
-<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://www.spotlightpa.org/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://www.spotlightpa.org/support"><i> foundations</i></a><i> </i><a href="https://www.spotlightpa.org/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
+<i><b>WHILE YOU’RE HERE...</b></i><i> If you learned something from this story, pay it forward and become a member of </i><a href="https://lesspage.com/"><i>Spotlight PA</i></a><i> so someone else can in the future at </i><a href="http://spotlightpa.org/donate"><i>spotlightpa.org/donate</i></a><i>. Spotlight PA is funded by</i><a href="https://lesspage.com/support"><i> foundations</i></a><i> </i><a href="https://lesspage.com/support"><i>and readers like you</i></a><i> who are committed to accountability journalism that gets results.</i>
